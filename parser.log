@@ -1,0 +1,616 @@
+2025-06-08 17:08:45,218 - INFO - ====== WebDriver manager ======
+2025-06-08 17:08:47,430 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:08:47,813 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:08:47,968 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 17:09:09,310 - INFO - Сохранено:  (https://www.transfermarkt.com/fc-stade-rennes/startseite/verein/273)
+2025-06-08 17:09:09,311 - INFO - ====== WebDriver manager ======
+2025-06-08 17:09:12,155 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:09:12,508 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:09:12,645 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 17:09:39,135 - ERROR - Ошибка при извлечении URL игроков: Message: 
+
+2025-06-08 17:09:39,136 - ERROR - Не удалось извлечь URL игроков
+2025-06-08 17:09:39,137 - INFO - Завершено
+2025-06-08 17:16:32,292 - INFO - ====== WebDriver manager ======
+2025-06-08 17:16:34,993 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:16:35,191 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:16:35,351 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 17:16:57,846 - INFO - Сохранено:  (https://www.transfermarkt.com/ogc-nizza/startseite/verein/417)
+2025-06-08 17:16:57,847 - INFO - ====== WebDriver manager ======
+2025-06-08 17:16:59,706 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:17:00,167 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:17:00,323 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 17:17:25,823 - ERROR - Ошибка при извлечении URL игроков: Message: 
+
+2025-06-08 17:17:25,824 - ERROR - Не удалось извлечь URL игроков
+2025-06-08 17:17:25,826 - INFO - Завершено
+2025-06-08 17:24:25,771 - INFO - ====== WebDriver manager ======
+2025-06-08 17:24:27,480 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:24:27,917 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:24:28,065 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 17:24:30,534 - INFO - Успешное подключение к БД
+2025-06-08 17:24:37,966 - INFO - Найдена команда:  (https://www.transfermarkt.com/ogc-nizza/startseite/verein/417)
+2025-06-08 17:24:37,990 - INFO - Команда '' сохранена
+2025-06-08 17:24:40,427 - INFO - Найдено игроков: 28 для команды 
+2025-06-08 17:24:40,441 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,444 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,446 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,448 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,450 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,451 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,453 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,455 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,459 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,461 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,464 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,466 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,467 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,469 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,470 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,472 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,474 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,477 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,483 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,485 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,486 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,488 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,492 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,493 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,499 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,502 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,503 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:40,506 - INFO - Игрок 'Profil' сохранен (team_id: 19)
+2025-06-08 17:24:42,829 - INFO - Парсинг завершен
+2025-06-08 17:38:13,708 - INFO - ====== WebDriver manager ======
+2025-06-08 17:38:15,903 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:38:16,271 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:38:16,427 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 17:38:19,409 - INFO - Успешное подключение к БД
+2025-06-08 17:38:27,726 - INFO - Найдена команда:  (https://www.transfermarkt.com/kiril-brestovichki/profil/spieler/283305)
+2025-06-08 17:38:27,772 - INFO - Команда '' сохранена
+2025-06-08 17:38:29,275 - INFO - Найдено игроков: 5 для команды 
+2025-06-08 17:38:29,299 - INFO - Игрок 'Matches' сохранен (team_id: 20)
+2025-06-08 17:38:29,301 - INFO - Игрок 'Goals.Desc' сохранен (team_id: 20)
+2025-06-08 17:38:29,303 - INFO - Игрок 'Assists.Desc' сохранен (team_id: 20)
+2025-06-08 17:38:29,309 - INFO - Игрок 'Minutes_Per_Goal.Desc' сохранен (team_id: 20)
+2025-06-08 17:38:29,310 - INFO - Игрок 'Minutes_Played.Desc' сохранен (team_id: 20)
+2025-06-08 17:38:31,593 - INFO - Парсинг завершен
+2025-06-08 17:42:14,248 - INFO - ====== WebDriver manager ======
+2025-06-08 17:42:16,192 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:42:16,429 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:42:16,762 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 17:42:19,415 - INFO - Успешное подключение к БД
+2025-06-08 17:42:25,994 - INFO - Найдена команда:  (https://www.transfermarkt.com/ogc-nizza/startseite/verein/417)
+2025-06-08 17:42:26,080 - INFO - Команда '' сохранена
+2025-06-08 17:42:28,500 - INFO - Найдено игроков: 28 для команды 
+2025-06-08 17:42:28,550 - INFO - Игрок '465955' сохранен (team_id: 8)
+2025-06-08 17:42:28,553 - INFO - Игрок '127188' сохранен (team_id: 8)
+2025-06-08 17:42:28,555 - INFO - Игрок '789419' сохранен (team_id: 8)
+2025-06-08 17:42:28,558 - INFO - Игрок '674612' сохранен (team_id: 8)
+2025-06-08 17:42:28,560 - INFO - Игрок '1089202' сохранен (team_id: 8)
+2025-06-08 17:42:28,562 - INFO - Игрок '566025' сохранен (team_id: 8)
+2025-06-08 17:42:28,563 - INFO - Игрок '16136' сохранен (team_id: 8)
+2025-06-08 17:42:28,565 - INFO - Игрок '1075574' сохранен (team_id: 8)
+2025-06-08 17:42:28,569 - INFO - Игрок '532775' сохранен (team_id: 8)
+2025-06-08 17:42:28,571 - INFO - Игрок '211474' сохранен (team_id: 8)
+2025-06-08 17:42:28,573 - INFO - Игрок '984699' сохранен (team_id: 8)
+2025-06-08 17:42:28,574 - INFO - Игрок '175639' сохранен (team_id: 8)
+2025-06-08 17:42:28,576 - INFO - Игрок '891998' сохранен (team_id: 8)
+2025-06-08 17:42:28,577 - INFO - Игрок '370791' сохранен (team_id: 8)
+2025-06-08 17:42:28,580 - INFO - Игрок '285323' сохранен (team_id: 8)
+2025-06-08 17:42:28,581 - INFO - Игрок '560593' сохранен (team_id: 8)
+2025-06-08 17:42:28,584 - INFO - Игрок '450936' сохранен (team_id: 8)
+2025-06-08 17:42:28,586 - INFO - Игрок '174094' сохранен (team_id: 8)
+2025-06-08 17:42:28,590 - INFO - Игрок '750904' сохранен (team_id: 8)
+2025-06-08 17:42:28,592 - INFO - Игрок '216569' сохранен (team_id: 8)
+2025-06-08 17:42:28,594 - INFO - Игрок '569389' сохранен (team_id: 8)
+2025-06-08 17:42:28,596 - INFO - Игрок '670847' сохранен (team_id: 8)
+2025-06-08 17:42:28,598 - INFO - Игрок '707242' сохранен (team_id: 8)
+2025-06-08 17:42:28,599 - INFO - Игрок '500689' сохранен (team_id: 8)
+2025-06-08 17:42:28,603 - INFO - Игрок '538874' сохранен (team_id: 8)
+2025-06-08 17:42:28,606 - INFO - Игрок '467720' сохранен (team_id: 8)
+2025-06-08 17:42:28,607 - INFO - Игрок '181378' сохранен (team_id: 8)
+2025-06-08 17:42:28,610 - INFO - Игрок '1231401' сохранен (team_id: 8)
+2025-06-08 17:42:30,900 - INFO - Парсинг завершен
+2025-06-08 17:50:53,661 - INFO - ====== WebDriver manager ======
+2025-06-08 17:50:55,435 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:50:55,629 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:50:55,785 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 17:50:58,603 - INFO - Успешное подключение к БД
+2025-06-08 17:51:07,147 - INFO - Найдена команда:  (https://www.transfermarkt.com/spartak-gogniev/profil/spieler/15380)
+2025-06-08 17:51:07,172 - INFO - Команда '' сохранена
+2025-06-08 17:51:09,436 - INFO - Найдено игроков: 5 для команды 
+2025-06-08 17:51:09,448 - INFO - Игрок 'Matches' сохранен (team_id: 8)
+2025-06-08 17:51:09,453 - INFO - Игрок 'Goals.Desc' сохранен (team_id: 8)
+2025-06-08 17:51:09,456 - INFO - Игрок 'Assists.Desc' сохранен (team_id: 8)
+2025-06-08 17:51:09,461 - INFO - Игрок 'Minutes_Per_Goal.Desc' сохранен (team_id: 8)
+2025-06-08 17:51:09,464 - INFO - Игрок 'Minutes_Played.Desc' сохранен (team_id: 8)
+2025-06-08 17:51:11,958 - INFO - Парсинг завершен
+2025-06-08 17:51:50,173 - INFO - ====== WebDriver manager ======
+2025-06-08 17:51:51,801 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:51:52,189 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:51:52,324 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 17:51:54,468 - INFO - Успешное подключение к БД
+2025-06-08 17:52:02,261 - INFO - Найдена команда:  (https://www.transfermarkt.com/spartak-gogniev/profil/spieler/15380)
+2025-06-08 17:52:02,267 - INFO - Команда '' сохранена
+2025-06-08 17:52:03,851 - INFO - Найдено игроков: 5 для команды 
+2025-06-08 17:52:03,860 - INFO - Игрок 'Matches' сохранен (team_id: 8)
+2025-06-08 17:52:03,862 - INFO - Игрок 'Goals.Desc' сохранен (team_id: 8)
+2025-06-08 17:52:03,864 - INFO - Игрок 'Assists.Desc' сохранен (team_id: 8)
+2025-06-08 17:52:03,866 - INFO - Игрок 'Minutes_Per_Goal.Desc' сохранен (team_id: 8)
+2025-06-08 17:52:03,870 - INFO - Игрок 'Minutes_Played.Desc' сохранен (team_id: 8)
+2025-06-08 17:52:06,194 - INFO - Парсинг завершен
+2025-06-08 17:54:44,043 - INFO - ====== WebDriver manager ======
+2025-06-08 17:54:45,781 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:54:46,155 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:54:46,302 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 17:54:49,068 - INFO - Успешное подключение к БД
+2025-06-08 17:55:19,010 - ERROR - Ошибка при поиске команды 'Ботафого': Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xcc3763+63299]
+	GetHandleVerifier [0x0xcc37a4+63364]
+	(No symbol) [0x0xaf1113]
+	(No symbol) [0x0xb3987e]
+	(No symbol) [0x0xb39c1b]
+	(No symbol) [0x0xb82212]
+	(No symbol) [0x0xb5e5c4]
+	(No symbol) [0x0xb7fa4a]
+	(No symbol) [0x0xb5e376]
+	(No symbol) [0x0xb2d6e0]
+	(No symbol) [0x0xb2e544]
+	GetHandleVerifier [0x0xf1e033+2531347]
+	GetHandleVerifier [0x0xf19332+2511634]
+	GetHandleVerifier [0x0xce9eda+220858]
+	GetHandleVerifier [0x0xcda528+156936]
+	GetHandleVerifier [0x0xce0c5d+183357]
+	GetHandleVerifier [0x0xccb6c8+95912]
+	GetHandleVerifier [0x0xccb870+96336]
+	GetHandleVerifier [0x0xcb664a+9770]
+	BaseThreadInitThunk [0x0x76cdfcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77197c5e+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77197c2e+238]
+
+2025-06-08 17:55:21,334 - INFO - Парсинг завершен
+2025-06-08 17:56:22,491 - INFO - ====== WebDriver manager ======
+2025-06-08 17:56:24,146 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:56:24,613 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:56:24,757 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 17:56:27,171 - INFO - Успешное подключение к БД
+2025-06-08 17:56:35,687 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002625E9F3250>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/db21cb27a270920783714b3eafd9b347
+2025-06-08 17:56:39,735 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002625E9F2E90>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/db21cb27a270920783714b3eafd9b347
+2025-06-08 17:56:54,529 - INFO - ====== WebDriver manager ======
+2025-06-08 17:56:56,525 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:56:56,747 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:56:56,905 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 17:56:59,606 - INFO - Успешное подключение к БД
+2025-06-08 17:57:11,074 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)': /session/1ea24b631ae7f8f69265e0ff54e54849
+2025-06-08 17:57:15,118 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019E87A13250>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/1ea24b631ae7f8f69265e0ff54e54849
+2025-06-08 17:57:39,524 - INFO - ====== WebDriver manager ======
+2025-06-08 17:57:41,173 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:57:41,322 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 17:57:41,463 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 17:57:43,447 - INFO - Успешное подключение к БД
+2025-06-08 17:57:49,959 - INFO - Найдена команда:  (https://www.transfermarkt.com/zenit-st-petersburg/startseite/verein/964)
+2025-06-08 17:57:49,992 - INFO - Команда '' сохранена
+2025-06-08 17:58:07,154 - INFO - Найдено игроков: 28 для команды 
+2025-06-08 17:58:07,184 - INFO - Игрок '312891' сохранен (team_id: 8)
+2025-06-08 17:58:07,187 - INFO - Игрок '334477' сохранен (team_id: 8)
+2025-06-08 17:58:07,190 - INFO - Игрок '440135' сохранен (team_id: 8)
+2025-06-08 17:58:07,193 - INFO - Игрок '27706' сохранен (team_id: 8)
+2025-06-08 17:58:07,195 - INFO - Игрок '520454' сохранен (team_id: 8)
+2025-06-08 17:58:07,197 - INFO - Игрок '574660' сохранен (team_id: 8)
+2025-06-08 17:58:07,200 - INFO - Игрок '371856' сохранен (team_id: 8)
+2025-06-08 17:58:07,204 - INFO - Игрок '465408' сохранен (team_id: 8)
+2025-06-08 17:58:07,207 - INFO - Игрок '235339' сохранен (team_id: 8)
+2025-06-08 17:58:07,209 - INFO - Игрок '220793' сохранен (team_id: 8)
+2025-06-08 17:58:07,212 - INFO - Игрок '448983' сохранен (team_id: 8)
+2025-06-08 17:58:07,214 - INFO - Игрок '170620' сохранен (team_id: 8)
+2025-06-08 17:58:07,216 - INFO - Игрок '851551' сохранен (team_id: 8)
+2025-06-08 17:58:07,218 - INFO - Игрок '520060' сохранен (team_id: 8)
+2025-06-08 17:58:07,220 - INFO - Игрок '257668' сохранен (team_id: 8)
+2025-06-08 17:58:07,225 - INFO - Игрок '171072' сохранен (team_id: 8)
+2025-06-08 17:58:07,231 - INFO - Игрок '649343' сохранен (team_id: 8)
+2025-06-08 17:58:07,233 - INFO - Игрок '499721' сохранен (team_id: 8)
+2025-06-08 17:58:07,236 - INFO - Игрок '334440' сохранен (team_id: 8)
+2025-06-08 17:58:07,238 - INFO - Игрок '84483' сохранен (team_id: 8)
+2025-06-08 17:58:07,241 - INFO - Игрок '1004741' сохранен (team_id: 8)
+2025-06-08 17:58:07,243 - INFO - Игрок '362570' сохранен (team_id: 8)
+2025-06-08 17:58:07,246 - INFO - Игрок '800175' сохранен (team_id: 8)
+2025-06-08 17:58:07,247 - INFO - Игрок '814269' сохранен (team_id: 8)
+2025-06-08 17:58:07,249 - INFO - Игрок '448981' сохранен (team_id: 8)
+2025-06-08 17:58:07,250 - INFO - Игрок '851111' сохранен (team_id: 8)
+2025-06-08 17:58:07,253 - INFO - Игрок '362667' сохранен (team_id: 8)
+2025-06-08 17:58:07,254 - INFO - Игрок '464259' сохранен (team_id: 8)
+2025-06-08 17:58:09,699 - INFO - Парсинг завершен
+2025-06-08 18:00:33,586 - INFO - ====== WebDriver manager ======
+2025-06-08 18:00:35,244 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 18:00:35,734 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 18:00:36,058 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 18:00:38,388 - INFO - Успешное подключение к БД
+2025-06-08 18:00:45,610 - INFO - Найдена команда:  (https://www.transfermarkt.com/vasiliy-monakov/profil/spieler/175881)
+2025-06-08 18:00:45,618 - INFO - Команда '' сохранена
+2025-06-08 18:00:48,426 - INFO - Найдено игроков: 5 для команды 
+2025-06-08 18:00:48,433 - INFO - Игрок 'Matches' сохранен (team_id: 8)
+2025-06-08 18:00:48,443 - INFO - Игрок 'Goals.Desc' сохранен (team_id: 8)
+2025-06-08 18:00:48,449 - INFO - Игрок 'Assists.Desc' сохранен (team_id: 8)
+2025-06-08 18:00:48,451 - INFO - Игрок 'Minutes_Per_Goal.Desc' сохранен (team_id: 8)
+2025-06-08 18:00:48,453 - INFO - Игрок 'Minutes_Played.Desc' сохранен (team_id: 8)
+2025-06-08 18:00:51,082 - INFO - Парсинг завершен
+2025-06-08 18:24:20,826 - INFO - ====== WebDriver manager ======
+2025-06-08 18:24:23,287 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 18:24:23,649 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 18:24:23,788 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 18:24:26,307 - INFO - Успешное подключение к БД
+2025-06-08 18:24:36,806 - INFO - Найдена команда:  (https://www.transfermarkt.com/vasiliy-monakov/profil/spieler/175881)
+2025-06-08 18:24:36,812 - INFO - Команда '' сохранена
+2025-06-08 18:24:39,728 - INFO - Найдено игроков: 5 для команды 
+2025-06-08 18:24:39,737 - INFO - Игрок '175881' сохранен (team_id: 26)
+2025-06-08 18:24:39,740 - INFO - Игрок '175881' сохранен (team_id: 26)
+2025-06-08 18:24:39,745 - INFO - Игрок '175881' сохранен (team_id: 26)
+2025-06-08 18:24:39,749 - INFO - Игрок '175881' сохранен (team_id: 26)
+2025-06-08 18:24:39,751 - INFO - Игрок '175881' сохранен (team_id: 26)
+2025-06-08 18:24:42,112 - INFO - Парсинг завершен
+2025-06-08 18:28:12,548 - INFO - ====== WebDriver manager ======
+2025-06-08 18:28:14,346 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 18:28:14,763 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 18:28:14,901 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 18:28:17,275 - INFO - Успешное подключение к БД
+2025-06-08 18:28:24,077 - INFO - Найдена команда:  (https://www.transfermarkt.com/vasiliy-monakov/profil/spieler/175881)
+2025-06-08 18:28:24,078 - WARNING - Название команды пустое, проверьте XPath или структуру страницы.
+2025-06-08 18:28:24,089 - INFO - Команда '' сохранена
+2025-06-08 18:28:25,463 - INFO - Найдено игроков: 5 для команды 
+2025-06-08 18:28:25,475 - INFO - Игрок 'Matches' сохранен (team_id: 27)
+2025-06-08 18:28:25,477 - INFO - Игрок 'Goals.Desc' сохранен (team_id: 27)
+2025-06-08 18:28:25,479 - INFO - Игрок 'Assists.Desc' сохранен (team_id: 27)
+2025-06-08 18:28:25,481 - INFO - Игрок 'Minutes_Per_Goal.Desc' сохранен (team_id: 27)
+2025-06-08 18:28:25,483 - INFO - Игрок 'Minutes_Played.Desc' сохранен (team_id: 27)
+2025-06-08 18:28:27,751 - INFO - Парсинг завершен
+2025-06-08 18:29:57,344 - INFO - ====== WebDriver manager ======
+2025-06-08 18:29:59,875 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 18:30:01,002 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 18:30:01,152 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 18:30:12,814 - INFO - Успешное подключение к БД
+2025-06-08 18:30:26,092 - INFO - Найдена команда:  (https://www.transfermarkt.com/ogc-nizza/startseite/verein/417)
+2025-06-08 18:30:26,092 - WARNING - Название команды пустое, проверьте XPath или структуру страницы.
+2025-06-08 18:30:26,101 - INFO - Команда '' сохранена
+2025-06-08 18:30:29,870 - INFO - Найдено игроков: 28 для команды 
+2025-06-08 18:30:29,882 - INFO - Игрок '465955' сохранен (team_id: 28)
+2025-06-08 18:30:29,937 - INFO - Игрок '127188' сохранен (team_id: 28)
+2025-06-08 18:30:29,942 - INFO - Игрок '789419' сохранен (team_id: 28)
+2025-06-08 18:30:29,970 - INFO - Игрок '674612' сохранен (team_id: 28)
+2025-06-08 18:30:29,976 - INFO - Игрок '1089202' сохранен (team_id: 28)
+2025-06-08 18:30:29,980 - INFO - Игрок '566025' сохранен (team_id: 28)
+2025-06-08 18:30:29,991 - INFO - Игрок '16136' сохранен (team_id: 28)
+2025-06-08 18:30:29,995 - INFO - Игрок '1075574' сохранен (team_id: 28)
+2025-06-08 18:30:29,996 - INFO - Игрок '532775' сохранен (team_id: 28)
+2025-06-08 18:30:29,999 - INFO - Игрок '211474' сохранен (team_id: 28)
+2025-06-08 18:30:30,003 - INFO - Игрок '984699' сохранен (team_id: 28)
+2025-06-08 18:30:30,005 - INFO - Игрок '175639' сохранен (team_id: 28)
+2025-06-08 18:30:30,008 - INFO - Игрок '891998' сохранен (team_id: 28)
+2025-06-08 18:30:30,010 - INFO - Игрок '370791' сохранен (team_id: 28)
+2025-06-08 18:30:30,012 - INFO - Игрок '285323' сохранен (team_id: 28)
+2025-06-08 18:30:30,019 - INFO - Игрок '560593' сохранен (team_id: 28)
+2025-06-08 18:30:30,023 - INFO - Игрок '450936' сохранен (team_id: 28)
+2025-06-08 18:30:30,027 - INFO - Игрок '174094' сохранен (team_id: 28)
+2025-06-08 18:30:30,035 - INFO - Игрок '750904' сохранен (team_id: 28)
+2025-06-08 18:30:30,038 - INFO - Игрок '216569' сохранен (team_id: 28)
+2025-06-08 18:30:30,041 - INFO - Игрок '569389' сохранен (team_id: 28)
+2025-06-08 18:30:30,044 - INFO - Игрок '670847' сохранен (team_id: 28)
+2025-06-08 18:30:30,046 - INFO - Игрок '707242' сохранен (team_id: 28)
+2025-06-08 18:30:30,052 - INFO - Игрок '500689' сохранен (team_id: 28)
+2025-06-08 18:30:30,054 - INFO - Игрок '538874' сохранен (team_id: 28)
+2025-06-08 18:30:30,057 - INFO - Игрок '467720' сохранен (team_id: 28)
+2025-06-08 18:30:30,060 - INFO - Игрок '181378' сохранен (team_id: 28)
+2025-06-08 18:30:30,072 - INFO - Игрок '1231401' сохранен (team_id: 28)
+2025-06-08 18:30:33,655 - INFO - Парсинг завершен
+2025-06-08 18:40:24,674 - INFO - ====== WebDriver manager ======
+2025-06-08 18:40:26,421 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 18:40:26,604 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 18:40:26,754 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 18:40:29,175 - INFO - Успешное подключение к БД
+2025-06-08 18:40:33,224 - INFO - Найдена команда:  (https://www.transfermarkt.com/ogc-nizza/startseite/verein/417)
+2025-06-08 18:40:33,225 - WARNING - Название команды пустое, проверьте XPath или структуру страницы.
+2025-06-08 18:40:33,235 - INFO - Команда '' сохранена
+2025-06-08 18:40:36,368 - INFO - Найдено игроков: 28 для команды 
+2025-06-08 18:40:36,383 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,384 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,386 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,387 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,388 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,389 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,390 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,392 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,394 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,395 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,396 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,398 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,399 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,400 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,402 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,404 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,405 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,407 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,411 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,412 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,414 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,415 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,417 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,419 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,421 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,422 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,423 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:36,426 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:40:38,683 - INFO - Парсинг завершен
+2025-06-08 18:55:22,969 - INFO - ====== WebDriver manager ======
+2025-06-08 18:55:24,757 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 18:55:25,124 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 18:55:25,266 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 18:55:27,632 - INFO - Успешное подключение к БД
+2025-06-08 18:55:34,347 - INFO - Найдена команда:  (https://www.transfermarkt.com/spartak-gogniev/profil/spieler/15380)
+2025-06-08 18:55:34,354 - INFO - Команда '' сохранена
+2025-06-08 18:55:37,770 - INFO - Парсинг завершен
+2025-06-08 18:56:11,651 - INFO - ====== WebDriver manager ======
+2025-06-08 18:56:13,257 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 18:56:13,403 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 18:56:13,544 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 18:56:15,629 - INFO - Успешное подключение к БД
+2025-06-08 18:56:23,707 - INFO - Найдена команда:  (https://www.transfermarkt.com/spartak-gogniev/profil/spieler/15380)
+2025-06-08 18:56:23,707 - WARNING - Название команды пустое, проверьте XPath или структуру страницы.
+2025-06-08 18:56:23,716 - INFO - Команда '' сохранена
+2025-06-08 18:56:25,755 - INFO - Найдено игроков: 5 для команды 
+2025-06-08 18:56:25,768 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:56:25,771 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:56:25,773 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:56:25,775 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:56:25,781 - ERROR - Ошибка сохранения игрока: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`football_stats`.`players`, CONSTRAINT `players_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`team_id`))')
+2025-06-08 18:56:28,331 - INFO - Парсинг завершен
+2025-06-08 19:00:24,286 - INFO - ====== WebDriver manager ======
+2025-06-08 19:00:26,079 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 19:00:26,296 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 19:00:26,438 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 19:00:28,689 - INFO - Успешное подключение к БД
+2025-06-08 19:00:33,027 - INFO - Найдена команда:  (https://www.transfermarkt.com/zenit-st-petersburg/startseite/verein/964)
+2025-06-08 19:00:33,028 - WARNING - Название команды пустое, проверьте XPath или структуру страницы.
+2025-06-08 19:00:33,045 - INFO - Команда '' сохранена
+2025-06-08 19:00:37,254 - INFO - Найдено игроков: 28 для команды 
+2025-06-08 19:00:37,266 - INFO - Игрок '312891' сохранен (team_id: 40)
+2025-06-08 19:00:37,267 - INFO - Игрок '334477' сохранен (team_id: 40)
+2025-06-08 19:00:37,269 - INFO - Игрок '440135' сохранен (team_id: 40)
+2025-06-08 19:00:37,271 - INFO - Игрок '27706' сохранен (team_id: 40)
+2025-06-08 19:00:37,273 - INFO - Игрок '520454' сохранен (team_id: 40)
+2025-06-08 19:00:37,275 - INFO - Игрок '574660' сохранен (team_id: 40)
+2025-06-08 19:00:37,276 - INFO - Игрок '371856' сохранен (team_id: 40)
+2025-06-08 19:00:37,277 - INFO - Игрок '465408' сохранен (team_id: 40)
+2025-06-08 19:00:37,279 - INFO - Игрок '235339' сохранен (team_id: 40)
+2025-06-08 19:00:37,281 - INFO - Игрок '220793' сохранен (team_id: 40)
+2025-06-08 19:00:37,284 - INFO - Игрок '448983' сохранен (team_id: 40)
+2025-06-08 19:00:37,285 - INFO - Игрок '170620' сохранен (team_id: 40)
+2025-06-08 19:00:37,286 - INFO - Игрок '851551' сохранен (team_id: 40)
+2025-06-08 19:00:37,288 - INFO - Игрок '520060' сохранен (team_id: 40)
+2025-06-08 19:00:37,290 - INFO - Игрок '257668' сохранен (team_id: 40)
+2025-06-08 19:00:37,292 - INFO - Игрок '171072' сохранен (team_id: 40)
+2025-06-08 19:00:37,293 - INFO - Игрок '649343' сохранен (team_id: 40)
+2025-06-08 19:00:37,295 - INFO - Игрок '499721' сохранен (team_id: 40)
+2025-06-08 19:00:37,298 - INFO - Игрок '334440' сохранен (team_id: 40)
+2025-06-08 19:00:37,300 - INFO - Игрок '84483' сохранен (team_id: 40)
+2025-06-08 19:00:37,302 - INFO - Игрок '1004741' сохранен (team_id: 40)
+2025-06-08 19:00:37,303 - INFO - Игрок '362570' сохранен (team_id: 40)
+2025-06-08 19:00:37,305 - INFO - Игрок '800175' сохранен (team_id: 40)
+2025-06-08 19:00:37,308 - INFO - Игрок '814269' сохранен (team_id: 40)
+2025-06-08 19:00:37,310 - INFO - Игрок '448981' сохранен (team_id: 40)
+2025-06-08 19:00:37,313 - INFO - Игрок '851111' сохранен (team_id: 40)
+2025-06-08 19:00:37,316 - INFO - Игрок '362667' сохранен (team_id: 40)
+2025-06-08 19:00:37,317 - INFO - Игрок '464259' сохранен (team_id: 40)
+2025-06-08 19:00:39,585 - INFO - Парсинг завершен
+2025-06-08 20:44:29,260 - INFO - ====== WebDriver manager ======
+2025-06-08 20:44:31,834 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 20:44:32,817 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 20:44:34,142 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 20:44:36,669 - INFO - Успешное подключение к БД
+2025-06-08 20:44:52,643 - INFO - Найдена команда:  (https://www.transfermarkt.com/spartak-gogniev/profil/spieler/15380)
+2025-06-08 20:44:52,708 - INFO - Название команды обновлено: 'Спартак'
+2025-06-08 20:44:54,283 - INFO - Найдено игроков: 5 для команды Спартак
+2025-06-08 20:44:54,315 - INFO - Игрок 'Matches' сохранен (team_id: 41)
+2025-06-08 20:44:54,319 - INFO - Игрок 'Goals.Desc' сохранен (team_id: 41)
+2025-06-08 20:44:54,322 - INFO - Игрок 'Assists.Desc' сохранен (team_id: 41)
+2025-06-08 20:44:54,324 - INFO - Игрок 'Minutes_Per_Goal.Desc' сохранен (team_id: 41)
+2025-06-08 20:44:54,332 - INFO - Игрок 'Minutes_Played.Desc' сохранен (team_id: 41)
+2025-06-08 20:44:56,672 - INFO - Парсинг завершен
+2025-06-08 20:46:43,961 - INFO - ====== WebDriver manager ======
+2025-06-08 20:46:45,753 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 20:46:46,557 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 20:46:47,363 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 20:46:49,681 - INFO - Успешное подключение к БД
+2025-06-08 20:47:05,337 - INFO - Найдена команда:  (https://www.transfermarkt.com/fk-krasnodar/startseite/verein/16704)
+2025-06-08 20:47:05,345 - INFO - Команда 'Краснодар' сохранена
+2025-06-08 20:47:08,605 - INFO - Найдено игроков: 20 для команды Краснодар
+2025-06-08 20:47:08,611 - INFO - Игрок '617520' сохранен (team_id: 44)
+2025-06-08 20:47:08,614 - INFO - Игрок '228660' сохранен (team_id: 44)
+2025-06-08 20:47:08,616 - INFO - Игрок '697721' сохранен (team_id: 44)
+2025-06-08 20:47:08,618 - INFO - Игрок '546212' сохранен (team_id: 44)
+2025-06-08 20:47:08,621 - INFO - Игрок '517300' сохранен (team_id: 44)
+2025-06-08 20:47:08,623 - INFO - Игрок '216240' сохранен (team_id: 44)
+2025-06-08 20:47:08,625 - INFO - Игрок '339699' сохранен (team_id: 44)
+2025-06-08 20:47:08,627 - INFO - Игрок '102581' сохранен (team_id: 44)
+2025-06-08 20:47:08,630 - INFO - Игрок '432112' сохранен (team_id: 44)
+2025-06-08 20:47:08,632 - INFO - Игрок '544586' сохранен (team_id: 44)
+2025-06-08 20:47:08,634 - INFO - Игрок '159957' сохранен (team_id: 44)
+2025-06-08 20:47:08,636 - INFO - Игрок '515744' сохранен (team_id: 44)
+2025-06-08 20:47:08,638 - INFO - Игрок '746180' сохранен (team_id: 44)
+2025-06-08 20:47:08,640 - INFO - Игрок '720287' сохранен (team_id: 44)
+2025-06-08 20:47:08,642 - INFO - Игрок '514256' сохранен (team_id: 44)
+2025-06-08 20:47:08,645 - INFO - Игрок '381724' сохранен (team_id: 44)
+2025-06-08 20:47:08,648 - INFO - Игрок '666616' сохранен (team_id: 44)
+2025-06-08 20:47:08,650 - INFO - Игрок '911232' сохранен (team_id: 44)
+2025-06-08 20:47:08,652 - INFO - Игрок '185245' сохранен (team_id: 44)
+2025-06-08 20:47:08,655 - INFO - Игрок '50355' сохранен (team_id: 44)
+2025-06-08 20:47:10,985 - INFO - Парсинг завершен
+2025-06-08 21:02:36,324 - INFO - ====== WebDriver manager ======
+2025-06-08 21:02:38,776 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 21:02:39,134 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 21:02:39,282 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 21:02:42,260 - INFO - Успешное подключение к БД
+2025-06-08 21:02:52,027 - INFO - Найдена команда:  (https://www.transfermarkt.com/volga-uljanovsk/startseite/verein/12439)
+2025-06-08 21:02:52,108 - INFO - Команда 'Волга Ульяновск' сохранена
+2025-06-08 21:02:57,394 - INFO - Найдено игроков: 24 для команды Волга Ульяновск
+2025-06-08 21:02:57,409 - INFO - Игрок '549983' сохранен (team_id: 45)
+2025-06-08 21:02:57,411 - INFO - Игрок '811794' сохранен (team_id: 45)
+2025-06-08 21:02:57,415 - INFO - Игрок '234607' сохранен (team_id: 45)
+2025-06-08 21:02:57,418 - INFO - Игрок '821630' сохранен (team_id: 45)
+2025-06-08 21:02:57,420 - INFO - Игрок '524806' сохранен (team_id: 45)
+2025-06-08 21:02:57,421 - INFO - Игрок '918817' сохранен (team_id: 45)
+2025-06-08 21:02:57,423 - INFO - Игрок '281544' сохранен (team_id: 45)
+2025-06-08 21:02:57,426 - INFO - Игрок '869527' сохранен (team_id: 45)
+2025-06-08 21:02:57,428 - INFO - Игрок '601500' сохранен (team_id: 45)
+2025-06-08 21:02:57,431 - INFO - Игрок '524800' сохранен (team_id: 45)
+2025-06-08 21:02:57,433 - INFO - Игрок '875873' сохранен (team_id: 45)
+2025-06-08 21:02:57,435 - INFO - Игрок '1156521' сохранен (team_id: 45)
+2025-06-08 21:02:57,436 - INFO - Игрок '908167' сохранен (team_id: 45)
+2025-06-08 21:02:57,438 - INFO - Игрок '402293' сохранен (team_id: 45)
+2025-06-08 21:02:57,440 - INFO - Игрок '818277' сохранен (team_id: 45)
+2025-06-08 21:02:57,443 - INFO - Игрок '686489' сохранен (team_id: 45)
+2025-06-08 21:02:57,445 - INFO - Игрок '313942' сохранен (team_id: 45)
+2025-06-08 21:02:57,448 - INFO - Игрок '402299' сохранен (team_id: 45)
+2025-06-08 21:02:57,450 - INFO - Игрок '699289' сохранен (team_id: 45)
+2025-06-08 21:02:57,452 - INFO - Игрок '1113068' сохранен (team_id: 45)
+2025-06-08 21:02:57,453 - INFO - Игрок '292835' сохранен (team_id: 45)
+2025-06-08 21:02:57,455 - INFO - Игрок '581404' сохранен (team_id: 45)
+2025-06-08 21:02:57,457 - INFO - Игрок '449385' сохранен (team_id: 45)
+2025-06-08 21:02:57,459 - INFO - Игрок '907266' сохранен (team_id: 45)
+2025-06-08 21:02:59,757 - INFO - Парсинг завершен
+2025-06-08 21:13:24,685 - INFO - Успешное подключение к БД
+2025-06-08 21:13:24,686 - INFO - ====== WebDriver manager ======
+2025-06-08 21:13:26,881 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 21:13:27,213 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-08 21:13:27,414 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-08 21:13:54,516 - INFO - Найдена команда:  (https://www.transfermarkt.com/atletico-madrid/startseite/verein/13)
+2025-06-08 21:13:54,608 - INFO - Команда 'Атлетико Мадрид' сохранена
+2025-06-08 21:13:56,818 - INFO - Найдено игроков: 24 для команды Атлетико Мадрид
+2025-06-08 21:13:56,849 - INFO - Игрок '121483' сохранен (team_id: 46)
+2025-06-08 21:13:56,854 - INFO - Игрок '242359' сохранен (team_id: 46)
+2025-06-08 21:13:56,857 - INFO - Игрок '525438' сохранен (team_id: 46)
+2025-06-08 21:13:56,860 - INFO - Игрок '351809' сохранен (team_id: 46)
+2025-06-08 21:13:56,862 - INFO - Игрок '250845' сохранен (team_id: 46)
+2025-06-08 21:13:56,865 - INFO - Игрок '182904' сохранен (team_id: 46)
+2025-06-08 21:13:56,866 - INFO - Игрок '35047' сохранен (team_id: 46)
+2025-06-08 21:13:56,869 - INFO - Игрок '57500' сохранен (team_id: 46)
+2025-06-08 21:13:56,871 - INFO - Игрок '240692' сохранен (team_id: 46)
+2025-06-08 21:13:56,873 - INFO - Игрок '448628' сохранен (team_id: 46)
+2025-06-08 21:13:56,874 - INFO - Игрок '424042' сохранен (team_id: 46)
+2025-06-08 21:13:56,879 - INFO - Игрок '775605' сохранен (team_id: 46)
+2025-06-08 21:13:56,881 - INFO - Игрок '488362' сохранен (team_id: 46)
+2025-06-08 21:13:56,883 - INFO - Игрок '255901' сохранен (team_id: 46)
+2025-06-08 21:13:56,885 - INFO - Игрок '74229' сохранен (team_id: 46)
+2025-06-08 21:13:56,886 - INFO - Игрок '282411' сохранен (team_id: 46)
+2025-06-08 21:13:56,888 - INFO - Игрок '205562' сохранен (team_id: 46)
+2025-06-08 21:13:56,889 - INFO - Игрок '694928' сохранен (team_id: 46)
+2025-06-08 21:13:56,891 - INFO - Игрок '461617' сохранен (team_id: 46)
+2025-06-08 21:13:56,894 - INFO - Игрок '742201' сохранен (team_id: 46)
+2025-06-08 21:13:56,897 - INFO - Игрок '266807' сохранен (team_id: 46)
+2025-06-08 21:13:56,898 - INFO - Игрок '576024' сохранен (team_id: 46)
+2025-06-08 21:13:56,900 - INFO - Игрок '238407' сохранен (team_id: 46)
+2025-06-08 21:13:56,901 - INFO - Игрок '125781' сохранен (team_id: 46)
+2025-06-08 21:13:59,213 - INFO - Соединение с БД закрыто
+2025-06-08 21:13:59,214 - INFO - Парсинг завершен
+2025-06-14 15:49:48,951 - INFO - Успешное подключение к БД
+2025-06-14 15:49:48,953 - INFO - ====== WebDriver manager ======
+2025-06-14 15:49:51,238 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-14 15:49:51,477 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-14 15:49:51,706 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-14 15:50:28,074 - ERROR - Ошибка при поиске команды 'Мальорка': Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xc93783+63299]
+	GetHandleVerifier [0x0xc937c4+63364]
+	(No symbol) [0x0xac1113]
+	(No symbol) [0x0xb0987e]
+	(No symbol) [0x0xb09c1b]
+	(No symbol) [0x0xb52212]
+	(No symbol) [0x0xb2e5c4]
+	(No symbol) [0x0xb4fa4a]
+	(No symbol) [0x0xb2e376]
+	(No symbol) [0x0xafd6e0]
+	(No symbol) [0x0xafe544]
+	GetHandleVerifier [0x0xeee073+2531379]
+	GetHandleVerifier [0x0xee9372+2511666]
+	GetHandleVerifier [0x0xcb9efa+220858]
+	GetHandleVerifier [0x0xcaa548+156936]
+	GetHandleVerifier [0x0xcb0c7d+183357]
+	GetHandleVerifier [0x0xc9b6e8+95912]
+	GetHandleVerifier [0x0xc9b890+96336]
+	GetHandleVerifier [0x0xc8666a+9770]
+	BaseThreadInitThunk [0x0x768bfcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77e87c5e+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77e87c2e+238]
+
+2025-06-14 15:50:30,709 - INFO - Соединение с БД закрыто
+2025-06-14 15:50:30,709 - INFO - Парсинг завершен
+2025-06-14 15:51:37,147 - INFO - Успешное подключение к БД
+2025-06-14 15:51:37,148 - INFO - ====== WebDriver manager ======
+2025-06-14 15:51:38,953 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-14 15:51:39,105 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-14 15:51:39,263 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-14 15:51:53,996 - INFO - Найдена команда:  (https://www.transfermarkt.com/fc-villarreal/startseite/verein/1050)
+2025-06-14 15:51:54,022 - INFO - Команда 'Вильярреал' сохранена
+2025-06-14 15:51:56,716 - INFO - Найдено игроков: 24 для команды Вильярреал
+2025-06-14 15:51:56,729 - INFO - Игрок '712107' сохранен (team_id: 49)
+2025-06-14 15:51:56,732 - INFO - Игрок '341713' сохранен (team_id: 49)
+2025-06-14 15:51:56,734 - INFO - Игрок '547248' сохранен (team_id: 49)
+2025-06-14 15:51:56,737 - INFO - Игрок '484988' сохранен (team_id: 49)
+2025-06-14 15:51:56,738 - INFO - Игрок '780630' сохранен (team_id: 49)
+2025-06-14 15:51:56,740 - INFO - Игрок '1061336' сохранен (team_id: 49)
+2025-06-14 15:51:56,741 - INFO - Игрок '286384' сохранен (team_id: 49)
+2025-06-14 15:51:56,745 - INFO - Игрок '15452' сохранен (team_id: 49)
+2025-06-14 15:51:56,747 - INFO - Игрок '678406' сохранен (team_id: 49)
+2025-06-14 15:51:56,751 - INFO - Игрок '356197' сохранен (team_id: 49)
+2025-06-14 15:51:56,754 - INFO - Игрок '480763' сохранен (team_id: 49)
+2025-06-14 15:51:56,756 - INFO - Игрок '76467' сохранен (team_id: 49)
+2025-06-14 15:51:56,758 - INFO - Игрок '485963' сохранен (team_id: 49)
+2025-06-14 15:51:56,759 - INFO - Игрок '380598' сохранен (team_id: 49)
+2025-06-14 15:51:56,761 - INFO - Игрок '59561' сохранен (team_id: 49)
+2025-06-14 15:51:56,763 - INFO - Игрок '165007' сохранен (team_id: 49)
+2025-06-14 15:51:56,764 - INFO - Игрок '548111' сохранен (team_id: 49)
+2025-06-14 15:51:56,766 - INFO - Игрок '568157' сохранен (team_id: 49)
+2025-06-14 15:51:56,768 - INFO - Игрок '709969' сохранен (team_id: 49)
+2025-06-14 15:51:56,772 - INFO - Игрок '638793' сохранен (team_id: 49)
+2025-06-14 15:51:56,773 - INFO - Игрок '343052' сохранен (team_id: 49)
+2025-06-14 15:51:56,775 - INFO - Игрок '937941' сохранен (team_id: 49)
+2025-06-14 15:51:56,776 - INFO - Игрок '246968' сохранен (team_id: 49)
+2025-06-14 15:51:56,777 - INFO - Игрок '177467' сохранен (team_id: 49)
+2025-06-14 15:51:59,051 - INFO - Соединение с БД закрыто
+2025-06-14 15:51:59,053 - INFO - Парсинг завершен
+2025-06-14 15:54:51,400 - INFO - Успешное подключение к БД
+2025-06-14 15:54:51,412 - INFO - ====== WebDriver manager ======
+2025-06-14 15:54:53,310 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-14 15:54:53,502 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-14 15:54:53,650 - INFO - Driver [C:\Users\Денис\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-14 15:55:09,665 - INFO - Найдена команда:  (https://www.transfermarkt.com/real-sociedad-san-sebastian/startseite/verein/681)
+2025-06-14 15:55:09,691 - INFO - Команда 'Реал Сосьедад' сохранена
+2025-06-14 15:55:14,707 - INFO - Найдено игроков: 26 для команды Реал Сосьедад
+2025-06-14 15:55:14,725 - INFO - Игрок '212862' сохранен (team_id: 50)
+2025-06-14 15:55:14,730 - INFO - Игрок '625657' сохранен (team_id: 50)
+2025-06-14 15:55:14,736 - INFO - Игрок '361914' сохранен (team_id: 50)
+2025-06-14 15:55:14,739 - INFO - Игрок '355628' сохранен (team_id: 50)
+2025-06-14 15:55:14,742 - INFO - Игрок '1018938' сохранен (team_id: 50)
+2025-06-14 15:55:14,746 - INFO - Игрок '580560' сохранен (team_id: 50)
+2025-06-14 15:55:14,750 - INFO - Игрок '229804' сохранен (team_id: 50)
+2025-06-14 15:55:14,755 - INFO - Игрок '568158' сохранен (team_id: 50)
+2025-06-14 15:55:14,758 - INFO - Игрок '517842' сохранен (team_id: 50)
+2025-06-14 15:55:14,760 - INFO - Игрок '661145' сохранен (team_id: 50)
+2025-06-14 15:55:14,764 - INFO - Игрок '297070' сохранен (team_id: 50)
+2025-06-14 15:55:14,766 - INFO - Игрок '280730' сохранен (team_id: 50)
+2025-06-14 15:55:14,769 - INFO - Игрок '423440' сохранен (team_id: 50)
+2025-06-14 15:55:14,771 - INFO - Игрок '502722' сохранен (team_id: 50)
+2025-06-14 15:55:14,772 - INFO - Игрок '634431' сохранен (team_id: 50)
+2025-06-14 15:55:14,774 - INFO - Игрок '625660' сохранен (team_id: 50)
+2025-06-14 15:55:14,776 - INFO - Игрок '309110' сохранен (team_id: 50)
+2025-06-14 15:55:14,777 - INFO - Игрок '555143' сохранен (team_id: 50)
+2025-06-14 15:55:14,779 - INFO - Игрок '907813' сохранен (team_id: 50)
+2025-06-14 15:55:14,780 - INFO - Игрок '366930' сохранен (team_id: 50)
+2025-06-14 15:55:14,782 - INFO - Игрок '616369' сохранен (team_id: 50)
+2025-06-14 15:55:14,784 - INFO - Игрок '188888' сохранен (team_id: 50)
+2025-06-14 15:55:14,785 - INFO - Игрок '962145' сохранен (team_id: 50)
+2025-06-14 15:55:14,786 - INFO - Игрок '405398' сохранен (team_id: 50)
+2025-06-14 15:55:14,789 - INFO - Игрок '351478' сохранен (team_id: 50)
+2025-06-14 15:55:14,791 - INFO - Игрок '660438' сохранен (team_id: 50)
+2025-06-14 15:55:17,138 - INFO - Соединение с БД закрыто
+2025-06-14 15:55:17,139 - INFO - Парсинг завершен
