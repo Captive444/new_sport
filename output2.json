@@ -1,0 +1,2234 @@
+[
+{
+    "name": "#22 David Raya",
+    "position": "Вратарь",
+    "stats": {
+        "matches": 55,
+        "minutes": 0,
+        "position_specific": {
+            "пропущенные_голы": 50,
+            "сухие_матчи": 19
+        },
+        "cards": {
+            "yellow": 5,
+            "yellow_red": 0,
+            "red": 0
+        },
+        "substitutions": {
+            "in": 0,
+            "out": 0
+        },
+        "own_goals": 0,
+        "seasons": [
+            {
+                "name": "Премьер-Лига",
+                "matches": 0,
+                "minutes": 0,
+                "position_specific": {
+                    "пропущенные_голы": 34,
+                    "сухие_матчи": 13
+                },
+                "cards": {
+                    "yellow": 3,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 0
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Лига чемпионов УЕФА",
+                "matches": 0,
+                "minutes": 0,
+                "position_specific": {
+                    "пропущенные_голы": 9,
+                    "сухие_матчи": 6
+                },
+                "cards": {
+                    "yellow": 2,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 0
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Английской лиги",
+                "matches": 0,
+                "minutes": 270,
+                "position_specific": {
+                    "пропущенные_голы": 6,
+                    "сухие_матчи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 0
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Англии",
+                "matches": 0,
+                "minutes": 120,
+                "position_specific": {
+                    "пропущенные_голы": 1,
+                    "сухие_матчи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 0
+                },
+                "own_goals": 0
+            }
+        ]
+    },
+    "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/262749/plus/1",
+    "via_tor": false
+},
+{
+    "name": "#32 Neto",
+    "position": "Вратарь",
+    "stats": {
+        "matches": 4,
+        "minutes": 360,
+        "position_specific": {
+            "пропущенные_голы": 4,
+            "сухие_матчи": 0
+        },
+        "cards": {
+            "yellow": 0,
+            "yellow_red": 0,
+            "red": 0
+        },
+        "substitutions": {
+            "in": 0,
+            "out": 0
+        },
+        "own_goals": 0,
+        "seasons": [
+            {
+                "name": "Премьер-Лига",
+                "matches": 0,
+                "minutes": 180,
+                "position_specific": {
+                    "пропущенные_голы": 2,
+                    "сухие_матчи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 0
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Лига чемпионов УЕФА",
+                "matches": 0,
+                "minutes": 90,
+                "position_specific": {
+                    "пропущенные_голы": 1,
+                    "сухие_матчи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 0
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Английской лиги",
+                "matches": 0,
+                "minutes": 90,
+                "position_specific": {
+                    "пропущенные_голы": 1,
+                    "сухие_матчи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 0
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Англии",
+                "matches": 0,
+                "minutes": 0,
+                "position_specific": {
+                    "пропущенные_голы": 0,
+                    "сухие_матчи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 0
+                },
+                "own_goals": 0
+            }
+        ]
+    },
+    "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/111819/plus/1",
+    "via_tor": false
+},
+{
+    "name": "#2 William Saliba",
+    "position": "Центр. защитник",
+    "stats": {
+        "matches": 51,
+        "minutes": 0,
+        "position_specific": {
+            "голы": 2,
+            "голевые_передачи": 0
+        },
+        "cards": {
+            "yellow": 3,
+            "yellow_red": 0,
+            "red": 1
+        },
+        "substitutions": {
+            "in": 1,
+            "out": 2
+        },
+        "own_goals": 0,
+        "seasons": [
+            {
+                "name": "Премьер-Лига",
+                "matches": 0,
+                "minutes": 0,
+                "position_specific": {
+                    "голы": 2,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 2,
+                    "yellow_red": 0,
+                    "red": 1
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 2
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Лига чемпионов УЕФА",
+                "matches": 0,
+                "minutes": 990,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 0
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Английской лиги",
+                "matches": 0,
+                "minutes": 315,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 1,
+                    "out": 0
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Англии",
+                "matches": 0,
+                "minutes": 120,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 0
+                },
+                "own_goals": 0
+            }
+        ]
+    },
+    "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/495666/plus/1",
+    "via_tor": false
+},
+{
+    "name": "#6 Gabriel Magalhães",
+    "position": "Центр. защитник",
+    "stats": {
+        "matches": 42,
+        "minutes": 0,
+        "position_specific": {
+            "голы": 5,
+            "голевые_передачи": 3
+        },
+        "cards": {
+            "yellow": 6,
+            "yellow_red": 0,
+            "red": 0
+        },
+        "substitutions": {
+            "in": 2,
+            "out": 4
+        },
+        "own_goals": 0,
+        "seasons": [
+            {
+                "name": "Премьер-Лига",
+                "matches": 0,
+                "minutes": 0,
+                "position_specific": {
+                    "голы": 3,
+                    "голевые_передачи": 3
+                },
+                "cards": {
+                    "yellow": 4,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 3
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Лига чемпионов УЕФА",
+                "matches": 0,
+                "minutes": 804,
+                "position_specific": {
+                    "голы": 1,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 1
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Английской лиги",
+                "matches": 0,
+                "minutes": 211,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 2,
+                    "out": 0
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Англии",
+                "matches": 0,
+                "minutes": 120,
+                "position_specific": {
+                    "голы": 1,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 0
+                },
+                "own_goals": 0
+            }
+        ]
+    },
+    "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/435338/plus/1",
+    "via_tor": false
+},
+{
+    "name": "#15 Jakub Kiwior",
+    "position": "Центр. защитник",
+    "stats": {
+        "matches": 30,
+        "minutes": 0,
+        "position_specific": {
+            "голы": 1,
+            "голевые_передачи": 2
+        },
+        "cards": {
+            "yellow": 2,
+            "yellow_red": 0,
+            "red": 0
+        },
+        "substitutions": {
+            "in": 9,
+            "out": 2
+        },
+        "own_goals": 0,
+        "seasons": [
+            {
+                "name": "Премьер-Лига",
+                "matches": 0,
+                "minutes": 0,
+                "position_specific": {
+                    "голы": 1,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 7,
+                    "out": 1
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Лига чемпионов УЕФА",
+                "matches": 0,
+                "minutes": 771,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 2,
+                    "out": 0
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Английской лиги",
+                "matches": 0,
+                "minutes": 267,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 2
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 1
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Англии",
+                "matches": 0,
+                "minutes": 0,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 0
+                },
+                "own_goals": 0
+            }
+        ]
+    },
+    "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/425918/plus/1",
+    "via_tor": false
+},
+{
+    "name": "#49 Myles Lewis-Skelly",
+    "position": "Левый защитник",
+    "stats": {
+        "matches": 42,
+        "minutes": 0,
+        "position_specific": {
+            "голы": 1,
+            "голевые_передачи": 3
+        },
+        "cards": {
+            "yellow": 7,
+            "yellow_red": 0,
+            "red": 2
+        },
+        "substitutions": {
+            "in": 13,
+            "out": 15
+        },
+        "own_goals": 0,
+        "seasons": [
+            {
+                "name": "Премьер-Лига",
+                "matches": 0,
+                "minutes": 0,
+                "position_specific": {
+                    "голы": 1,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 3,
+                    "yellow_red": 0,
+                    "red": 2
+                },
+                "substitutions": {
+                    "in": 8,
+                    "out": 7
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Лига чемпионов УЕФА",
+                "matches": 0,
+                "minutes": 566,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 2
+                },
+                "cards": {
+                    "yellow": 2,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 3,
+                    "out": 3
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Английской лиги",
+                "matches": 0,
+                "minutes": 279,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 2,
+                    "out": 2
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Премьер Лига 2",
+                "matches": 0,
+                "minutes": 147,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 1
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 2
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Трофей АФЛ",
+                "matches": 0,
+                "minutes": 90,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 0
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Англии",
+                "matches": 0,
+                "minutes": 90,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 1
+                },
+                "own_goals": 0
+            }
+        ]
+    },
+    "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/890721/plus/1",
+    "via_tor": false
+},
+{
+    "name": "#33 Riccardo Calafiori",
+    "position": "Левый защитник",
+    "stats": {
+        "matches": 29,
+        "minutes": 0,
+        "position_specific": {
+            "голы": 3,
+            "голевые_передачи": 2
+        },
+        "cards": {
+            "yellow": 7,
+            "yellow_red": 0,
+            "red": 0
+        },
+        "substitutions": {
+            "in": 13,
+            "out": 12
+        },
+        "own_goals": 0,
+        "seasons": [
+            {
+                "name": "Премьер-Лига",
+                "matches": 0,
+                "minutes": 985,
+                "position_specific": {
+                    "голы": 2,
+                    "голевые_передачи": 1
+                },
+                "cards": {
+                    "yellow": 4,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 8,
+                    "out": 8
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Лига чемпионов УЕФА",
+                "matches": 0,
+                "minutes": 430,
+                "position_specific": {
+                    "голы": 1,
+                    "голевые_передачи": 1
+                },
+                "cards": {
+                    "yellow": 2,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 4,
+                    "out": 3
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Английской лиги",
+                "matches": 0,
+                "minutes": 82,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 1,
+                    "out": 1
+                },
+                "own_goals": 0
+            }
+        ]
+    },
+    "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/502821/plus/1",
+    "via_tor": false
+},
+{
+    "name": "#17 Oleksandr Zinchenko",
+    "position": "Левый защитник",
+    "stats": {
+        "matches": 23,
+        "minutes": 789,
+        "position_specific": {
+            "голы": 1,
+            "голевые_передачи": 1
+        },
+        "cards": {
+            "yellow": 2,
+            "yellow_red": 0,
+            "red": 0
+        },
+        "substitutions": {
+            "in": 15,
+            "out": 7
+        },
+        "own_goals": 0,
+        "seasons": [
+            {
+                "name": "Премьер-Лига",
+                "matches": 0,
+                "minutes": 522,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 1
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 10,
+                    "out": 4
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Лига чемпионов УЕФА",
+                "matches": 0,
+                "minutes": 193,
+                "position_specific": {
+                    "голы": 1,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 4,
+                    "out": 2
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Английской лиги",
+                "matches": 0,
+                "minutes": 74,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 1,
+                    "out": 1
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Англии",
+                "matches": 0,
+                "minutes": 0,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 0
+                },
+                "own_goals": 0
+            }
+        ]
+    },
+    "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/203853/plus/1",
+    "via_tor": false
+},
+{
+    "name": "#3 Kieran Tierney",
+    "position": "Левый защитник",
+    "stats": {
+        "matches": 20,
+        "minutes": 447,
+        "position_specific": {
+            "голы": 1,
+            "голевые_передачи": 0
+        },
+        "cards": {
+            "yellow": 0,
+            "yellow_red": 0,
+            "red": 0
+        },
+        "substitutions": {
+            "in": 16,
+            "out": 4
+        },
+        "own_goals": 0,
+        "seasons": [
+            {
+                "name": "Премьер-Лига",
+                "matches": 0,
+                "minutes": 252,
+                "position_specific": {
+                    "голы": 1,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 11,
+                    "out": 2
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Лига чемпионов УЕФА",
+                "matches": 0,
+                "minutes": 119,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 4,
+                    "out": 1
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Англии",
+                "matches": 0,
+                "minutes": 7,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 1,
+                    "out": 0
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Английской лиги",
+                "matches": 0,
+                "minutes": 69,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 1
+                },
+                "own_goals": 0
+            }
+        ]
+    },
+    "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/300716/plus/1",
+    "via_tor": false
+},
+{
+    "name": "#12 Jurrien Timber",
+    "position": "Правый защитник",
+    "stats": {
+        "matches": 48,
+        "minutes": 0,
+        "position_specific": {
+            "голы": 2,
+            "голевые_передачи": 4
+        },
+        "cards": {
+            "yellow": 9,
+            "yellow_red": 0,
+            "red": 0
+        },
+        "substitutions": {
+            "in": 6,
+            "out": 21
+        },
+        "own_goals": 0,
+        "seasons": [
+            {
+                "name": "Премьер-Лига",
+                "matches": 0,
+                "minutes": 0,
+                "position_specific": {
+                    "голы": 1,
+                    "голевые_передачи": 3
+                },
+                "cards": {
+                    "yellow": 7,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 3,
+                    "out": 9
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Лига чемпионов УЕФА",
+                "matches": 0,
+                "minutes": 854,
+                "position_specific": {
+                    "голы": 1,
+                    "голевые_передачи": 1
+                },
+                "cards": {
+                    "yellow": 2,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 3,
+                    "out": 9
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Английской лиги",
+                "matches": 0,
+                "minutes": 303,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 2
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Англии",
+                "matches": 0,
+                "minutes": 100,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 1
+                },
+                "own_goals": 0
+            }
+        ]
+    },
+    "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/420243/plus/1",
+    "via_tor": false
+},
+{
+    "name": "#4 Ben White",
+    "position": "Правый защитник",
+    "stats": {
+        "matches": 26,
+        "minutes": 0,
+        "position_specific": {
+            "голы": 0,
+            "голевые_передачи": 2
+        },
+        "cards": {
+            "yellow": 3,
+            "yellow_red": 0,
+            "red": 0
+        },
+        "substitutions": {
+            "in": 9,
+            "out": 5
+        },
+        "own_goals": 0,
+        "seasons": [
+            {
+                "name": "Премьер-Лига",
+                "matches": 0,
+                "minutes": 0,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 2
+                },
+                "cards": {
+                    "yellow": 2,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 4,
+                    "out": 3
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Лига чемпионов УЕФА",
+                "matches": 0,
+                "minutes": 333,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 5,
+                    "out": 2
+                },
+                "own_goals": 0
+            }
+        ]
+    },
+    "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/335721/plus/1",
+    "via_tor": false
+},
+{
+    "name": "#18 Takehiro Tomiyasu",
+    "position": "Правый защитник",
+    "stats": {
+        "matches": 1,
+        "minutes": 6,
+        "position_specific": {
+            "голы": 0,
+            "голевые_передачи": 0
+        },
+        "cards": {
+            "yellow": 0,
+            "yellow_red": 0,
+            "red": 0
+        },
+        "substitutions": {
+            "in": 1,
+            "out": 0
+        },
+        "own_goals": 0,
+        "seasons": [
+            {
+                "name": "Премьер-Лига",
+                "matches": 0,
+                "minutes": 6,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 1,
+                    "out": 0
+                },
+                "own_goals": 0
+            }
+        ]
+    },
+    "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/331560/plus/1",
+    "via_tor": false
+},
+{
+    "name": "#5 Thomas Partey",
+    "position": "Опорный полузащитник",
+    "stats": {
+        "matches": 52,
+        "minutes": 0,
+        "position_specific": {
+            "голы": 4,
+            "голевые_передачи": 3
+        },
+        "cards": {
+            "yellow": 7,
+            "yellow_red": 0,
+            "red": 0
+        },
+        "substitutions": {
+            "in": 7,
+            "out": 13
+        },
+        "own_goals": 0,
+        "seasons": [
+            {
+                "name": "Премьер-Лига",
+                "matches": 0,
+                "minutes": 0,
+                "position_specific": {
+                    "голы": 4,
+                    "голевые_передачи": 2
+                },
+                "cards": {
+                    "yellow": 4,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 4,
+                    "out": 6
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Лига чемпионов УЕФА",
+                "matches": 0,
+                "minutes": 899,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 1
+                },
+                "cards": {
+                    "yellow": 3,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 1,
+                    "out": 4
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Английской лиги",
+                "matches": 0,
+                "minutes": 227,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 1,
+                    "out": 3
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Англии",
+                "matches": 0,
+                "minutes": 20,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 1,
+                    "out": 0
+                },
+                "own_goals": 0
+            }
+        ]
+    },
+    "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/230784/plus/1",
+    "via_tor": false
+},
+{
+    "name": "#41 Declan Rice",
+    "position": "Центр. полузащитник",
+    "stats": {
+        "matches": 52,
+        "minutes": 0,
+        "position_specific": {
+            "голы": 9,
+            "голевые_передачи": 10
+        },
+        "cards": {
+            "yellow": 8,
+            "yellow_red": 1,
+            "red": 0
+        },
+        "substitutions": {
+            "in": 4,
+            "out": 15
+        },
+        "own_goals": 0,
+        "seasons": [
+            {
+                "name": "Премьер-Лига",
+                "matches": 0,
+                "minutes": 0,
+                "position_specific": {
+                    "голы": 4,
+                    "голевые_передачи": 7
+                },
+                "cards": {
+                    "yellow": 5,
+                    "yellow_red": 1,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 2,
+                    "out": 9
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Лига чемпионов УЕФА",
+                "matches": 0,
+                "minutes": 0,
+                "position_specific": {
+                    "голы": 4,
+                    "голевые_передачи": 2
+                },
+                "cards": {
+                    "yellow": 3,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 1,
+                    "out": 5
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Английской лиги",
+                "matches": 0,
+                "minutes": 242,
+                "position_specific": {
+                    "голы": 1,
+                    "голевые_передачи": 1
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 1
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Англии",
+                "matches": 0,
+                "minutes": 47,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 1,
+                    "out": 0
+                },
+                "own_goals": 0
+            }
+        ]
+    },
+    "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/357662/plus/1",
+    "via_tor": false
+},
+{
+    "name": "#23 Mikel Merino",
+    "position": "Центр. полузащитник",
+    "stats": {
+        "matches": 44,
+        "minutes": 0,
+        "position_specific": {
+            "голы": 9,
+            "голевые_передачи": 5
+        },
+        "cards": {
+            "yellow": 3,
+            "yellow_red": 1,
+            "red": 0
+        },
+        "substitutions": {
+            "in": 15,
+            "out": 10
+        },
+        "own_goals": 0,
+        "seasons": [
+            {
+                "name": "Премьер-Лига",
+                "matches": 0,
+                "minutes": 0,
+                "position_specific": {
+                    "голы": 7,
+                    "голевые_передачи": 2
+                },
+                "cards": {
+                    "yellow": 2,
+                    "yellow_red": 1,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 11,
+                    "out": 5
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Лига чемпионов УЕФА",
+                "matches": 0,
+                "minutes": 817,
+                "position_specific": {
+                    "голы": 2,
+                    "голевые_передачи": 3
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 3,
+                    "out": 3
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Английской лиги",
+                "matches": 0,
+                "minutes": 164,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 1,
+                    "out": 1
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Англии",
+                "matches": 0,
+                "minutes": 73,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 1
+                },
+                "own_goals": 0
+            }
+        ]
+    },
+    "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/338424/plus/1",
+    "via_tor": false
+},
+{
+    "name": "#8 Martin Ødegaard",
+    "position": "Атак. полузащитник",
+    "stats": {
+        "matches": 45,
+        "minutes": 0,
+        "position_specific": {
+            "голы": 6,
+            "голевые_передачи": 12
+        },
+        "cards": {
+            "yellow": 4,
+            "yellow_red": 0,
+            "red": 0
+        },
+        "substitutions": {
+            "in": 7,
+            "out": 16
+        },
+        "own_goals": 0,
+        "seasons": [
+            {
+                "name": "Премьер-Лига",
+                "matches": 0,
+                "minutes": 0,
+                "position_specific": {
+                    "голы": 3,
+                    "голевые_передачи": 8
+                },
+                "cards": {
+                    "yellow": 4,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 4,
+                    "out": 12
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Лига чемпионов УЕФА",
+                "matches": 0,
+                "minutes": 799,
+                "position_specific": {
+                    "голы": 3,
+                    "голевые_передачи": 2
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 2,
+                    "out": 3
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Английской лиги",
+                "matches": 0,
+                "minutes": 196,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 2
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 1,
+                    "out": 1
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Англии",
+                "matches": 0,
+                "minutes": 120,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 0
+                },
+                "own_goals": 0
+            }
+        ]
+    },
+    "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/316264/plus/1",
+    "via_tor": false
+},
+{
+    "name": "#11 Gabriel Martinelli",
+    "position": "Левый Вингер",
+    "stats": {
+        "matches": 51,
+        "minutes": 0,
+        "position_specific": {
+            "голы": 10,
+            "голевые_передачи": 6
+        },
+        "cards": {
+            "yellow": 3,
+            "yellow_red": 0,
+            "red": 0
+        },
+        "substitutions": {
+            "in": 11,
+            "out": 22
+        },
+        "own_goals": 0,
+        "seasons": [
+            {
+                "name": "Премьер-Лига",
+                "matches": 0,
+                "minutes": 0,
+                "position_specific": {
+                    "голы": 8,
+                    "голевые_передачи": 4
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 8,
+                    "out": 15
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Лига чемпионов УЕФА",
+                "matches": 0,
+                "minutes": 937,
+                "position_specific": {
+                    "голы": 2,
+                    "голевые_передачи": 2
+                },
+                "cards": {
+                    "yellow": 2,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 2,
+                    "out": 5
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Английской лиги",
+                "matches": 0,
+                "minutes": 208,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 1,
+                    "out": 2
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Англии",
+                "matches": 0,
+                "minutes": 120,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 0
+                },
+                "own_goals": 0
+            }
+        ]
+    },
+    "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/655488/plus/1",
+    "via_tor": false
+},
+{
+    "name": "#19 Leandro Trossard",
+    "position": "Левый Вингер",
+    "stats": {
+        "matches": 56,
+        "minutes": 0,
+        "position_specific": {
+            "голы": 10,
+            "голевые_передачи": 10
+        },
+        "cards": {
+            "yellow": 3,
+            "yellow_red": 1,
+            "red": 0
+        },
+        "substitutions": {
+            "in": 19,
+            "out": 19
+        },
+        "own_goals": 0,
+        "seasons": [
+            {
+                "name": "Премьер-Лига",
+                "matches": 0,
+                "minutes": 0,
+                "position_specific": {
+                    "голы": 8,
+                    "голевые_передачи": 8
+                },
+                "cards": {
+                    "yellow": 2,
+                    "yellow_red": 1,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 10,
+                    "out": 13
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Лига чемпионов УЕФА",
+                "matches": 0,
+                "minutes": 663,
+                "position_specific": {
+                    "голы": 2,
+                    "голевые_передачи": 2
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 8,
+                    "out": 4
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Английской лиги",
+                "matches": 0,
+                "minutes": 210,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 2
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Англии",
+                "matches": 0,
+                "minutes": 31,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 1,
+                    "out": 0
+                },
+                "own_goals": 0
+            }
+        ]
+    },
+    "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/144028/plus/1",
+    "via_tor": false
+},
+{
+    "name": "#7 Bukayo Saka",
+    "position": "Правый Вингер",
+    "stats": {
+        "matches": 37,
+        "minutes": 0,
+        "position_specific": {
+            "голы": 12,
+            "голевые_передачи": 14
+        },
+        "cards": {
+            "yellow": 5,
+            "yellow_red": 0,
+            "red": 0
+        },
+        "substitutions": {
+            "in": 7,
+            "out": 18
+        },
+        "own_goals": 0,
+        "seasons": [
+            {
+                "name": "Премьер-Лига",
+                "matches": 0,
+                "minutes": 0,
+                "position_specific": {
+                    "голы": 6,
+                    "голевые_передачи": 11
+                },
+                "cards": {
+                    "yellow": 3,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 5,
+                    "out": 13
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Лига чемпионов УЕФА",
+                "matches": 0,
+                "minutes": 764,
+                "position_specific": {
+                    "голы": 6,
+                    "голевые_передачи": 2
+                },
+                "cards": {
+                    "yellow": 2,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 4
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Английской лиги",
+                "matches": 0,
+                "minutes": 119,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 1
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 2,
+                    "out": 1
+                },
+                "own_goals": 0
+            }
+        ]
+    },
+    "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/433177/plus/1",
+    "via_tor": false
+},
+{
+    "name": "#53 Ethan Nwaneri",
+    "position": "Правый Вингер",
+    "stats": {
+        "matches": 37,
+        "minutes": 0,
+        "position_specific": {
+            "голы": 9,
+            "голевые_передачи": 2
+        },
+        "cards": {
+            "yellow": 1,
+            "yellow_red": 0,
+            "red": 0
+        },
+        "substitutions": {
+            "in": 21,
+            "out": 14
+        },
+        "own_goals": 0,
+        "seasons": [
+            {
+                "name": "Премьер-Лига",
+                "matches": 0,
+                "minutes": 889,
+                "position_specific": {
+                    "голы": 4,
+                    "голевые_передачи": 2
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 15,
+                    "out": 10
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Лига чемпионов УЕФА",
+                "matches": 0,
+                "minutes": 221,
+                "position_specific": {
+                    "голы": 2,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 5,
+                    "out": 2
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Английской лиги",
+                "matches": 0,
+                "minutes": 268,
+                "position_specific": {
+                    "голы": 3,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 1,
+                    "out": 2
+                },
+                "own_goals": 0
+            }
+        ]
+    },
+    "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/890719/plus/1",
+    "via_tor": false
+},
+{
+    "name": "#30 Raheem Sterling",
+    "position": "Правый Вингер",
+    "stats": {
+        "matches": 28,
+        "minutes": 0,
+        "position_specific": {
+            "голы": 1,
+            "голевые_передачи": 5
+        },
+        "cards": {
+            "yellow": 5,
+            "yellow_red": 0,
+            "red": 0
+        },
+        "substitutions": {
+            "in": 15,
+            "out": 10
+        },
+        "own_goals": 0,
+        "seasons": [
+            {
+                "name": "Премьер-Лига",
+                "matches": 0,
+                "minutes": 496,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 2
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 10,
+                    "out": 7
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Лига чемпионов УЕФА",
+                "matches": 0,
+                "minutes": 297,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 2
+                },
+                "cards": {
+                    "yellow": 3,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 3,
+                    "out": 1
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Английской лиги",
+                "matches": 0,
+                "minutes": 270,
+                "position_specific": {
+                    "голы": 1,
+                    "голевые_передачи": 1
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 1,
+                    "out": 2
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Англии",
+                "matches": 0,
+                "minutes": 80,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 1,
+                    "out": 0
+                },
+                "own_goals": 0
+            }
+        ]
+    },
+    "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/134425/plus/1",
+    "via_tor": false
+},
+{
+    "name": "#29 Kai Havertz",
+    "position": "Центральный нап.",
+    "stats": {
+        "matches": 36,
+        "minutes": 0,
+        "position_specific": {
+            "голы": 15,
+            "голевые_передачи": 5
+        },
+        "cards": {
+            "yellow": 7,
+            "yellow_red": 0,
+            "red": 0
+        },
+        "substitutions": {
+            "in": 6,
+            "out": 5
+        },
+        "own_goals": 0,
+        "seasons": [
+            {
+                "name": "Премьер-Лига",
+                "matches": 0,
+                "minutes": 0,
+                "position_specific": {
+                    "голы": 9,
+                    "голевые_передачи": 3
+                },
+                "cards": {
+                    "yellow": 5,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 2,
+                    "out": 3
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Лига чемпионов УЕФА",
+                "matches": 0,
+                "minutes": 561,
+                "position_specific": {
+                    "голы": 4,
+                    "голевые_передачи": 2
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 2,
+                    "out": 2
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Английской лиги",
+                "matches": 0,
+                "minutes": 253,
+                "position_specific": {
+                    "голы": 2,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 2,
+                    "out": 0
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Англии",
+                "matches": 0,
+                "minutes": 120,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 0
+                },
+                "own_goals": 0
+            }
+        ]
+    },
+    "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/309400/plus/1",
+    "via_tor": false
+},
+{
+    "name": "#9 Gabriel Jesus",
+    "position": "Центральный нап.",
+    "stats": {
+        "matches": 27,
+        "minutes": 0,
+        "position_specific": {
+            "голы": 7,
+            "голевые_передачи": 2
+        },
+        "cards": {
+            "yellow": 4,
+            "yellow_red": 0,
+            "red": 0
+        },
+        "substitutions": {
+            "in": 14,
+            "out": 8
+        },
+        "own_goals": 0,
+        "seasons": [
+            {
+                "name": "Премьер-Лига",
+                "matches": 0,
+                "minutes": 603,
+                "position_specific": {
+                    "голы": 3,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 3,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 11,
+                    "out": 4
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Лига чемпионов УЕФА",
+                "matches": 0,
+                "minutes": 260,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 1
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 2,
+                    "out": 3
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Английской лиги",
+                "matches": 0,
+                "minutes": 301,
+                "position_specific": {
+                    "голы": 4,
+                    "голевые_передачи": 1
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 1,
+                    "out": 0
+                },
+                "own_goals": 0
+            },
+            {
+                "name": "Кубок Англии",
+                "matches": 0,
+                "minutes": 40,
+                "position_specific": {
+                    "голы": 0,
+                    "голевые_передачи": 0
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellow_red": 0,
+                    "red": 0
+                },
+                "substitutions": {
+                    "in": 0,
+                    "out": 1
+                },
+                "own_goals": 0
+            }
+        ]
+    },
+    "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/363205/plus/1",
+    "via_tor": false
+}
+]
