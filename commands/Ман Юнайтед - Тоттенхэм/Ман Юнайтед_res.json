@@ -1,0 +1,132 @@
+[
+    {
+        "name": "#31 Senne Lammens",
+        "position": "Вратарь",
+        "readiness": 0.5571304347826087
+    },
+    {
+        "name": "#1 Altay Bayındır",
+        "position": "Вратарь",
+        "readiness": 0.5666666666666667
+    },
+    {
+        "name": "#22 Tom Heaton",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#15 Leny Yoro",
+        "position": "Центр. защитник",
+        "readiness": 0.45128465148378194
+    },
+    {
+        "name": "#4 Matthijs de Ligt",
+        "position": "Центр. защитник",
+        "readiness": 0.6294325396825396
+    },
+    {
+        "name": "#6 Lisandro Martínez",
+        "position": "Центр. защитник",
+        "readiness": 0.4066622710622711
+    },
+    {
+        "name": "#5 Harry Maguire",
+        "position": "Центр. защитник",
+        "readiness": 0.45476010940170936
+    },
+    {
+        "name": "#26 Ayden Heaven",
+        "position": "Центр. защитник",
+        "readiness": 0.3466500610500611
+    },
+    {
+        "name": "#33 Tyler Fredricson",
+        "position": "Центр. защитник",
+        "readiness": 0.2953561904761905
+    },
+    {
+        "name": "#13 Patrick Dorgu",
+        "position": "Левый защитник",
+        "readiness": 0.492365
+    },
+    {
+        "name": "#23 Luke Shaw",
+        "position": "Левый защитник",
+        "readiness": 0.4216499801587302
+    },
+    {
+        "name": "#12 Tyrell Malacia",
+        "position": "Левый защитник",
+        "readiness": 0.349581164021164
+    },
+    {
+        "name": "#35 Diego León",
+        "position": "Левый защитник",
+        "readiness": 0.2955264
+    },
+    {
+        "name": "#2 Diogo Dalot",
+        "position": "Правый защитник",
+        "readiness": 0.5659355158730158
+    },
+    {
+        "name": "#3 Noussair Mazraoui",
+        "position": "Правый защитник",
+        "readiness": 0.35217821067821065
+    },
+    {
+        "name": "#25 Manuel Ugarte",
+        "position": "Опорный полузащитник",
+        "readiness": 0.4097865497076023
+    },
+    {
+        "name": "#18 Casemiro",
+        "position": "Опорный полузащитник",
+        "readiness": 0.4534789371980676
+    },
+    {
+        "name": "#37 Kobbie Mainoo",
+        "position": "Центр. полузащитник",
+        "readiness": 0.39873399626517275
+    },
+    {
+        "name": "#8 Bruno Fernandes",
+        "position": "Атак. полузащитник",
+        "readiness": 0.674008509868875
+    },
+    {
+        "name": "#7 Mason Mount",
+        "position": "Атак. полузащитник",
+        "readiness": 0.47538805346700086
+    },
+    {
+        "name": "#19 Bryan Mbeumo",
+        "position": "Правый Вингер",
+        "readiness": 0.5399166666666667
+    },
+    {
+        "name": "#16 Amad Diallo",
+        "position": "Правый Вингер",
+        "readiness": 0.32086343859649125
+    },
+    {
+        "name": "#10 Matheus Cunha",
+        "position": "Центральный нап.",
+        "readiness": 0.5877681159420289
+    },
+    {
+        "name": "#30 Benjamin Sesko",
+        "position": "Центральный нап.",
+        "readiness": 0.4898628253968253
+    },
+    {
+        "name": "#11 Joshua Zirkzee",
+        "position": "Центральный нап.",
+        "readiness": 0.30906625
+    },
+    {
+        "name": "#32 Chido Obi",
+        "position": "Центральный нап.",
+        "readiness": 0.5324209090909091
+    }
+]

@@ -1,0 +1,722 @@
+[
+    {
+        "name": "#13 John Victor",
+        "position": "Вратарь",
+        "age": 29,
+        "height": 197,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 9,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 12,
+                "total_clean_sheets": 3,
+                "total_minutes_played": 798
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/432914/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#26 Matz Sels",
+        "position": "Вратарь",
+        "age": 33,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 26,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 36,
+                "total_clean_sheets": 7,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/127202/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#27 Stefan Ortega",
+        "position": "Вратарь",
+        "age": 33,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/85941/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#18 Angus Gunn",
+        "position": "Вратарь",
+        "age": 30,
+        "height": 196,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 1,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 1,
+                "total_minutes_played": 45
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/201574/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#5 Murillo",
+        "position": "Центр. защитник",
+        "age": 23,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 1,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1005649/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#31 Nikola Milenković",
+        "position": "Центр. защитник",
+        "age": 28,
+        "height": 195,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 32,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 1,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/413507/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#4 Morato",
+        "position": "Центр. защитник",
+        "age": 24,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/673492/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#23 Jair Cunha",
+        "position": "Центр. защитник",
+        "age": 20,
+        "height": 198,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 5,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 435
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/984096/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#30 Willy Boly",
+        "position": "Центр. защитник",
+        "age": 35,
+        "height": 195,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 2,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 91
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/142310/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#44 Zach Abbott",
+        "position": "Центр. защитник",
+        "age": 19,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 1,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/933017/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#3 Neco Williams",
+        "position": "Левый защитник",
+        "age": 24,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 32,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/503680/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#33 Cuiabano",
+        "position": "Левый защитник",
+        "age": 22,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 2,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 180
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/891353/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#25 Luca Netz",
+        "position": "Левый защитник",
+        "age": 22,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/524285/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#34 Ola Aina",
+        "position": "Правый защитник",
+        "age": 29,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 12,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 944
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/236490/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#37 Nicolò Savona",
+        "position": "Правый защитник",
+        "age": 22,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 2,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/708072/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#17 Eric da Silva Moreira",
+        "position": "Правый защитник",
+        "age": 19,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 6,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 304
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/897481/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#6 Ibrahim Sangaré",
+        "position": "Опорный полузащитник",
+        "age": 28,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 2,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/375885/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#8 Elliot Anderson",
+        "position": "Центр. полузащитник",
+        "age": 23,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 30,
+                "total_goals": 1,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/567576/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#16 Nicolás Domínguez",
+        "position": "Центр. полузащитник",
+        "age": 27,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 13,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/497291/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#22 Ryan Yates",
+        "position": "Центр. полузащитник",
+        "age": 28,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 1,
+                "total_assists": 3,
+                "total_own_goals": 1,
+                "total_substitutions_in": 13,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 802
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/425902/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#10 Morgan Gibbs-White",
+        "position": "Атак. полузащитник",
+        "age": 26,
+        "height": 171,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 33,
+                "total_goals": 7,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 2,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/429014/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#21 Omari Hutchinson",
+        "position": "Атак. полузащитник",
+        "age": 22,
+        "height": 174,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 1,
+                "total_assists": 5,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/741238/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#24 James McAtee",
+        "position": "Атак. полузащитник",
+        "age": 23,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 652
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/583199/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#7 Callum Hudson-Odoi",
+        "position": "Левый Вингер",
+        "age": 25,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 31,
+                "total_goals": 5,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 12,
+                "total_substitutions_out": 12,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/392768/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#14 Dan Ndoye",
+        "position": "Правый Вингер",
+        "age": 25,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 26,
+                "total_goals": 2,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 12,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/365108/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#29 Dilane Bakwa",
+        "position": "Правый Вингер",
+        "age": 23,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 1,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 12,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 758
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/540664/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#20 Lorenzo Lucca",
+        "position": "Центральный нап.",
+        "age": 25,
+        "height": 200,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 17,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 595
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/572265/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#19 Igor Jesus",
+        "position": "Центральный нап.",
+        "age": 24,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 31,
+                "total_goals": 11,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 16,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/432164/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#9 Taiwo Awoniyi",
+        "position": "Центральный нап.",
+        "age": 28,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 9,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 236
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/295313/plus/1",
+        "team": "Ноттингем Форест"
+    },
+    {
+        "name": "#11 Chris Wood",
+        "position": "Центральный нап.",
+        "age": 34,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 9,
+                "total_goals": 3,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 560
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/108725/plus/1",
+        "team": "Ноттингем Форест"
+    }
+]

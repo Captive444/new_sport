@@ -1,0 +1,652 @@
+[
+    {
+        "name": "#40 Jonas Urbig",
+        "position": "Вратарь",
+        "age": 22,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 7,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 6,
+                "total_clean_sheets": 3,
+                "total_minutes_played": 630
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/607720/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "#1 Manuel Neuer",
+        "position": "Вратарь",
+        "age": 39,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 26,
+                "total_clean_sheets": 7,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/17259/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "#26 Sven Ulreich",
+        "position": "Вратарь",
+        "age": 37,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/40680/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "Leon Klanac",
+        "position": "Вратарь",
+        "age": 18,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 29,
+                "total_clean_sheets": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1009439/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "#2 Dayot Upamecano",
+        "position": "Центр. защитник",
+        "age": 27,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 26,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 8,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/344695/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "#4 Jonathan Tah",
+        "position": "Центр. защитник",
+        "age": 29,
+        "height": 195,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 29,
+                "total_goals": 3,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/196357/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "#3 Min-jae Kim",
+        "position": "Центр. защитник",
+        "age": 29,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/503482/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "#21 Hiroki Ito",
+        "position": "Центр. защитник",
+        "age": 26,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 12,
+                "total_goals": 1,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 533
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/353892/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "#19 Alphonso Davies",
+        "position": "Левый защитник",
+        "age": 25,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 8,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 259
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/424204/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "#22 Raphaël Guerreiro",
+        "position": "Левый защитник",
+        "age": 32,
+        "height": 170,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 4,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 763
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/170986/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "#27 Konrad Laimer",
+        "position": "Правый защитник",
+        "age": 28,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 26,
+                "total_goals": 2,
+                "total_assists": 8,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 8,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/223967/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "#44 Josip Stanisic",
+        "position": "Правый защитник",
+        "age": 25,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 2,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/483046/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "#23 Sacha Boey",
+        "position": "Правый защитник",
+        "age": 25,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 630
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/475413/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "#45 Aleksandar Pavlovic",
+        "position": "Опорный полузащитник",
+        "age": 21,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 28,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/792380/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "#6 Joshua Kimmich",
+        "position": "Опорный полузащитник",
+        "age": 30,
+        "height": 177,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 28,
+                "total_goals": 1,
+                "total_assists": 8,
+                "total_own_goals": 1,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/161056/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "David Santos Daiber",
+        "position": "Опорный полузащитник",
+        "age": 19,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1118495/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "#20 Tom Bischof",
+        "position": "Центр. полузащитник",
+        "age": 20,
+        "height": 176,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 24,
+                "total_goals": 0,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 13,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/822959/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "#8 Leon Goretzka",
+        "position": "Центр. полузащитник",
+        "age": 30,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 28,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 12,
+                "total_substitutions_out": 12,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/153084/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "#39 Bara Sapoko Ndiaye",
+        "position": "Центр. полузащитник",
+        "age": 18,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1497653/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "#10 Jamal Musiala",
+        "position": "Атак. полузащитник",
+        "age": 22,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 4,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 119
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/580195/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "#42 Lennart Karl",
+        "position": "Атак. полузащитник",
+        "age": 17,
+        "height": 168,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 29,
+                "total_goals": 7,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 17,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1075147/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "#14 Luis Díaz",
+        "position": "Левый Вингер",
+        "age": 29,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 29,
+                "total_goals": 15,
+                "total_assists": 12,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/480692/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "Wisdom Mike",
+        "position": "Левый Вингер",
+        "age": 17,
+        "height": 176,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 12,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 476
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1084539/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "#17 Michael Olise",
+        "position": "Правый Вингер",
+        "age": 24,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 32,
+                "total_goals": 13,
+                "total_assists": 23,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 7,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/566723/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "#7 Serge Gnabry",
+        "position": "Оттянутый нап.",
+        "age": 30,
+        "height": 176,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 26,
+                "total_goals": 7,
+                "total_assists": 8,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 16,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/159471/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "#9 Harry Kane",
+        "position": "Центральный нап.",
+        "age": 32,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 32,
+                "total_goals": 36,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 12,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 9,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/132098/plus/1",
+        "team": "Бавария"
+    },
+    {
+        "name": "#11 Nicolas Jackson",
+        "position": "Центральный нап.",
+        "age": 24,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 5,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 13,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 615
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/776890/plus/1",
+        "team": "Бавария"
+    }
+]

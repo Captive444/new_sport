@@ -1,0 +1,127 @@
+[
+    {
+        "name": "#20 Zafer Görgen",
+        "position": "Вратарь",
+        "readiness": 0.6478021978021978
+    },
+    {
+        "name": "#71 Burak Bozan",
+        "position": "Вратарь",
+        "readiness": 0.5660714285714286
+    },
+    {
+        "name": "#23 Tayyip Talha Sanuç",
+        "position": "Центр. защитник",
+        "readiness": 0.3536640211640212
+    },
+    {
+        "name": "#5 Nihad Mujakic",
+        "position": "Центр. защитник",
+        "readiness": 0.543640873015873
+    },
+    {
+        "name": "#4 Arda Kızıldağ",
+        "position": "Центр. защитник",
+        "readiness": 0.41802589807852963
+    },
+    {
+        "name": "#14 Myenty Abena",
+        "position": "Центр. защитник",
+        "readiness": 0.48847473356009075
+    },
+    {
+        "name": "#30 Nazım Sangaré",
+        "position": "Центр. защитник",
+        "readiness": 0.5462694671201814
+    },
+    {
+        "name": "#77 Kévin Rodrigues",
+        "position": "Левый защитник",
+        "readiness": 0.33490776851851844
+    },
+    {
+        "name": "#2 Luis Pérez",
+        "position": "Правый защитник",
+        "readiness": 0.40603776587301593
+    },
+    {
+        "name": "#22 Salem M'Bakata",
+        "position": "Правый защитник",
+        "readiness": 0.2509266666666667
+    },
+    {
+        "name": "#6 Melih Kabasakal",
+        "position": "Опорный полузащитник",
+        "readiness": 0.3790354803675856
+    },
+    {
+        "name": "#61 Ogün Özçiçek",
+        "position": "Опорный полузащитник",
+        "readiness": 0.33518816207184626
+    },
+    {
+        "name": "#3 Drissa Camara",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4770210001867414
+    },
+    {
+        "name": "#17 Karamba Gassama",
+        "position": "Центр. полузащитник",
+        "readiness": 0.45778166666666664
+    },
+    {
+        "name": "#10 Kacper Kozlowski",
+        "position": "Атак. полузащитник",
+        "readiness": 0.5491799603174603
+    },
+    {
+        "name": "#44 Alexandru Maxim",
+        "position": "Атак. полузащитник",
+        "readiness": 0.38505669696969697
+    },
+    {
+        "name": "#8 Victor Ntino-Emo Gidado",
+        "position": "Атак. полузащитник",
+        "readiness": 0.44031288405797103
+    },
+    {
+        "name": "#32 Yusuf Kabadayi",
+        "position": "Левый Вингер",
+        "readiness": 0.181881568627451
+    },
+    {
+        "name": "#11 Christopher Lungoyi",
+        "position": "Левый Вингер",
+        "readiness": 0.49191228070175436
+    },
+    {
+        "name": "#26 Ali Osman Kalın",
+        "position": "Левый Вингер",
+        "readiness": 0.30141312121212116
+    },
+    {
+        "name": "#18 Deian Sorescu",
+        "position": "Правый Вингер",
+        "readiness": 0.4305
+    },
+    {
+        "name": "#16 Ali Mevran Ablak",
+        "position": "Правый Вингер",
+        "readiness": 0.34367812865497077
+    },
+    {
+        "name": "#9 Mohamed Bayo",
+        "position": "Центральный нап.",
+        "readiness": 0.7513921568627451
+    },
+    {
+        "name": "#70 Denis Drăguș",
+        "position": "Центральный нап.",
+        "readiness": 0.40175
+    },
+    {
+        "name": "#85 Muhammet Akmelek",
+        "position": "Центральный нап.",
+        "readiness": 0.4553096666666666
+    }
+]

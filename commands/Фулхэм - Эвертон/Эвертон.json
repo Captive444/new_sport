@@ -1,0 +1,602 @@
+[
+    {
+        "name": "#1 Jordan Pickford",
+        "position": "Вратарь",
+        "age": 31,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 28,
+                "total_clean_sheets": 9,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/130164/plus/1",
+        "team": "Эвертон"
+    },
+    {
+        "name": "#12 Mark Travers",
+        "position": "Вратарь",
+        "age": 26,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 2,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 2,
+                "total_clean_sheets": 1,
+                "total_minutes_played": 180
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/357658/plus/1",
+        "team": "Эвертон"
+    },
+    {
+        "name": "#31 Tom King",
+        "position": "Вратарь",
+        "age": 30,
+        "height": 194,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/215810/plus/1",
+        "team": "Эвертон"
+    },
+    {
+        "name": "#32 Jarrad Branthwaite",
+        "position": "Центр. защитник",
+        "age": 23,
+        "height": 195,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 2,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 134
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/661053/plus/1",
+        "team": "Эвертон"
+    },
+    {
+        "name": "#6 James Tarkowski",
+        "position": "Центр. защитник",
+        "age": 33,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 27,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/173504/plus/1",
+        "team": "Эвертон"
+    },
+    {
+        "name": "#5 Michael Keane",
+        "position": "Центр. защитник",
+        "age": 33,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 3,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/118534/plus/1",
+        "team": "Эвертон"
+    },
+    {
+        "name": "#16 Vitaliy Mykolenko",
+        "position": "Левый защитник",
+        "age": 26,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/404842/plus/1",
+        "team": "Эвертон"
+    },
+    {
+        "name": "#39 Adam Aznou",
+        "position": "Левый защитник",
+        "age": 19,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 4,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 295
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/938146/plus/1",
+        "team": "Эвертон"
+    },
+    {
+        "name": "#15 Jake O'Brien",
+        "position": "Правый защитник",
+        "age": 24,
+        "height": 197,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 27,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/711544/plus/1",
+        "team": "Эвертон"
+    },
+    {
+        "name": "#2 Nathan Patterson",
+        "position": "Правый защитник",
+        "age": 24,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 8,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 445
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/424015/plus/1",
+        "team": "Эвертон"
+    },
+    {
+        "name": "#23 Séamus Coleman",
+        "position": "Правый защитник",
+        "age": 37,
+        "height": 177,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 5,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 180
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/68390/plus/1",
+        "team": "Эвертон"
+    },
+    {
+        "name": "#37 James Garner",
+        "position": "Опорный полузащитник",
+        "age": 24,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 27,
+                "total_goals": 3,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/505219/plus/1",
+        "team": "Эвертон"
+    },
+    {
+        "name": "#27 Idrissa Gueye",
+        "position": "Опорный полузащитник",
+        "age": 36,
+        "height": 174,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/126665/plus/1",
+        "team": "Эвертон"
+    },
+    {
+        "name": "#22 Kiernan Dewsbury-Hall",
+        "position": "Центр. полузащитник",
+        "age": 27,
+        "height": 176,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 4,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/475188/plus/1",
+        "team": "Эвертон"
+    },
+    {
+        "name": "#24 Carlos Alcaraz",
+        "position": "Центр. полузащитник",
+        "age": 23,
+        "height": 176,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 796
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/748319/plus/1",
+        "team": "Эвертон"
+    },
+    {
+        "name": "#42 Tim Iroegbunam",
+        "position": "Центр. полузащитник",
+        "age": 22,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 0,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 8,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/696589/plus/1",
+        "team": "Эвертон"
+    },
+    {
+        "name": "#45 Harrison Armstrong",
+        "position": "Центр. полузащитник",
+        "age": 19,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 1,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 12,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1107733/plus/1",
+        "team": "Эвертон"
+    },
+    {
+        "name": "#34 Merlin Röhl",
+        "position": "Атак. полузащитник",
+        "age": 23,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 509
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/608832/plus/1",
+        "team": "Эвертон"
+    },
+    {
+        "name": "#18 Jack Grealish",
+        "position": "Левый Вингер",
+        "age": 30,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 2,
+                "total_assists": 6,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/203460/plus/1",
+        "team": "Эвертон"
+    },
+    {
+        "name": "#19 Tyrique George",
+        "position": "Левый Вингер",
+        "age": 20,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 3,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 492
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/936874/plus/1",
+        "team": "Эвертон"
+    },
+    {
+        "name": "#7 Dwight McNeil",
+        "position": "Левый Вингер",
+        "age": 26,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 963
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/584769/plus/1",
+        "team": "Эвертон"
+    },
+    {
+        "name": "#10 Iliman Ndiaye",
+        "position": "Правый Вингер",
+        "age": 25,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 4,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/623570/plus/1",
+        "team": "Эвертон"
+    },
+    {
+        "name": "#20 Tyler Dibling",
+        "position": "Правый Вингер",
+        "age": 19,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 519
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/866655/plus/1",
+        "team": "Эвертон"
+    },
+    {
+        "name": "#11 Thierno Barry",
+        "position": "Центральный нап.",
+        "age": 23,
+        "height": 195,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 27,
+                "total_goals": 5,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 17,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/937941/plus/1",
+        "team": "Эвертон"
+    },
+    {
+        "name": "#9 Beto",
+        "position": "Центральный нап.",
+        "age": 28,
+        "height": 194,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 27,
+                "total_goals": 4,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 18,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/595809/plus/1",
+        "team": "Эвертон"
+    }
+]

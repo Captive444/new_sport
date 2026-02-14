@@ -1,0 +1,117 @@
+[
+    {
+        "name": "#1 Mads Hermansen",
+        "position": "Вратарь",
+        "readiness": 0.49280000000000007
+    },
+    {
+        "name": "#23 Alphonse Areola",
+        "position": "Вратарь",
+        "readiness": 0.5595238095238095
+    },
+    {
+        "name": "#22 Lukasz Fabianski",
+        "position": "Вратарь",
+        "readiness": 0.49400000000000005
+    },
+    {
+        "name": "#25 Jean-Clair Todibo",
+        "position": "Центр. защитник",
+        "readiness": 0.48887896825396826
+    },
+    {
+        "name": "#3 Maximilian Kilman",
+        "position": "Центр. защитник",
+        "readiness": 0.5513872946859903
+    },
+    {
+        "name": "#4 Axel Disasi",
+        "position": "Центр. защитник",
+        "readiness": 0.4181243386243386
+    },
+    {
+        "name": "#15 Konstantinos Mavropanos",
+        "position": "Центр. защитник",
+        "readiness": 0.5568802923976608
+    },
+    {
+        "name": "#63 Ezra Mayers",
+        "position": "Центр. защитник",
+        "readiness": 0.48522395382395384
+    },
+    {
+        "name": "#12 El Hadji Malick Diouf",
+        "position": "Левый защитник",
+        "readiness": 0.49456280701754385
+    },
+    {
+        "name": "#30 Oliver Scarles",
+        "position": "Левый защитник",
+        "readiness": 0.32921535714285716
+    },
+    {
+        "name": "#29 Aaron Wan-Bissaka",
+        "position": "Правый защитник",
+        "readiness": 0.5660262896825397
+    },
+    {
+        "name": "#2 Kyle Walker-Peters",
+        "position": "Правый защитник",
+        "readiness": 0.44610994708994706
+    },
+    {
+        "name": "#27 Soungoutou Magassa",
+        "position": "Опорный полузащитник",
+        "readiness": 0.3292457671957672
+    },
+    {
+        "name": "#28 Tomáš Souček",
+        "position": "Опорный полузащитник",
+        "readiness": 0.5699037698412698
+    },
+    {
+        "name": "#32 Freddie Potts",
+        "position": "Опорный полузащитник",
+        "readiness": 0.45433936507936507
+    },
+    {
+        "name": "#18 Mateus Fernandes",
+        "position": "Центр. полузащитник",
+        "readiness": 0.48038179487179494
+    },
+    {
+        "name": "#7 Crysencio Summerville",
+        "position": "Левый Вингер",
+        "readiness": 0.4219583333333333
+    },
+    {
+        "name": "Keiber Lamadrid",
+        "position": "Левый Вингер",
+        "readiness": 0.6215850666666667
+    },
+    {
+        "name": "#20 Jarrod Bowen",
+        "position": "Правый Вингер",
+        "readiness": 0.5252505128205128
+    },
+    {
+        "name": "#17 Adama Traoré",
+        "position": "Правый Вингер",
+        "readiness": 0.21554015873015872
+    },
+    {
+        "name": "#11 Taty Castellanos",
+        "position": "Центральный нап.",
+        "readiness": 0.43276470588235294
+    },
+    {
+        "name": "#9 Callum Wilson",
+        "position": "Центральный нап.",
+        "readiness": 0.4291257142857143
+    },
+    {
+        "name": "#19 Pablo",
+        "position": "Центральный нап.",
+        "readiness": 0.6352533333333333
+    }
+]

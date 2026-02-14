@@ -1,0 +1,650 @@
+[
+    {
+        "name": "#1 Ertuğrul Taşkıran",
+        "position": "Вратарь",
+        "age": 36,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 22,
+                "total_clean_sheets": 7,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/91945/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#48 Paulo Victor",
+        "position": "Вратарь",
+        "age": 39,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 5,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 3,
+                "total_clean_sheets": 3,
+                "total_minutes_played": 450
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/67886/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#3 Nuno Lima",
+        "position": "Центр. защитник",
+        "age": 24,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 24,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/836336/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#50 Ümit Akdağ",
+        "position": "Центр. защитник",
+        "age": 22,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 1,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/958647/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#20 Fatih Aksoy",
+        "position": "Центр. защитник",
+        "age": 28,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 695
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/338794/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#5 Fidan Aliti",
+        "position": "Центр. защитник",
+        "age": 32,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 8,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/182870/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#30 Bruno Viana",
+        "position": "Центр. защитник",
+        "age": 31,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 5,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 344
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/411838/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#4 Bedirhan Özyurt",
+        "position": "Центр. защитник",
+        "age": 22,
+        "height": 195,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 1,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 90
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/710051/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#18 Baran Moğultay",
+        "position": "Левый защитник",
+        "age": 21,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 7,
+                "total_goals": 1,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 402
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/922892/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#2 Batuhan Yavuz",
+        "position": "Правый защитник",
+        "age": 20,
+        "height": 177,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 3,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 54
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/745596/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#58 Maestro",
+        "position": "Опорный полузащитник",
+        "age": 22,
+        "height": 173,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/666551/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#42 Gaius Makouta",
+        "position": "Опорный полузащитник",
+        "age": 28,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 24,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/450173/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#17 Nicolas Janvier",
+        "position": "Центр. полузащитник",
+        "age": 27,
+        "height": 172,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 775
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/324803/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#8 Enes Keskin",
+        "position": "Центр. полузащитник",
+        "age": 24,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 9,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 433
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/742611/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#6 İzzet Çelik",
+        "position": "Центр. полузащитник",
+        "age": 21,
+        "height": 166,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 6,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 78
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/811841/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#21 Buluthan Bulut",
+        "position": "Центр. полузащитник",
+        "age": 23,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 115,
+                "total_goals": 5,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 28,
+                "total_substitutions_out": 46,
+                "total_yellow_cards": 22,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/700305/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#94 Florent Hadergjonaj",
+        "position": "Правый полузащитник",
+        "age": 31,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 5,
+                "total_assists": 5,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 3,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/238809/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#11 Ruan",
+        "position": "Левый полузащитник",
+        "age": 20,
+        "height": 172,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 2,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1053933/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#88 Yusuf Özdemir",
+        "position": "Левый полузащитник",
+        "age": 25,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 907
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/652426/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#14 Ianis Hagi",
+        "position": "Атак. полузащитник",
+        "age": 27,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 4,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/282076/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#27 İbrahim Kaya",
+        "position": "Атак. полузащитник",
+        "age": 24,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 24,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 12,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/712127/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#16 Ui-jo Hwang",
+        "position": "Атак. полузащитник",
+        "age": 33,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 3,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 15,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/260166/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#7 Efecan Karaca",
+        "position": "Атак. полузащитник",
+        "age": 36,
+        "height": 170,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 578
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/50655/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#38 Yusuf Can Karademir",
+        "position": "Атак. полузащитник",
+        "age": 18,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 6,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1243736/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#12 Meschack Elia",
+        "position": "Центральный нап.",
+        "age": 28,
+        "height": 173,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 470
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/423678/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#9 Steve Mounié",
+        "position": "Центральный нап.",
+        "age": 31,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 8,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 489
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/238639/plus/1",
+        "team": "Аланьяспор"
+    },
+    {
+        "name": "#10 Güven Yalçın",
+        "position": "Центральный нап.",
+        "age": 27,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 5,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 720
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/341019/plus/1",
+        "team": "Аланьяспор"
+    }
+]

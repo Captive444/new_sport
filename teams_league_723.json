@@ -1,0 +1,326 @@
+[
+  {
+    "team_id": "6969",
+    "team_name": "Истанбул ББ",
+    "team_url": "https://soccer365.ru/clubs/6969/",
+    "position_in_league": 6,
+    "last_results": [],
+    "form_stats": {
+      "total_matches": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "form": ""
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-01-18T15:23:41"
+  },
+  {
+    "team_id": "8817",
+    "team_name": "Фатих Карагумрук",
+    "team_url": "https://soccer365.ru/clubs/8817/",
+    "position_in_league": 18,
+    "last_results": [],
+    "form_stats": {
+      "total_matches": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "form": ""
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-01-18T15:23:42"
+  },
+  {
+    "team_id": "42",
+    "team_name": "Галатасарай",
+    "team_url": "https://soccer365.ru/clubs/42/",
+    "position_in_league": 1,
+    "last_results": [],
+    "form_stats": {
+      "total_matches": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "form": ""
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-01-18T15:23:43"
+  },
+  {
+    "team_id": "7080",
+    "team_name": "Газиантеп ББ",
+    "team_url": "https://soccer365.ru/clubs/7080/",
+    "position_in_league": 8,
+    "last_results": [],
+    "form_stats": {
+      "total_matches": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "form": ""
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-01-18T15:23:43"
+  },
+  {
+    "team_id": "6913",
+    "team_name": "Касымпаша",
+    "team_url": "https://soccer365.ru/clubs/6913/",
+    "position_in_league": 16,
+    "last_results": [],
+    "form_stats": {
+      "total_matches": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "form": ""
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-01-18T15:23:44"
+  },
+  {
+    "team_id": "6964",
+    "team_name": "Антальяспор",
+    "team_url": "https://soccer365.ru/clubs/6964/",
+    "position_in_league": 15,
+    "last_results": [],
+    "form_stats": {
+      "total_matches": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "form": ""
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-01-18T15:23:45"
+  },
+  {
+    "team_id": "45",
+    "team_name": "Генчлербирлиги",
+    "team_url": "https://soccer365.ru/clubs/45/",
+    "position_in_league": 12,
+    "last_results": [],
+    "form_stats": {
+      "total_matches": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "form": ""
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-01-18T15:23:45"
+  },
+  {
+    "team_id": "7081",
+    "team_name": "Самсунспор",
+    "team_url": "https://soccer365.ru/clubs/7081/",
+    "position_in_league": 7,
+    "last_results": [],
+    "form_stats": {
+      "total_matches": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "form": ""
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-01-18T15:23:47"
+  },
+  {
+    "team_id": "8591",
+    "team_name": "Коджаэлиспор",
+    "team_url": "https://soccer365.ru/clubs/8591/",
+    "position_in_league": 9,
+    "last_results": [],
+    "form_stats": {
+      "total_matches": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "form": ""
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-01-18T15:23:47"
+  },
+  {
+    "team_id": "6945",
+    "team_name": "Трабзонспор",
+    "team_url": "https://soccer365.ru/clubs/6945/",
+    "position_in_league": 3,
+    "last_results": [],
+    "form_stats": {
+      "total_matches": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "form": ""
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-01-18T15:23:48"
+  },
+  {
+    "team_id": "7001",
+    "team_name": "Аланьяспор",
+    "team_url": "https://soccer365.ru/clubs/7001/",
+    "position_in_league": 10,
+    "last_results": [],
+    "form_stats": {
+      "total_matches": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "form": ""
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-01-18T15:23:49"
+  },
+  {
+    "team_id": "171",
+    "team_name": "Фенербахче",
+    "team_url": "https://soccer365.ru/clubs/171/",
+    "position_in_league": 2,
+    "last_results": [],
+    "form_stats": {
+      "total_matches": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "form": ""
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-01-18T15:23:50"
+  },
+  {
+    "team_id": "7057",
+    "team_name": "Коньяспор",
+    "team_url": "https://soccer365.ru/clubs/7057/",
+    "position_in_league": 13,
+    "last_results": [],
+    "form_stats": {
+      "total_matches": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "form": ""
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-01-18T15:23:50"
+  },
+  {
+    "team_id": "10962",
+    "team_name": "Эюпспор",
+    "team_url": "https://soccer365.ru/clubs/10962/",
+    "position_in_league": 17,
+    "last_results": [],
+    "form_stats": {
+      "total_matches": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "form": ""
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-01-18T15:23:51"
+  },
+  {
+    "team_id": "15",
+    "team_name": "Бешикташ",
+    "team_url": "https://soccer365.ru/clubs/15/",
+    "position_in_league": 5,
+    "last_results": [],
+    "form_stats": {
+      "total_matches": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "form": ""
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-01-18T15:23:52"
+  },
+  {
+    "team_id": "55",
+    "team_name": "Кайсериспор",
+    "team_url": "https://soccer365.ru/clubs/55/",
+    "position_in_league": 14,
+    "last_results": [],
+    "form_stats": {
+      "total_matches": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "form": ""
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-01-18T15:23:52"
+  },
+  {
+    "team_id": "7046",
+    "team_name": "Гёзтепе",
+    "team_url": "https://soccer365.ru/clubs/7046/",
+    "position_in_league": 4,
+    "last_results": [],
+    "form_stats": {
+      "total_matches": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "form": ""
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-01-18T15:23:53"
+  },
+  {
+    "team_id": "6914",
+    "team_name": "Ризеспор",
+    "team_url": "https://soccer365.ru/clubs/6914/",
+    "position_in_league": 11,
+    "last_results": [],
+    "form_stats": {
+      "total_matches": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "form": ""
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-01-18T15:23:54"
+  }
+]

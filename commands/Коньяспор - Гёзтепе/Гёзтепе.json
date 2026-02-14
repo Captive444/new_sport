@@ -1,0 +1,650 @@
+[
+    {
+        "name": "#1 Mateusz Lis",
+        "position": "Вратарь",
+        "age": 28,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 13,
+                "total_clean_sheets": 11,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/345437/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "#17 Ekrem Kılıçarslan",
+        "position": "Вратарь",
+        "age": 28,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/464378/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "#33 Şamil Öztürk",
+        "position": "Вратарь",
+        "age": 20,
+        "height": 194,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1014342/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "#21 Nevzat Üzel",
+        "position": "Вратарь",
+        "age": 18,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 13,
+                "total_clean_sheets": 11,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1175606/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "#4 Taha Altıkardeş",
+        "position": "Центр. защитник",
+        "age": 22,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/745233/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "#26 Malcom Bokele",
+        "position": "Центр. защитник",
+        "age": 25,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/647787/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "#23 Furkan Bayır",
+        "position": "Центр. защитник",
+        "age": 25,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 9,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 334
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/548270/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "#5 Héliton",
+        "position": "Центр. защитник",
+        "age": 30,
+        "height": 195,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/676115/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "#3 Allan Godói",
+        "position": "Центр. защитник",
+        "age": 32,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 795
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/681814/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "#45 Ege Yıldırım",
+        "position": "Центр. защитник",
+        "age": 18,
+        "height": null,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1076671/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "#30 Anthony Dennis",
+        "position": "Опорный полузащитник",
+        "age": 21,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 3,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1104114/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "#20 Novatus Miroshi",
+        "position": "Опорный полузащитник",
+        "age": 23,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/833315/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "Musah Mohammed",
+        "position": "Опорный полузащитник",
+        "age": 24,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 1,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/859182/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "Furkan Malak",
+        "position": "Центр. полузащитник",
+        "age": 21,
+        "height": null,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 43,
+                "total_goals": 5,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 21,
+                "total_substitutions_out": 20,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1011214/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "#2 Arda Okan Kurtulan",
+        "position": "Правый полузащитник",
+        "age": 23,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 3,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/700031/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "#77 Ogün Bayrak",
+        "position": "Правый полузащитник",
+        "age": 27,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 6,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 171
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/545550/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "#22 Uğur Kaan Yıldız",
+        "position": "Правый полузащитник",
+        "age": 23,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 3,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 11
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/700034/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "#15 Amin Cherni",
+        "position": "Левый полузащитник",
+        "age": 24,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 0,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/782935/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "#12 İsmail Köybaşı",
+        "position": "Левый полузащитник",
+        "age": 36,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 10,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 135
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/74641/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "Filip Krastev",
+        "position": "Атак. полузащитник",
+        "age": 24,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 912
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/486814/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "#8 Alexis Antunes",
+        "position": "Атак. полузащитник",
+        "age": 25,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 14,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/346898/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "#11 Efkan Bekiroğlu",
+        "position": "Атак. полузащитник",
+        "age": 30,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 3,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 12,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 922
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/327402/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "#9 Juan",
+        "position": "Центральный нап.",
+        "age": 23,
+        "height": 177,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 6,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 12,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/662332/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "#39 Janderson",
+        "position": "Центральный нап.",
+        "age": 26,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 4,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 15,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/976561/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "#19 Jeh",
+        "position": "Центральный нап.",
+        "age": 26,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 5,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 227
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1108966/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "#7 Ibrahim Sabra",
+        "position": "Центральный нап.",
+        "age": 20,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 9,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 84
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1142382/plus/1",
+        "team": "Гёзтепе"
+    },
+    {
+        "name": "#14 Guilherme Luiz",
+        "position": "Центральный нап.",
+        "age": 20,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 3,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 68
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1116387/plus/1",
+        "team": "Гёзтепе"
+    }
+]

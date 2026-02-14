@@ -1,0 +1,95 @@
+{
+  "match": "Брайтон - Кристал Пэлас",
+  "match_url": "https://soccer365.ru/competitions/12/",
+  "date_time": "08.02, 17:00",
+  "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+  "analysis_date": "2026-02-07T13:47:59.372321",
+  "home_team": {
+    "team_id": "265",
+    "team_name": "Брайтон",
+    "team_url": "https://soccer365.ru/clubs/265/",
+    "position_in_league": 13,
+    "last_results": [
+      0.5,
+      0,
+      0.5,
+      1,
+      0.5
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 1,
+      "draws": 3,
+      "losses": 1,
+      "points": 6,
+      "form": "DLDWD"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.0,
+        "avg_conceded": 1.0,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 1.3333333333333333,
+        "avg_conceded": 1.3333333333333333,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 1.2,
+        "avg_conceded": 1.2,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+    "league_id": "12",
+    "scraped_at": "2026-02-07T13:47:56.089813"
+  },
+  "away_team": {
+    "team_id": "67",
+    "team_name": "Кристал Пэлас",
+    "team_url": "https://soccer365.ru/clubs/67/",
+    "position_in_league": 15,
+    "last_results": [
+      0.5,
+      0,
+      0,
+      0,
+      0.5
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 0,
+      "draws": 2,
+      "losses": 3,
+      "points": 2,
+      "form": "DLLLD"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 0.5,
+        "avg_conceded": 1.5,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 1.0,
+        "avg_conceded": 1.6666666666666667,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 0.8,
+        "avg_conceded": 1.6,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+    "league_id": "12",
+    "scraped_at": "2026-02-07T13:47:57.065949"
+  },
+  "comparison": {
+    "position_difference": -2,
+    "home_team_form": "DLDWD",
+    "away_team_form": "DLLLD",
+    "scoring_insight": "В среднем Брайтон забивает дома 1.00 мяча, а Кристал Пэлас в гостях пропускает 1.67 мяча."
+  }
+}

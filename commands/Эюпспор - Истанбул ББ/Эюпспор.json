@@ -1,0 +1,578 @@
+[
+    {
+        "name": "#1 Marcos Felipe",
+        "position": "Вратарь",
+        "age": 29,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 22,
+                "total_clean_sheets": 3,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/283166/plus/1",
+        "team": "Эюпспор"
+    },
+    {
+        "name": "#24 Jankat Yılmaz",
+        "position": "Вратарь",
+        "age": 21,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 6,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 8,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 540
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/727077/plus/1",
+        "team": "Эюпспор"
+    },
+    {
+        "name": "Mustafa Yiğit Durmaz",
+        "position": "Вратарь",
+        "age": 17,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 1,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 3,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 90
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1259898/plus/1",
+        "team": "Эюпспор"
+    },
+    {
+        "name": "#6 Robin Yalçın",
+        "position": "Центр. защитник",
+        "age": 32,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/124422/plus/1",
+        "team": "Эюпспор"
+    },
+    {
+        "name": "#4 Luccas Claro",
+        "position": "Центр. защитник",
+        "age": 34,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 10,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 842
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/175179/plus/1",
+        "team": "Эюпспор"
+    },
+    {
+        "name": "#68 Jérôme Onguéné",
+        "position": "Центр. защитник",
+        "age": 28,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 10,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 672
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/272638/plus/1",
+        "team": "Эюпспор"
+    },
+    {
+        "name": "#3 Gilbert Mendy",
+        "position": "Центр. защитник",
+        "age": 21,
+        "height": null,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 4,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 333
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1456741/plus/1",
+        "team": "Эюпспор"
+    },
+    {
+        "name": "#77 Umut Meraş",
+        "position": "Левый защитник",
+        "age": 30,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 9,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 576
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/341549/plus/1",
+        "team": "Эюпспор"
+    },
+    {
+        "name": "#88 Arda Yavuz",
+        "position": "Левый защитник",
+        "age": 19,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1175508/plus/1",
+        "team": "Эюпспор"
+    },
+    {
+        "name": "#2 Calegari",
+        "position": "Правый защитник",
+        "age": 23,
+        "height": 171,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/686597/plus/1",
+        "team": "Эюпспор"
+    },
+    {
+        "name": "#22 Denis Radu",
+        "position": "Правый защитник",
+        "age": 22,
+        "height": 176,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 511
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/641989/plus/1",
+        "team": "Эюпспор"
+    },
+    {
+        "name": "#17 Talha Ülvan",
+        "position": "Правый защитник",
+        "age": 24,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 9,
+                "total_goals": 1,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 611
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/708111/plus/1",
+        "team": "Эюпспор"
+    },
+    {
+        "name": "#20 Mateusz Legowski",
+        "position": "Опорный полузащитник",
+        "age": 23,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 835
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/570466/plus/1",
+        "team": "Эюпспор"
+    },
+    {
+        "name": "#55 Baran Gezek",
+        "position": "Опорный полузащитник",
+        "age": 20,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 6,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 454
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/988710/plus/1",
+        "team": "Эюпспор"
+    },
+    {
+        "name": "#33 Taras Stepanenko",
+        "position": "Опорный полузащитник",
+        "age": 36,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 9,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 549
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/59970/plus/1",
+        "team": "Эюпспор"
+    },
+    {
+        "name": "#28 Taşkın İlter",
+        "position": "Опорный полузащитник",
+        "age": 31,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 462
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/200082/plus/1",
+        "team": "Эюпспор"
+    },
+    {
+        "name": "#15 Charles-André Raux-Yao",
+        "position": "Центр. полузащитник",
+        "age": 24,
+        "height": null,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 4,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/976840/plus/1",
+        "team": "Эюпспор"
+    },
+    {
+        "name": "#8 Emre Akbaba",
+        "position": "Атак. полузащитник",
+        "age": 33,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 3,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 566
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/278654/plus/1",
+        "team": "Эюпспор"
+    },
+    {
+        "name": "#40 Prince Ampem",
+        "position": "Левый Вингер",
+        "age": 27,
+        "height": 169,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 3,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 15,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 644
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/562734/plus/1",
+        "team": "Эюпспор"
+    },
+    {
+        "name": "#10 Ángel Torres",
+        "position": "Правый Вингер",
+        "age": 25,
+        "height": 177,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 5,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 148
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/599224/plus/1",
+        "team": "Эюпспор"
+    },
+    {
+        "name": "#23 Lenny Pintor",
+        "position": "Правый Вингер",
+        "age": 25,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 7,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 326
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/418660/plus/1",
+        "team": "Эюпспор"
+    },
+    {
+        "name": "#93 Christ Sadia",
+        "position": "Правый Вингер",
+        "age": 18,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 4,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 851
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1458907/plus/1",
+        "team": "Эюпспор"
+    },
+    {
+        "name": "#19 Umut Bozok",
+        "position": "Центральный нап.",
+        "age": 29,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 5,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 2,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/259025/plus/1",
+        "team": "Эюпспор"
+    },
+    {
+        "name": "#26 Metehan Altunbaş",
+        "position": "Центральный нап.",
+        "age": 23,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 8,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 430
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/621603/plus/1",
+        "team": "Эюпспор"
+    }
+]

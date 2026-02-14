@@ -1,0 +1,698 @@
+[
+    {
+        "name": "#13 Max Weiß",
+        "position": "Вратарь",
+        "age": 21,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 3,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 4,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 270
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/829299/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#1 Martin Dúbravka",
+        "position": "Вратарь",
+        "age": 37,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 24,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 47,
+                "total_clean_sheets": 3,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/74960/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#32 Václav Hladký",
+        "position": "Вратарь",
+        "age": 35,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/95795/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#5 Maxime Estève",
+        "position": "Центр. защитник",
+        "age": 23,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 2,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/842341/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#12 Bashir Humphreys",
+        "position": "Центр. защитник",
+        "age": 22,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 10,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 752
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/612517/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#18 Hjalmar Ekdal",
+        "position": "Центр. защитник",
+        "age": 27,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/392179/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#6 Axel Tuanzebe",
+        "position": "Центр. защитник",
+        "age": 28,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 1,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/342046/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#4 Joe Worrall",
+        "position": "Центр. защитник",
+        "age": 29,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 8,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 334
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/415970/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#36 Jordan Beyer",
+        "position": "Центр. защитник",
+        "age": 25,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 164,
+                "total_goals": 8,
+                "total_assists": 4,
+                "total_own_goals": 1,
+                "total_substitutions_in": 13,
+                "total_substitutions_out": 25,
+                "total_yellow_cards": 30,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 3,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/403898/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#3 Quilindschy Hartman",
+        "position": "Левый защитник",
+        "age": 24,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 0,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/514285/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#23 Lucas Pires",
+        "position": "Левый защитник",
+        "age": 24,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 12,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 952
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/927768/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#14 Connor Roberts",
+        "position": "Правый защитник",
+        "age": 30,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 371,
+                "total_goals": 21,
+                "total_assists": 31,
+                "total_own_goals": 0,
+                "total_substitutions_in": 44,
+                "total_substitutions_out": 20,
+                "total_yellow_cards": 39,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/214666/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#2 Kyle Walker",
+        "position": "Правый защитник",
+        "age": 35,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 8,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/95424/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#8 Lesley Ugochukwu",
+        "position": "Опорный полузащитник",
+        "age": 21,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 3,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 14,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/711999/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#16 Florentino",
+        "position": "Опорный полузащитник",
+        "age": 26,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 28,
+                "total_goals": 1,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/357162/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#24 Josh Cullen",
+        "position": "Центр. полузащитник",
+        "age": 29,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 2,
+                "total_assists": 2,
+                "total_own_goals": 1,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/242606/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#20 James Ward-Prowse",
+        "position": "Центр. полузащитник",
+        "age": 31,
+        "height": 177,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 6,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 506
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/181579/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#29 Josh Laurent",
+        "position": "Центр. полузащитник",
+        "age": 30,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/314241/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#28 Hannibal",
+        "position": "Атак. полузащитник",
+        "age": 23,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 12,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 577
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/607224/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#31 Mike Tresor",
+        "position": "Атак. полузащитник",
+        "age": 26,
+        "height": 172,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 6,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 43
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/381963/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#11 Jaidon Anthony",
+        "position": "Левый Вингер",
+        "age": 26,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 24,
+                "total_goals": 6,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 13,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/684210/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#7 Jacob Bruun Larsen",
+        "position": "Левый Вингер",
+        "age": 27,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 0,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 950
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/293281/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#17 Loum Tchaouna",
+        "position": "Правый Вингер",
+        "age": 22,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 934
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/607226/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#10 Marcus Edwards",
+        "position": "Правый Вингер",
+        "age": 27,
+        "height": 168,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 1,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 810
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/314367/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#9 Lyle Foster",
+        "position": "Центральный нап.",
+        "age": 25,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 3,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 988
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/467623/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#19 Zian Flemming",
+        "position": "Центральный нап.",
+        "age": 27,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 6,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 2,
+                "total_minutes_played": 858
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/411537/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#27 Armando Broja",
+        "position": "Центральный нап.",
+        "age": 24,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 1,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 941
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/571743/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#25 Zeki Amdouni",
+        "position": "Центральный нап.",
+        "age": 25,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 277,
+                "total_goals": 88,
+                "total_assists": 14,
+                "total_own_goals": 0,
+                "total_substitutions_in": 112,
+                "total_substitutions_out": 97,
+                "total_yellow_cards": 25,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 6,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/548729/plus/1",
+        "team": "Бернли"
+    },
+    {
+        "name": "#35 Ashley Barnes",
+        "position": "Центральный нап.",
+        "age": 36,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 5,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 138
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/63200/plus/1",
+        "team": "Бернли"
+    }
+]

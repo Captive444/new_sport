@@ -1,0 +1,770 @@
+[
+    {
+        "name": "#27 Robin Zentner",
+        "position": "Вратарь",
+        "age": 31,
+        "height": 194,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_goals_conceded": 17,
+                "total_clean_sheets": 4,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/160963/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#1 Lasse Rieß",
+        "position": "Вратарь",
+        "age": 24,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 5,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 13,
+                "total_clean_sheets": 1,
+                "total_minutes_played": 357
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/490609/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#33 Daniel Batz",
+        "position": "Вратарь",
+        "age": 35,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 10,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 11,
+                "total_clean_sheets": 2,
+                "total_minutes_played": 900
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/90317/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#4 Stefan Posch",
+        "position": "Центр. защитник",
+        "age": 28,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 610
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/223974/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#25 Andreas Hanche-Olsen",
+        "position": "Центр. защитник",
+        "age": 29,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 1,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/370683/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#48 Kacper Potulski",
+        "position": "Центр. защитник",
+        "age": 18,
+        "height": 195,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1073748/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#31 Dominik Kohr",
+        "position": "Центр. защитник",
+        "age": 32,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 24,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 8,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/118847/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#5 Maxim Leitsch",
+        "position": "Центр. защитник",
+        "age": 27,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 6,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 305
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/334207/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#21 Danny da Costa",
+        "position": "Центр. защитник",
+        "age": 32,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 27,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 1,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/85906/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#16 Stefan Bell",
+        "position": "Центр. защитник",
+        "age": 34,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 3,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/82350/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#47 Maxim Dal",
+        "position": "Центр. защитник",
+        "age": 20,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 53,
+                "total_goals": 3,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 14,
+                "total_yellow_cards": 10,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/934317/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#2 Phillipp Mwene",
+        "position": "Левый защитник",
+        "age": 32,
+        "height": 170,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/127573/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#18 Kasey Bos",
+        "position": "Левый защитник",
+        "age": 21,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 0,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1154876/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#19 Anthony Caci",
+        "position": "Правый защитник",
+        "age": 28,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 6,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 483
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/453016/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#22 Nikolas Veratschnig",
+        "position": "Правый защитник",
+        "age": 23,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 12,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 742
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/601143/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#30 Silvan Widmer",
+        "position": "Правый защитник",
+        "age": 32,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 24,
+                "total_goals": 3,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/168989/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#6 Kaishu Sano",
+        "position": "Опорный полузащитник",
+        "age": 25,
+        "height": 176,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 30,
+                "total_goals": 1,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/643574/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#15 Lennard Maloney",
+        "position": "Опорный полузащитник",
+        "age": 26,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 14,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 757
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/392710/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#24 Sota Kawasaki",
+        "position": "Опорный полузащитник",
+        "age": 24,
+        "height": 172,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 10,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 444
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/733371/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#28 Niklas Tauer",
+        "position": "Опорный полузащитник",
+        "age": 24,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 1,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/470815/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#10 Nadiem Amiri",
+        "position": "Центр. полузащитник",
+        "age": 29,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 12,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 12,
+                "total_yellow_cards": 8,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 7,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/232454/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#42 Daniel Gleiber",
+        "position": "Центр. полузащитник",
+        "age": 21,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 3,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/906969/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#8 Paul Nebel",
+        "position": "Атак. полузащитник",
+        "age": 23,
+        "height": 169,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 26,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 2,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/503160/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#7 Jae-sung Lee",
+        "position": "Атак. полузащитник",
+        "age": 33,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 27,
+                "total_goals": 4,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 15,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/314398/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#23 Sheraldo Becker",
+        "position": "Левый Вингер",
+        "age": 30,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 1,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 360
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/188888/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#26 Silas",
+        "position": "Правый Вингер",
+        "age": 27,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 3,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 130
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/612826/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#11 Armindo Sieb",
+        "position": "Оттянутый нап.",
+        "age": 22,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 15,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 782
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/569033/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#44 Nelson Weiper",
+        "position": "Центральный нап.",
+        "age": 20,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 12,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 835
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/796213/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#17 Benedict Hollerbach",
+        "position": "Центральный нап.",
+        "age": 24,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 2,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 16,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/453870/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#14 William Bøving",
+        "position": "Центральный нап.",
+        "age": 22,
+        "height": 176,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 0,
+                "total_assists": 4,
+                "total_own_goals": 1,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 783
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/610400/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#20 Phillip Tietz",
+        "position": "Центральный нап.",
+        "age": 28,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 2,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 748
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/288340/plus/1",
+        "team": "Майнц"
+    },
+    {
+        "name": "#10 Fabio Moreno Fell",
+        "position": "Центральный нап.",
+        "age": 25,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 9,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/445606/plus/1",
+        "team": "Майнц"
+    }
+]

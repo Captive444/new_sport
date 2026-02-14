@@ -1,0 +1,722 @@
+[
+    {
+        "name": "#1 Uğurcan Çakır",
+        "position": "Вратарь",
+        "age": 29,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 26,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 22,
+                "total_clean_sheets": 10,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/292199/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#19 Günay Güvenç",
+        "position": "Вратарь",
+        "age": 34,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 12,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 9,
+                "total_clean_sheets": 5,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/114422/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#12 Batuhan Şen",
+        "position": "Вратарь",
+        "age": 27,
+        "height": 194,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/352659/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#70 Enes Emre Büyük",
+        "position": "Вратарь",
+        "age": 19,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 10,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 23,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 821
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1105505/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#6 Davinson Sánchez",
+        "position": "Центр. защитник",
+        "age": 29,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 30,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 1,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 7,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/341429/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#42 Abdülkerim Bardakcı",
+        "position": "Центр. защитник",
+        "age": 31,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 31,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/199316/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#91 Arda Ünyay",
+        "position": "Центр. защитник",
+        "age": 19,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 12,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 398
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1048118/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#3 Metehan Baltacı",
+        "position": "Центр. защитник",
+        "age": 23,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 2,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 24
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/618869/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#4 Ismail Jakobs",
+        "position": "Левый защитник",
+        "age": 26,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/375137/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#17 Eren Elmalı",
+        "position": "Левый защитник",
+        "age": 25,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 24,
+                "total_goals": 4,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/616894/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#88 Kazımcan Karataş",
+        "position": "Левый защитник",
+        "age": 23,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 728
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/697149/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#90 Wilfried Singo",
+        "position": "Правый защитник",
+        "age": 25,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 598
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/648779/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#93 Sacha Boey",
+        "position": "Правый защитник",
+        "age": 25,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 630
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/475413/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#7 Roland Sallai",
+        "position": "Правый защитник",
+        "age": 28,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 30,
+                "total_goals": 1,
+                "total_assists": 6,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/332798/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#34 Lucas Torreira",
+        "position": "Опорный полузащитник",
+        "age": 29,
+        "height": 166,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 30,
+                "total_goals": 2,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 16,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/318077/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#99 Mario Lemina",
+        "position": "Опорный полузащитник",
+        "age": 32,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 26,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 12,
+                "total_yellow_cards": 7,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/170934/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#23 Kaan Ayhan",
+        "position": "Опорный полузащитник",
+        "age": 31,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 17,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 499
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/119031/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#8 Gabriel Sara",
+        "position": "Центр. полузащитник",
+        "age": 26,
+        "height": 177,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 30,
+                "total_goals": 5,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/553469/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#20 İlkay Gündoğan",
+        "position": "Центр. полузащитник",
+        "age": 35,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 2,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 13,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/53622/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#74 Renato Nhaga",
+        "position": "Центр. полузащитник",
+        "age": 18,
+        "height": 172,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1396595/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#33 Gökdeniz Gürpüz",
+        "position": "Центр. полузащитник",
+        "age": 19,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 4,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 192
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/884821/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#11 Yunus Akgün",
+        "position": "Атак. полузащитник",
+        "age": 25,
+        "height": 173,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 27,
+                "total_goals": 6,
+                "total_assists": 7,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 15,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/396908/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#77 Noa Lang",
+        "position": "Левый Вингер",
+        "age": 26,
+        "height": 173,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 28,
+                "total_goals": 1,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 18,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/339332/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#53 Barış Alper Yılmaz",
+        "position": "Левый Вингер",
+        "age": 25,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 30,
+                "total_goals": 7,
+                "total_assists": 10,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 13,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 2,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/541537/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#21 Ahmed Kutucu",
+        "position": "Левый Вингер",
+        "age": 25,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 2,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 340
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/452084/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#10 Leroy Sané",
+        "position": "Правый Вингер",
+        "age": 30,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 28,
+                "total_goals": 6,
+                "total_assists": 7,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/192565/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#22 Yáser Asprilla",
+        "position": "Правый Вингер",
+        "age": 22,
+        "height": 176,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 877
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/857818/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#27 Armando Güner",
+        "position": "Правый Вингер",
+        "age": 18,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 4,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 840
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1070983/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#45 Victor Osimhen",
+        "position": "Центральный нап.",
+        "age": 27,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 14,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 4,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/401923/plus/1",
+        "team": "Галатасарай"
+    },
+    {
+        "name": "#9 Mauro Icardi",
+        "position": "Центральный нап.",
+        "age": 32,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 31,
+                "total_goals": 12,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 18,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/68863/plus/1",
+        "team": "Галатасарай"
+    }
+]

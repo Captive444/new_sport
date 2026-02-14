@@ -1,0 +1,722 @@
+[
+    {
+        "name": "#33 Alexander Nübel",
+        "position": "Вратарь",
+        "age": 29,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 28,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 37,
+                "total_clean_sheets": 10,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/195778/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#44 Florian Hellstern",
+        "position": "Вратарь",
+        "age": 18,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 24,
+                "total_clean_sheets": 2,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1009438/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#1 Fabian Bredlow",
+        "position": "Вратарь",
+        "age": 30,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 4,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 4,
+                "total_clean_sheets": 2,
+                "total_minutes_played": 360
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/187624/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#21 Stefan Drljaca",
+        "position": "Вратарь",
+        "age": 26,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 3,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 7,
+                "total_clean_sheets": 1,
+                "total_minutes_played": 270
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/388067/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#29 Finn Jeltsch",
+        "position": "Центр. защитник",
+        "age": 19,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/924117/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#24 Jeff Chabot",
+        "position": "Центр. защитник",
+        "age": 27,
+        "height": 195,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 1,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/303219/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#14 Luca Jaquez",
+        "position": "Центр. защитник",
+        "age": 22,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 12,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 856
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/539798/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#3 Ramon Hendriks",
+        "position": "Центр. защитник",
+        "age": 24,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 29,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/436064/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#2 Ameen Al-Dakhil",
+        "position": "Центр. защитник",
+        "age": 23,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 8,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 399
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/620598/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#23 Dan-Axel Zagadou",
+        "position": "Центр. защитник",
+        "age": 26,
+        "height": 196,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 7,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 342
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/344598/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#7 Maximilian Mittelstädt",
+        "position": "Левый защитник",
+        "age": 28,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 31,
+                "total_goals": 4,
+                "total_assists": 5,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 3,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/282660/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#22 Lorenz Assignon",
+        "position": "Правый защитник",
+        "age": 25,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 24,
+                "total_goals": 1,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/711969/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#4 Josha Vagnoman",
+        "position": "Правый защитник",
+        "age": 25,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 27,
+                "total_goals": 2,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/448258/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#15 Pascal Stenzel",
+        "position": "Правый защитник",
+        "age": 29,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 2,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 107
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/195246/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#6 Angelo Stiller",
+        "position": "Опорный полузащитник",
+        "age": 24,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 31,
+                "total_goals": 1,
+                "total_assists": 7,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/443710/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#30 Chema Andrés",
+        "position": "Опорный полузащитник",
+        "age": 20,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/948279/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#16 Atakan Karazor",
+        "position": "Опорный полузащитник",
+        "age": 29,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 28,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/232320/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#35 Mirza Catovic",
+        "position": "Опорный полузащитник",
+        "age": 18,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 7,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1131117/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#28 Nikolas Nartey",
+        "position": "Центр. полузащитник",
+        "age": 25,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 24,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 13,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 956
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/400546/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#11 Bilal El Khannouss",
+        "position": "Атак. полузащитник",
+        "age": 21,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 26,
+                "total_goals": 6,
+                "total_assists": 6,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 13,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/654982/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#10 Chris Führich",
+        "position": "Левый Вингер",
+        "age": 28,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 31,
+                "total_goals": 3,
+                "total_assists": 5,
+                "total_own_goals": 0,
+                "total_substitutions_in": 19,
+                "total_substitutions_out": 12,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/272278/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#17 Justin Diehl",
+        "position": "Левый Вингер",
+        "age": 21,
+        "height": 174,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 8,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 374
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/720162/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#18 Jamie Leweling",
+        "position": "Правый Вингер",
+        "age": 24,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 31,
+                "total_goals": 7,
+                "total_assists": 8,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 13,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/518505/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#27 Badredine Bouanani",
+        "position": "Правый Вингер",
+        "age": 21,
+        "height": 177,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 12,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/707242/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#45 Lazar Jovanovic",
+        "position": "Правый Вингер",
+        "age": 19,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 6,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 124
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/897505/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#19 Noah Darvich",
+        "position": "Правый Вингер",
+        "age": 19,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 4,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 912
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/897480/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#9 Ermedin Demirovic",
+        "position": "Центральный нап.",
+        "age": 27,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 8,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/335457/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#26 Deniz Undav",
+        "position": "Центральный нап.",
+        "age": 29,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 26,
+                "total_goals": 14,
+                "total_assists": 8,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 12,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/339314/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#8 Tiago Tomás",
+        "position": "Центральный нап.",
+        "age": 23,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 4,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/616344/plus/1",
+        "team": "Штутгарт"
+    },
+    {
+        "name": "#25 Jeremy Arévalo",
+        "position": "Центральный нап.",
+        "age": 20,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 8,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 12,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 887
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/971663/plus/1",
+        "team": "Штутгарт"
+    }
+]

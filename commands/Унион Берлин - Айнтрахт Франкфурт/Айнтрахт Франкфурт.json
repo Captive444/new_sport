@@ -1,0 +1,722 @@
+[
+    {
+        "name": "#40 Kauã Santos",
+        "position": "Вратарь",
+        "age": 22,
+        "height": 196,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 12,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 38,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/997861/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#23 Michael Zetterer",
+        "position": "Вратарь",
+        "age": 30,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 30,
+                "total_clean_sheets": 4,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/196813/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#33 Jens Grahl",
+        "position": "Вратарь",
+        "age": 37,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 1,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 1,
+                "total_minutes_played": 90
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/40034/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#1 Amil Siljevic",
+        "position": "Вратарь",
+        "age": 19,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 26,
+                "total_clean_sheets": 10,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1079622/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#3 Arthur Theate",
+        "position": "Центр. защитник",
+        "age": 25,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 27,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 8,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/368891/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#4 Robin Koch",
+        "position": "Центр. защитник",
+        "age": 29,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 30,
+                "total_goals": 3,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/328784/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#34 Nnamdi Collins",
+        "position": "Центр. защитник",
+        "age": 22,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 24,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/684315/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#5 Aurèle Amenda",
+        "position": "Центр. защитник",
+        "age": 22,
+        "height": 194,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 1,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 736
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/635645/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#21 Nathaniel Brown",
+        "position": "Левый защитник",
+        "age": 22,
+        "height": 176,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 28,
+                "total_goals": 1,
+                "total_assists": 6,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/691892/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#26 Keita Kosugi",
+        "position": "Левый защитник",
+        "age": 19,
+        "height": 172,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 1,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 90
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1146988/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#13 Rasmus Kristensen",
+        "position": "Правый защитник",
+        "age": 28,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 3,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/369684/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#2 Elias Baum",
+        "position": "Правый защитник",
+        "age": 20,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 1,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 13
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/744857/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#22 Timothy Chandler",
+        "position": "Правый защитник",
+        "age": 35,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/49723/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#15 Ellyes Skhiri",
+        "position": "Опорный полузащитник",
+        "age": 30,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/290587/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#16 Hugo Larsson",
+        "position": "Центр. полузащитник",
+        "age": 21,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 1,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 13,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/931838/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#8 Farès Chaïbi",
+        "position": "Центр. полузащитник",
+        "age": 23,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 2,
+                "total_assists": 8,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/855015/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#6 Oscar Højlund",
+        "position": "Центр. полузащитник",
+        "age": 21,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 14,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 574
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/846310/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#18 Mahmoud Dahoud",
+        "position": "Центр. полузащитник",
+        "age": 30,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 599
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/191422/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#42 Can Uzun",
+        "position": "Атак. полузащитник",
+        "age": 20,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 8,
+                "total_assists": 5,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 14,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/816585/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#31 Love Arrhov",
+        "position": "Атак. полузащитник",
+        "age": 17,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 1,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 45
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1184986/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#27 Mario Götze",
+        "position": "Атак. полузащитник",
+        "age": 33,
+        "height": 176,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 12,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/74842/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#19 Jean-Mattéo Bahoya",
+        "position": "Левый Вингер",
+        "age": 20,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 27,
+                "total_goals": 3,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 16,
+                "total_substitutions_out": 12,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/939964/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#20 Ritsu Doan",
+        "position": "Правый Вингер",
+        "age": 27,
+        "height": 172,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 29,
+                "total_goals": 6,
+                "total_assists": 6,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 18,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/358504/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#7 Ansgar Knauff",
+        "position": "Правый Вингер",
+        "age": 24,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 29,
+                "total_goals": 6,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 14,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/429874/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#29 Ayoube Amaimouni-Echghouyab",
+        "position": "Правый Вингер",
+        "age": 21,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 10,
+                "total_assists": 7,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/799993/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#9 Jonathan Burkardt",
+        "position": "Центральный нап.",
+        "age": 25,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 11,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/333647/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#25 Arnaud Kalimuendo",
+        "position": "Центральный нап.",
+        "age": 24,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 4,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 12,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 761
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/585959/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#11 Younes Ebnoutalib",
+        "position": "Центральный нап.",
+        "age": 22,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 13,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/692368/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#30 Michy Batshuayi",
+        "position": "Центральный нап.",
+        "age": 32,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 10,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 171
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/179184/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    },
+    {
+        "name": "#32 Jessic Ngankam",
+        "position": "Центральный нап.",
+        "age": 25,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 4,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 61
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/448177/plus/1",
+        "team": "Айнтрахт Франкфурт"
+    }
+]

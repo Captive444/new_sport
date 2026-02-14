@@ -1,0 +1,698 @@
+[
+    {
+        "name": "#25 Bilal Bayazıt",
+        "position": "Вратарь",
+        "age": 26,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 31,
+                "total_clean_sheets": 2,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/361032/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#27 Deniz Dönmezer",
+        "position": "Вратарь",
+        "age": 17,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 5,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 19,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 480
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1189049/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#1 Onurcan Piri",
+        "position": "Вратарь",
+        "age": 31,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 5,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 10,
+                "total_clean_sheets": 1,
+                "total_minutes_played": 450
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/199470/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#5 Majid Hosseini",
+        "position": "Центр. защитник",
+        "age": 29,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 3,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 270
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/294767/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#6 Semih Güler",
+        "position": "Центр. защитник",
+        "age": 31,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/265542/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#4 Stefano Denswil",
+        "position": "Центр. защитник",
+        "age": 32,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/182923/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#2 Jadel Katongo",
+        "position": "Центр. защитник",
+        "age": 21,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 8,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 633
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/670880/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#38 Kayra Cihan",
+        "position": "Центр. защитник",
+        "age": 18,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 10,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 663
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1303968/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#3 Abdulsamet Burak",
+        "position": "Центр. защитник",
+        "age": 29,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 9,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 466
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/349608/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#23 Lionel Carole",
+        "position": "Левый защитник",
+        "age": 34,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/11530/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "Joshua Brenet",
+        "position": "Правый защитник",
+        "age": 31,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/207006/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#17 Burak Kapacak",
+        "position": "Правый защитник",
+        "age": 26,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 10,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 331
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/340251/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#15 Youssef Aït Bennasser",
+        "position": "Опорный полузащитник",
+        "age": 29,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 12,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 843
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/265569/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#24 Dorukhan Toköz",
+        "position": "Опорный полузащитник",
+        "age": 29,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 826
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/275935/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#8 László Bénes",
+        "position": "Центр. полузащитник",
+        "age": 28,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 4,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/243188/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#61 Görkem Sağlam",
+        "position": "Центр. полузащитник",
+        "age": 27,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 3,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 7,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/251345/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#33 Furkan Soyalp",
+        "position": "Центр. полузащитник",
+        "age": 30,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 7,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/221285/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#21 Yiğit Emre Çeltik",
+        "position": "Центр. полузащитник",
+        "age": 22,
+        "height": 164,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 2,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 134
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/655894/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#10 João Mendes",
+        "position": "Атак. полузащитник",
+        "age": 31,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 0,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/504503/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#16 Eray Özbek",
+        "position": "Атак. полузащитник",
+        "age": 23,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 9,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 314
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/662140/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#7 Miguel Cardoso",
+        "position": "Левый Вингер",
+        "age": 31,
+        "height": 176,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 2,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/348425/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#11 Sam Mather",
+        "position": "Левый Вингер",
+        "age": 21,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 7,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 361
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/670851/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#77 Nurettin Korkmaz",
+        "position": "Левый Вингер",
+        "age": 23,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 9,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 284
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/654374/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#20 Carlos Mané",
+        "position": "Правый Вингер",
+        "age": 31,
+        "height": 173,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 12,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 967
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/182711/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#28 Ramazan Civelek",
+        "position": "Правый Вингер",
+        "age": 30,
+        "height": 171,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 1,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/282560/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "Fedor Chalov",
+        "position": "Центральный нап.",
+        "age": 27,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 24,
+                "total_goals": 3,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 13,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 2,
+                "total_minutes_played": 946
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/287183/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#9 German Onugkha",
+        "position": "Центральный нап.",
+        "age": 29,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 6,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/568318/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#22 Indrit Tuci",
+        "position": "Центральный нап.",
+        "age": 25,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 3,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 722
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/675857/plus/1",
+        "team": "Кайсериспор"
+    },
+    {
+        "name": "#99 Talha Sarıarslan",
+        "position": "Центральный нап.",
+        "age": 22,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 10,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 159
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/777502/plus/1",
+        "team": "Кайсериспор"
+    }
+]

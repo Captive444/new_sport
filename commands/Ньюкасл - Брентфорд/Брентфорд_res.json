@@ -1,0 +1,132 @@
+[
+    {
+        "name": "#1 Caoimhín Kelleher",
+        "position": "Вратарь",
+        "readiness": 0.6702380952380953
+    },
+    {
+        "name": "#12 Hákon Valdimarsson",
+        "position": "Вратарь",
+        "readiness": 0.7113333333333334
+    },
+    {
+        "name": "#31 Ellery Balcombe",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#41 Julian Eyestone",
+        "position": "Вратарь",
+        "readiness": 0.49686
+    },
+    {
+        "name": "#22 Nathan Collins",
+        "position": "Центр. защитник",
+        "readiness": 0.6188835714285714
+    },
+    {
+        "name": "#4 Sepp van den Berg",
+        "position": "Центр. защитник",
+        "readiness": 0.5903650793650793
+    },
+    {
+        "name": "#20 Kristoffer Ajer",
+        "position": "Центр. защитник",
+        "readiness": 0.5211383446712018
+    },
+    {
+        "name": "#5 Ethan Pinnock",
+        "position": "Центр. защитник",
+        "readiness": 0.3488058
+    },
+    {
+        "name": "#3 Rico Henry",
+        "position": "Левый защитник",
+        "readiness": 0.3698611111111111
+    },
+    {
+        "name": "#33 Michael Kayode",
+        "position": "Правый защитник",
+        "readiness": 0.3676981885057472
+    },
+    {
+        "name": "#2 Aaron Hickey",
+        "position": "Правый защитник",
+        "readiness": 0.3640388888888889
+    },
+    {
+        "name": "#27 Vitaly Janelt",
+        "position": "Опорный полузащитник",
+        "readiness": 0.5745448585231194
+    },
+    {
+        "name": "#6 Jordan Henderson",
+        "position": "Опорный полузащитник",
+        "readiness": 0.45316644237405107
+    },
+    {
+        "name": "#18 Yegor Yarmolyuk",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4236681481481481
+    },
+    {
+        "name": "#8 Mathias Jensen",
+        "position": "Центр. полузащитник",
+        "readiness": 0.585504884004884
+    },
+    {
+        "name": "#10 Josh Dasilva",
+        "position": "Центр. полузащитник",
+        "readiness": 0.717092853583885
+    },
+    {
+        "name": "#23 Keane Lewis-Potter",
+        "position": "Левый полузащитник",
+        "readiness": 0.43769444444444444
+    },
+    {
+        "name": "#24 Mikkel Damsgaard",
+        "position": "Атак. полузащитник",
+        "readiness": 0.5724744651483782
+    },
+    {
+        "name": "#17 Antoni Milambo",
+        "position": "Атак. полузащитник",
+        "readiness": 0.2624886814814815
+    },
+    {
+        "name": "#14 Fábio Carvalho",
+        "position": "Атак. полузащитник",
+        "readiness": 0.3844622222222222
+    },
+    {
+        "name": "#7 Kevin Schade",
+        "position": "Левый Вингер",
+        "readiness": 0.46876923076923077
+    },
+    {
+        "name": "#11 Reiss Nelson",
+        "position": "Левый Вингер",
+        "readiness": 0.2830022222222222
+    },
+    {
+        "name": "#19 Dango Ouattara",
+        "position": "Правый Вингер",
+        "readiness": 0.3927191365079365
+    },
+    {
+        "name": "#45 Romelle Donovan",
+        "position": "Правый Вингер",
+        "readiness": 0.2790575238095238
+    },
+    {
+        "name": "#9 Igor Thiago",
+        "position": "Центральный нап.",
+        "readiness": 0.76725
+    },
+    {
+        "name": "#47 Kaye Furo",
+        "position": "Центральный нап.",
+        "readiness": 0.3165021052631579
+    }
+]

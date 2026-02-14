@@ -1,0 +1,722 @@
+[
+    {
+        "name": "#1 Deniz Ertaş",
+        "position": "Вратарь",
+        "age": 20,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 17,
+                "total_clean_sheets": 3,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/882568/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#13 Bahadır Güngördü",
+        "position": "Вратарь",
+        "age": 30,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 12,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 20,
+                "total_clean_sheets": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/388359/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#29 Egemen Aydın",
+        "position": "Вратарь",
+        "age": 18,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 19,
+                "total_clean_sheets": 5,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1071220/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#39 Adamo Nagalo",
+        "position": "Центр. защитник",
+        "age": 23,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 3,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 187
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/800976/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#20 Riechedly Bazoer",
+        "position": "Центр. защитник",
+        "age": 29,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 8,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 678
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/216443/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#4 Adil Demirbağ",
+        "position": "Центр. защитник",
+        "age": 28,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 1,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/354173/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#22 Rayyan Baniya",
+        "position": "Центр. защитник",
+        "age": 26,
+        "height": 194,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 6,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 214
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/394872/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#5 Uğurcan Yazğılı",
+        "position": "Центр. защитник",
+        "age": 26,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 7,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/295955/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#15 Josip Calusic",
+        "position": "Центр. защитник",
+        "age": 32,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 10,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 479
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/170851/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#3 Yasir Subaşı",
+        "position": "Центр. защитник",
+        "age": 30,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 508
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/375719/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#24 Arif Boşluk",
+        "position": "Левый защитник",
+        "age": 22,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 14,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 720
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/801693/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#12 Guilherme",
+        "position": "Левый защитник",
+        "age": 35,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/217863/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#23 Yhoan Andzouana",
+        "position": "Правый защитник",
+        "age": 29,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 1,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/342218/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#21 Jin-ho Jo",
+        "position": "Опорный полузащитник",
+        "age": 22,
+        "height": 172,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 987
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/638573/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#16 Marko Jevtovic",
+        "position": "Опорный полузащитник",
+        "age": 32,
+        "height": 194,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 758
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/256000/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#19 Ufuk Akyol",
+        "position": "Опорный полузащитник",
+        "age": 28,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 1,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 1
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/241251/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#18 Berkan Kutlu",
+        "position": "Центр. полузащитник",
+        "age": 28,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 297
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/469787/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#77 Melih İbrahimoğlu",
+        "position": "Центр. полузащитник",
+        "age": 25,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 13,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/391555/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#42 Morten Bjørlo",
+        "position": "Центр. полузащитник",
+        "age": 30,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/230361/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#30 Esat Buğa",
+        "position": "Центр. полузащитник",
+        "age": 19,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 6,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1178929/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#10 Enis Bardhi",
+        "position": "Атак. полузащитник",
+        "age": 30,
+        "height": 172,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 5,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 13,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/245014/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#32 Sander Svendsen",
+        "position": "Атак. полузащитник",
+        "age": 28,
+        "height": 172,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 10,
+                "total_goals": 7,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 577
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/269503/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#70 Kazeem Olaigbe",
+        "position": "Левый Вингер",
+        "age": 23,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 1,
+                "total_assists": 6,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 15,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/565406/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#17 Diogo Gonçalves",
+        "position": "Левый Вингер",
+        "age": 29,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 358,
+                "total_goals": 67,
+                "total_assists": 53,
+                "total_own_goals": 1,
+                "total_substitutions_in": 103,
+                "total_substitutions_out": 128,
+                "total_yellow_cards": 41,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 2,
+                "total_penalty_goals": 11,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/258015/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#8 Pedrinho",
+        "position": "Левый Вингер",
+        "age": 29,
+        "height": 176,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 848
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/742063/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#7 Tunahan Taşçı",
+        "position": "Правый Вингер",
+        "age": 23,
+        "height": 172,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 4,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 495
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/594240/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#11 Marius Ștefănescu",
+        "position": "Правый Вингер",
+        "age": 27,
+        "height": 168,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 14,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 464
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/685795/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#9 Deniz Türüç",
+        "position": "Правый Вингер",
+        "age": 33,
+        "height": 177,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 2,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/216662/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#40 Jackson Muleka",
+        "position": "Центральный нап.",
+        "age": 26,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 3,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/549966/plus/1",
+        "team": "Коньяспор"
+    },
+    {
+        "name": "#99 Blaz Kramer",
+        "position": "Центральный нап.",
+        "age": 29,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/322288/plus/1",
+        "team": "Коньяспор"
+    }
+]

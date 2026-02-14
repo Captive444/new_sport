@@ -1,0 +1,152 @@
+[
+    {
+        "name": "#13 John Victor",
+        "position": "Вратарь",
+        "readiness": 0.6398941798941798
+    },
+    {
+        "name": "#26 Matz Sels",
+        "position": "Вратарь",
+        "readiness": 0.639293956043956
+    },
+    {
+        "name": "#27 Stefan Ortega",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#18 Angus Gunn",
+        "position": "Вратарь",
+        "readiness": 0.9
+    },
+    {
+        "name": "#5 Murillo",
+        "position": "Центр. защитник",
+        "readiness": 0.47513015873015874
+    },
+    {
+        "name": "#31 Nikola Milenković",
+        "position": "Центр. защитник",
+        "readiness": 0.561048529265873
+    },
+    {
+        "name": "#4 Morato",
+        "position": "Центр. защитник",
+        "readiness": 0.5019648526077097
+    },
+    {
+        "name": "#23 Jair Cunha",
+        "position": "Центр. защитник",
+        "readiness": 0.46183766666666665
+    },
+    {
+        "name": "#30 Willy Boly",
+        "position": "Центр. защитник",
+        "readiness": 0.39525613888888883
+    },
+    {
+        "name": "#44 Zach Abbott",
+        "position": "Центр. защитник",
+        "readiness": 0.44958362573099414
+    },
+    {
+        "name": "#3 Neco Williams",
+        "position": "Левый защитник",
+        "readiness": 0.5740292658730158
+    },
+    {
+        "name": "#33 Cuiabano",
+        "position": "Левый защитник",
+        "readiness": 0.45635039999999993
+    },
+    {
+        "name": "#25 Luca Netz",
+        "position": "Левый защитник",
+        "readiness": 0.4913567040149393
+    },
+    {
+        "name": "#34 Ola Aina",
+        "position": "Правый защитник",
+        "readiness": 0.4496137566137566
+    },
+    {
+        "name": "#37 Nicolò Savona",
+        "position": "Правый защитник",
+        "readiness": 0.5129626984126984
+    },
+    {
+        "name": "#17 Eric da Silva Moreira",
+        "position": "Правый защитник",
+        "readiness": 0.3140783068783069
+    },
+    {
+        "name": "#6 Ibrahim Sangaré",
+        "position": "Опорный полузащитник",
+        "readiness": 0.5603968253968254
+    },
+    {
+        "name": "#8 Elliot Anderson",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4385654603174603
+    },
+    {
+        "name": "#16 Nicolás Domínguez",
+        "position": "Центр. полузащитник",
+        "readiness": 0.38398530612244897
+    },
+    {
+        "name": "#22 Ryan Yates",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4750747702589808
+    },
+    {
+        "name": "#10 Morgan Gibbs-White",
+        "position": "Атак. полузащитник",
+        "readiness": 0.4687438961038961
+    },
+    {
+        "name": "#21 Omari Hutchinson",
+        "position": "Атак. полузащитник",
+        "readiness": 0.4578076904761905
+    },
+    {
+        "name": "#24 James McAtee",
+        "position": "Атак. полузащитник",
+        "readiness": 0.3447260317460317
+    },
+    {
+        "name": "#7 Callum Hudson-Odoi",
+        "position": "Левый Вингер",
+        "readiness": 0.5062258064516129
+    },
+    {
+        "name": "#14 Dan Ndoye",
+        "position": "Правый Вингер",
+        "readiness": 0.40755128205128205
+    },
+    {
+        "name": "#29 Dilane Bakwa",
+        "position": "Правый Вингер",
+        "readiness": 0.29142666666666667
+    },
+    {
+        "name": "#20 Lorenzo Lucca",
+        "position": "Центральный нап.",
+        "readiness": 0.23062173913043482
+    },
+    {
+        "name": "#19 Igor Jesus",
+        "position": "Центральный нап.",
+        "readiness": 0.6336451612903226
+    },
+    {
+        "name": "#9 Taiwo Awoniyi",
+        "position": "Центральный нап.",
+        "readiness": 0.3209814814814815
+    },
+    {
+        "name": "#11 Chris Wood",
+        "position": "Центральный нап.",
+        "readiness": 0.5156992499999999
+    }
+]

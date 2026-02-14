@@ -1,0 +1,162 @@
+[
+    {
+        "name": "#27 Robin Zentner",
+        "position": "Вратарь",
+        "readiness": 0.6281512605042017
+    },
+    {
+        "name": "#1 Lasse Rieß",
+        "position": "Вратарь",
+        "readiness": 0.44762666666666673
+    },
+    {
+        "name": "#33 Daniel Batz",
+        "position": "Вратарь",
+        "readiness": 0.5889
+    },
+    {
+        "name": "#4 Stefan Posch",
+        "position": "Центр. защитник",
+        "readiness": 0.39691690009337066
+    },
+    {
+        "name": "#25 Andreas Hanche-Olsen",
+        "position": "Центр. защитник",
+        "readiness": 0.5076337868480726
+    },
+    {
+        "name": "#48 Kacper Potulski",
+        "position": "Центр. защитник",
+        "readiness": 0.3877737481792717
+    },
+    {
+        "name": "#31 Dominik Kohr",
+        "position": "Центр. защитник",
+        "readiness": 0.4245041865079365
+    },
+    {
+        "name": "#5 Maxim Leitsch",
+        "position": "Центр. защитник",
+        "readiness": 0.46448941798941795
+    },
+    {
+        "name": "#21 Danny da Costa",
+        "position": "Центр. защитник",
+        "readiness": 0.5684985714285714
+    },
+    {
+        "name": "#16 Stefan Bell",
+        "position": "Центр. защитник",
+        "readiness": 0.43125287981859406
+    },
+    {
+        "name": "#47 Maxim Dal",
+        "position": "Центр. защитник",
+        "readiness": 0.4671533123689728
+    },
+    {
+        "name": "#2 Phillipp Mwene",
+        "position": "Левый защитник",
+        "readiness": 0.31098930158730154
+    },
+    {
+        "name": "#18 Kasey Bos",
+        "position": "Левый защитник",
+        "readiness": 0.46068761904761907
+    },
+    {
+        "name": "#19 Anthony Caci",
+        "position": "Правый защитник",
+        "readiness": 0.436281746031746
+    },
+    {
+        "name": "#22 Nikolas Veratschnig",
+        "position": "Правый защитник",
+        "readiness": 0.3571246031746032
+    },
+    {
+        "name": "#30 Silvan Widmer",
+        "position": "Правый защитник",
+        "readiness": 0.4853524007936508
+    },
+    {
+        "name": "#6 Kaishu Sano",
+        "position": "Опорный полузащитник",
+        "readiness": 0.5393940476190476
+    },
+    {
+        "name": "#15 Lennard Maloney",
+        "position": "Опорный полузащитник",
+        "readiness": 0.4147279942279942
+    },
+    {
+        "name": "#24 Sota Kawasaki",
+        "position": "Опорный полузащитник",
+        "readiness": 0.2875869047619048
+    },
+    {
+        "name": "#28 Niklas Tauer",
+        "position": "Опорный полузащитник",
+        "readiness": 0.5459126984126984
+    },
+    {
+        "name": "#10 Nadiem Amiri",
+        "position": "Центр. полузащитник",
+        "readiness": 0.6015873015873016
+    },
+    {
+        "name": "#42 Daniel Gleiber",
+        "position": "Центр. полузащитник",
+        "readiness": 0.5264056410256411
+    },
+    {
+        "name": "#8 Paul Nebel",
+        "position": "Атак. полузащитник",
+        "readiness": 0.3024174046398046
+    },
+    {
+        "name": "#7 Jae-sung Lee",
+        "position": "Атак. полузащитник",
+        "readiness": 0.5236729012345679
+    },
+    {
+        "name": "#23 Sheraldo Becker",
+        "position": "Левый Вингер",
+        "readiness": 0.34703954545454546
+    },
+    {
+        "name": "#26 Silas",
+        "position": "Правый Вингер",
+        "readiness": 0.5626111111111111
+    },
+    {
+        "name": "#11 Armindo Sieb",
+        "position": "Оттянутый нап.",
+        "readiness": 0.22784058181818181
+    },
+    {
+        "name": "#44 Nelson Weiper",
+        "position": "Центральный нап.",
+        "readiness": 0.27037791666666666
+    },
+    {
+        "name": "#17 Benedict Hollerbach",
+        "position": "Центральный нап.",
+        "readiness": 0.47419047619047616
+    },
+    {
+        "name": "#14 William Bøving",
+        "position": "Центральный нап.",
+        "readiness": 0.22232956078431373
+    },
+    {
+        "name": "#20 Phillip Tietz",
+        "position": "Центральный нап.",
+        "readiness": 0.32389215686274514
+    },
+    {
+        "name": "#10 Fabio Moreno Fell",
+        "position": "Центральный нап.",
+        "readiness": 0.76875
+    }
+]

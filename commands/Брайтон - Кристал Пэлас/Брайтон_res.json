@@ -1,0 +1,132 @@
+[
+    {
+        "name": "#1 Bart Verbruggen",
+        "position": "Вратарь",
+        "readiness": 0.5520892857142857
+    },
+    {
+        "name": "#23 Jason Steele",
+        "position": "Вратарь",
+        "readiness": 0.7280000000000001
+    },
+    {
+        "name": "#38 Tom McGill",
+        "position": "Вратарь",
+        "readiness": 0.6094666666666667
+    },
+    {
+        "name": "#6 Jan Paul van Hecke",
+        "position": "Центр. защитник",
+        "readiness": 0.608284188034188
+    },
+    {
+        "name": "#21 Olivier Boscagli",
+        "position": "Центр. защитник",
+        "readiness": 0.49365873015873013
+    },
+    {
+        "name": "#3 Igor Julio",
+        "position": "Центр. защитник",
+        "readiness": 0.4647222222222222
+    },
+    {
+        "name": "#4 Adam Webster",
+        "position": "Центр. защитник",
+        "readiness": 0.6810379702109154
+    },
+    {
+        "name": "#5 Lewis Dunk",
+        "position": "Центр. защитник",
+        "readiness": 0.44410879227053146
+    },
+    {
+        "name": "#24 Ferdi Kadıoğlu",
+        "position": "Левый защитник",
+        "readiness": 0.4034656613756614
+    },
+    {
+        "name": "#29 Maxim De Cuyper",
+        "position": "Левый защитник",
+        "readiness": 0.5135861678004535
+    },
+    {
+        "name": "#34 Joël Veltman",
+        "position": "Правый защитник",
+        "readiness": 0.40099103174603173
+    },
+    {
+        "name": "#17 Carlos Baleba",
+        "position": "Опорный полузащитник",
+        "readiness": 0.30063852698412696
+    },
+    {
+        "name": "#27 Mats Wieffer",
+        "position": "Опорный полузащитник",
+        "readiness": 0.5379066293183941
+    },
+    {
+        "name": "#13 Jack Hinshelwood",
+        "position": "Опорный полузащитник",
+        "readiness": 0.398762962962963
+    },
+    {
+        "name": "#26 Yasin Ayari",
+        "position": "Центр. полузащитник",
+        "readiness": 0.42290168968253966
+    },
+    {
+        "name": "#25 Diego Gómez",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4359722222222222
+    },
+    {
+        "name": "#33 Matt O'Riley",
+        "position": "Центр. полузащитник",
+        "readiness": 0.6186746031746032
+    },
+    {
+        "name": "#30 Pascal Groß",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4785082539682539
+    },
+    {
+        "name": "#20 James Milner",
+        "position": "Центр. полузащитник",
+        "readiness": 0.23185666666666666
+    },
+    {
+        "name": "#22 Kaoru Mitoma",
+        "position": "Левый Вингер",
+        "readiness": 0.43
+    },
+    {
+        "name": "#11 Yankuba Minteh",
+        "position": "Правый Вингер",
+        "readiness": 0.35676869565217395
+    },
+    {
+        "name": "#7 Solly March",
+        "position": "Правый Вингер",
+        "readiness": 0.4421225490196078
+    },
+    {
+        "name": "#10 Georginio Rutter",
+        "position": "Центральный нап.",
+        "readiness": 0.3695877777777778
+    },
+    {
+        "name": "#19 Charalampos Kostoulas",
+        "position": "Центральный нап.",
+        "readiness": 0.23148894736842107
+    },
+    {
+        "name": "#9 Stefanos Tzimas",
+        "position": "Центральный нап.",
+        "readiness": 0.35630051282051284
+    },
+    {
+        "name": "#18 Danny Welbeck",
+        "position": "Центральный нап.",
+        "readiness": 0.5044997435897436
+    }
+]

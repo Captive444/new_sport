@@ -1,0 +1,137 @@
+[
+    {
+        "name": "#40 Jonas Urbig",
+        "position": "Вратарь",
+        "readiness": 0.6480000000000001
+    },
+    {
+        "name": "#1 Manuel Neuer",
+        "position": "Вратарь",
+        "readiness": 0.5520971428571428
+    },
+    {
+        "name": "#26 Sven Ulreich",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "Leon Klanac",
+        "position": "Вратарь",
+        "readiness": 0.35796000000000006
+    },
+    {
+        "name": "#2 Dayot Upamecano",
+        "position": "Центр. защитник",
+        "readiness": 0.45592612942612937
+    },
+    {
+        "name": "#4 Jonathan Tah",
+        "position": "Центр. защитник",
+        "readiness": 0.596885544608648
+    },
+    {
+        "name": "#3 Min-jae Kim",
+        "position": "Центр. защитник",
+        "readiness": 0.568515873015873
+    },
+    {
+        "name": "#21 Hiroki Ito",
+        "position": "Центр. защитник",
+        "readiness": 0.4802189153439153
+    },
+    {
+        "name": "#19 Alphonso Davies",
+        "position": "Левый защитник",
+        "readiness": 0.38347817460317457
+    },
+    {
+        "name": "#22 Raphaël Guerreiro",
+        "position": "Левый защитник",
+        "readiness": 0.338840865497076
+    },
+    {
+        "name": "#27 Konrad Laimer",
+        "position": "Правый защитник",
+        "readiness": 0.5603217338217338
+    },
+    {
+        "name": "#44 Josip Stanisic",
+        "position": "Правый защитник",
+        "readiness": 0.6180456349206349
+    },
+    {
+        "name": "#23 Sacha Boey",
+        "position": "Правый защитник",
+        "readiness": 0.35806031746031747
+    },
+    {
+        "name": "#45 Aleksandar Pavlovic",
+        "position": "Опорный полузащитник",
+        "readiness": 0.47430976190476193
+    },
+    {
+        "name": "#6 Joshua Kimmich",
+        "position": "Опорный полузащитник",
+        "readiness": 0.5391311904761905
+    },
+    {
+        "name": "David Santos Daiber",
+        "position": "Опорный полузащитник",
+        "readiness": 0.47276227824463124
+    },
+    {
+        "name": "#20 Tom Bischof",
+        "position": "Центр. полузащитник",
+        "readiness": 0.3865386123015873
+    },
+    {
+        "name": "#8 Leon Goretzka",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4998160430839002
+    },
+    {
+        "name": "#39 Bara Sapoko Ndiaye",
+        "position": "Центр. полузащитник",
+        "readiness": 0.45
+    },
+    {
+        "name": "#10 Jamal Musiala",
+        "position": "Атак. полузащитник",
+        "readiness": 0.4655330158730159
+    },
+    {
+        "name": "#42 Lennart Karl",
+        "position": "Атак. полузащитник",
+        "readiness": 0.30685579047619044
+    },
+    {
+        "name": "#14 Luis Díaz",
+        "position": "Левый Вингер",
+        "readiness": 0.7925172413793103
+    },
+    {
+        "name": "Wisdom Mike",
+        "position": "Левый Вингер",
+        "readiness": 0.27707193333333335
+    },
+    {
+        "name": "#17 Michael Olise",
+        "position": "Правый Вингер",
+        "readiness": 0.79021875
+    },
+    {
+        "name": "#7 Serge Gnabry",
+        "position": "Оттянутый нап.",
+        "readiness": 0.5378344076923077
+    },
+    {
+        "name": "#9 Harry Kane",
+        "position": "Центральный нап.",
+        "readiness": 0.8356928125
+    },
+    {
+        "name": "#11 Nicolas Jackson",
+        "position": "Центральный нап.",
+        "readiness": 0.474375
+    }
+]

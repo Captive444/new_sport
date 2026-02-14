@@ -1,0 +1,147 @@
+[
+    {
+        "name": "#22 Robin Roefs",
+        "position": "Вратарь",
+        "readiness": 0.6061771428571429
+    },
+    {
+        "name": "#31 Melker Ellborg",
+        "position": "Вратарь",
+        "readiness": 0.55125
+    },
+    {
+        "name": "#21 Simon Moore",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#5 Dan Ballard",
+        "position": "Центр. защитник",
+        "readiness": 0.5783537414965987
+    },
+    {
+        "name": "#15 Omar Alderete",
+        "position": "Центр. защитник",
+        "readiness": 0.559265873015873
+    },
+    {
+        "name": "#13 Luke O'Nien",
+        "position": "Центр. защитник",
+        "readiness": 0.28693354444444447
+    },
+    {
+        "name": "#3 Dennis Cirkin",
+        "position": "Левый защитник",
+        "readiness": 0.4474628083028083
+    },
+    {
+        "name": "#17 Reinildo Mandava",
+        "position": "Левый защитник",
+        "readiness": 0.45161031746031743
+    },
+    {
+        "name": "#6 Lutsharel Geertruida",
+        "position": "Правый защитник",
+        "readiness": 0.5807765246449457
+    },
+    {
+        "name": "#32 Trai Hume",
+        "position": "Правый защитник",
+        "readiness": 0.43573968253968254
+    },
+    {
+        "name": "#20 Nordi Mukiele",
+        "position": "Правый защитник",
+        "readiness": 0.5999136904761905
+    },
+    {
+        "name": "#34 Granit Xhaka",
+        "position": "Опорный полузащитник",
+        "readiness": 0.5645206038647342
+    },
+    {
+        "name": "#19 Habib Diarra",
+        "position": "Центр. полузащитник",
+        "readiness": 0.3404600176870748
+    },
+    {
+        "name": "#27 Noah Sadiki",
+        "position": "Центр. полузащитник",
+        "readiness": 0.30212533333333336
+    },
+    {
+        "name": "#28 Enzo Le Fée",
+        "position": "Центр. полузащитник",
+        "readiness": 0.45367777777777785
+    },
+    {
+        "name": "#46 Abdoullah Ba",
+        "position": "Правый полузащитник",
+        "readiness": 0.73358
+    },
+    {
+        "name": "#11 Chris Rigg",
+        "position": "Атак. полузащитник",
+        "readiness": 0.2559986
+    },
+    {
+        "name": "#30 Milan Aleksic",
+        "position": "Атак. полузащитник",
+        "readiness": 0.38866114144620817
+    },
+    {
+        "name": "#50 Harrison Jones",
+        "position": "Атак. полузащитник",
+        "readiness": 0.5593838888888889
+    },
+    {
+        "name": "Nilson Angulo",
+        "position": "Левый Вингер",
+        "readiness": 0.4902
+    },
+    {
+        "name": "#14 Romaine Mundle",
+        "position": "Левый Вингер",
+        "readiness": 0.1942912
+    },
+    {
+        "name": "#7 Chemsdine Talbi",
+        "position": "Правый Вингер",
+        "readiness": 0.3588903111111112
+    },
+    {
+        "name": "#25 Bertrand Traoré",
+        "position": "Правый Вингер",
+        "readiness": 0.34755393939393936
+    },
+    {
+        "name": "#36 Ian Poveda",
+        "position": "Правый Вингер",
+        "readiness": 0.64226
+    },
+    {
+        "name": "#37 Jocelin Ta Bi",
+        "position": "Правый Вингер",
+        "readiness": 0.27266913333333337
+    },
+    {
+        "name": "#9 Brian Brobbey",
+        "position": "Центральный нап.",
+        "readiness": 0.5995873015873016
+    },
+    {
+        "name": "#12 Eliezer Mayenda",
+        "position": "Центральный нап.",
+        "readiness": 0.2776297916666667
+    },
+    {
+        "name": "#18 Wilson Isidor",
+        "position": "Центральный нап.",
+        "readiness": 0.4743623188405797
+    },
+    {
+        "name": "#29 Ahmed Abdullahi",
+        "position": "Центральный нап.",
+        "readiness": 0.758499
+    }
+]

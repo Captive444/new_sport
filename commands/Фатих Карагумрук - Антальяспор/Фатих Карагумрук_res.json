@@ -1,0 +1,137 @@
+[
+    {
+        "name": "#13 Ivo Grbic",
+        "position": "Вратарь",
+        "readiness": 0.5360544217687074
+    },
+    {
+        "name": "#99 Furkan Bekleviç",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#96 Kerem Yandal",
+        "position": "Вратарь",
+        "readiness": 0.494
+    },
+    {
+        "name": "#98 Berke Can Evli",
+        "position": "Вратарь",
+        "readiness": 0.3762
+    },
+    {
+        "name": "#4 Davide Biraschi",
+        "position": "Центр. защитник",
+        "readiness": 0.45940277777777777
+    },
+    {
+        "name": "#22 Fatih Kurucuk",
+        "position": "Центр. защитник",
+        "readiness": 0.46117857142857144
+    },
+    {
+        "name": "#94 Anıl Yiğit Çınar",
+        "position": "Центр. защитник",
+        "readiness": 0.39886166813186813
+    },
+    {
+        "name": "#24 Burhan Ersoy",
+        "position": "Центр. защитник",
+        "readiness": 0.3568385714285714
+    },
+    {
+        "name": "#32 Muhammed Kadıoğlu",
+        "position": "Центр. защитник",
+        "readiness": 0.40029947089947093
+    },
+    {
+        "name": "#33 Çağtay Kurukalıp",
+        "position": "Левый защитник",
+        "readiness": 0.39085954285714286
+    },
+    {
+        "name": "#47 Ricardo Esgaio",
+        "position": "Правый защитник",
+        "readiness": 0.362286146031746
+    },
+    {
+        "name": "#6 Bartuğ Elmaz",
+        "position": "Опорный полузащитник",
+        "readiness": 0.2530414857142857
+    },
+    {
+        "name": "#14 Marius Tresor Doh",
+        "position": "Опорный полузащитник",
+        "readiness": 0.336268750877193
+    },
+    {
+        "name": "#5 Matías Kranevitter",
+        "position": "Опорный полузащитник",
+        "readiness": 0.353257073015873
+    },
+    {
+        "name": "#8 Berkay Özcan",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4681794893029676
+    },
+    {
+        "name": "#11 Daniel Johnson",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4142959888888889
+    },
+    {
+        "name": "#72 Barış Kalaycı",
+        "position": "Центр. полузащитник",
+        "readiness": 0.320828253968254
+    },
+    {
+        "name": "#16 Tuğbey Akgün",
+        "position": "Центр. полузащитник",
+        "readiness": 0.31184555555555554
+    },
+    {
+        "name": "#23 Sam Larsson",
+        "position": "Атак. полузащитник",
+        "readiness": 0.4999755555555555
+    },
+    {
+        "name": "#70 Serginho",
+        "position": "Левый Вингер",
+        "readiness": 0.4847328985507246
+    },
+    {
+        "name": "#17 Ahmet Sivri",
+        "position": "Левый Вингер",
+        "readiness": 0.2386818181818182
+    },
+    {
+        "name": "#80 Shavy Babicka",
+        "position": "Правый Вингер",
+        "readiness": 0.2343125
+    },
+    {
+        "name": "#37 João Camacho",
+        "position": "Правый Вингер",
+        "readiness": 0.158929325
+    },
+    {
+        "name": "#20 Tarık Buğra Kalpaklı",
+        "position": "Правый Вингер",
+        "readiness": 0.20554938888888888
+    },
+    {
+        "name": "#88 Ahmed Traore",
+        "position": "Правый Вингер",
+        "readiness": 0.16299140000000004
+    },
+    {
+        "name": "#21 Tiago Çukur",
+        "position": "Центральный нап.",
+        "readiness": 0.27709476666666666
+    },
+    {
+        "name": "#15 Abdul Kader Moussa Kone",
+        "position": "Центральный нап.",
+        "readiness": 0.572455
+    }
+]

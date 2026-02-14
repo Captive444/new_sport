@@ -1,0 +1,842 @@
+[
+    {
+        "name": "#1 Okan Kocuk",
+        "position": "Вратарь",
+        "age": 30,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 29,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 31,
+                "total_clean_sheets": 10,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/204189/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#71 İrfan Can Eğribayat",
+        "position": "Вратарь",
+        "age": 27,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 7,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 7,
+                "total_clean_sheets": 3,
+                "total_minutes_played": 630
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/322873/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#33 Efe Yiğit Üstün",
+        "position": "Вратарь",
+        "age": 17,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 9,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 16,
+                "total_clean_sheets": 1,
+                "total_minutes_played": 810
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1237420/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#48 Efe Berat Törüz",
+        "position": "Вратарь",
+        "age": 19,
+        "height": 194,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 4,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 8,
+                "total_clean_sheets": 1,
+                "total_minutes_played": 360
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1070009/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#4 Rick van Drongelen",
+        "position": "Центр. защитник",
+        "age": 27,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 28,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/354340/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#24 Toni Borevković",
+        "position": "Центр. защитник",
+        "age": 28,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 982
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/396342/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#37 Lubomir Satka",
+        "position": "Центр. защитник",
+        "age": 30,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 26,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 1,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/168408/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#96 Bedirhan Çetin",
+        "position": "Центр. защитник",
+        "age": 19,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1017551/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#15 Ali Badra Diabaté",
+        "position": "Центр. защитник",
+        "age": 19,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 3,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 125
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1457367/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#17 Logi Tómasson",
+        "position": "Левый защитник",
+        "age": 25,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 30,
+                "total_goals": 1,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 12,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/472873/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#28 Soner Gönül",
+        "position": "Левый защитник",
+        "age": 28,
+        "height": 177,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 13,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 741
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/340967/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#22 Enes Albak",
+        "position": "Левый защитник",
+        "age": 20,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1072260/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#2 Joe Mendes",
+        "position": "Правый защитник",
+        "age": 23,
+        "height": 177,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 24,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 19,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 774
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/579284/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#18 Zeki Yavru",
+        "position": "Правый защитник",
+        "age": 34,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 28,
+                "total_goals": 0,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 14,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/98131/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#29 Antoine Makoumbou",
+        "position": "Опорный полузащитник",
+        "age": 27,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 30,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/460651/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#5 Celil Yüksel",
+        "position": "Опорный полузащитник",
+        "age": 28,
+        "height": 171,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 1,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/336074/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#55 Yunus Emre Çift",
+        "position": "Опорный полузащитник",
+        "age": 22,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 14,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 822
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/821622/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#25 Franck Atoen",
+        "position": "Опорный полузащитник",
+        "age": 19,
+        "height": 174,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1435403/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#73 Eyüp Değirmenci",
+        "position": "Опорный полузащитник",
+        "age": 18,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 3,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 11,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1303364/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#10 Olivier Ntcham",
+        "position": "Центр. полузащитник",
+        "age": 29,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/224088/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#20 Yalçın Kayan",
+        "position": "Центр. полузащитник",
+        "age": 27,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 2,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 13,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/605266/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "Muhammet Özbaskıcı",
+        "position": "Центр. полузащитник",
+        "age": 20,
+        "height": 172,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 5,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 178
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/928352/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "Alper Efe Pazar",
+        "position": "Центр. полузащитник",
+        "age": 20,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 9,
+                "total_goals": 0,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 291
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1015607/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#21 Carlo Holse",
+        "position": "Атак. полузащитник",
+        "age": 26,
+        "height": 177,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 28,
+                "total_goals": 7,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 17,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/345577/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#77 Afonso Sousa",
+        "position": "Атак. полузащитник",
+        "age": 25,
+        "height": 174,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 5,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 252
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/375378/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#47 Jaurès Assoumou",
+        "position": "Левый Вингер",
+        "age": 23,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 5,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1066904/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#11 Emre Kılınç",
+        "position": "Левый Вингер",
+        "age": 31,
+        "height": 174,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 2,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/208848/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#16 Tahsin Bülbül",
+        "position": "Левый Вингер",
+        "age": 19,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 9,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 4,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1142144/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#30 Saikuba Jarju",
+        "position": "Левый Вингер",
+        "age": 18,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 5,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 332
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1494766/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#7 Elayis Tavsan",
+        "position": "Правый Вингер",
+        "age": 24,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 3,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 14,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/462086/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#70 Tanguy Coulibaly",
+        "position": "Правый Вингер",
+        "age": 24,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 717
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/618425/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#22 Polat Yaldır",
+        "position": "Правый Вингер",
+        "age": 22,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 181
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/852616/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#19 Cherif Ndiaye",
+        "position": "Центральный нап.",
+        "age": 30,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 7,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/480705/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#9 Marius Mouandilmadji",
+        "position": "Центральный нап.",
+        "age": 28,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 32,
+                "total_goals": 11,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/598399/plus/1",
+        "team": "Самсунспор"
+    },
+    {
+        "name": "#99 Ebrima Ceesay",
+        "position": "Центральный нап.",
+        "age": 19,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 10,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 540
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1432633/plus/1",
+        "team": "Самсунспор"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "name": "#19 Günay Güvenç",
+        "position": "Вратарь",
+        "readiness": 0.6662
+    },
+    {
+        "name": "#6 Davinson Sánchez",
+        "position": "Центр. защитник",
+        "readiness": 0.4100
+    },
+    {
+        "name": "#42 Abdülkerim Bardakcı",
+        "position": "Центр. защитник",
+        "readiness": 0.5320
+    },
+    {
+        "name": "#88 Kazımcan Karataş",
+        "position": "Левый защитник",
+        "readiness": 0.4500
+    },
+    {
+        "name": "#90 Wilfried Singo",
+        "position": "Правый защитник",
+        "readiness": 0.5182
+    },
+    {
+        "name": "#7 Roland Sallai",
+        "position": "Правый защитник",
+        "readiness": 0.6345
+    },
+    {
+        "name": "#8 Gabriel Sara",
+        "position": "Центр. полузащитник",
+        "readiness": 0.3928
+    },
+    {
+        "name": "#10 Leroy Sané",
+        "position": "Правый Вингер",
+        "readiness": 0.5683
+    },
+    {
+        "name": "#34 Lucas Torreira",
+        "position": "Опорный полузащитник",
+        "readiness": 0.3039
+    },
+    {
+        "name": "#99 Mario Lemina",
+        "position": "Опорный полузащитник",
+        "readiness": 0.3964
+    },
+    {
+        "name": "#53 Barış Alper Yılmaz",
+        "position": "Левый Вингер",
+        "readiness": 0.5719
+    }
+]

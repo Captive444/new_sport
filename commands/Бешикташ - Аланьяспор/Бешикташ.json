@@ -1,0 +1,626 @@
+[
+    {
+        "name": "#30 Ersin Destanoğlu",
+        "position": "Вратарь",
+        "age": 25,
+        "height": 195,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 17,
+                "total_clean_sheets": 5,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/500091/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "#99 Emre Bilgin",
+        "position": "Вратарь",
+        "age": 21,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/727147/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "#96 Emir Yaşar",
+        "position": "Вратарь",
+        "age": 20,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 2,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 4,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 180
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/935552/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "Emmanuel Agbadou",
+        "position": "Центр. защитник",
+        "age": 28,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/683895/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "#35 Tiago Djaló",
+        "position": "Центр. защитник",
+        "age": 25,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/420465/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "#14 Felix Uduokhai",
+        "position": "Центр. защитник",
+        "age": 28,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 7,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/278343/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "#53 Emirhan Topçu",
+        "position": "Центр. защитник",
+        "age": 25,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 9,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/531332/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "#58 Yasin Özcan",
+        "position": "Центр. защитник",
+        "age": 19,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 12,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 702
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1043003/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "#33 Rıdvan Yılmaz",
+        "position": "Левый защитник",
+        "age": 24,
+        "height": 174,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/477930/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "#22 Taylan Bulut",
+        "position": "Правый защитник",
+        "age": 20,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 558
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/810100/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "#25 Gökhan Sazdağı",
+        "position": "Правый защитник",
+        "age": 31,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/257785/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "#23 Kristjan Asllani",
+        "position": "Опорный полузащитник",
+        "age": 23,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/543771/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "#4 Wilfred Ndidi",
+        "position": "Опорный полузащитник",
+        "age": 29,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/274839/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "#17 Kartal Yılmaz",
+        "position": "Опорный полузащитник",
+        "age": 25,
+        "height": 174,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 1,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 14,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 768
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/461951/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "#20 Necip Uysal",
+        "position": "Опорный полузащитник",
+        "age": 35,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 3,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 86
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/77710/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "#10 Orkun Kökçü",
+        "position": "Центр. полузащитник",
+        "age": 25,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 3,
+                "total_assists": 5,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 2,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/454567/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "#8 Salih Uçan",
+        "position": "Центр. полузащитник",
+        "age": 32,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 484
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/170838/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "#15 Junior Olaitan",
+        "position": "Атак. полузащитник",
+        "age": 23,
+        "height": 174,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/900938/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "#19 El Bilal Touré",
+        "position": "Левый Вингер",
+        "age": 24,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 6,
+                "total_assists": 5,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/649016/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "#26 Jota Silva",
+        "position": "Левый Вингер",
+        "age": 26,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 3,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 431
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/663244/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "#52 Devrim Şahin",
+        "position": "Левый Вингер",
+        "age": 18,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 698
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1304045/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "#18 Vaclav Cerny",
+        "position": "Правый Вингер",
+        "age": 28,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 7,
+                "total_assists": 6,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 14,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/242063/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "#11 Cengiz Ünder",
+        "position": "Правый Вингер",
+        "age": 28,
+        "height": 173,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 5,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 696
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/341647/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "#7 Milot Rashica",
+        "position": "Правый Вингер",
+        "age": 29,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 2,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/291739/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "#9 Hyeon-gyu Oh",
+        "position": "Центральный нап.",
+        "age": 24,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 32,
+                "total_goals": 10,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 21,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/639246/plus/1",
+        "team": "Бешикташ"
+    },
+    {
+        "name": "#91 Mustafa Hekimoğlu",
+        "position": "Центральный нап.",
+        "age": 18,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 8,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 229
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1071252/plus/1",
+        "team": "Бешикташ"
+    }
+]

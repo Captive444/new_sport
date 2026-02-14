@@ -1,0 +1,95 @@
+{
+  "match": "Эюпспор - Истанбул ББ",
+  "match_url": "https://soccer365.ru/competitions/723/",
+  "date_time": "08.02, 14:30",
+  "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+  "analysis_date": "2026-02-07T13:44:56.438489",
+  "home_team": {
+    "team_id": "10962",
+    "team_name": "Эюпспор",
+    "team_url": "https://soccer365.ru/clubs/10962/",
+    "position_in_league": 15,
+    "last_results": [
+      0.5,
+      1,
+      0.5,
+      0.5,
+      1
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 2,
+      "draws": 3,
+      "losses": 0,
+      "points": 9,
+      "form": "DWDDW"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 2.0,
+        "avg_conceded": 1.5,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 2.0,
+        "avg_conceded": 1.3333333333333333,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 2.0,
+        "avg_conceded": 1.4,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-02-07T13:44:44.230154"
+  },
+  "away_team": {
+    "team_id": "6969",
+    "team_name": "Истанбул ББ",
+    "team_url": "https://soccer365.ru/clubs/6969/",
+    "position_in_league": 6,
+    "last_results": [
+      1,
+      0.5,
+      1,
+      1,
+      1
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 4,
+      "draws": 1,
+      "losses": 0,
+      "points": 13,
+      "form": "WDWWW"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 2.0,
+        "avg_conceded": 1.3333333333333333,
+        "matches_count": 3
+      },
+      "away": {
+        "avg_scored": 3.5,
+        "avg_conceded": 0.5,
+        "matches_count": 2
+      },
+      "overall": {
+        "avg_scored": 2.6,
+        "avg_conceded": 1.0,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-02-07T13:44:45.418919"
+  },
+  "comparison": {
+    "position_difference": 9,
+    "home_team_form": "DWDDW",
+    "away_team_form": "WDWWW",
+    "scoring_insight": "В среднем Эюпспор забивает дома 2.00 мяча, а Истанбул ББ в гостях пропускает 0.50 мяча."
+  }
+}

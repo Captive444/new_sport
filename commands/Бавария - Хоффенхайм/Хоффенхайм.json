@@ -1,0 +1,698 @@
+[
+    {
+        "name": "#1 Oliver Baumann",
+        "position": "Вратарь",
+        "age": 35,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 25,
+                "total_clean_sheets": 6,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/55089/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#37 Luca Philipp",
+        "position": "Вратарь",
+        "age": 25,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 1,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 1,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 90
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/432671/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#36 Lúkas Petersson",
+        "position": "Вратарь",
+        "age": 21,
+        "height": 195,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 33,
+                "total_clean_sheets": 3,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/718460/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#21 Albian Hajdari",
+        "position": "Центр. защитник",
+        "age": 22,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 8,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/579459/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#2 Robin Hranac",
+        "position": "Центр. защитник",
+        "age": 26,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/620217/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#28 Koki Machida",
+        "position": "Центр. защитник",
+        "age": 28,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 2,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 135
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/415035/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#5 Ozan Kabak",
+        "position": "Центр. защитник",
+        "age": 25,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 12,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 520
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/361260/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#25 Kevin Akpoguma",
+        "position": "Центр. защитник",
+        "age": 30,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 5,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 38
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/160241/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#45 Kelven Frees",
+        "position": "Центр. защитник",
+        "age": 21,
+        "height": 202,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 4,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 322
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/934529/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#13 Bernardo",
+        "position": "Левый защитник",
+        "age": 30,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/364258/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#15 Valentin Gendrey",
+        "position": "Правый защитник",
+        "age": 25,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 5,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 74
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/569387/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#34 Vladimír Coufal",
+        "position": "Правый защитник",
+        "age": 33,
+        "height": 174,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 1,
+                "total_assists": 5,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/157672/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#7 Leon Avdullahu",
+        "position": "Опорный полузащитник",
+        "age": 21,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/667457/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#18 Wouter Burger",
+        "position": "Опорный полузащитник",
+        "age": 24,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 5,
+                "total_assists": 9,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/412953/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#16 Luis Engelns",
+        "position": "Центр. полузащитник",
+        "age": 18,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 13,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 733
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1116191/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#6 Grischa Prömel",
+        "position": "Центр. полузащитник",
+        "age": 31,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 7,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/234029/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#48 Luka Duric",
+        "position": "Центр. полузащитник",
+        "age": 22,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 6,
+                "total_assists": 7,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 3,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/685484/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#22 Alexander Prass",
+        "position": "Левый полузащитник",
+        "age": 24,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 12,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 818
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/434116/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#10 Muhammed Damar",
+        "position": "Атак. полузащитник",
+        "age": 21,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 242
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/789898/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#27 Andrej Kramaric",
+        "position": "Атак. полузащитник",
+        "age": 34,
+        "height": 177,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 9,
+                "total_assists": 6,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 13,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 4,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/46580/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#29 Bazoumana Touré",
+        "position": "Левый Вингер",
+        "age": 19,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 2,
+                "total_assists": 7,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1067904/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#20 Cole Campbell",
+        "position": "Правый Вингер",
+        "age": 19,
+        "height": 170,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 3,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 189
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/866579/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#11 Fisnik Asllani",
+        "position": "Центральный нап.",
+        "age": 23,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 7,
+                "total_assists": 6,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 18,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/524290/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#23 Adam Hlozek",
+        "position": "Центральный нап.",
+        "age": 23,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 3,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 22
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/552057/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#19 Tim Lemperle",
+        "position": "Центральный нап.",
+        "age": 23,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 6,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 17,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/553285/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#33 Max Moerstedt",
+        "position": "Центральный нап.",
+        "age": 20,
+        "height": 194,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 4,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 14,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 354
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/923595/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#38 Deniz Zeitler",
+        "position": "Центральный нап.",
+        "age": 19,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 6,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 17,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1108022/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#9 Ihlas Bebou",
+        "position": "Центральный нап.",
+        "age": 31,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 13,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 174
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/237164/plus/1",
+        "team": "Хоффенхайм"
+    },
+    {
+        "name": "#31 Yannick Eduardo",
+        "position": "Центральный нап.",
+        "age": 20,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 12,
+                "total_assists": 5,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 2,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/930998/plus/1",
+        "team": "Хоффенхайм"
+    }
+]

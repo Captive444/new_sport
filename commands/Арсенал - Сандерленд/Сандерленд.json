@@ -1,0 +1,698 @@
+[
+    {
+        "name": "#22 Robin Roefs",
+        "position": "Вратарь",
+        "age": 23,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 27,
+                "total_clean_sheets": 8,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/646991/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#31 Melker Ellborg",
+        "position": "Вратарь",
+        "age": 22,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 8,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 10,
+                "total_clean_sheets": 1,
+                "total_minutes_played": 720
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/605426/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#21 Simon Moore",
+        "position": "Вратарь",
+        "age": 35,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/123536/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#5 Dan Ballard",
+        "position": "Центр. защитник",
+        "age": 26,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/503686/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#15 Omar Alderete",
+        "position": "Центр. защитник",
+        "age": 29,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/353032/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#13 Luke O'Nien",
+        "position": "Центр. защитник",
+        "age": 31,
+        "height": 174,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 9,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 411
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/282939/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#3 Dennis Cirkin",
+        "position": "Левый защитник",
+        "age": 23,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 854
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/568006/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#17 Reinildo Mandava",
+        "position": "Левый защитник",
+        "age": 32,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/240692/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#6 Lutsharel Geertruida",
+        "position": "Правый защитник",
+        "age": 25,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/420210/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#32 Trai Hume",
+        "position": "Правый защитник",
+        "age": 23,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 8,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/515544/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#20 Nordi Mukiele",
+        "position": "Правый защитник",
+        "age": 28,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 24,
+                "total_goals": 1,
+                "total_assists": 4,
+                "total_own_goals": 1,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/348026/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#34 Granit Xhaka",
+        "position": "Опорный полузащитник",
+        "age": 33,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 1,
+                "total_assists": 5,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/111455/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#19 Habib Diarra",
+        "position": "Центр. полузащитник",
+        "age": 22,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 7,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 498
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/876631/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#27 Noah Sadiki",
+        "position": "Центр. полузащитник",
+        "age": 21,
+        "height": 173,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/727089/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#28 Enzo Le Fée",
+        "position": "Центр. полузащитник",
+        "age": 26,
+        "height": 173,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 4,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 2,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/633992/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#46 Abdoullah Ba",
+        "position": "Правый полузащитник",
+        "age": 22,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 2,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 180
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/654412/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#11 Chris Rigg",
+        "position": "Атак. полузащитник",
+        "age": 18,
+        "height": 177,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 12,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 561
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/947411/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#30 Milan Aleksic",
+        "position": "Атак. полузащитник",
+        "age": 20,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 9,
+                "total_goals": 0,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 307
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/942738/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#50 Harrison Jones",
+        "position": "Атак. полузащитник",
+        "age": 21,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 12,
+                "total_goals": 4,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 971
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/937840/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "Nilson Angulo",
+        "position": "Левый Вингер",
+        "age": 22,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 30,
+                "total_goals": 7,
+                "total_assists": 8,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 2,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/903611/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#14 Romaine Mundle",
+        "position": "Левый Вингер",
+        "age": 22,
+        "height": 172,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 479
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/696181/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#7 Chemsdine Talbi",
+        "position": "Правый Вингер",
+        "age": 20,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 3,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/743384/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#25 Bertrand Traoré",
+        "position": "Правый Вингер",
+        "age": 30,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 679
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/131996/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#36 Ian Poveda",
+        "position": "Правый Вингер",
+        "age": 25,
+        "height": 167,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 4,
+                "total_goals": 3,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 308
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/392763/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#37 Jocelin Ta Bi",
+        "position": "Правый Вингер",
+        "age": 20,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 12,
+                "total_goals": 2,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 858
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1322090/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#9 Brian Brobbey",
+        "position": "Центральный нап.",
+        "age": 24,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 6,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/473169/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#12 Eliezer Mayenda",
+        "position": "Центральный нап.",
+        "age": 20,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 709
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/967346/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#18 Wilson Isidor",
+        "position": "Центральный нап.",
+        "age": 25,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 4,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 12,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/494237/plus/1",
+        "team": "Сандерленд"
+    },
+    {
+        "name": "#29 Ahmed Abdullahi",
+        "position": "Центральный нап.",
+        "age": 21,
+        "height": null,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 1,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 90
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1015619/plus/1",
+        "team": "Сандерленд"
+    }
+]

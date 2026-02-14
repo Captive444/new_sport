@@ -1,0 +1,740 @@
+[
+  {
+    "team_id": "7142",
+    "team_name": "Унион Берлин",
+    "team_url": "https://soccer365.ru/clubs/7142/",
+    "position_in_league": 9,
+    "last_results": [
+      0.5,
+      0,
+      0,
+      0.5,
+      0.5
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 0,
+      "draws": 3,
+      "losses": 2,
+      "points": 3,
+      "form": "DLLDD"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 0.5,
+        "avg_conceded": 2.0,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 1.0,
+        "avg_conceded": 1.6666666666666667,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 0.8,
+        "avg_conceded": 1.8,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:50:43.757688"
+  },
+  {
+    "team_id": "254",
+    "team_name": "Айнтрахт Франкфурт",
+    "team_url": "https://soccer365.ru/clubs/254/",
+    "position_in_league": 7,
+    "last_results": [
+      0.5,
+      0,
+      0,
+      0,
+      0
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 0,
+      "draws": 1,
+      "losses": 4,
+      "points": 1,
+      "form": "DLLLL"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 0.6666666666666666,
+        "avg_conceded": 2.6666666666666665,
+        "matches_count": 3
+      },
+      "away": {
+        "avg_scored": 1.5,
+        "avg_conceded": 2.0,
+        "matches_count": 2
+      },
+      "overall": {
+        "avg_scored": 1.0,
+        "avg_conceded": 2.4,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:50:44.790274"
+  },
+  {
+    "team_id": "174",
+    "team_name": "Фрайбург",
+    "team_url": "https://soccer365.ru/clubs/174/",
+    "position_in_league": 8,
+    "last_results": [
+      0,
+      0,
+      1,
+      1,
+      0.5
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "points": 7,
+      "form": "LLWWD"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.5,
+        "avg_conceded": 0.5,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 0.6666666666666666,
+        "avg_conceded": 1.3333333333333333,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 1.0,
+        "avg_conceded": 1.0,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:50:45.706322"
+  },
+  {
+    "team_id": "32",
+    "team_name": "Вердер",
+    "team_url": "https://soccer365.ru/clubs/32/",
+    "position_in_league": 15,
+    "last_results": [
+      0.5,
+      0,
+      0,
+      0.5,
+      0
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 0,
+      "draws": 2,
+      "losses": 3,
+      "points": 2,
+      "form": "DLLDL"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.3333333333333333,
+        "avg_conceded": 2.0,
+        "matches_count": 3
+      },
+      "away": {
+        "avg_scored": 0.0,
+        "avg_conceded": 2.0,
+        "matches_count": 2
+      },
+      "overall": {
+        "avg_scored": 0.8,
+        "avg_conceded": 2.0,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:50:46.773871"
+  },
+  {
+    "team_id": "8025",
+    "team_name": "Хайденхайм",
+    "team_url": "https://soccer365.ru/clubs/8025/",
+    "position_in_league": 18,
+    "last_results": [
+      0,
+      0,
+      0.5,
+      0,
+      0.5
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 0,
+      "draws": 2,
+      "losses": 3,
+      "points": 2,
+      "form": "LLDLD"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.0,
+        "avg_conceded": 2.5,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 1.3333333333333333,
+        "avg_conceded": 2.0,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 1.2,
+        "avg_conceded": 2.2,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:50:47.732755"
+  },
+  {
+    "team_id": "43",
+    "team_name": "Гамбург",
+    "team_url": "https://soccer365.ru/clubs/43/",
+    "position_in_league": 13,
+    "last_results": [
+      0.5,
+      0.5,
+      0.5,
+      0,
+      0.5
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 0,
+      "draws": 4,
+      "losses": 1,
+      "points": 4,
+      "form": "DDDLD"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.0,
+        "avg_conceded": 1.0,
+        "matches_count": 3
+      },
+      "away": {
+        "avg_scored": 0.5,
+        "avg_conceded": 1.0,
+        "matches_count": 2
+      },
+      "overall": {
+        "avg_scored": 0.8,
+        "avg_conceded": 1.0,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:50:48.899217"
+  },
+  {
+    "team_id": "250",
+    "team_name": "Майнц",
+    "team_url": "https://soccer365.ru/clubs/250/",
+    "position_in_league": 16,
+    "last_results": [
+      1,
+      1,
+      0,
+      1,
+      0.5
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "points": 10,
+      "form": "WWLWD"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 2.5,
+        "avg_conceded": 1.0,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 1.6666666666666667,
+        "avg_conceded": 1.6666666666666667,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 2.0,
+        "avg_conceded": 1.4,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:50:49.799156"
+  },
+  {
+    "team_id": "5",
+    "team_name": "Аугсбург",
+    "team_url": "https://soccer365.ru/clubs/5/",
+    "position_in_league": 11,
+    "last_results": [
+      1,
+      1,
+      0.5,
+      0.5,
+      0
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 1,
+      "points": 8,
+      "form": "WWDDL"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.6666666666666667,
+        "avg_conceded": 1.3333333333333333,
+        "matches_count": 3
+      },
+      "away": {
+        "avg_scored": 1.0,
+        "avg_conceded": 2.5,
+        "matches_count": 2
+      },
+      "overall": {
+        "avg_scored": 1.4,
+        "avg_conceded": 1.8,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:50:50.859215"
+  },
+  {
+    "team_id": "138",
+    "team_name": "Санкт-Паули",
+    "team_url": "https://soccer365.ru/clubs/138/",
+    "position_in_league": 17,
+    "last_results": [
+      0,
+      0,
+      0.5,
+      0.5,
+      0
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 0,
+      "draws": 2,
+      "losses": 3,
+      "points": 2,
+      "form": "LLDDL"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 0.5,
+        "avg_conceded": 0.5,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 1.0,
+        "avg_conceded": 2.6666666666666665,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 0.8,
+        "avg_conceded": 1.8,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:50:51.913184"
+  },
+  {
+    "team_id": "190",
+    "team_name": "Штутгарт",
+    "team_url": "https://soccer365.ru/clubs/190/",
+    "position_in_league": 4,
+    "last_results": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "points": 12,
+      "form": "WWWWL"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 2.0,
+        "avg_conceded": 1.0,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 2.0,
+        "avg_conceded": 0.6666666666666666,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 2.0,
+        "avg_conceded": 0.8,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:50:53.030159"
+  },
+  {
+    "team_id": "39",
+    "team_name": "Вольфсбург",
+    "team_url": "https://soccer365.ru/clubs/39/",
+    "position_in_league": 14,
+    "last_results": [
+      0,
+      0,
+      0.5,
+      1,
+      0
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 1,
+      "draws": 1,
+      "losses": 3,
+      "points": 4,
+      "form": "LLDWL"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.5,
+        "avg_conceded": 1.0,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 0.6666666666666666,
+        "avg_conceded": 4.0,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 1.0,
+        "avg_conceded": 2.8,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:50:54.033863"
+  },
+  {
+    "team_id": "263",
+    "team_name": "Боруссия Дортмунд",
+    "team_url": "https://soccer365.ru/clubs/263/",
+    "position_in_league": 2,
+    "last_results": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "points": 9,
+      "form": "WLWLW"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 2.0,
+        "avg_conceded": 2.0,
+        "matches_count": 3
+      },
+      "away": {
+        "avg_scored": 1.5,
+        "avg_conceded": 1.0,
+        "matches_count": 2
+      },
+      "overall": {
+        "avg_scored": 1.8,
+        "avg_conceded": 1.6,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:50:55.172612"
+  },
+  {
+    "team_id": "264",
+    "team_name": "Боруссия М",
+    "team_url": "https://soccer365.ru/clubs/264/",
+    "position_in_league": 12,
+    "last_results": [
+      0.5,
+      0,
+      0.5,
+      0,
+      1
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 1,
+      "draws": 2,
+      "losses": 2,
+      "points": 5,
+      "form": "DLDLW"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 2.0,
+        "avg_conceded": 1.5,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 0.6666666666666666,
+        "avg_conceded": 2.0,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 1.2,
+        "avg_conceded": 1.8,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:50:56.140318"
+  },
+  {
+    "team_id": "9",
+    "team_name": "Байер",
+    "team_url": "https://soccer365.ru/clubs/9/",
+    "position_in_league": 6,
+    "last_results": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "points": 12,
+      "form": "WWWWL"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 2.3333333333333335,
+        "avg_conceded": 0.0,
+        "matches_count": 3
+      },
+      "away": {
+        "avg_scored": 1.5,
+        "avg_conceded": 1.5,
+        "matches_count": 2
+      },
+      "overall": {
+        "avg_scored": 2.0,
+        "avg_conceded": 0.6,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:50:57.124812"
+  },
+  {
+    "team_id": "61",
+    "team_name": "Кёльн",
+    "team_url": "https://soccer365.ru/clubs/61/",
+    "position_in_league": 10,
+    "last_results": [
+      1,
+      0,
+      1,
+      0,
+      0.5
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "points": 7,
+      "form": "WLWLD"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.3333333333333333,
+        "avg_conceded": 1.3333333333333333,
+        "matches_count": 3
+      },
+      "away": {
+        "avg_scored": 1.5,
+        "avg_conceded": 2.0,
+        "matches_count": 2
+      },
+      "overall": {
+        "avg_scored": 1.4,
+        "avg_conceded": 1.6,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:50:58.244314"
+  },
+  {
+    "team_id": "7832",
+    "team_name": "РБ Лейпциг",
+    "team_url": "https://soccer365.ru/clubs/7832/",
+    "position_in_league": 5,
+    "last_results": [
+      0,
+      0.5,
+      1,
+      0,
+      1
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "points": 7,
+      "form": "LDWLW"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.3333333333333333,
+        "avg_conceded": 2.3333333333333335,
+        "matches_count": 3
+      },
+      "away": {
+        "avg_scored": 2.0,
+        "avg_conceded": 0.5,
+        "matches_count": 2
+      },
+      "overall": {
+        "avg_scored": 1.6,
+        "avg_conceded": 1.6,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:50:59.200427"
+  },
+  {
+    "team_id": "8",
+    "team_name": "Бавария",
+    "team_url": "https://soccer365.ru/clubs/8/",
+    "position_in_league": 1,
+    "last_results": [
+      0.5,
+      1,
+      0,
+      1,
+      1
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "points": 10,
+      "form": "DWLWW"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.5,
+        "avg_conceded": 1.0,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 3.0,
+        "avg_conceded": 1.3333333333333333,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 2.4,
+        "avg_conceded": 1.2,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:51:00.345907"
+  },
+  {
+    "team_id": "260",
+    "team_name": "Хоффенхайм",
+    "team_url": "https://soccer365.ru/clubs/260/",
+    "position_in_league": 3,
+    "last_results": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 5,
+      "draws": 0,
+      "losses": 0,
+      "points": 15,
+      "form": "WWWWW"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 3.0,
+        "avg_conceded": 0.6666666666666666,
+        "matches_count": 3
+      },
+      "away": {
+        "avg_scored": 2.5,
+        "avg_conceded": 0.5,
+        "matches_count": 2
+      },
+      "overall": {
+        "avg_scored": 2.8,
+        "avg_conceded": 0.6,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:51:01.410301"
+  }
+]

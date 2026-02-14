@@ -1,0 +1,147 @@
+[
+    {
+        "name": "#1 Oliver Baumann",
+        "position": "Вратарь",
+        "readiness": 0.5563999999999999
+    },
+    {
+        "name": "#37 Luca Philipp",
+        "position": "Вратарь",
+        "readiness": 0.65
+    },
+    {
+        "name": "#36 Lúkas Petersson",
+        "position": "Вратарь",
+        "readiness": 0.4890714285714286
+    },
+    {
+        "name": "#21 Albian Hajdari",
+        "position": "Центр. защитник",
+        "readiness": 0.38321154553049286
+    },
+    {
+        "name": "#2 Robin Hranac",
+        "position": "Центр. защитник",
+        "readiness": 0.4974297052154195
+    },
+    {
+        "name": "#28 Koki Machida",
+        "position": "Центр. защитник",
+        "readiness": 0.23335714285714285
+    },
+    {
+        "name": "#5 Ozan Kabak",
+        "position": "Центр. защитник",
+        "readiness": 0.5404537037037037
+    },
+    {
+        "name": "#25 Kevin Akpoguma",
+        "position": "Центр. защитник",
+        "readiness": 0.3786111111111111
+    },
+    {
+        "name": "#45 Kelven Frees",
+        "position": "Центр. защитник",
+        "readiness": 0.41231100000000004
+    },
+    {
+        "name": "#13 Bernardo",
+        "position": "Левый защитник",
+        "readiness": 0.46253968253968253
+    },
+    {
+        "name": "#15 Valentin Gendrey",
+        "position": "Правый защитник",
+        "readiness": 0.3680634920634921
+    },
+    {
+        "name": "#34 Vladimír Coufal",
+        "position": "Правый защитник",
+        "readiness": 0.4574934619047619
+    },
+    {
+        "name": "#7 Leon Avdullahu",
+        "position": "Опорный полузащитник",
+        "readiness": 0.46925787878787883
+    },
+    {
+        "name": "#18 Wouter Burger",
+        "position": "Опорный полузащитник",
+        "readiness": 0.6705753968253968
+    },
+    {
+        "name": "#16 Luis Engelns",
+        "position": "Центр. полузащитник",
+        "readiness": 0.31149629072681706
+    },
+    {
+        "name": "#6 Grischa Prömel",
+        "position": "Центр. полузащитник",
+        "readiness": 0.6388120861678005
+    },
+    {
+        "name": "#48 Luka Duric",
+        "position": "Центр. полузащитник",
+        "readiness": 0.5970430555555556
+    },
+    {
+        "name": "#22 Alexander Prass",
+        "position": "Левый полузащитник",
+        "readiness": 0.44390873015873017
+    },
+    {
+        "name": "#10 Muhammed Damar",
+        "position": "Атак. полузащитник",
+        "readiness": 0.350329696969697
+    },
+    {
+        "name": "#27 Andrej Kramaric",
+        "position": "Атак. полузащитник",
+        "readiness": 0.4991469333333334
+    },
+    {
+        "name": "#29 Bazoumana Touré",
+        "position": "Левый Вингер",
+        "readiness": 0.34111466666666673
+    },
+    {
+        "name": "#20 Cole Campbell",
+        "position": "Правый Вингер",
+        "readiness": 0.26515022222222223
+    },
+    {
+        "name": "#11 Fisnik Asllani",
+        "position": "Центральный нап.",
+        "readiness": 0.6032576
+    },
+    {
+        "name": "#23 Adam Hlozek",
+        "position": "Центральный нап.",
+        "readiness": 0.14945333333333333
+    },
+    {
+        "name": "#19 Tim Lemperle",
+        "position": "Центральный нап.",
+        "readiness": 0.5474333333333333
+    },
+    {
+        "name": "#33 Max Moerstedt",
+        "position": "Центральный нап.",
+        "readiness": 0.3414261333333333
+    },
+    {
+        "name": "#38 Deniz Zeitler",
+        "position": "Центральный нап.",
+        "readiness": 0.47849696969696964
+    },
+    {
+        "name": "#9 Ihlas Bebou",
+        "position": "Центральный нап.",
+        "readiness": 0.15144846153846153
+    },
+    {
+        "name": "#31 Yannick Eduardo",
+        "position": "Центральный нап.",
+        "readiness": 0.6136222811594203
+    }
+]

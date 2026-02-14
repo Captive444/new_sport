@@ -1,0 +1,152 @@
+[
+    {
+        "name": "#30 Mio Backhaus",
+        "position": "Вратарь",
+        "readiness": 0.4942777777777778
+    },
+    {
+        "name": "#13 Karl Hein",
+        "position": "Вратарь",
+        "readiness": 0.5805
+    },
+    {
+        "name": "#25 Markus Kolke",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#1 Stefan Smarkalev",
+        "position": "Вратарь",
+        "readiness": 0.4500285714285714
+    },
+    {
+        "name": "#31 Karim Coulibaly",
+        "position": "Центр. защитник",
+        "readiness": 0.43357899749373435
+    },
+    {
+        "name": "#32 Marco Friedl",
+        "position": "Центр. защитник",
+        "readiness": 0.5032389306599833
+    },
+    {
+        "name": "#5 Amos Pieper",
+        "position": "Центр. защитник",
+        "readiness": 0.47117460317460313
+    },
+    {
+        "name": "#39 Maximilian Wöber",
+        "position": "Центр. защитник",
+        "readiness": 0.42094444444444445
+    },
+    {
+        "name": "#4 Niklas Stark",
+        "position": "Центр. защитник",
+        "readiness": 0.4035674603174603
+    },
+    {
+        "name": "#22 Julián Malatini",
+        "position": "Центр. защитник",
+        "readiness": 0.32646031746031745
+    },
+    {
+        "name": "#33 Mick Schmetgens",
+        "position": "Центр. защитник",
+        "readiness": 0.4605539826839827
+    },
+    {
+        "name": "#27 Felix Agu",
+        "position": "Левый защитник",
+        "readiness": 0.4798310657596372
+    },
+    {
+        "name": "#2 Olivier Deman",
+        "position": "Левый защитник",
+        "readiness": 0.3626984126984127
+    },
+    {
+        "name": "#23 Isaac Schmidt",
+        "position": "Левый защитник",
+        "readiness": 0.29303461640211637
+    },
+    {
+        "name": "#3 Yukinari Sugawara",
+        "position": "Правый защитник",
+        "readiness": 0.5386273015873017
+    },
+    {
+        "name": "#8 Mitchell Weiser",
+        "position": "Правый защитник",
+        "readiness": 0.6008840425531915
+    },
+    {
+        "name": "#14 Senne Lynen",
+        "position": "Опорный полузащитник",
+        "readiness": 0.5388789682539683
+    },
+    {
+        "name": "#34 Wesley Adeh",
+        "position": "Опорный полузащитник",
+        "readiness": 0.4521380952380953
+    },
+    {
+        "name": "#6 Jens Stage",
+        "position": "Центр. полузащитник",
+        "readiness": 0.6248505291005291
+    },
+    {
+        "name": "#10 Leonardo Bittencourt",
+        "position": "Центр. полузащитник",
+        "readiness": 0.2562225142857143
+    },
+    {
+        "name": "#20 Romano Schmid",
+        "position": "Атак. полузащитник",
+        "readiness": 0.40079510204081636
+    },
+    {
+        "name": "#18 Cameron Puertas",
+        "position": "Атак. полузащитник",
+        "readiness": 0.3033820634920635
+    },
+    {
+        "name": "#24 Patrice Covic",
+        "position": "Атак. полузащитник",
+        "readiness": 0.27652800865800864
+    },
+    {
+        "name": "#7 Samuel Mbangula",
+        "position": "Левый Вингер",
+        "readiness": 0.40887425925925924
+    },
+    {
+        "name": "#17 Marco Grüll",
+        "position": "Левый Вингер",
+        "readiness": 0.373
+    },
+    {
+        "name": "#11 Justin Njinmah",
+        "position": "Правый Вингер",
+        "readiness": 0.5104166666666666
+    },
+    {
+        "name": "#44 Victor Boniface",
+        "position": "Центральный нап.",
+        "readiness": 0.23337878787878788
+    },
+    {
+        "name": "#19 Jovan Milosevic",
+        "position": "Центральный нап.",
+        "readiness": 0.676509761904762
+    },
+    {
+        "name": "#9 Keke Topp",
+        "position": "Центральный нап.",
+        "readiness": 0.2753680222222223
+    },
+    {
+        "name": "#29 Salim Musah",
+        "position": "Центральный нап.",
+        "readiness": 0.593040761904762
+    }
+]

@@ -1,0 +1,650 @@
+[
+    {
+        "name": "#25 Giorgi Mamardashvili",
+        "position": "Вратарь",
+        "age": 25,
+        "height": 197,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 17,
+                "total_clean_sheets": 3,
+                "total_minutes_played": 934
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/502676/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#1 Alisson",
+        "position": "Вратарь",
+        "age": 33,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 28,
+                "total_clean_sheets": 9,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/105470/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#28 Freddie Woodman",
+        "position": "Вратарь",
+        "age": 28,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 1,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 3,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 90
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/226049/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "Harvey Davies",
+        "position": "Вратарь",
+        "age": 22,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 36,
+                "total_clean_sheets": 2,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/706815/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#5 Ibrahima Konaté",
+        "position": "Центр. защитник",
+        "age": 26,
+        "height": 194,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 31,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/357119/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#15 Giovanni Leoni",
+        "position": "Центр. защитник",
+        "age": 19,
+        "height": 196,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 1,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 81
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1086619/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#4 Virgil van Dijk",
+        "position": "Центр. защитник",
+        "age": 34,
+        "height": 195,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 34,
+                "total_goals": 3,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/139208/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#2 Joe Gomez",
+        "position": "Центр. защитник",
+        "age": 28,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 696
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/256178/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#46 Rhys Williams",
+        "position": "Центр. защитник",
+        "age": 25,
+        "height": 195,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 4,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 333
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/503679/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#6 Milos Kerkez",
+        "position": "Левый защитник",
+        "age": 22,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 31,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/730861/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#26 Andrew Robertson",
+        "position": "Левый защитник",
+        "age": 31,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/234803/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#30 Jeremie Frimpong",
+        "position": "Правый защитник",
+        "age": 25,
+        "height": 172,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/484547/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#12 Conor Bradley",
+        "position": "Правый защитник",
+        "age": 22,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 7,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/624258/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#38 Ryan Gravenberch",
+        "position": "Опорный полузащитник",
+        "age": 23,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 30,
+                "total_goals": 4,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/478573/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#43 Stefan Bajcetic",
+        "position": "Опорный полузащитник",
+        "age": 21,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 91,
+                "total_goals": 5,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 28,
+                "total_substitutions_out": 39,
+                "total_yellow_cards": 17,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/864799/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#3 Wataru Endo",
+        "position": "Опорный полузащитник",
+        "age": 32,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 386
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/146310/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#10 Alexis Mac Allister",
+        "position": "Центр. полузащитник",
+        "age": 27,
+        "height": 176,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 34,
+                "total_goals": 3,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 13,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/534033/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#17 Curtis Jones",
+        "position": "Центр. полузащитник",
+        "age": 25,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 30,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 13,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/433188/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#42 Trey Nyoni",
+        "position": "Центр. полузащитник",
+        "age": 18,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 12,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 747
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1045123/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#7 Florian Wirtz",
+        "position": "Атак. полузащитник",
+        "age": 22,
+        "height": 177,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 32,
+                "total_goals": 6,
+                "total_assists": 8,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 20,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/598577/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#8 Dominik Szoboszlai",
+        "position": "Атак. полузащитник",
+        "age": 25,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 33,
+                "total_goals": 8,
+                "total_assists": 7,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/451276/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#18 Cody Gakpo",
+        "position": "Левый Вингер",
+        "age": 26,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 31,
+                "total_goals": 7,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 12,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/434675/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#73 Rio Ngumoha",
+        "position": "Левый Вингер",
+        "age": 17,
+        "height": 170,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 394
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1108466/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#11 Mohamed Salah",
+        "position": "Правый Вингер",
+        "age": 33,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 24,
+                "total_goals": 6,
+                "total_assists": 6,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/148455/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#14 Federico Chiesa",
+        "position": "Правый Вингер",
+        "age": 28,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 24,
+                "total_goals": 3,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 20,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 554
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/341092/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#9 Alexander Isak",
+        "position": "Центральный нап.",
+        "age": 26,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 3,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 781
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/349066/plus/1",
+        "team": "Ливерпуль"
+    },
+    {
+        "name": "#22 Hugo Ekitiké",
+        "position": "Центральный нап.",
+        "age": 23,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 32,
+                "total_goals": 15,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 19,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/709726/plus/1",
+        "team": "Ливерпуль"
+    }
+]

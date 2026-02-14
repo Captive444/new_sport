@@ -1,0 +1,157 @@
+[
+    {
+        "name": "#1 Marvin Schwäbe",
+        "position": "Вратарь",
+        "readiness": 0.6275
+    },
+    {
+        "name": "#20 Ron-Robert Zieler",
+        "position": "Вратарь",
+        "readiness": 0.3457142857142857
+    },
+    {
+        "name": "#44 Matthias Köbbing",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#33 Rav van den Berg",
+        "position": "Центр. защитник",
+        "readiness": 0.36174666666666666
+    },
+    {
+        "name": "#22 Jahmai Simpson-Pusey",
+        "position": "Центр. защитник",
+        "readiness": 0.45116269841269846
+    },
+    {
+        "name": "#2 Joël Schmied",
+        "position": "Центр. защитник",
+        "readiness": 0.42603235653235655
+    },
+    {
+        "name": "#4 Timo Hübers",
+        "position": "Центр. защитник",
+        "readiness": 0.550757495590829
+    },
+    {
+        "name": "#39 Cenk Özkacar",
+        "position": "Центр. защитник",
+        "readiness": 0.43537301587301586
+    },
+    {
+        "name": "#3 Dominique Heintz",
+        "position": "Центр. защитник",
+        "readiness": 0.3643949433106576
+    },
+    {
+        "name": "#15 Luca Kilian",
+        "position": "Центр. защитник",
+        "readiness": 0.729261796042618
+    },
+    {
+        "name": "#32 Kristoffer Lund",
+        "position": "Левый защитник",
+        "readiness": 0.4618084353741497
+    },
+    {
+        "name": "#28 Sebastian Sebulonsen",
+        "position": "Правый защитник",
+        "readiness": 0.5098037518037518
+    },
+    {
+        "name": "#6 Eric Martel",
+        "position": "Опорный полузащитник",
+        "readiness": 0.4621825850340136
+    },
+    {
+        "name": "#5 Tom Krauß",
+        "position": "Опорный полузащитник",
+        "readiness": 0.48853688141923435
+    },
+    {
+        "name": "#34 Fayssal Harchaoui",
+        "position": "Опорный полузащитник",
+        "readiness": 0.2939522116402116
+    },
+    {
+        "name": "#18 Ísak Jóhannesson",
+        "position": "Центр. полузащитник",
+        "readiness": 0.44960643990929705
+    },
+    {
+        "name": "#8 Denis Huseinbasic",
+        "position": "Центр. полузащитник",
+        "readiness": 0.38967913832199547
+    },
+    {
+        "name": "#27 Felipe Chávez",
+        "position": "Центр. полузащитник",
+        "readiness": 0.37014640000000004
+    },
+    {
+        "name": "#46 Emin Kujovic",
+        "position": "Центр. полузащитник",
+        "readiness": 0.41171208333333337
+    },
+    {
+        "name": "#17 Alessio Castro-Montes",
+        "position": "Правый полузащитник",
+        "readiness": 0.33912426303854876
+    },
+    {
+        "name": "#11 Florian Kainz",
+        "position": "Атак. полузащитник",
+        "readiness": 0.3129850027777778
+    },
+    {
+        "name": "#13 Said El Mala",
+        "position": "Левый Вингер",
+        "readiness": 0.5054666666666667
+    },
+    {
+        "name": "#16 Jakub Kaminski",
+        "position": "Левый Вингер",
+        "readiness": 0.49667999999999995
+    },
+    {
+        "name": "#37 Linton Maina",
+        "position": "Левый Вингер",
+        "readiness": 0.3683125
+    },
+    {
+        "name": "#30 Marius Bülter",
+        "position": "Левый Вингер",
+        "readiness": 0.4174625
+    },
+    {
+        "name": "#29 Jan Thielmann",
+        "position": "Правый Вингер",
+        "readiness": 0.3672533333333333
+    },
+    {
+        "name": "Youssoupha Niang",
+        "position": "Правый Вингер",
+        "readiness": 0.12786666666666666
+    },
+    {
+        "name": "#9 Ragnar Ache",
+        "position": "Центральный нап.",
+        "readiness": 0.5448253968253968
+    },
+    {
+        "name": "#7 Luca Waldschmidt",
+        "position": "Центральный нап.",
+        "readiness": 0.4484444444444444
+    },
+    {
+        "name": "#40 Fynn Schenten",
+        "position": "Центральный нап.",
+        "readiness": 0.6682495238095237
+    },
+    {
+        "name": "#19 Malek El Mala",
+        "position": "Центральный нап.",
+        "readiness": 0.4783790545454546
+    }
+]

@@ -1,0 +1,626 @@
+[
+    {
+        "name": "#1 Frederik Rönnow",
+        "position": "Вратарь",
+        "age": 33,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 37,
+                "total_clean_sheets": 5,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/107775/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#31 Matheo Raab",
+        "position": "Вратарь",
+        "age": 27,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 1,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 1,
+                "total_minutes_played": 40
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/386685/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#25 Carl Klaus",
+        "position": "Вратарь",
+        "age": 32,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/161057/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#14 Leopold Querfeld",
+        "position": "Центр. защитник",
+        "age": 22,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 4,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 2,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/597432/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#5 Danilho Doekhi",
+        "position": "Центр. защитник",
+        "age": 27,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 6,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/387047/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#4 Diogo Leite",
+        "position": "Центр. защитник",
+        "age": 27,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 2,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/357156/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#34 Stanley Nsoki",
+        "position": "Центр. защитник",
+        "age": 26,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 6,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 184
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/371141/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#15 Tom Rothe",
+        "position": "Левый защитник",
+        "age": 21,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 833
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/798043/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#39 Derrick Köhn",
+        "position": "Левый защитник",
+        "age": 26,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/391780/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#3 Andrik Markgraf",
+        "position": "Левый защитник",
+        "age": 19,
+        "height": 172,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1027870/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#18 Josip Juranovic",
+        "position": "Правый защитник",
+        "age": 30,
+        "height": 173,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 5,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 178
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/362977/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#28 Christopher Trimmel",
+        "position": "Правый защитник",
+        "age": 38,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 0,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/75921/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#6 Aljoscha Kemlein",
+        "position": "Опорный полузащитник",
+        "age": 21,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/692737/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#8 Rani Khedira",
+        "position": "Опорный полузащитник",
+        "age": 32,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 4,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/124410/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#13 András Schäfer",
+        "position": "Центр. полузащитник",
+        "age": 26,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 938
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/454863/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#33 Alex Král",
+        "position": "Центр. полузащитник",
+        "age": 27,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 12,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 253
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/337333/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#19 Janik Haberer",
+        "position": "Центр. полузащитник",
+        "age": 31,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/177779/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#24 Robert Skov",
+        "position": "Левый полузащитник",
+        "age": 29,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 4,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 291
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/270393/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#11 Woo-yeong Jeong",
+        "position": "Атак. полузащитник",
+        "age": 26,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 3,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 12,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 856
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/297583/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#9 Livan Burcu",
+        "position": "Левый Вингер",
+        "age": 21,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 8,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 244
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/519872/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#17 David Preu",
+        "position": "Левый Вингер",
+        "age": 21,
+        "height": 172,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/745075/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#10 Ilyas Ansah",
+        "position": "Центральный нап.",
+        "age": 21,
+        "height": 197,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 5,
+                "total_assists": 2,
+                "total_own_goals": 1,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 14,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1035765/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#23 Andrej Ilic",
+        "position": "Центральный нап.",
+        "age": 25,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 1,
+                "total_assists": 9,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/583699/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#7 Oliver Burke",
+        "position": "Центральный нап.",
+        "age": 28,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 4,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 13,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/341317/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#21 Tim Skarke",
+        "position": "Центральный нап.",
+        "age": 29,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 12,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 429
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/287920/plus/1",
+        "team": "Унион Берлин"
+    },
+    {
+        "name": "#30 Dmytro Bogdanov",
+        "position": "Центральный нап.",
+        "age": 18,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 8,
+                "total_goals": 10,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 553
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1045446/plus/1",
+        "team": "Унион Берлин"
+    }
+]

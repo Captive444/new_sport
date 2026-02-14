@@ -1,0 +1,95 @@
+{
+  "match": "Кёльн - РБ Лейпциг",
+  "match_url": "https://soccer365.ru/competitions/17/",
+  "date_time": "08.02, 17:30",
+  "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+  "analysis_date": "2026-02-07T13:51:01.431145",
+  "home_team": {
+    "team_id": "61",
+    "team_name": "Кёльн",
+    "team_url": "https://soccer365.ru/clubs/61/",
+    "position_in_league": 10,
+    "last_results": [
+      1,
+      0,
+      1,
+      0,
+      0.5
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "points": 7,
+      "form": "WLWLD"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.3333333333333333,
+        "avg_conceded": 1.3333333333333333,
+        "matches_count": 3
+      },
+      "away": {
+        "avg_scored": 1.5,
+        "avg_conceded": 2.0,
+        "matches_count": 2
+      },
+      "overall": {
+        "avg_scored": 1.4,
+        "avg_conceded": 1.6,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:50:58.244314"
+  },
+  "away_team": {
+    "team_id": "7832",
+    "team_name": "РБ Лейпциг",
+    "team_url": "https://soccer365.ru/clubs/7832/",
+    "position_in_league": 5,
+    "last_results": [
+      0,
+      0.5,
+      1,
+      0,
+      1
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "points": 7,
+      "form": "LDWLW"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.3333333333333333,
+        "avg_conceded": 2.3333333333333335,
+        "matches_count": 3
+      },
+      "away": {
+        "avg_scored": 2.0,
+        "avg_conceded": 0.5,
+        "matches_count": 2
+      },
+      "overall": {
+        "avg_scored": 1.6,
+        "avg_conceded": 1.6,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:50:59.200427"
+  },
+  "comparison": {
+    "position_difference": 5,
+    "home_team_form": "WLWLD",
+    "away_team_form": "LDWLW",
+    "scoring_insight": "В среднем Кёльн забивает дома 1.33 мяча, а РБ Лейпциг в гостях пропускает 0.50 мяча."
+  }
+}

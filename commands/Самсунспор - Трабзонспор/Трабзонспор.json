@@ -1,0 +1,626 @@
+[
+    {
+        "name": "#24 André Onana",
+        "position": "Вратарь",
+        "age": 29,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 28,
+                "total_clean_sheets": 3,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/234509/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#25 Onuralp Çevikkan",
+        "position": "Вратарь",
+        "age": 20,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 3,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 2,
+                "total_clean_sheets": 1,
+                "total_minutes_played": 270
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1054214/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#88 Ahmet Yıldırım",
+        "position": "Вратарь",
+        "age": 19,
+        "height": 194,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 1,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 1,
+                "total_minutes_played": 90
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1174140/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#96 Erol Can Çolak",
+        "position": "Вратарь",
+        "age": 20,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 3,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 4,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 270
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1152080/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#44 Arseniy Batagov",
+        "position": "Центр. защитник",
+        "age": 23,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 24,
+                "total_goals": 1,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/665048/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#27 Chibuike Nwaiwu",
+        "position": "Центр. защитник",
+        "age": 22,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 2,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/985825/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#15 Stefan Savic",
+        "position": "Центр. защитник",
+        "age": 35,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/107010/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#21 Arda Öztürk",
+        "position": "Центр. защитник",
+        "age": 18,
+        "height": 194,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1243013/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#92 Taha Emre İnce",
+        "position": "Центр. защитник",
+        "age": 18,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 8,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 607
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1304031/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#14 Mathias Løvik",
+        "position": "Левый защитник",
+        "age": 22,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 967
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/661212/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#19 Mustafa Eskihellaç",
+        "position": "Левый защитник",
+        "age": 28,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 0,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/390379/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#20 Wagner Pina",
+        "position": "Правый защитник",
+        "age": 23,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 0,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1072017/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#5 Okay Yokuşlu",
+        "position": "Опорный полузащитник",
+        "age": 31,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 1,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 887
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/137616/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#74 Salih Malkoçoğlu",
+        "position": "Опорный полузащитник",
+        "age": 20,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 5,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 39
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/944442/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#42 Christ Inao Oulaï",
+        "position": "Центр. полузащитник",
+        "age": 19,
+        "height": 173,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 2,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1279526/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#8 Benjamin Bouchouari",
+        "position": "Центр. полузащитник",
+        "age": 24,
+        "height": 165,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 12,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 634
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/783094/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#26 Tim Jabol-Folcarelli",
+        "position": "Центр. полузащитник",
+        "age": 26,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 0,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/674241/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#11 Ozan Tufan",
+        "position": "Центр. полузащитник",
+        "age": 30,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 895
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/236471/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#80 Boran Başkan",
+        "position": "Центр. полузащитник",
+        "age": 19,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 1,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 1
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1070028/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#10 Ernest Muci",
+        "position": "Атак. полузащитник",
+        "age": 24,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 27,
+                "total_goals": 11,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 12,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/583917/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#9 Anthony Nwakaeme",
+        "position": "Левый Вингер",
+        "age": 36,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 7,
+                "total_goals": 1,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 234
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/175988/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#22 Oleksandr Zubkov",
+        "position": "Правый Вингер",
+        "age": 29,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 3,
+                "total_assists": 8,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 14,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/289075/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#7 Edin Visca",
+        "position": "Правый Вингер",
+        "age": 35,
+        "height": 172,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 9,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 184
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/109217/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#30 Paul Onuachu",
+        "position": "Центральный нап.",
+        "age": 31,
+        "height": 200,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 14,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 5,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/272855/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#99 Felipe Augusto",
+        "position": "Центральный нап.",
+        "age": 21,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 10,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 14,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/834899/plus/1",
+        "team": "Трабзонспор"
+    },
+    {
+        "name": "#18 Umut Nayir",
+        "position": "Центральный нап.",
+        "age": 32,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 8,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/248271/plus/1",
+        "team": "Трабзонспор"
+    }
+]

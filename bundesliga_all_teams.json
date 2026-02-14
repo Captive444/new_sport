@@ -1,0 +1,128 @@
+[
+  {
+    "position": 1,
+    "team_name": "Бавария Мюнхен",
+    "matches_played": 9,
+    "goal_difference": 29,
+    "points": 27
+  },
+  {
+    "position": 2,
+    "team_name": "РБ Лейпциг",
+    "matches_played": 9,
+    "goal_difference": 9,
+    "points": 22
+  },
+  {
+    "position": 3,
+    "team_name": "Боруссия Дортмунд",
+    "matches_played": 9,
+    "goal_difference": 9,
+    "points": 20
+  },
+  {
+    "position": 4,
+    "team_name": "Штуттгарт",
+    "matches_played": 9,
+    "goal_difference": 4,
+    "points": 18
+  },
+  {
+    "position": 5,
+    "team_name": "Байер 04 Леверкузен",
+    "matches_played": 9,
+    "goal_difference": 4,
+    "points": 17
+  },
+  {
+    "position": 6,
+    "team_name": "Хоффенхайм",
+    "matches_played": 9,
+    "goal_difference": 3,
+    "points": 16
+  },
+  {
+    "position": 7,
+    "team_name": "Кёльн",
+    "matches_played": 9,
+    "goal_difference": 4,
+    "points": 14
+  },
+  {
+    "position": 8,
+    "team_name": "Айнтрахт Франкфурт",
+    "matches_played": 9,
+    "goal_difference": 3,
+    "points": 14
+  },
+  {
+    "position": 9,
+    "team_name": "Вердер Бремен",
+    "matches_played": 9,
+    "goal_difference": -4,
+    "points": 12
+  },
+  {
+    "position": 10,
+    "team_name": "Унион Берлин",
+    "matches_played": 9,
+    "goal_difference": -4,
+    "points": 11
+  },
+  {
+    "position": 11,
+    "team_name": "Фрайбург",
+    "matches_played": 9,
+    "goal_difference": -2,
+    "points": 10
+  },
+  {
+    "position": 12,
+    "team_name": "Вольфсбург",
+    "matches_played": 9,
+    "goal_difference": -5,
+    "points": 8
+  },
+  {
+    "position": 13,
+    "team_name": "Гамбург",
+    "matches_played": 9,
+    "goal_difference": -7,
+    "points": 8
+  },
+  {
+    "position": 14,
+    "team_name": "Аугсбург",
+    "matches_played": 9,
+    "goal_difference": -9,
+    "points": 7
+  },
+  {
+    "position": 15,
+    "team_name": "Санкт-Паули",
+    "matches_played": 9,
+    "goal_difference": -10,
+    "points": 7
+  },
+  {
+    "position": 16,
+    "team_name": "Боруссия Мёнхенгладбах",
+    "matches_played": 9,
+    "goal_difference": -8,
+    "points": 6
+  },
+  {
+    "position": 17,
+    "team_name": "Майнц 05",
+    "matches_played": 9,
+    "goal_difference": -7,
+    "points": 5
+  },
+  {
+    "position": 18,
+    "team_name": "Хайденхайм",
+    "matches_played": 9,
+    "goal_difference": -9,
+    "points": 5
+  }
+]

@@ -1,0 +1,127 @@
+[
+    {
+        "name": "#1 Noah Atubolu",
+        "position": "Вратарь",
+        "readiness": 0.602
+    },
+    {
+        "name": "#21 Florian Müller",
+        "position": "Вратарь",
+        "readiness": 0.7178571428571429
+    },
+    {
+        "name": "#24 Jannik Huth",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#3 Philipp Lienhart",
+        "position": "Центр. защитник",
+        "readiness": 0.49822639933166246
+    },
+    {
+        "name": "#37 Max Rosenfelder",
+        "position": "Центр. защитник",
+        "readiness": 0.357679299719888
+    },
+    {
+        "name": "#28 Matthias Ginter",
+        "position": "Центр. защитник",
+        "readiness": 0.6219666666666666
+    },
+    {
+        "name": "#43 Bruno Ogbus",
+        "position": "Центр. защитник",
+        "readiness": 0.4289944973544974
+    },
+    {
+        "name": "#5 Anthony Jung",
+        "position": "Центр. защитник",
+        "readiness": 0.37226603174603173
+    },
+    {
+        "name": "#33 Jordy Makengo",
+        "position": "Левый защитник",
+        "readiness": 0.5345802987861812
+    },
+    {
+        "name": "#30 Christian Günter",
+        "position": "Левый защитник",
+        "readiness": 0.5363014630779847
+    },
+    {
+        "name": "#29 Philipp Treu",
+        "position": "Правый защитник",
+        "readiness": 0.42654048840048836
+    },
+    {
+        "name": "#17 Lukas Kübler",
+        "position": "Правый защитник",
+        "readiness": 0.47279053140096616
+    },
+    {
+        "name": "#6 Patrick Osterhage",
+        "position": "Опорный полузащитник",
+        "readiness": 0.5339133885438233
+    },
+    {
+        "name": "#27 Nicolas Höfler",
+        "position": "Опорный полузащитник",
+        "readiness": 0.3129101851851852
+    },
+    {
+        "name": "#44 Johan Manzambi",
+        "position": "Центр. полузащитник",
+        "readiness": 0.42588657029478455
+    },
+    {
+        "name": "#8 Maximilian Eggestein",
+        "position": "Центр. полузащитник",
+        "readiness": 0.6021771633384536
+    },
+    {
+        "name": "#11 Daniel-Kofi Kyereh",
+        "position": "Атак. полузащитник",
+        "readiness": 0.6570309768547653
+    },
+    {
+        "name": "#7 Derry Scherhant",
+        "position": "Левый Вингер",
+        "readiness": 0.3927516049382716
+    },
+    {
+        "name": "#32 Vincenzo Grifo",
+        "position": "Левый Вингер",
+        "readiness": 0.5952084946236559
+    },
+    {
+        "name": "#22 Cyriaque Irié",
+        "position": "Правый Вингер",
+        "readiness": 0.1
+    },
+    {
+        "name": "#19 Niklas Beste",
+        "position": "Правый Вингер",
+        "readiness": 0.2728815384615385
+    },
+    {
+        "name": "#14 Yuito Suzuki",
+        "position": "Оттянутый нап.",
+        "readiness": 0.4251216666666667
+    },
+    {
+        "name": "#26 Maximilian Philipp",
+        "position": "Оттянутый нап.",
+        "readiness": 0.45
+    },
+    {
+        "name": "#31 Igor Matanovic",
+        "position": "Центральный нап.",
+        "readiness": 0.3895201185185185
+    },
+    {
+        "name": "#9 Lucas Höler",
+        "position": "Центральный нап.",
+        "readiness": 0.45496
+    }
+]

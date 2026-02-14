@@ -1,0 +1,152 @@
+[
+    {
+        "name": "#22 Nikola Vasilj",
+        "position": "Вратарь",
+        "readiness": 0.6363636363636364
+    },
+    {
+        "name": "#1 Ben Voll",
+        "position": "Вратарь",
+        "readiness": 0.6
+    },
+    {
+        "name": "#30 Simon Spari",
+        "position": "Вратарь",
+        "readiness": 0.46225
+    },
+    {
+        "name": "#47 Emil Gazdov",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#8 Eric Smith",
+        "position": "Центр. защитник",
+        "readiness": 0.5904314574314574
+    },
+    {
+        "name": "#4 David Nemeth",
+        "position": "Центр. защитник",
+        "readiness": 0.6015
+    },
+    {
+        "name": "#5 Hauke Wahl",
+        "position": "Центр. защитник",
+        "readiness": 0.618053866213152
+    },
+    {
+        "name": "#15 Tomoya Ando",
+        "position": "Центр. защитник",
+        "readiness": 0.5452407407407407
+    },
+    {
+        "name": "#25 Adam Dzwigala",
+        "position": "Центр. защитник",
+        "readiness": 0.34415740740740736
+    },
+    {
+        "name": "#3 Karol Mets",
+        "position": "Центр. защитник",
+        "readiness": 0.48398063492063487
+    },
+    {
+        "name": "#34 Jannik Robatsch",
+        "position": "Центр. защитник",
+        "readiness": 0.30882000000000004
+    },
+    {
+        "name": "#23 Louis Oppie",
+        "position": "Левый защитник",
+        "readiness": 0.5517290702947846
+    },
+    {
+        "name": "#21 Lars Ritzka",
+        "position": "Левый защитник",
+        "readiness": 0.3520091575091575
+    },
+    {
+        "name": "#11 Arkadiusz Pyrka",
+        "position": "Правый защитник",
+        "readiness": 0.3507093333333334
+    },
+    {
+        "name": "#2 Manolis Saliakas",
+        "position": "Правый защитник",
+        "readiness": 0.3747033333333334
+    },
+    {
+        "name": "#14 Fin Stevens",
+        "position": "Правый защитник",
+        "readiness": 0.45
+    },
+    {
+        "name": "#6 James Sands",
+        "position": "Опорный полузащитник",
+        "readiness": 0.5007870945479641
+    },
+    {
+        "name": "#42 Marwin Schmitz",
+        "position": "Опорный полузащитник",
+        "readiness": 0.45091353874883283
+    },
+    {
+        "name": "#16 Joel Chima Fujita",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4040932063492064
+    },
+    {
+        "name": "#20 Mathias Rasmussen",
+        "position": "Центр. полузащитник",
+        "readiness": 0.6093051146384479
+    },
+    {
+        "name": "#24 Connor Metcalfe",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4302735760971055
+    },
+    {
+        "name": "#7 Jackson Irvine",
+        "position": "Центр. полузащитник",
+        "readiness": 0.41355466422466425
+    },
+    {
+        "name": "#44 Nick Schmidt",
+        "position": "Центр. полузащитник",
+        "readiness": 0.3663797493734336
+    },
+    {
+        "name": "#10 Danel Sinani",
+        "position": "Атак. полузащитник",
+        "readiness": 0.6073313492063492
+    },
+    {
+        "name": "#28 Mathias Pereira Lage",
+        "position": "Левый Вингер",
+        "readiness": 0.35783333333333334
+    },
+    {
+        "name": "#27 Andréas Hountondji",
+        "position": "Центральный нап.",
+        "readiness": 0.45956952380952376
+    },
+    {
+        "name": "#19 Martijn Kaars",
+        "position": "Центральный нап.",
+        "readiness": 0.6231111111111111
+    },
+    {
+        "name": "#18 Taichi Hara",
+        "position": "Центральный нап.",
+        "readiness": 0.606045
+    },
+    {
+        "name": "#26 Ricky-Jade Jones",
+        "position": "Центральный нап.",
+        "readiness": 0.3678562962962963
+    },
+    {
+        "name": "#9 Abdoulie Ceesay",
+        "position": "Центральный нап.",
+        "readiness": 0.1254756862745098
+    }
+]

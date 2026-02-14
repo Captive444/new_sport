@@ -1,0 +1,122 @@
+[
+    {
+        "name": "#75 Yahia Fofana",
+        "position": "Вратарь",
+        "readiness": 0.6311224489795918
+    },
+    {
+        "name": "#1 Erdem Canpolat",
+        "position": "Вратарь",
+        "readiness": 0.5505238095238095
+    },
+    {
+        "name": "#35 Efe Doğan",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#4 Attila Mocsi",
+        "position": "Центр. защитник",
+        "readiness": 0.5630119047619048
+    },
+    {
+        "name": "#27 Modibo Sagnan",
+        "position": "Центр. защитник",
+        "readiness": 0.42025180375180377
+    },
+    {
+        "name": "#2 Khusniddin Alikulov",
+        "position": "Центр. защитник",
+        "readiness": 0.3902193362193362
+    },
+    {
+        "name": "#3 Samet Akaydin",
+        "position": "Центр. защитник",
+        "readiness": 0.551957552213868
+    },
+    {
+        "name": "#65 Emir Ortakaya",
+        "position": "Центр. защитник",
+        "readiness": 0.4077387878787879
+    },
+    {
+        "name": "#54 Mithat Pala",
+        "position": "Левый защитник",
+        "readiness": 0.4708757596371882
+    },
+    {
+        "name": "#5 Casper Højer",
+        "position": "Левый защитник",
+        "readiness": 0.5198478273809524
+    },
+    {
+        "name": "#37 Taha Şahin",
+        "position": "Правый защитник",
+        "readiness": 0.4868751414768806
+    },
+    {
+        "name": "#70 Furkan Orak",
+        "position": "Правый защитник",
+        "readiness": 0.52932
+    },
+    {
+        "name": "#6 Giannis Papanikolaou",
+        "position": "Опорный полузащитник",
+        "readiness": 0.4695609857978279
+    },
+    {
+        "name": "#20 Qazim Laci",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4425514682539682
+    },
+    {
+        "name": "#10 Ibrahim Olawoyin",
+        "position": "Центр. полузащитник",
+        "readiness": 0.38650174603174603
+    },
+    {
+        "name": "#18 Muhamed Buljubasic",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4405333333333334
+    },
+    {
+        "name": "#14 Taylan Antalyalı",
+        "position": "Центр. полузащитник",
+        "readiness": 0.39770962301587304
+    },
+    {
+        "name": "#7 Valentin Mihăilă",
+        "position": "Левый Вингер",
+        "readiness": 0.5391282051282051
+    },
+    {
+        "name": "#77 Altin Zeqiri",
+        "position": "Левый Вингер",
+        "readiness": 0.29833333333333334
+    },
+    {
+        "name": "#99 Emrecan Bulut",
+        "position": "Левый Вингер",
+        "readiness": 0.33484771929824564
+    },
+    {
+        "name": "#50 Loide Augusto",
+        "position": "Правый Вингер",
+        "readiness": 0.34291025641025646
+    },
+    {
+        "name": "#17 Adedire Mebude",
+        "position": "Правый Вингер",
+        "readiness": 0.29700125000000005
+    },
+    {
+        "name": "#9 Ali Sowe",
+        "position": "Центральный нап.",
+        "readiness": 0.49011599999999994
+    },
+    {
+        "name": "#11 Halil Dervişoğlu",
+        "position": "Центральный нап.",
+        "readiness": 0.4393888888888889
+    }
+]

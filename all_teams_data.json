@@ -1,0 +1,50 @@
+[
+  {
+    "team_name": "Кёльн",
+    "position_in_league": 10,
+    "last_results": [
+      1,
+      0,
+      0.5,
+      1,
+      0
+    ],
+    "source_name": "Бешикташ"
+  },
+  {
+    "team_name": "Катания",
+    "position_in_league": 2,
+    "last_results": [
+      1,
+      0.5,
+      1,
+      0.5,
+      1
+    ],
+    "source_name": "Галатасарай"
+  },
+  {
+    "team_name": "Килмарнок",
+    "position_in_league": 11,
+    "last_results": [
+      0,
+      0.5,
+      0,
+      0,
+      0.5
+    ],
+    "source_name": "Трабзонспор"
+  },
+  {
+    "team_name": "КАМАЗ",
+    "position_in_league": 5,
+    "last_results": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0
+    ],
+    "source_name": "Фенербахче"
+  }
+]

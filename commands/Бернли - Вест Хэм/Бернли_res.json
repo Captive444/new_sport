@@ -1,0 +1,147 @@
+[
+    {
+        "name": "#13 Max Weiß",
+        "position": "Вратарь",
+        "readiness": 0.5056666666666667
+    },
+    {
+        "name": "#1 Martin Dúbravka",
+        "position": "Вратарь",
+        "readiness": 0.490014880952381
+    },
+    {
+        "name": "#32 Václav Hladký",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#5 Maxime Estève",
+        "position": "Центр. защитник",
+        "readiness": 0.5054267428571428
+    },
+    {
+        "name": "#12 Bashir Humphreys",
+        "position": "Центр. защитник",
+        "readiness": 0.44465753968253974
+    },
+    {
+        "name": "#18 Hjalmar Ekdal",
+        "position": "Центр. защитник",
+        "readiness": 0.6028566468253969
+    },
+    {
+        "name": "#6 Axel Tuanzebe",
+        "position": "Центр. защитник",
+        "readiness": 0.571041514041514
+    },
+    {
+        "name": "#4 Joe Worrall",
+        "position": "Центр. защитник",
+        "readiness": 0.47797222222222224
+    },
+    {
+        "name": "#36 Jordan Beyer",
+        "position": "Центр. защитник",
+        "readiness": 0.6531407278358498
+    },
+    {
+        "name": "#3 Quilindschy Hartman",
+        "position": "Левый защитник",
+        "readiness": 0.6406170634920635
+    },
+    {
+        "name": "#23 Lucas Pires",
+        "position": "Левый защитник",
+        "readiness": 0.5328148148148149
+    },
+    {
+        "name": "#14 Connor Roberts",
+        "position": "Правый защитник",
+        "readiness": 0.5852179865656955
+    },
+    {
+        "name": "#2 Kyle Walker",
+        "position": "Правый защитник",
+        "readiness": 0.4441472912353347
+    },
+    {
+        "name": "#8 Lesley Ugochukwu",
+        "position": "Опорный полузащитник",
+        "readiness": 0.4426333333333334
+    },
+    {
+        "name": "#16 Florentino",
+        "position": "Опорный полузащитник",
+        "readiness": 0.5374435941043084
+    },
+    {
+        "name": "#24 Josh Cullen",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4592719576719577
+    },
+    {
+        "name": "#20 James Ward-Prowse",
+        "position": "Центр. полузащитник",
+        "readiness": 0.35082097777777776
+    },
+    {
+        "name": "#29 Josh Laurent",
+        "position": "Центр. полузащитник",
+        "readiness": 0.538959972394755
+    },
+    {
+        "name": "#28 Hannibal",
+        "position": "Атак. полузащитник",
+        "readiness": 0.2915333686067019
+    },
+    {
+        "name": "#31 Mike Tresor",
+        "position": "Атак. полузащитник",
+        "readiness": 0.31893314814814816
+    },
+    {
+        "name": "#11 Jaidon Anthony",
+        "position": "Левый Вингер",
+        "readiness": 0.5314444444444445
+    },
+    {
+        "name": "#7 Jacob Bruun Larsen",
+        "position": "Левый Вингер",
+        "readiness": 0.31
+    },
+    {
+        "name": "#17 Loum Tchaouna",
+        "position": "Правый Вингер",
+        "readiness": 0.2838716666666667
+    },
+    {
+        "name": "#10 Marcus Edwards",
+        "position": "Правый Вингер",
+        "readiness": 0.24987083333333332
+    },
+    {
+        "name": "#9 Lyle Foster",
+        "position": "Центральный нап.",
+        "readiness": 0.4101666666666667
+    },
+    {
+        "name": "#19 Zian Flemming",
+        "position": "Центральный нап.",
+        "readiness": 0.5184444444444445
+    },
+    {
+        "name": "#27 Armando Broja",
+        "position": "Центральный нап.",
+        "readiness": 0.34043625
+    },
+    {
+        "name": "#25 Zeki Amdouni",
+        "position": "Центральный нап.",
+        "readiness": 0.6527527075812274
+    },
+    {
+        "name": "#35 Ashley Barnes",
+        "position": "Центральный нап.",
+        "readiness": 0.4027683333333333
+    }
+]

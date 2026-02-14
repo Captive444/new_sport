@@ -1,0 +1,95 @@
+{
+  "match": "Кайсериспор - Коджаэлиспор",
+  "match_url": "https://soccer365.ru/competitions/723/",
+  "date_time": "09.02, 17:00",
+  "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+  "analysis_date": "2026-02-07T13:44:56.449030",
+  "home_team": {
+    "team_id": "55",
+    "team_name": "Кайсериспор",
+    "team_url": "https://soccer365.ru/clubs/55/",
+    "position_in_league": 17,
+    "last_results": [
+      0,
+      0,
+      0,
+      1,
+      0.5
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 1,
+      "draws": 1,
+      "losses": 3,
+      "points": 4,
+      "form": "LLLWD"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.0,
+        "avg_conceded": 1.6666666666666667,
+        "matches_count": 3
+      },
+      "away": {
+        "avg_scored": 0.0,
+        "avg_conceded": 2.5,
+        "matches_count": 2
+      },
+      "overall": {
+        "avg_scored": 0.6,
+        "avg_conceded": 2.0,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-02-07T13:44:51.933370"
+  },
+  "away_team": {
+    "team_id": "8591",
+    "team_name": "Коджаэлиспор",
+    "team_url": "https://soccer365.ru/clubs/8591/",
+    "position_in_league": 5,
+    "last_results": [
+      0.5,
+      0,
+      0.5,
+      0,
+      0
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 0,
+      "draws": 2,
+      "losses": 3,
+      "points": 2,
+      "form": "DLDLL"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 0.6666666666666666,
+        "avg_conceded": 1.6666666666666667,
+        "matches_count": 3
+      },
+      "away": {
+        "avg_scored": 0.0,
+        "avg_conceded": 0.5,
+        "matches_count": 2
+      },
+      "overall": {
+        "avg_scored": 0.4,
+        "avg_conceded": 1.2,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-02-07T13:44:52.896448"
+  },
+  "comparison": {
+    "position_difference": 12,
+    "home_team_form": "LLLWD",
+    "away_team_form": "DLDLL",
+    "scoring_insight": "В среднем Кайсериспор забивает дома 1.00 мяча, а Коджаэлиспор в гостях пропускает 0.50 мяча."
+  }
+}

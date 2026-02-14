@@ -1,0 +1,122 @@
+[
+    {
+        "name": "#1 Marcos Felipe",
+        "position": "Вратарь",
+        "readiness": 0.6647058823529411
+    },
+    {
+        "name": "#24 Jankat Yılmaz",
+        "position": "Вратарь",
+        "readiness": 0.5056666666666667
+    },
+    {
+        "name": "Mustafa Yiğit Durmaz",
+        "position": "Вратарь",
+        "readiness": 0.37
+    },
+    {
+        "name": "#6 Robin Yalçın",
+        "position": "Центр. защитник",
+        "readiness": 0.5777344444444444
+    },
+    {
+        "name": "#4 Luccas Claro",
+        "position": "Центр. защитник",
+        "readiness": 0.506331746031746
+    },
+    {
+        "name": "#68 Jérôme Onguéné",
+        "position": "Центр. защитник",
+        "readiness": 0.5475
+    },
+    {
+        "name": "#3 Gilbert Mendy",
+        "position": "Центр. защитник",
+        "readiness": 0.2928755
+    },
+    {
+        "name": "#77 Umut Meraş",
+        "position": "Левый защитник",
+        "readiness": 0.36112719576719576
+    },
+    {
+        "name": "#88 Arda Yavuz",
+        "position": "Левый защитник",
+        "readiness": 0.36363703703703704
+    },
+    {
+        "name": "#2 Calegari",
+        "position": "Правый защитник",
+        "readiness": 0.3399086065934066
+    },
+    {
+        "name": "#22 Denis Radu",
+        "position": "Правый защитник",
+        "readiness": 0.2733255474747475
+    },
+    {
+        "name": "#17 Talha Ülvan",
+        "position": "Правый защитник",
+        "readiness": 0.49751675485008817
+    },
+    {
+        "name": "#20 Mateusz Legowski",
+        "position": "Опорный полузащитник",
+        "readiness": 0.38368349206349206
+    },
+    {
+        "name": "#55 Baran Gezek",
+        "position": "Опорный полузащитник",
+        "readiness": 0.4211762962962963
+    },
+    {
+        "name": "#33 Taras Stepanenko",
+        "position": "Опорный полузащитник",
+        "readiness": 0.2678080952380953
+    },
+    {
+        "name": "#28 Taşkın İlter",
+        "position": "Опорный полузащитник",
+        "readiness": 0.41014623376623377
+    },
+    {
+        "name": "#15 Charles-André Raux-Yao",
+        "position": "Центр. полузащитник",
+        "readiness": 0.5251654416839199
+    },
+    {
+        "name": "#8 Emre Akbaba",
+        "position": "Атак. полузащитник",
+        "readiness": 0.37856481481481485
+    },
+    {
+        "name": "#40 Prince Ampem",
+        "position": "Левый Вингер",
+        "readiness": 0.23076
+    },
+    {
+        "name": "#10 Ángel Torres",
+        "position": "Правый Вингер",
+        "readiness": 0.5190533333333334
+    },
+    {
+        "name": "#23 Lenny Pintor",
+        "position": "Правый Вингер",
+        "readiness": 0.2996904761904762
+    },
+    {
+        "name": "#93 Christ Sadia",
+        "position": "Правый Вингер",
+        "readiness": 0.434135
+    },
+    {
+        "name": "#19 Umut Bozok",
+        "position": "Центральный нап.",
+        "readiness": 0.4995833333333333
+    },
+    {
+        "name": "#26 Metehan Altunbaş",
+        "position": "Центральный нап.",
+        "readiness": 0.39402
+    }
+]

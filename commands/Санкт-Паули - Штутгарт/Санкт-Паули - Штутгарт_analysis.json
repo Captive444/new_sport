@@ -1,0 +1,95 @@
+{
+  "match": "Санкт-Паули - Штутгарт",
+  "match_url": "https://soccer365.ru/competitions/17/",
+  "date_time": "17:30",
+  "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+  "analysis_date": "2026-02-07T13:51:01.422676",
+  "home_team": {
+    "team_id": "138",
+    "team_name": "Санкт-Паули",
+    "team_url": "https://soccer365.ru/clubs/138/",
+    "position_in_league": 17,
+    "last_results": [
+      0,
+      0,
+      0.5,
+      0.5,
+      0
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 0,
+      "draws": 2,
+      "losses": 3,
+      "points": 2,
+      "form": "LLDDL"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 0.5,
+        "avg_conceded": 0.5,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 1.0,
+        "avg_conceded": 2.6666666666666665,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 0.8,
+        "avg_conceded": 1.8,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:50:51.913184"
+  },
+  "away_team": {
+    "team_id": "190",
+    "team_name": "Штутгарт",
+    "team_url": "https://soccer365.ru/clubs/190/",
+    "position_in_league": 4,
+    "last_results": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "points": 12,
+      "form": "WWWWL"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 2.0,
+        "avg_conceded": 1.0,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 2.0,
+        "avg_conceded": 0.6666666666666666,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 2.0,
+        "avg_conceded": 0.8,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:50:53.030159"
+  },
+  "comparison": {
+    "position_difference": 13,
+    "home_team_form": "LLDDL",
+    "away_team_form": "WWWWL",
+    "scoring_insight": "В среднем Санкт-Паули забивает дома 0.50 мяча, а Штутгарт в гостях пропускает 0.67 мяча."
+  }
+}

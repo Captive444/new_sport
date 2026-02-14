@@ -1,0 +1,770 @@
+[
+    {
+        "name": "#24 Ricardo Velho",
+        "position": "Вратарь",
+        "age": 27,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 18,
+                "total_clean_sheets": 3,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/527026/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#18 Erhan Erentürk",
+        "position": "Вратарь",
+        "age": 30,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 10,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 10,
+                "total_clean_sheets": 3,
+                "total_minutes_played": 900
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/342065/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#33 Ebrar Aydın",
+        "position": "Вратарь",
+        "age": 25,
+        "height": 195,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/605580/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#19 Berk Deniz Çukurcu",
+        "position": "Вратарь",
+        "age": 18,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 22,
+                "total_clean_sheets": 3,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1189059/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#6 Dimitrios Goutas",
+        "position": "Центр. защитник",
+        "age": 31,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/191829/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#2 Thalisson",
+        "position": "Центр. защитник",
+        "age": 27,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 2,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/323876/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#4 Zan Zuzek",
+        "position": "Центр. защитник",
+        "age": 29,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 3,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/325222/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "Abdullah Şahindere",
+        "position": "Центр. защитник",
+        "age": 22,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 42,
+                "total_goals": 3,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 10,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/655901/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#25 Umut İslamoğlu",
+        "position": "Центр. защитник",
+        "age": 19,
+        "height": 195,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1168398/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#44 Arda Çağan Çelik",
+        "position": "Центр. защитник",
+        "age": 20,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1078111/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#77 Abdurrahim Dursun",
+        "position": "Левый защитник",
+        "age": 27,
+        "height": 176,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 659
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/366194/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#23 Matej Hanousek",
+        "position": "Левый защитник",
+        "age": 32,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/267473/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#93 Yiğit Hamza Aydar",
+        "position": "Левый защитник",
+        "age": 17,
+        "height": null,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1417530/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#13 Pedro Pereira",
+        "position": "Правый защитник",
+        "age": 28,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 0,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 7,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/314965/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#88 Fıratcan Üzüm",
+        "position": "Правый защитник",
+        "age": 26,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 6,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 380
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/508994/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "Emirhan Ünal",
+        "position": "Правый защитник",
+        "age": 21,
+        "height": null,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 61,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 21,
+                "total_yellow_cards": 10,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/934617/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#15 Tom Dele-Bashiru",
+        "position": "Опорный полузащитник",
+        "age": 26,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/346472/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#81 Moussa Kyabou",
+        "position": "Опорный полузащитник",
+        "age": 27,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 2,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 147
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/872123/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#5 Peter Etebo",
+        "position": "Опорный полузащитник",
+        "age": 30,
+        "height": 174,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 1,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 42
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/409106/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#35 Oğulcan Ülgün",
+        "position": "Центр. полузащитник",
+        "age": 27,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 4,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/440653/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#70 Franco Tongya",
+        "position": "Центр. полузащитник",
+        "age": 23,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 3,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/530851/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#8 Samed Onur",
+        "position": "Центр. полузащитник",
+        "age": 23,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 2,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 14,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 680
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/538864/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#61 Ensar Kemaloğlu",
+        "position": "Центр. полузащитник",
+        "age": 27,
+        "height": 177,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 1,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 56
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/457774/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#53 Dal Varesanovic",
+        "position": "Атак. полузащитник",
+        "age": 24,
+        "height": 177,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 481
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/433105/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#7 Henry Onyekuru",
+        "position": "Левый Вингер",
+        "age": 28,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 290
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/380415/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#10 Metehan Mimaroğlu",
+        "position": "Левый Вингер",
+        "age": 31,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 5,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/294100/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#20 Adama Traoré",
+        "position": "Правый Вингер",
+        "age": 30,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 2,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/364405/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#99 Cihan Çanak",
+        "position": "Правый Вингер",
+        "age": 21,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 10,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 350
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/743376/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#11 Göktan Gürpüz",
+        "position": "Правый Вингер",
+        "age": 23,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 0,
+                "total_assists": 6,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 16,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/655912/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#22 Sékou Koïta",
+        "position": "Оттянутый нап.",
+        "age": 26,
+        "height": 173,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 27,
+                "total_goals": 4,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 12,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/402010/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#29 M'Baye Niang",
+        "position": "Центральный нап.",
+        "age": 31,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 5,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 2,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/157501/plus/1",
+        "team": "Генчлербирлиги"
+    },
+    {
+        "name": "#16 Ayaz Özcan",
+        "position": "Центральный нап.",
+        "age": 16,
+        "height": null,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 4,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 514
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1437503/plus/1",
+        "team": "Генчлербирлиги"
+    }
+]

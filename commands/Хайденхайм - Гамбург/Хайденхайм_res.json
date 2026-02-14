@@ -1,0 +1,147 @@
+[
+    {
+        "name": "#41 Diant Ramaj",
+        "position": "Вратарь",
+        "readiness": 0.46885714285714286
+    },
+    {
+        "name": "#40 Frank Feller",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#34 Paul Tschernuth",
+        "position": "Вратарь",
+        "readiness": 0.5284085714285714
+    },
+    {
+        "name": "#4 Tim Siersleben",
+        "position": "Центр. защитник",
+        "readiness": 0.4768650793650794
+    },
+    {
+        "name": "#5 Benedikt Gimber",
+        "position": "Центр. защитник",
+        "readiness": 0.3635170068027211
+    },
+    {
+        "name": "#6 Patrick Mainka",
+        "position": "Центр. защитник",
+        "readiness": 0.5867266434343433
+    },
+    {
+        "name": "#28 Adam Kölle",
+        "position": "Центр. защитник",
+        "readiness": 0.3039117777777778
+    },
+    {
+        "name": "#19 Jonas Föhrenbach",
+        "position": "Левый защитник",
+        "readiness": 0.5691417233560091
+    },
+    {
+        "name": "#32 Leart Paçarada",
+        "position": "Левый защитник",
+        "readiness": 0.2143161111111111
+    },
+    {
+        "name": "#26 Hennes Behrens",
+        "position": "Левый защитник",
+        "readiness": 0.3267146666666667
+    },
+    {
+        "name": "#25 Leonidas Stergiou",
+        "position": "Правый защитник",
+        "readiness": 0.3493338095238095
+    },
+    {
+        "name": "#23 Omar Traoré",
+        "position": "Правый защитник",
+        "readiness": 0.5604563492063492
+    },
+    {
+        "name": "#2 Marnon Busch",
+        "position": "Правый защитник",
+        "readiness": 0.5436426587301587
+    },
+    {
+        "name": "#30 Niklas Dorsch",
+        "position": "Опорный полузащитник",
+        "readiness": 0.4201109750566893
+    },
+    {
+        "name": "#16 Julian Niehues",
+        "position": "Опорный полузащитник",
+        "readiness": 0.41973622519841264
+    },
+    {
+        "name": "#3 Jan Schöppner",
+        "position": "Центр. полузащитник",
+        "readiness": 0.486375283446712
+    },
+    {
+        "name": "#20 Luca Kerber",
+        "position": "Центр. полузащитник",
+        "readiness": 0.29437611721611723
+    },
+    {
+        "name": "#33 Nick Rothweiler",
+        "position": "Центр. полузащитник",
+        "readiness": 0.45
+    },
+    {
+        "name": "#22 Arijon Ibrahimovic",
+        "position": "Атак. полузащитник",
+        "readiness": 0.37659028326118327
+    },
+    {
+        "name": "#21 Adrian Beck",
+        "position": "Атак. полузащитник",
+        "readiness": 0.42530208333333336
+    },
+    {
+        "name": "#17 Mathias Honsak",
+        "position": "Левый Вингер",
+        "readiness": 0.31533333333333335
+    },
+    {
+        "name": "#38 Yannik Wagner",
+        "position": "Левый Вингер",
+        "readiness": 0.51103
+    },
+    {
+        "name": "#8 Eren Dinkçi",
+        "position": "Правый Вингер",
+        "readiness": 0.30143589743589744
+    },
+    {
+        "name": "#31 Sirlord Conteh",
+        "position": "Правый Вингер",
+        "readiness": 0.44849999999999995
+    },
+    {
+        "name": "#10 Christian Conteh",
+        "position": "Правый Вингер",
+        "readiness": 0.571037037037037
+    },
+    {
+        "name": "#18 Marvin Pieringer",
+        "position": "Центральный нап.",
+        "readiness": 0.37169
+    },
+    {
+        "name": "#29 Mikkel Kaufmann",
+        "position": "Центральный нап.",
+        "readiness": 0.35545238095238096
+    },
+    {
+        "name": "#11 Budu Zivzivadze",
+        "position": "Центральный нап.",
+        "readiness": 0.28795333333333334
+    },
+    {
+        "name": "#9 Stefan Schimmer",
+        "position": "Центральный нап.",
+        "readiness": 0.48603874999999996
+    }
+]

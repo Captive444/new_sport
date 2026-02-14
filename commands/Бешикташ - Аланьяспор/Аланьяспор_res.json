@@ -1,0 +1,137 @@
+[
+    {
+        "name": "#1 Ertuğrul Taşkıran",
+        "position": "Вратарь",
+        "readiness": 0.6307714285714286
+    },
+    {
+        "name": "#48 Paulo Victor",
+        "position": "Вратарь",
+        "readiness": 0.5541737142857143
+    },
+    {
+        "name": "#3 Nuno Lima",
+        "position": "Центр. защитник",
+        "readiness": 0.5219126984126984
+    },
+    {
+        "name": "#50 Ümit Akdağ",
+        "position": "Центр. защитник",
+        "readiness": 0.4834555772005772
+    },
+    {
+        "name": "#20 Fatih Aksoy",
+        "position": "Центр. защитник",
+        "readiness": 0.38325907029478457
+    },
+    {
+        "name": "#5 Fidan Aliti",
+        "position": "Центр. защитник",
+        "readiness": 0.4306001173222912
+    },
+    {
+        "name": "#30 Bruno Viana",
+        "position": "Центр. защитник",
+        "readiness": 0.384343253968254
+    },
+    {
+        "name": "#4 Bedirhan Özyurt",
+        "position": "Центр. защитник",
+        "readiness": 0.5017713
+    },
+    {
+        "name": "#18 Baran Moğultay",
+        "position": "Левый защитник",
+        "readiness": 0.49789142857142865
+    },
+    {
+        "name": "#2 Batuhan Yavuz",
+        "position": "Правый защитник",
+        "readiness": 0.2786196000000001
+    },
+    {
+        "name": "#58 Maestro",
+        "position": "Опорный полузащитник",
+        "readiness": 0.36885406423902894
+    },
+    {
+        "name": "#42 Gaius Makouta",
+        "position": "Опорный полузащитник",
+        "readiness": 0.47640178571428565
+    },
+    {
+        "name": "#17 Nicolas Janvier",
+        "position": "Центр. полузащитник",
+        "readiness": 0.3333613632119515
+    },
+    {
+        "name": "#8 Enes Keskin",
+        "position": "Центр. полузащитник",
+        "readiness": 0.39958906525573196
+    },
+    {
+        "name": "#6 İzzet Çelik",
+        "position": "Центр. полузащитник",
+        "readiness": 0.2057738666666667
+    },
+    {
+        "name": "#21 Buluthan Bulut",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4263779158040028
+    },
+    {
+        "name": "#94 Florent Hadergjonaj",
+        "position": "Правый полузащитник",
+        "readiness": 0.6706664682539683
+    },
+    {
+        "name": "#11 Ruan",
+        "position": "Левый полузащитник",
+        "readiness": 0.312200693857833
+    },
+    {
+        "name": "#88 Yusuf Özdemir",
+        "position": "Левый полузащитник",
+        "readiness": 0.5830945165945166
+    },
+    {
+        "name": "#14 Ianis Hagi",
+        "position": "Атак. полузащитник",
+        "readiness": 0.5230256769374416
+    },
+    {
+        "name": "#27 İbrahim Kaya",
+        "position": "Атак. полузащитник",
+        "readiness": 0.5986736111111111
+    },
+    {
+        "name": "#16 Ui-jo Hwang",
+        "position": "Атак. полузащитник",
+        "readiness": 0.49420550505050503
+    },
+    {
+        "name": "#7 Efecan Karaca",
+        "position": "Атак. полузащитник",
+        "readiness": 0.2105774017094017
+    },
+    {
+        "name": "#38 Yusuf Can Karademir",
+        "position": "Атак. полузащитник",
+        "readiness": 0.5499309523809524
+    },
+    {
+        "name": "#12 Meschack Elia",
+        "position": "Центральный нап.",
+        "readiness": 0.20464761904761908
+    },
+    {
+        "name": "#9 Steve Mounié",
+        "position": "Центральный нап.",
+        "readiness": 0.6307882051282051
+    },
+    {
+        "name": "#10 Güven Yalçın",
+        "position": "Центральный нап.",
+        "readiness": 0.5020555555555556
+    }
+]

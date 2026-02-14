@@ -1,0 +1,578 @@
+[
+    {
+        "name": "#1 Gregor Kobel",
+        "position": "Вратарь",
+        "age": 28,
+        "height": 196,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 31,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 38,
+                "total_clean_sheets": 12,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/257814/plus/1",
+        "team": "Боруссия Дортмунд"
+    },
+    {
+        "name": "#33 Alexander Meyer",
+        "position": "Вратарь",
+        "age": 34,
+        "height": 195,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/76158/plus/1",
+        "team": "Боруссия Дортмунд"
+    },
+    {
+        "name": "#30 Patrick Drewes",
+        "position": "Вратарь",
+        "age": 32,
+        "height": 194,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/94192/plus/1",
+        "team": "Боруссия Дортмунд"
+    },
+    {
+        "name": "#31 Silas Ostrzinski",
+        "position": "Вратарь",
+        "age": 22,
+        "height": 198,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 30,
+                "total_clean_sheets": 4,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/684116/plus/1",
+        "team": "Боруссия Дортмунд"
+    },
+    {
+        "name": "#4 Nico Schlotterbeck",
+        "position": "Центр. защитник",
+        "age": 26,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 3,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/388198/plus/1",
+        "team": "Боруссия Дортмунд"
+    },
+    {
+        "name": "#3 Waldemar Anton",
+        "position": "Центр. защитник",
+        "age": 29,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 28,
+                "total_goals": 3,
+                "total_assists": 0,
+                "total_own_goals": 1,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/193004/plus/1",
+        "team": "Боруссия Дортмунд"
+    },
+    {
+        "name": "#5 Ramy Bensebaini",
+        "position": "Центр. защитник",
+        "age": 30,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 3,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 2,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/284732/plus/1",
+        "team": "Боруссия Дортмунд"
+    },
+    {
+        "name": "#23 Emre Can",
+        "position": "Центр. защитник",
+        "age": 32,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 3,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 3,
+                "total_minutes_played": 845
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/119296/plus/1",
+        "team": "Боруссия Дортмунд"
+    },
+    {
+        "name": "#25 Niklas Süle",
+        "position": "Центр. защитник",
+        "age": 30,
+        "height": 195,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 8,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 447
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/166601/plus/1",
+        "team": "Боруссия Дортмунд"
+    },
+    {
+        "name": "#39 Filippo Mane",
+        "position": "Центр. защитник",
+        "age": 20,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 3,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/883007/plus/1",
+        "team": "Боруссия Дортмунд"
+    },
+    {
+        "name": "#24 Daniel Svensson",
+        "position": "Левый защитник",
+        "age": 23,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 30,
+                "total_goals": 3,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/579287/plus/1",
+        "team": "Боруссия Дортмунд"
+    },
+    {
+        "name": "#42 Almugera Kabar",
+        "position": "Левый защитник",
+        "age": 19,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 4,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 960
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/884820/plus/1",
+        "team": "Боруссия Дортмунд"
+    },
+    {
+        "name": "#26 Julian Ryerson",
+        "position": "Правый защитник",
+        "age": 28,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 27,
+                "total_goals": 0,
+                "total_assists": 8,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/370789/plus/1",
+        "team": "Боруссия Дортмунд"
+    },
+    {
+        "name": "#6 Salih Özcan",
+        "position": "Опорный полузащитник",
+        "age": 28,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 7,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 30
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/244940/plus/1",
+        "team": "Боруссия Дортмунд"
+    },
+    {
+        "name": "#8 Felix Nmecha",
+        "position": "Центр. полузащитник",
+        "age": 25,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 31,
+                "total_goals": 5,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 15,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/406640/plus/1",
+        "team": "Боруссия Дортмунд"
+    },
+    {
+        "name": "#7 Jobe Bellingham",
+        "position": "Центр. полузащитник",
+        "age": 20,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 29,
+                "total_goals": 0,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 14,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/796297/plus/1",
+        "team": "Боруссия Дортмунд"
+    },
+    {
+        "name": "#17 Carney Chukwuemeka",
+        "position": "Центр. полузащитник",
+        "age": 22,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 3,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 17,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 870
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/659459/plus/1",
+        "team": "Боруссия Дортмунд"
+    },
+    {
+        "name": "#20 Marcel Sabitzer",
+        "position": "Центр. полузащитник",
+        "age": 31,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 1,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/106987/plus/1",
+        "team": "Боруссия Дортмунд"
+    },
+    {
+        "name": "#2 Yan Couto",
+        "position": "Правый полузащитник",
+        "age": 23,
+        "height": 168,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 2,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/627228/plus/1",
+        "team": "Боруссия Дортмунд"
+    },
+    {
+        "name": "#10 Julian Brandt",
+        "position": "Атак. полузащитник",
+        "age": 29,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 9,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/187492/plus/1",
+        "team": "Боруссия Дортмунд"
+    },
+    {
+        "name": "#27 Karim Adeyemi",
+        "position": "Правый Вингер",
+        "age": 24,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 28,
+                "total_goals": 7,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 16,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/496094/plus/1",
+        "team": "Боруссия Дортмунд"
+    },
+    {
+        "name": "#9 Serhou Guirassy",
+        "position": "Центральный нап.",
+        "age": 29,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 30,
+                "total_goals": 12,
+                "total_assists": 5,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 16,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/270541/plus/1",
+        "team": "Боруссия Дортмунд"
+    },
+    {
+        "name": "#14 Maximilian Beier",
+        "position": "Центральный нап.",
+        "age": 23,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 28,
+                "total_goals": 6,
+                "total_assists": 5,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 16,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/578392/plus/1",
+        "team": "Боруссия Дортмунд"
+    },
+    {
+        "name": "#21 Fábio Silva",
+        "position": "Центральный нап.",
+        "age": 23,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 1,
+                "total_assists": 5,
+                "total_own_goals": 0,
+                "total_substitutions_in": 16,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 742
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/505653/plus/1",
+        "team": "Боруссия Дортмунд"
+    }
+]

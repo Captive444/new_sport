@@ -1,0 +1,127 @@
+[
+    {
+        "name": "#1 Jordan Pickford",
+        "position": "Вратарь",
+        "readiness": 0.6115200000000001
+    },
+    {
+        "name": "#12 Mark Travers",
+        "position": "Вратарь",
+        "readiness": 0.775
+    },
+    {
+        "name": "#31 Tom King",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#32 Jarrad Branthwaite",
+        "position": "Центр. защитник",
+        "readiness": 0.22646143492063492
+    },
+    {
+        "name": "#6 James Tarkowski",
+        "position": "Центр. защитник",
+        "readiness": 0.5358102469135803
+    },
+    {
+        "name": "#5 Michael Keane",
+        "position": "Центр. защитник",
+        "readiness": 0.5657301262626263
+    },
+    {
+        "name": "#16 Vitaliy Mykolenko",
+        "position": "Левый защитник",
+        "readiness": 0.5346897860593512
+    },
+    {
+        "name": "#39 Adam Aznou",
+        "position": "Левый защитник",
+        "readiness": 0.4027653015873016
+    },
+    {
+        "name": "#15 Jake O'Brien",
+        "position": "Правый защитник",
+        "readiness": 0.5794681657848324
+    },
+    {
+        "name": "#2 Nathan Patterson",
+        "position": "Правый защитник",
+        "readiness": 0.36770436507936505
+    },
+    {
+        "name": "#23 Séamus Coleman",
+        "position": "Правый защитник",
+        "readiness": 0.24671700000000005
+    },
+    {
+        "name": "#37 James Garner",
+        "position": "Опорный полузащитник",
+        "readiness": 0.6140449735449736
+    },
+    {
+        "name": "#27 Idrissa Gueye",
+        "position": "Опорный полузащитник",
+        "readiness": 0.36426742857142863
+    },
+    {
+        "name": "#22 Kiernan Dewsbury-Hall",
+        "position": "Центр. полузащитник",
+        "readiness": 0.46790653439153446
+    },
+    {
+        "name": "#24 Carlos Alcaraz",
+        "position": "Центр. полузащитник",
+        "readiness": 0.27692704479717817
+    },
+    {
+        "name": "#42 Tim Iroegbunam",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4002156746031746
+    },
+    {
+        "name": "#45 Harrison Armstrong",
+        "position": "Центр. полузащитник",
+        "readiness": 0.42460317460317465
+    },
+    {
+        "name": "#34 Merlin Röhl",
+        "position": "Атак. полузащитник",
+        "readiness": 0.40188362811791384
+    },
+    {
+        "name": "#18 Jack Grealish",
+        "position": "Левый Вингер",
+        "readiness": 0.4401889393939394
+    },
+    {
+        "name": "#19 Tyrique George",
+        "position": "Левый Вингер",
+        "readiness": 0.3540039393939394
+    },
+    {
+        "name": "#7 Dwight McNeil",
+        "position": "Левый Вингер",
+        "readiness": 0.28349074074074077
+    },
+    {
+        "name": "#10 Iliman Ndiaye",
+        "position": "Правый Вингер",
+        "readiness": 0.5125
+    },
+    {
+        "name": "#20 Tyler Dibling",
+        "position": "Правый Вингер",
+        "readiness": 0.15256470588235294
+    },
+    {
+        "name": "#11 Thierno Barry",
+        "position": "Центральный нап.",
+        "readiness": 0.38761501234567897
+    },
+    {
+        "name": "#9 Beto",
+        "position": "Центральный нап.",
+        "readiness": 0.4528118518518518
+    }
+]

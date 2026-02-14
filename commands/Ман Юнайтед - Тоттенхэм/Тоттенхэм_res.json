@@ -1,0 +1,142 @@
+[
+    {
+        "name": "#1 Guglielmo Vicario",
+        "position": "Вратарь",
+        "readiness": 0.7035714285714285
+    },
+    {
+        "name": "#31 Antonín Kinský",
+        "position": "Вратарь",
+        "readiness": 0.6510000000000001
+    },
+    {
+        "name": "#40 Brandon Austin",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#37 Micky van de Ven",
+        "position": "Центр. защитник",
+        "readiness": 0.6012285714285713
+    },
+    {
+        "name": "#17 Cristian Romero",
+        "position": "Центр. защитник",
+        "readiness": 0.6039038800705467
+    },
+    {
+        "name": "#3 Radu Drăgușin",
+        "position": "Центр. защитник",
+        "readiness": 0.4433888888888889
+    },
+    {
+        "name": "#4 Kevin Danso",
+        "position": "Центр. защитник",
+        "readiness": 0.5201970324361629
+    },
+    {
+        "name": "#33 Ben Davies",
+        "position": "Центр. защитник",
+        "readiness": 0.3821174603174603
+    },
+    {
+        "name": "#13 Destiny Udogie",
+        "position": "Левый защитник",
+        "readiness": 0.5001936173767753
+    },
+    {
+        "name": "#24 Djed Spence",
+        "position": "Левый защитник",
+        "readiness": 0.542593253968254
+    },
+    {
+        "name": "#38 Souza",
+        "position": "Левый защитник",
+        "readiness": 0.45
+    },
+    {
+        "name": "#23 Pedro Porro",
+        "position": "Правый защитник",
+        "readiness": 0.425993660130719
+    },
+    {
+        "name": "#6 João Palhinha",
+        "position": "Опорный полузащитник",
+        "readiness": 0.5783075396825397
+    },
+    {
+        "name": "#8 Yves Bissouma",
+        "position": "Опорный полузащитник",
+        "readiness": 0.27738359788359784
+    },
+    {
+        "name": "#15 Lucas Bergvall",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4289578693528694
+    },
+    {
+        "name": "#14 Archie Gray",
+        "position": "Центр. полузащитник",
+        "readiness": 0.37071249137336093
+    },
+    {
+        "name": "#22 Conor Gallagher",
+        "position": "Центр. полузащитник",
+        "readiness": 0.5966865079365079
+    },
+    {
+        "name": "#29 Pape Matar Sarr",
+        "position": "Центр. полузащитник",
+        "readiness": 0.546148253968254
+    },
+    {
+        "name": "#30 Rodrigo Bentancur",
+        "position": "Центр. полузащитник",
+        "readiness": 0.5067250566893424
+    },
+    {
+        "name": "#7 Xavi Simons",
+        "position": "Атак. полузащитник",
+        "readiness": 0.43814457429595494
+    },
+    {
+        "name": "#21 Dejan Kulusevski",
+        "position": "Атак. полузащитник",
+        "readiness": 0.7679120968115137
+    },
+    {
+        "name": "#10 James Maddison",
+        "position": "Атак. полузащитник",
+        "readiness": 0.6002423361201987
+    },
+    {
+        "name": "#28 Wilson Odobert",
+        "position": "Левый Вингер",
+        "readiness": 0.37397161290322584
+    },
+    {
+        "name": "#20 Mohammed Kudus",
+        "position": "Правый Вингер",
+        "readiness": 0.3922092307692308
+    },
+    {
+        "name": "#19 Dominic Solanke",
+        "position": "Центральный нап.",
+        "readiness": 0.6143148148148148
+    },
+    {
+        "name": "#11 Mathys Tel",
+        "position": "Центральный нап.",
+        "readiness": 0.30636318181818184
+    },
+    {
+        "name": "#9 Richarlison",
+        "position": "Центральный нап.",
+        "readiness": 0.5228924731182796
+    },
+    {
+        "name": "#39 Randal Kolo Muani",
+        "position": "Центральный нап.",
+        "readiness": 0.424
+    }
+]

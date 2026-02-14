@@ -1,0 +1,95 @@
+{
+  "match": "Ньюкасл - Брентфорд",
+  "match_url": "https://soccer365.ru/competitions/12/",
+  "date_time": "20:30",
+  "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+  "analysis_date": "2026-02-07T13:47:59.369906",
+  "home_team": {
+    "team_id": "210",
+    "team_name": "Ньюкасл",
+    "team_url": "https://soccer365.ru/clubs/210/",
+    "position_in_league": 11,
+    "last_results": [
+      0,
+      0,
+      0.5,
+      0,
+      1
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 1,
+      "draws": 1,
+      "losses": 3,
+      "points": 4,
+      "form": "LLDLW"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.5,
+        "avg_conceded": 1.0,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 1.0,
+        "avg_conceded": 2.6666666666666665,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 1.2,
+        "avg_conceded": 2.0,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+    "league_id": "12",
+    "scraped_at": "2026-02-07T13:47:54.047921"
+  },
+  "away_team": {
+    "team_id": "6997",
+    "team_name": "Брентфорд",
+    "team_url": "https://soccer365.ru/clubs/6997/",
+    "position_in_league": 7,
+    "last_results": [
+      1,
+      0,
+      0,
+      1,
+      1
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "points": 9,
+      "form": "WLLWW"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.5,
+        "avg_conceded": 1.0,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 1.0,
+        "avg_conceded": 0.6666666666666666,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 1.2,
+        "avg_conceded": 0.8,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+    "league_id": "12",
+    "scraped_at": "2026-02-07T13:47:54.958155"
+  },
+  "comparison": {
+    "position_difference": 4,
+    "home_team_form": "LLDLW",
+    "away_team_form": "WLLWW",
+    "scoring_insight": "В среднем Ньюкасл забивает дома 1.50 мяча, а Брентфорд в гостях пропускает 0.67 мяча."
+  }
+}

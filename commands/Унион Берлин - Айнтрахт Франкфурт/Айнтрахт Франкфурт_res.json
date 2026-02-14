@@ -1,0 +1,152 @@
+[
+    {
+        "name": "#40 Kauã Santos",
+        "position": "Вратарь",
+        "readiness": 0.42000000000000004
+    },
+    {
+        "name": "#23 Michael Zetterer",
+        "position": "Вратарь",
+        "readiness": 0.5517460317460318
+    },
+    {
+        "name": "#33 Jens Grahl",
+        "position": "Вратарь",
+        "readiness": 0.85
+    },
+    {
+        "name": "#1 Amil Siljevic",
+        "position": "Вратарь",
+        "readiness": 0.5658342857142858
+    },
+    {
+        "name": "#3 Arthur Theate",
+        "position": "Центр. защитник",
+        "readiness": 0.5430573192239859
+    },
+    {
+        "name": "#4 Robin Koch",
+        "position": "Центр. защитник",
+        "readiness": 0.6689087301587302
+    },
+    {
+        "name": "#34 Nnamdi Collins",
+        "position": "Центр. защитник",
+        "readiness": 0.4831851984126984
+    },
+    {
+        "name": "#5 Aurèle Amenda",
+        "position": "Центр. защитник",
+        "readiness": 0.37262685185185185
+    },
+    {
+        "name": "#21 Nathaniel Brown",
+        "position": "Левый защитник",
+        "readiness": 0.42128124297052155
+    },
+    {
+        "name": "#26 Keita Kosugi",
+        "position": "Левый защитник",
+        "readiness": 0.35608800000000007
+    },
+    {
+        "name": "#13 Rasmus Kristensen",
+        "position": "Правый защитник",
+        "readiness": 0.5185148378191856
+    },
+    {
+        "name": "#2 Elias Baum",
+        "position": "Правый защитник",
+        "readiness": 0.19484111111111113
+    },
+    {
+        "name": "#22 Timothy Chandler",
+        "position": "Правый защитник",
+        "readiness": 0.45
+    },
+    {
+        "name": "#15 Ellyes Skhiri",
+        "position": "Опорный полузащитник",
+        "readiness": 0.5606695526695527
+    },
+    {
+        "name": "#16 Hugo Larsson",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4614169696969697
+    },
+    {
+        "name": "#8 Farès Chaïbi",
+        "position": "Центр. полузащитник",
+        "readiness": 0.5674253968253968
+    },
+    {
+        "name": "#6 Oscar Højlund",
+        "position": "Центр. полузащитник",
+        "readiness": 0.35011518518518525
+    },
+    {
+        "name": "#18 Mahmoud Dahoud",
+        "position": "Центр. полузащитник",
+        "readiness": 0.3998800113378685
+    },
+    {
+        "name": "#42 Can Uzun",
+        "position": "Атак. полузащитник",
+        "readiness": 0.5218974603174603
+    },
+    {
+        "name": "#31 Love Arrhov",
+        "position": "Атак. полузащитник",
+        "readiness": 0.47484040000000005
+    },
+    {
+        "name": "#27 Mario Götze",
+        "position": "Атак. полузащитник",
+        "readiness": 0.4250341202020202
+    },
+    {
+        "name": "#19 Jean-Mattéo Bahoya",
+        "position": "Левый Вингер",
+        "readiness": 0.3769064197530865
+    },
+    {
+        "name": "#20 Ritsu Doan",
+        "position": "Правый Вингер",
+        "readiness": 0.42450827586206896
+    },
+    {
+        "name": "#7 Ansgar Knauff",
+        "position": "Правый Вингер",
+        "readiness": 0.5226896551724138
+    },
+    {
+        "name": "#29 Ayoube Amaimouni-Echghouyab",
+        "position": "Правый Вингер",
+        "readiness": 0.6522854545454546
+    },
+    {
+        "name": "#9 Jonathan Burkardt",
+        "position": "Центральный нап.",
+        "readiness": 0.7989411764705883
+    },
+    {
+        "name": "#25 Arnaud Kalimuendo",
+        "position": "Центральный нап.",
+        "readiness": 0.3547747368421053
+    },
+    {
+        "name": "#11 Younes Ebnoutalib",
+        "position": "Центральный нап.",
+        "readiness": 0.6736736285714285
+    },
+    {
+        "name": "#30 Michy Batshuayi",
+        "position": "Центральный нап.",
+        "readiness": 0.22848583333333333
+    },
+    {
+        "name": "#32 Jessic Ngankam",
+        "position": "Центральный нап.",
+        "readiness": 0.190125
+    }
+]

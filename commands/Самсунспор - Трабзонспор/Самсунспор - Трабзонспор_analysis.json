@@ -1,0 +1,95 @@
+{
+  "match": "Самсунспор - Трабзонспор",
+  "match_url": "https://soccer365.ru/competitions/723/",
+  "date_time": "07.02, 20:00",
+  "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+  "analysis_date": "2026-02-07T13:44:56.435720",
+  "home_team": {
+    "team_id": "7081",
+    "team_name": "Самсунспор",
+    "team_url": "https://soccer365.ru/clubs/7081/",
+    "position_in_league": 7,
+    "last_results": [
+      1,
+      1,
+      0.5,
+      0.5,
+      1
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 3,
+      "draws": 2,
+      "losses": 0,
+      "points": 11,
+      "form": "WWDDW"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.0,
+        "avg_conceded": 0.0,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 2.6666666666666665,
+        "avg_conceded": 1.0,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 2.0,
+        "avg_conceded": 0.6,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-02-07T13:44:42.070330"
+  },
+  "away_team": {
+    "team_id": "6945",
+    "team_name": "Трабзонспор",
+    "team_url": "https://soccer365.ru/clubs/6945/",
+    "position_in_league": 3,
+    "last_results": [
+      1,
+      0.5,
+      1,
+      1,
+      1
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 4,
+      "draws": 1,
+      "losses": 0,
+      "points": 13,
+      "form": "WDWWW"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 2.5,
+        "avg_conceded": 0.5,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 3.0,
+        "avg_conceded": 1.0,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 2.8,
+        "avg_conceded": 0.8,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-02-07T13:44:42.964819"
+  },
+  "comparison": {
+    "position_difference": 4,
+    "home_team_form": "WWDDW",
+    "away_team_form": "WDWWW",
+    "scoring_insight": "В среднем Самсунспор забивает дома 1.00 мяча, а Трабзонспор в гостях пропускает 1.00 мяча."
+  }
+}

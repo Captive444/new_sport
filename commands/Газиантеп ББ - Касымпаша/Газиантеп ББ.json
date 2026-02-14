@@ -1,0 +1,602 @@
+[
+    {
+        "name": "#20 Zafer Görgen",
+        "position": "Вратарь",
+        "age": 25,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 19,
+                "total_clean_sheets": 4,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/576566/plus/1",
+        "team": "Газиантеп ББ"
+    },
+    {
+        "name": "#71 Burak Bozan",
+        "position": "Вратарь",
+        "age": 25,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 12,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_goals_conceded": 21,
+                "total_clean_sheets": 3,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/587726/plus/1",
+        "team": "Газиантеп ББ"
+    },
+    {
+        "name": "#23 Tayyip Talha Sanuç",
+        "position": "Центр. защитник",
+        "age": 26,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 764
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/462772/plus/1",
+        "team": "Газиантеп ББ"
+    },
+    {
+        "name": "#5 Nihad Mujakic",
+        "position": "Центр. защитник",
+        "age": 27,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/380919/plus/1",
+        "team": "Газиантеп ББ"
+    },
+    {
+        "name": "#4 Arda Kızıldağ",
+        "position": "Центр. защитник",
+        "age": 27,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 1,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 7,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/532905/plus/1",
+        "team": "Газиантеп ББ"
+    },
+    {
+        "name": "#14 Myenty Abena",
+        "position": "Центр. защитник",
+        "age": 31,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/254003/plus/1",
+        "team": "Газиантеп ББ"
+    },
+    {
+        "name": "#30 Nazım Sangaré",
+        "position": "Центр. защитник",
+        "age": 31,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 7,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 560
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/157113/plus/1",
+        "team": "Газиантеп ББ"
+    },
+    {
+        "name": "#77 Kévin Rodrigues",
+        "position": "Левый защитник",
+        "age": 31,
+        "height": 170,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 1,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/206947/plus/1",
+        "team": "Газиантеп ББ"
+    },
+    {
+        "name": "#2 Luis Pérez",
+        "position": "Правый защитник",
+        "age": 31,
+        "height": 173,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/358115/plus/1",
+        "team": "Газиантеп ББ"
+    },
+    {
+        "name": "#22 Salem M'Bakata",
+        "position": "Правый защитник",
+        "age": 27,
+        "height": 177,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 1,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 35
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/590926/plus/1",
+        "team": "Газиантеп ББ"
+    },
+    {
+        "name": "#6 Melih Kabasakal",
+        "position": "Опорный полузащитник",
+        "age": 29,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/275683/plus/1",
+        "team": "Газиантеп ББ"
+    },
+    {
+        "name": "#61 Ogün Özçiçek",
+        "position": "Опорный полузащитник",
+        "age": 27,
+        "height": 172,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/701845/plus/1",
+        "team": "Газиантеп ББ"
+    },
+    {
+        "name": "#3 Drissa Camara",
+        "position": "Центр. полузащитник",
+        "age": 23,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 2,
+                "total_assists": 7,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/614742/plus/1",
+        "team": "Газиантеп ББ"
+    },
+    {
+        "name": "#17 Karamba Gassama",
+        "position": "Центр. полузащитник",
+        "age": 21,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 24,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1111215/plus/1",
+        "team": "Газиантеп ББ"
+    },
+    {
+        "name": "#10 Kacper Kozlowski",
+        "position": "Атак. полузащитник",
+        "age": 22,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 3,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/554284/plus/1",
+        "team": "Газиантеп ББ"
+    },
+    {
+        "name": "#44 Alexandru Maxim",
+        "position": "Атак. полузащитник",
+        "age": 35,
+        "height": 177,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 3,
+                "total_assists": 7,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 15,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 3,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/129513/plus/1",
+        "team": "Газиантеп ББ"
+    },
+    {
+        "name": "#8 Victor Ntino-Emo Gidado",
+        "position": "Атак. полузащитник",
+        "age": 21,
+        "height": null,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 1,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1209519/plus/1",
+        "team": "Газиантеп ББ"
+    },
+    {
+        "name": "#32 Yusuf Kabadayi",
+        "position": "Левый Вингер",
+        "age": 22,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 747
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/604359/plus/1",
+        "team": "Газиантеп ББ"
+    },
+    {
+        "name": "#11 Christopher Lungoyi",
+        "position": "Левый Вингер",
+        "age": 25,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 4,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 973
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/346903/plus/1",
+        "team": "Газиантеп ББ"
+    },
+    {
+        "name": "#26 Ali Osman Kalın",
+        "position": "Левый Вингер",
+        "age": 17,
+        "height": null,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 726
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1261143/plus/1",
+        "team": "Газиантеп ББ"
+    },
+    {
+        "name": "#18 Deian Sorescu",
+        "position": "Правый Вингер",
+        "age": 28,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 4,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/379209/plus/1",
+        "team": "Газиантеп ББ"
+    },
+    {
+        "name": "#16 Ali Mevran Ablak",
+        "position": "Правый Вингер",
+        "age": 22,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 57,
+                "total_goals": 5,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 32,
+                "total_substitutions_out": 21,
+                "total_yellow_cards": 7,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/889343/plus/1",
+        "team": "Газиантеп ББ"
+    },
+    {
+        "name": "#9 Mohamed Bayo",
+        "position": "Центральный нап.",
+        "age": 27,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 8,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/594991/plus/1",
+        "team": "Газиантеп ББ"
+    },
+    {
+        "name": "#70 Denis Drăguș",
+        "position": "Центральный нап.",
+        "age": 26,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/405399/plus/1",
+        "team": "Газиантеп ББ"
+    },
+    {
+        "name": "#85 Muhammet Akmelek",
+        "position": "Центральный нап.",
+        "age": 16,
+        "height": null,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 2,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 34
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1474871/plus/1",
+        "team": "Газиантеп ББ"
+    }
+]

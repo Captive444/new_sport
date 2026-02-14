@@ -1,0 +1,132 @@
+[
+    {
+        "name": "#1 Djordje Petrovic",
+        "position": "Вратарь",
+        "readiness": 0.5983516483516483
+    },
+    {
+        "name": "#29 Christos Mandas",
+        "position": "Вратарь",
+        "readiness": 0.88
+    },
+    {
+        "name": "#17 Fraser Forster",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#18 Bafodé Diakité",
+        "position": "Центр. защитник",
+        "readiness": 0.5673015873015873
+    },
+    {
+        "name": "#5 Marcos Senesi",
+        "position": "Центр. защитник",
+        "readiness": 0.5631349206349207
+    },
+    {
+        "name": "#44 Veljko Milosavljevic",
+        "position": "Центр. защитник",
+        "readiness": 0.43268333333333336
+    },
+    {
+        "name": "#23 James Hill",
+        "position": "Центр. защитник",
+        "readiness": 0.5655676937441643
+    },
+    {
+        "name": "#45 Matai Akinmboni",
+        "position": "Центр. защитник",
+        "readiness": 0.26120000000000004
+    },
+    {
+        "name": "#3 Adrien Truffert",
+        "position": "Левый защитник",
+        "readiness": 0.4747539682539683
+    },
+    {
+        "name": "#6 Julio Soler",
+        "position": "Левый защитник",
+        "readiness": 0.238112380952381
+    },
+    {
+        "name": "#20 Álex Jiménez",
+        "position": "Правый защитник",
+        "readiness": 0.29915736969696977
+    },
+    {
+        "name": "#15 Adam Smith",
+        "position": "Правый защитник",
+        "readiness": 0.2893343319727891
+    },
+    {
+        "name": "#12 Tyler Adams",
+        "position": "Опорный полузащитник",
+        "readiness": 0.36591626984126985
+    },
+    {
+        "name": "#8 Alex Scott",
+        "position": "Центр. полузащитник",
+        "readiness": 0.3780096503052503
+    },
+    {
+        "name": "#4 Lewis Cook",
+        "position": "Центр. полузащитник",
+        "readiness": 0.3754074074074074
+    },
+    {
+        "name": "#10 Ryan Christie",
+        "position": "Центр. полузащитник",
+        "readiness": 0.3622693121693122
+    },
+    {
+        "name": "#27 Alex Tóth",
+        "position": "Центр. полузащитник",
+        "readiness": 0.5007148500881835
+    },
+    {
+        "name": "#19 Justin Kluivert",
+        "position": "Атак. полузащитник",
+        "readiness": 0.26758665831244777
+    },
+    {
+        "name": "#16 Marcus Tavernier",
+        "position": "Атак. полузащитник",
+        "readiness": 0.5008968806073154
+    },
+    {
+        "name": "#21 Amine Adli",
+        "position": "Левый Вингер",
+        "readiness": 0.2975507246376812
+    },
+    {
+        "name": "#11 Ben Gannon-Doak",
+        "position": "Правый Вингер",
+        "readiness": 0.15951733333333337
+    },
+    {
+        "name": "#7 David Brooks",
+        "position": "Правый Вингер",
+        "readiness": 0.2777650793650794
+    },
+    {
+        "name": "#9 Evanilson",
+        "position": "Центральный нап.",
+        "readiness": 0.5404722222222222
+    },
+    {
+        "name": "#37 Rayan",
+        "position": "Центральный нап.",
+        "readiness": 0.7078
+    },
+    {
+        "name": "#22 Eli Kroupi",
+        "position": "Центральный нап.",
+        "readiness": 0.4516063492063491
+    },
+    {
+        "name": "#26 Enes Ünal",
+        "position": "Центральный нап.",
+        "readiness": 0.2306527777777778
+    }
+]

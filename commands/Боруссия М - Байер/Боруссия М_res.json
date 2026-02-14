@@ -1,0 +1,147 @@
+[
+    {
+        "name": "#33 Moritz Nicolas",
+        "position": "Вратарь",
+        "readiness": 0.6717391304347826
+    },
+    {
+        "name": "#42 Tiago Pereira Cardoso",
+        "position": "Вратарь",
+        "readiness": 0.4803809523809524
+    },
+    {
+        "name": "#23 Jan Olschowsky",
+        "position": "Вратарь",
+        "readiness": 0.425744
+    },
+    {
+        "name": "#21 Tobias Sippel",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#30 Nico Elvedi",
+        "position": "Центр. защитник",
+        "readiness": 0.6323864734299517
+    },
+    {
+        "name": "#4 Kevin Diks",
+        "position": "Центр. защитник",
+        "readiness": 0.5579455782312925
+    },
+    {
+        "name": "#14 Kota Takai",
+        "position": "Центр. защитник",
+        "readiness": 0.3894566666666667
+    },
+    {
+        "name": "#2 Fabio Chiarodia",
+        "position": "Центр. защитник",
+        "readiness": 0.3285661904761905
+    },
+    {
+        "name": "#5 Marvin Friedrich",
+        "position": "Центр. защитник",
+        "readiness": 0.422785
+    },
+    {
+        "name": "#26 Lukas Ullrich",
+        "position": "Левый защитник",
+        "readiness": 0.34587777777777784
+    },
+    {
+        "name": "#29 Joe Scally",
+        "position": "Правый защитник",
+        "readiness": 0.4770238548752834
+    },
+    {
+        "name": "#6 Yannik Engelhardt",
+        "position": "Опорный полузащитник",
+        "readiness": 0.5545039682539683
+    },
+    {
+        "name": "#39 Niklas Swider",
+        "position": "Опорный полузащитник",
+        "readiness": 0.45070952380952384
+    },
+    {
+        "name": "#27 Rocco Reitz",
+        "position": "Центр. полузащитник",
+        "readiness": 0.37182593844030365
+    },
+    {
+        "name": "#17 Jens Castrop",
+        "position": "Центр. полузащитник",
+        "readiness": 0.2805597673202614
+    },
+    {
+        "name": "#16 Philipp Sander",
+        "position": "Центр. полузащитник",
+        "readiness": 0.48100132275132274
+    },
+    {
+        "name": "#10 Florian Neuhaus",
+        "position": "Центр. полузащитник",
+        "readiness": 0.40419593253968256
+    },
+    {
+        "name": "#38 Hugo Bolin",
+        "position": "Левый полузащитник",
+        "readiness": 0.4005780154195011
+    },
+    {
+        "name": "#13 Giovanni Reyna",
+        "position": "Атак. полузащитник",
+        "readiness": 0.33918861678004536
+    },
+    {
+        "name": "#7 Kevin Stöger",
+        "position": "Атак. полузащитник",
+        "readiness": 0.3415701375661376
+    },
+    {
+        "name": "#36 Wael Mohya",
+        "position": "Атак. полузащитник",
+        "readiness": 0.3082407195767196
+    },
+    {
+        "name": "#25 Robin Hack",
+        "position": "Левый Вингер",
+        "readiness": 0.6848333333333333
+    },
+    {
+        "name": "#9 Franck Honorat",
+        "position": "Правый Вингер",
+        "readiness": 0.4440392156862745
+    },
+    {
+        "name": "#19 Nathan Ngoumou",
+        "position": "Правый Вингер",
+        "readiness": 0.5319602272727273
+    },
+    {
+        "name": "#11 Tim Kleindienst",
+        "position": "Центральный нап.",
+        "readiness": 0.1457328
+    },
+    {
+        "name": "#18 Shuto Machino",
+        "position": "Центральный нап.",
+        "readiness": 0.4229206349206349
+    },
+    {
+        "name": "#15 Haris Tabakovic",
+        "position": "Центральный нап.",
+        "readiness": 0.7427059636363635
+    },
+    {
+        "name": "#8 Alejo Sarco",
+        "position": "Центральный нап.",
+        "readiness": 0.17384
+    },
+    {
+        "name": "#11 Jan Urbich",
+        "position": "Центральный нап.",
+        "readiness": 0.667345
+    }
+]

@@ -1,0 +1,746 @@
+[
+    {
+        "name": "#1 Marvin Schwäbe",
+        "position": "Вратарь",
+        "age": 30,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 32,
+                "total_clean_sheets": 3,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/160929/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#20 Ron-Robert Zieler",
+        "position": "Вратарь",
+        "age": 36,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 2,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 5,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 180
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/21327/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#44 Matthias Köbbing",
+        "position": "Вратарь",
+        "age": 28,
+        "height": 196,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/227089/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#33 Rav van den Berg",
+        "position": "Центр. защитник",
+        "age": 21,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 8,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 592
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/640556/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#22 Jahmai Simpson-Pusey",
+        "position": "Центр. защитник",
+        "age": 20,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 5,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 424
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/942497/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#2 Joël Schmied",
+        "position": "Центр. защитник",
+        "age": 27,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 976
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/322517/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#4 Timo Hübers",
+        "position": "Центр. защитник",
+        "age": 29,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 9,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 761
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/236981/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#39 Cenk Özkacar",
+        "position": "Центр. защитник",
+        "age": 25,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 694
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/615350/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#3 Dominique Heintz",
+        "position": "Центр. защитник",
+        "age": 32,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 7,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 377
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/110036/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#15 Luca Kilian",
+        "position": "Центр. защитник",
+        "age": 26,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 219,
+                "total_goals": 24,
+                "total_assists": 8,
+                "total_own_goals": 0,
+                "total_substitutions_in": 34,
+                "total_substitutions_out": 21,
+                "total_yellow_cards": 21,
+                "total_yellow_red_cards": 3,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/384553/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#32 Kristoffer Lund",
+        "position": "Левый защитник",
+        "age": 23,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/623773/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#28 Sebastian Sebulonsen",
+        "position": "Правый защитник",
+        "age": 26,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/592387/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#6 Eric Martel",
+        "position": "Опорный полузащитник",
+        "age": 23,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 2,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 7,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/597000/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#5 Tom Krauß",
+        "position": "Опорный полузащитник",
+        "age": 24,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/405687/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#34 Fayssal Harchaoui",
+        "position": "Опорный полузащитник",
+        "age": 20,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/890532/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#18 Ísak Jóhannesson",
+        "position": "Центр. полузащитник",
+        "age": 22,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/579565/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#8 Denis Huseinbasic",
+        "position": "Центр. полузащитник",
+        "age": 24,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 677
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/678479/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#27 Felipe Chávez",
+        "position": "Центр. полузащитник",
+        "age": 18,
+        "height": 177,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 3,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 815
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1009441/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#46 Emin Kujovic",
+        "position": "Центр. полузащитник",
+        "age": 21,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 3,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/795724/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#17 Alessio Castro-Montes",
+        "position": "Правый полузащитник",
+        "age": 28,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 0,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 632
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/340166/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#11 Florian Kainz",
+        "position": "Атак. полузащитник",
+        "age": 33,
+        "height": 176,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 12,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 264
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/106270/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#13 Said El Mala",
+        "position": "Левый Вингер",
+        "age": 19,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 7,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 13,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1168219/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#16 Jakub Kaminski",
+        "position": "Левый Вингер",
+        "age": 23,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 5,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/407098/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#37 Linton Maina",
+        "position": "Левый Вингер",
+        "age": 26,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 686
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/335103/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#30 Marius Bülter",
+        "position": "Левый Вингер",
+        "age": 32,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 3,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/116088/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#29 Jan Thielmann",
+        "position": "Правый Вингер",
+        "age": 23,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 12,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/472249/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "Youssoupha Niang",
+        "position": "Правый Вингер",
+        "age": 19,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 3,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 10
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/944331/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#9 Ragnar Ache",
+        "position": "Центральный нап.",
+        "age": 27,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 4,
+                "total_assists": 6,
+                "total_own_goals": 0,
+                "total_substitutions_in": 12,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/416380/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#7 Luca Waldschmidt",
+        "position": "Центральный нап.",
+        "age": 29,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 3,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 489
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/196095/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#40 Fynn Schenten",
+        "position": "Центральный нап.",
+        "age": 18,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 15,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 18,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1118293/plus/1",
+        "team": "Кёльн"
+    },
+    {
+        "name": "#19 Malek El Mala",
+        "position": "Центральный нап.",
+        "age": 20,
+        "height": 194,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 5,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 623
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1168222/plus/1",
+        "team": "Кёльн"
+    }
+]

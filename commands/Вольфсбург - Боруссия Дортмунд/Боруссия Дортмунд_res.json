@@ -1,0 +1,122 @@
+[
+    {
+        "name": "#1 Gregor Kobel",
+        "position": "Вратарь",
+        "readiness": 0.71036866359447
+    },
+    {
+        "name": "#33 Alexander Meyer",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#30 Patrick Drewes",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#31 Silas Ostrzinski",
+        "position": "Вратарь",
+        "readiness": 0.5370000000000001
+    },
+    {
+        "name": "#4 Nico Schlotterbeck",
+        "position": "Центр. защитник",
+        "readiness": 0.6327777777777778
+    },
+    {
+        "name": "#3 Waldemar Anton",
+        "position": "Центр. защитник",
+        "readiness": 0.5867633219954649
+    },
+    {
+        "name": "#5 Ramy Bensebaini",
+        "position": "Центр. защитник",
+        "readiness": 0.5631349206349207
+    },
+    {
+        "name": "#23 Emre Can",
+        "position": "Центр. защитник",
+        "readiness": 0.4509863151927437
+    },
+    {
+        "name": "#25 Niklas Süle",
+        "position": "Центр. защитник",
+        "readiness": 0.3144041369047619
+    },
+    {
+        "name": "#39 Filippo Mane",
+        "position": "Центр. защитник",
+        "readiness": 0.4539936507936508
+    },
+    {
+        "name": "#24 Daniel Svensson",
+        "position": "Левый защитник",
+        "readiness": 0.5403619047619048
+    },
+    {
+        "name": "#42 Almugera Kabar",
+        "position": "Левый защитник",
+        "readiness": 0.5124640692640693
+    },
+    {
+        "name": "#26 Julian Ryerson",
+        "position": "Правый защитник",
+        "readiness": 0.6019197530864198
+    },
+    {
+        "name": "#6 Salih Özcan",
+        "position": "Опорный полузащитник",
+        "readiness": 0.3724047619047619
+    },
+    {
+        "name": "#8 Felix Nmecha",
+        "position": "Центр. полузащитник",
+        "readiness": 0.6095696364567332
+    },
+    {
+        "name": "#7 Jobe Bellingham",
+        "position": "Центр. полузащитник",
+        "readiness": 0.48968833607006024
+    },
+    {
+        "name": "#17 Carney Chukwuemeka",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4004119047619048
+    },
+    {
+        "name": "#20 Marcel Sabitzer",
+        "position": "Центр. полузащитник",
+        "readiness": 0.47028545192743765
+    },
+    {
+        "name": "#2 Yan Couto",
+        "position": "Правый полузащитник",
+        "readiness": 0.30848661904761904
+    },
+    {
+        "name": "#10 Julian Brandt",
+        "position": "Атак. полузащитник",
+        "readiness": 0.6668253968253969
+    },
+    {
+        "name": "#27 Karim Adeyemi",
+        "position": "Правый Вингер",
+        "readiness": 0.5413809523809524
+    },
+    {
+        "name": "#9 Serhou Guirassy",
+        "position": "Центральный нап.",
+        "readiness": 0.7255555555555555
+    },
+    {
+        "name": "#14 Maximilian Beier",
+        "position": "Центральный нап.",
+        "readiness": 0.47798666666666667
+    },
+    {
+        "name": "#21 Fábio Silva",
+        "position": "Центральный нап.",
+        "readiness": 0.2590069565217391
+    }
+]

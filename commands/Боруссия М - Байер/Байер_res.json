@@ -1,0 +1,137 @@
+[
+    {
+        "name": "#1 Mark Flekken",
+        "position": "Вратарь",
+        "readiness": 0.6571428571428571
+    },
+    {
+        "name": "#18 Jonas Omlin",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#28 Janis Blaswich",
+        "position": "Вратарь",
+        "readiness": 0.7937777777777777
+    },
+    {
+        "name": "#36 Niklas Lomb",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#4 Jarell Quansah",
+        "position": "Центр. защитник",
+        "readiness": 0.499618835978836
+    },
+    {
+        "name": "#12 Edmond Tapsoba",
+        "position": "Центр. защитник",
+        "readiness": 0.5725222222222222
+    },
+    {
+        "name": "#5 Loïc Badé",
+        "position": "Центр. защитник",
+        "readiness": 0.5456281179138321
+    },
+    {
+        "name": "#16 Axel Tape",
+        "position": "Центр. защитник",
+        "readiness": 0.24762877551020407
+    },
+    {
+        "name": "#15 Tim Oermann",
+        "position": "Центр. защитник",
+        "readiness": 0.4371137698412698
+    },
+    {
+        "name": "#41 Issa Traoré",
+        "position": "Центр. защитник",
+        "readiness": 0.45
+    },
+    {
+        "name": "#20 Alejandro Grimaldo",
+        "position": "Левый защитник",
+        "readiness": 0.5338584126984127
+    },
+    {
+        "name": "#13 Arthur",
+        "position": "Правый защитник",
+        "readiness": 0.4018396217687075
+    },
+    {
+        "name": "#21 Lucas Vázquez",
+        "position": "Правый защитник",
+        "readiness": 0.25974821587301583
+    },
+    {
+        "name": "#6 Equi Fernández",
+        "position": "Опорный полузащитник",
+        "readiness": 0.32429931111111115
+    },
+    {
+        "name": "#8 Robert Andrich",
+        "position": "Опорный полузащитник",
+        "readiness": 0.5585215520282187
+    },
+    {
+        "name": "#25 Exequiel Palacios",
+        "position": "Центр. полузащитник",
+        "readiness": 0.31340402116402116
+    },
+    {
+        "name": "#24 Aleix García",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4715908960573477
+    },
+    {
+        "name": "#10 Malik Tillman",
+        "position": "Атак. полузащитник",
+        "readiness": 0.504570873015873
+    },
+    {
+        "name": "#30 Ibrahim Maza",
+        "position": "Атак. полузащитник",
+        "readiness": 0.515265873015873
+    },
+    {
+        "name": "#7 Jonas Hofmann",
+        "position": "Атак. полузащитник",
+        "readiness": 0.35698656842105264
+    },
+    {
+        "name": "#17 Eliesse Ben Seghir",
+        "position": "Левый Вингер",
+        "readiness": 0.14279714285714287
+    },
+    {
+        "name": "#11 Martin Terrier",
+        "position": "Левый Вингер",
+        "readiness": 0.5498333333333334
+    },
+    {
+        "name": "#19 Ernest Poku",
+        "position": "Правый Вингер",
+        "readiness": 0.3914564125
+    },
+    {
+        "name": "#23 Nathan Tella",
+        "position": "Правый Вингер",
+        "readiness": 0.19617142857142858
+    },
+    {
+        "name": "#42 Montrell Culbreath",
+        "position": "Правый Вингер",
+        "readiness": 0.3509019428571428
+    },
+    {
+        "name": "#14 Patrik Schick",
+        "position": "Центральный нап.",
+        "readiness": 0.7090215
+    },
+    {
+        "name": "#35 Christian Kofane",
+        "position": "Центральный нап.",
+        "readiness": 0.3931047619047619
+    }
+]

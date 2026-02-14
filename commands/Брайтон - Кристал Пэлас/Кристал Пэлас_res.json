@@ -1,0 +1,137 @@
+[
+    {
+        "name": "#1 Dean Henderson",
+        "position": "Вратарь",
+        "readiness": 0.7119815668202765
+    },
+    {
+        "name": "#44 Walter Benítez",
+        "position": "Вратарь",
+        "readiness": 0.7113333333333333
+    },
+    {
+        "name": "#31 Remi Matthews",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#5 Maxence Lacroix",
+        "position": "Центр. защитник",
+        "readiness": 0.6273015873015872
+    },
+    {
+        "name": "#26 Chris Richards",
+        "position": "Центр. защитник",
+        "readiness": 0.613396004378763
+    },
+    {
+        "name": "#23 Jaydee Canvot",
+        "position": "Центр. защитник",
+        "readiness": 0.40794920634920634
+    },
+    {
+        "name": "#34 Chadi Riad",
+        "position": "Центр. защитник",
+        "readiness": 0.2828683333333333
+    },
+    {
+        "name": "#3 Tyrick Mitchell",
+        "position": "Левый защитник",
+        "readiness": 0.5778425099206349
+    },
+    {
+        "name": "#24 Borna Sosa",
+        "position": "Левый защитник",
+        "readiness": 0.37943121693121695
+    },
+    {
+        "name": "#59 Rio Cardines",
+        "position": "Левый защитник",
+        "readiness": 0.23949047619047617
+    },
+    {
+        "name": "#2 Daniel Muñoz",
+        "position": "Правый защитник",
+        "readiness": 0.6024206349206349
+    },
+    {
+        "name": "#58 Caleb Kporha",
+        "position": "Правый защитник",
+        "readiness": 0.24814000000000003
+    },
+    {
+        "name": "#17 Nathaniel Clyne",
+        "position": "Правый защитник",
+        "readiness": 0.28524571428571427
+    },
+    {
+        "name": "#20 Adam Wharton",
+        "position": "Опорный полузащитник",
+        "readiness": 0.46002236559139786
+    },
+    {
+        "name": "#28 Cheick Doucouré",
+        "position": "Опорный полузащитник",
+        "readiness": 0.6351019257110627
+    },
+    {
+        "name": "#8 Jefferson Lerma",
+        "position": "Опорный полузащитник",
+        "readiness": 0.504065580952381
+    },
+    {
+        "name": "#19 Will Hughes",
+        "position": "Центр. полузащитник",
+        "readiness": 0.5195396825396825
+    },
+    {
+        "name": "#18 Daichi Kamada",
+        "position": "Атак. полузащитник",
+        "readiness": 0.48836473429951693
+    },
+    {
+        "name": "#55 Justin Devenny",
+        "position": "Атак. полузащитник",
+        "readiness": 0.5247845210727969
+    },
+    {
+        "name": "#7 Ismaïla Sarr",
+        "position": "Правый Вингер",
+        "readiness": 0.704939393939394
+    },
+    {
+        "name": "#10 Yéremy Pino",
+        "position": "Правый Вингер",
+        "readiness": 0.32011893333333336
+    },
+    {
+        "name": "#11 Brennan Johnson",
+        "position": "Правый Вингер",
+        "readiness": 0.4009047619047619
+    },
+    {
+        "name": "#29 Evann Guessand",
+        "position": "Правый Вингер",
+        "readiness": 0.39879365079365076
+    },
+    {
+        "name": "#14 Jean-Philippe Mateta",
+        "position": "Центральный нап.",
+        "readiness": 0.5779982352941176
+    },
+    {
+        "name": "#22 Jørgen Strand Larsen",
+        "position": "Центральный нап.",
+        "readiness": 0.5308760256410257
+    },
+    {
+        "name": "#9 Eddie Nketiah",
+        "position": "Центральный нап.",
+        "readiness": 0.33034842105263157
+    },
+    {
+        "name": "#12 Christantus Uche",
+        "position": "Центральный нап.",
+        "readiness": 0.30806513888888887
+    }
+]

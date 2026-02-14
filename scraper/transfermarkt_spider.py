@@ -1,27 +1,17 @@
-
 import json
 import scrapy
 import random
-import stem.process
+import os
 from scrapy.exceptions import CloseSpider
 from fake_useragent import UserAgent
-from urllib.parse import urljoin
 from scrapy import Request
 
 class TransfermarktSpider(scrapy.Spider):
-    """Парсер статистики игроков с Transfermarkt с переключением на Tor при 503 ошибках"""
+    """Парсер статистики игроков с Transfermarkt"""
     
     name = "transfermarkt_spider"
     
     custom_settings = {
-        'FEEDS': {
-            'output2.json': {
-                'format': 'json',
-                'encoding': 'utf-8',
-                'indent': 4,
-                'overwrite': True
-            }
-        },
         'ROBOTSTXT_OBEY': False,
         'CONCURRENT_REQUESTS': 1,
         'DOWNLOAD_DELAY': random.uniform(25, 40), 
@@ -31,110 +21,42 @@ class TransfermarktSpider(scrapy.Spider):
             'Referer': 'https://www.transfermarkt.world/'
         },
         'USER_AGENT': UserAgent().random,
-        'RETRY_TIMES': 1,  # Только одна попытка перед переключением на Tor
-        'RETRY_HTTP_CODES': [503],
-        'DOWNLOADER_MIDDLEWARES': {
-            'scrapy.downloadermiddlewares.retry.RetryMiddleware': 90,
-            'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware': 110,
-        }
     }
 
-    def __init__(self, *args, **kwargs):
+    def __init__(self, team_name=None, match_folder=None, *args, **kwargs):
         super(TransfermarktSpider, self).__init__(*args, **kwargs)
+        self.team_name = team_name 
+        self.match_folder = match_folder
         self.ua = UserAgent()
-        self.tor_process = None
-        self.use_tor = False  # Флаг для отслеживания использования Tor
-        self.start_tor()
-
-    def start_tor(self):
-        """Улучшенная версия с проверкой подключения"""
-        try:
-            self.tor_process = stem.process.launch_tor_with_config(
-                config={
-                    'SocksPort': '9050',
-                    'ControlPort': '9051',
-                    'HTTPTunnelPort': '9080',  # Добавляем HTTP-прокси
-                    'ExitNodes': '{us},{de}',  # Указываем конкретные страны
-                    'StrictNodes': '1',  # Строго соблюдать выбор узлов
-                },
-                take_ownership=True,
-                timeout=30  # Увеличиваем таймаут
-            )
-            
-            # Проверка работоспособности
-            if not self.check_tor_connection():
-                raise ConnectionError("Tor не подключился")
-                
-            self.logger.info("Tor успешно запущен")
-        except Exception as e:
-            self.logger.error(f"Ошибка запуска Tor: {str(e)}")
-            self.tor_process = None
-
-    def check_tor_connection(self):
-        """Проверка работоспособности Tor"""
-        try:
-            import requests
-            session = requests.session()
-            session.proxies = {
-                'http': 'socks5h://localhost:9050',
-                'https': 'socks5h://localhost:9050'
-            }
-            response = session.get('https://check.torproject.org/', timeout=10)
-            return 'Congratulations' in response.text
-        except Exception:
-            return False
-
-    def close_spider(self, spider):
-        """Остановка Tor процесса при завершении работы паука"""
-        if self.tor_process:
-            self.tor_process.terminate()
-            self.logger.info("Tor процесс остановлен")
+        self.logger.info(f"Паук инициализирован для команды: {team_name}")
+        self.logger.info(f"Папка для сохранения: {match_folder}")
 
     def start_requests(self):
         """Загрузка URL из JSON-файла"""
         try:
             with open('output.json', 'r', encoding='utf-8') as f:
                 urls = json.load(f)
-                for url in urls:
+                self.logger.info(f"Загружено URL для парсинга: {len(urls)}")
+                
+                for i, url in enumerate(urls, 1):
+                    self.logger.info(f"{i}/{len(urls)}: {url}")
                     yield Request(
                         url=url,
                         callback=self.parse,
-                        errback=self.errback_tor_fallback,
                         headers={'User-Agent': self.ua.random},
                         meta={
                             'dont_redirect': True,
-                            'proxy': None,  # Первый запрос без прокси
                             'retry_count': 0,
                             'original_url': url
                         }
                     )
+                    
         except FileNotFoundError:
             self.logger.error("Файл output.json не найден")
             raise CloseSpider('Файл с URL не найден')
         except Exception as e:
             self.logger.error(f"Ошибка загрузки URL: {str(e)}")
             raise CloseSpider('Ошибка в стартовых URL')
-
-    def errback_tor_fallback(self, failure):
-        """Обработка ошибки 503 с переключением на Tor"""
-        request = failure.request
-        retry_count = request.meta.get('retry_count', 0)
-        
-        if retry_count >= 1 and not self.use_tor and self.tor_process:
-            # Переключаемся на Tor
-            self.use_tor = True
-            self.logger.info("Переключаемся на Tor после ошибки 503")
-            
-            new_request = request.copy()
-            new_request.meta['proxy'] = 'http://localhost:9050'  # Tor proxy
-            new_request.meta['retry_count'] = retry_count + 1
-            new_request.headers['User-Agent'] = self.ua.random
-            new_request.dont_filter = True
-            
-            return new_request
-        else:
-            self.logger.error(f"Не удалось получить данные для {request.url} даже через Tor")
-            return
 
     def parse(self, response):
         """Обработка страницы игрока"""
@@ -143,439 +65,172 @@ class TransfermarktSpider(scrapy.Spider):
             return
 
         try:
+            self.logger.info(f"Парсим игрока: {response.url}")
+            
+            position = self.parse_player_position(response)
+            is_goalkeeper = 'вратарь' in position.lower()
+            
             player_data = {
                 'name': self.parse_player_name(response),
-                'position': self.parse_player_position(response),
-                'stats': self.parse_player_stats(response),
+                'position': position,
+                'age': self.parse_player_age(response),
+                'height': self.parse_player_height(response),
+                'stats': self.parse_player_stats(response, is_goalkeeper),
                 'url': response.url,
-                'via_tor': self.use_tor  # Добавляем информацию о способе доступа
+                'team': self.team_name 
             }
-            yield player_data
-            
-            # После успешного запроса через Tor, продолжаем использовать его
-            if self.use_tor:
-                self.logger.info("Успешно получили данные через Tor, продолжаем использовать его")
-            else:
-                self.use_tor = False  # Возвращаемся к обычному режиму
+
+            self.save_player_data(player_data)
 
         except Exception as e:
             self.logger.error(f"Ошибка парсинга {response.url}: {str(e)}")
 
-    # Все остальные методы парсера остаются без изменений
+    def save_player_data(self, player_data):
+        """Сохранение данных игрока в папку матча"""
+        file_name = os.path.join(self.match_folder, f"{self.team_name}.json")
+        
+        try:
+            # Читаем существующие данные
+            try:
+                with open(file_name, 'r', encoding='utf-8') as f:
+                    existing_data = json.load(f)
+            except FileNotFoundError:
+                existing_data = []
+
+            # Проверяем, есть ли уже такой игрок
+            player_exists = False
+            for i, existing_player in enumerate(existing_data):
+                if existing_player.get('url') == player_data['url']:
+                    existing_data[i] = player_data
+                    player_exists = True
+                    break
+
+            # Если игрок не существует, добавляем его
+            if not player_exists:
+                existing_data.append(player_data)
+
+            # Сохраняем данные
+            with open(file_name, 'w', encoding='utf-8') as f:
+                json.dump(existing_data, f, ensure_ascii=False, indent=4)
+
+            self.logger.info(f"Сохранено в: {file_name}")
+
+        except Exception as e:
+            self.logger.error(f"Ошибка сохранения в {file_name}: {str(e)}")
+
+    # Остальные методы парсинга остаются без изменений
     def parse_player_name(self, response):
         """Извлечение имени игрока"""
         name_parts = response.xpath('//h1[@class="data-header__headline-wrapper"]//text()').getall()
-        return ' '.join([name.strip() for name in name_parts if name.strip()])
-
-    # ... остальные методы parse_player_position, parse_player_stats и т.д. ...
-
-    # Все остальные методы парсера остаются без изменений
-    def parse_player_name(self, response):
-        """Извлечение имени игрока"""
-        name_parts = response.xpath('//h1[@class="data-header__headline-wrapper"]//text()').getall()
-        return ' '.join([name.strip() for name in name_parts if name.strip()])
+        name = ' '.join([name.strip() for name in name_parts if name.strip()])
+        return name if name else "Неизвестно"
 
     def parse_player_position(self, response):
         """Извлечение позиции игрока"""
-        return response.xpath('//li[contains(., "Амплуа:")]/span[@class="data-header__content"]/text()').get(default='').strip()
+        position = response.xpath('//li[contains(., "Амплуа:")]/span[@class="data-header__content"]/text()').get(default='').strip()
+        return position if position else "Не указано"
 
-    def parse_player_stats(self, response):
-        """Сбор всей статистики игрока"""
-        position = self.parse_player_position(response)
-        table = response.xpath('//div[@class="box"][.//h2[contains(., "Статистика выступлений")]]//table')
-        
-        if not table:
-            self.logger.warning(f"Не найдена таблица статистики для {response.url}")
-            return self.empty_stats(position)
-        
-        headers = self.parse_table_headers(table)
-        seasons = [self.parse_season_row(row, headers, position) 
-                  for row in table.xpath('.//tbody/tr') if self.parse_season_row(row, headers, position)]
-        
-        total_stats = self.parse_total_stats(table, position, headers)
-        total_stats['seasons'] = seasons
-        
-        return total_stats
+    def parse_player_age(self, response):
+        """Извлечение возраста игрока"""
+        age_text = response.xpath('//span[@itemprop="birthDate"]/text()').get()
+        if age_text:
+            try:
+                age = age_text.split('(')[-1].replace(')', '').strip()
+                return int(age) if age.isdigit() else None
+            except:
+                return None
+        return None
 
-    def empty_stats(self, position):
-        """Возвращает пустую статистику"""
-        return {
-            'matches': 0,
-            'minutes': 0,
-            'position_specific': self.init_position_stats(position),
-            'cards': {'yellow': 0, 'yellow_red': 0, 'red': 0},
-            'substitutions': {'in': 0, 'out': 0},
-            'own_goals': 0,
-            'seasons': []
-        }
+    def parse_player_height(self, response):
+        """Извлечение роста игрока в см"""
+        height_text = response.xpath('//span[@itemprop="height"]/text()').get()
+        if height_text:
+            try:
+                height = height_text.replace(' м', '').replace(',', '.')
+                return int(float(height) * 100)
+            except:
+                return None
+        return None
 
-    def parse_table_headers(self, table):
-        """Парсинг заголовков таблицы"""
-        headers = {}
-        for i, header in enumerate(table.xpath('.//thead/tr/th')):
-            title = header.xpath('.//@title').get() or header.xpath('.//text()').get()
-            if title and title.strip():
-                headers[title.strip()] = i
-        return headers
-
-    def parse_season_row(self, row, headers, position):
-        """Парсинг строки с данными сезона"""
-        tournament_name = row.xpath('.//td[2]//a/text()').get(default='').strip()
-        if not tournament_name:
-            return None
-            
+    def parse_player_stats(self, response, is_goalkeeper):
+        """Сбор статистики из подвала таблицы"""
         stats = {
-            'name': tournament_name,
-            'matches': self.parse_int(row.xpath(f'.//td[{headers.get("Матчи", 3)+1}]/text()').get()),
-            'minutes': self.parse_minutes(row.xpath(f'.//td[{headers.get("Сыграно минут", -1)+1}]/text()').get()),
-            'position_specific': self.init_position_stats(position),
-            'cards': {
-                'yellow': self.parse_int(row.xpath(f'.//td[{headers.get("Желтые карточки", -1)+1}]/text()').get()),
-                'yellow_red': self.parse_int(row.xpath(f'.//td[{headers.get("Желтые/красные карточки", -1)+1}]/text()').get()),
-                'red': self.parse_int(row.xpath(f'.//td[{headers.get("Красные карточки", -1)+1}]/text()').get())
-            },
-            'substitutions': {
-                'in': self.parse_int(row.xpath(f'.//td[{headers.get("Вышел на замену", -1)+1}]/text()').get()),
-                'out': self.parse_int(row.xpath(f'.//td[{headers.get("Заменен", -1)+1}]/text()').get())
-            },
-            'own_goals': self.parse_int(row.xpath(f'.//td[{headers.get("автоголы", -1)+1}]/text()').get())
+            'seasons': [],
+            'total_stats': self.parse_total_stats(response, is_goalkeeper)
         }
-        
-        self.update_position_stats(stats['position_specific'], row, headers, position)
         return stats
 
-    def parse_total_stats(self, table, position, headers):
-        """Парсинг итоговой статистики"""
-        footer = table.xpath('.//tfoot/tr')
-        
-        stats = {
-            'matches': self.parse_int(footer.xpath(f'.//td[{headers.get("Матчи", 3)+1}]/text()').get()),
-            'minutes': self.parse_minutes(footer.xpath(f'.//td[{headers.get("Сыграно минут", -1)+1}]/text()').get()),
-            'position_specific': self.init_position_stats(position),
-            'cards': {
-                'yellow': self.parse_int(footer.xpath(f'.//td[{headers.get("Желтые карточки", -1)+1}]/text()').get()),
-                'yellow_red': self.parse_int(footer.xpath(f'.//td[{headers.get("Желтые/красные карточки", -1)+1}]/text()').get()),
-                'red': self.parse_int(footer.xpath(f'.//td[{headers.get("Красные карточки", -1)+1}]/text()').get())
-            },
-            'substitutions': {
-                'in': self.parse_int(footer.xpath(f'.//td[{headers.get("Вышел на замену", -1)+1}]/text()').get()),
-                'out': self.parse_int(footer.xpath(f'.//td[{headers.get("Заменен", -1)+1}]/text()').get())
-            },
-            'own_goals': self.parse_int(footer.xpath(f'.//td[{headers.get("автоголы", -1)+1}]/text()').get())
-        }
-        
-        self.update_position_stats(stats['position_specific'], footer, headers, position)
-        return stats
-
-    def init_position_stats(self, position):
-        """Инициализация статистики по позиции"""
-        if 'вратарь' in position.lower():
-            return {'пропущенные_голы': 0, 'сухие_матчи': 0}
-        return {'голы': 0, 'голевые_передачи': 0}
-
-    def update_position_stats(self, stats, row, headers, position):
-        """Обновление статистики по позиции"""
-        if 'вратарь' in position.lower():
-            stats['пропущенные_голы'] = self.parse_int(
-                row.xpath(f'.//td[{headers.get("Пропущенные голы", -1)+1}]/text()').get())
-            stats['сухие_матчи'] = self.parse_int(
-                row.xpath(f'.//td[{headers.get("Матчи без пропущенных голов", -1)+1}]/text()').get())
-        else:
-            stats['голы'] = self.parse_int(
-                row.xpath(f'.//td[{headers.get("Голы", -1)+1}]/text()').get())
-            stats['голевые_передачи'] = self.parse_int(
-                row.xpath(f'.//td[{headers.get("Голевые передачи", -1)+1}]/text()').get())
-
-    def parse_minutes(self, value):
-        """Парсинг минут (удаление апострофов)"""
+    def parse_total_stats(self, response, is_goalkeeper):
+        """Парсинг общей статистики"""
         try:
-            return int(value.replace("'", "").strip()) if value else 0
-        except (ValueError, AttributeError):
-            return 0
+            table = response.xpath('//table[@class="items"]')
+            if not table:
+                return self.get_default_stats()
+
+            footer = table.xpath('.//tfoot/tr')
+            if not footer:
+                return self.get_default_stats()
+
+            if is_goalkeeper:
+                total_stats = {
+                    'total_matches': self.parse_int(footer.xpath('.//td[3]//text()').get()),
+                    'total_goals': self.parse_int(footer.xpath('.//td[4]//text()').get()),
+                    'total_own_goals': self.parse_int(footer.xpath('.//td[5]//text()').get()),
+                    'total_substitutions_in': self.parse_int(footer.xpath('.//td[6]//text()').get()),
+                    'total_substitutions_out': self.parse_int(footer.xpath('.//td[7]//text()').get()),
+                    'total_yellow_cards': self.parse_int(footer.xpath('.//td[8]//text()').get()),
+                    'total_yellow_red_cards': self.parse_int(footer.xpath('.//td[9]//text()').get()),
+                    'total_red_cards': self.parse_int(footer.xpath('.//td[10]//text()').get()),
+                    'total_goals_conceded': self.parse_int(footer.xpath('.//td[11]//text()').get()),
+                    'total_clean_sheets': self.parse_int(footer.xpath('.//td[12]//text()').get()),
+                    'total_minutes_played': self.parse_minutes(footer.xpath('.//td[13]//text()').get())
+                }
+            else:
+                total_stats = {
+                    'total_matches': self.parse_int(footer.xpath('.//td[3]//text()').get()),
+                    'total_goals': self.parse_int(footer.xpath('.//td[4]//text()').get()),
+                    'total_assists': self.parse_int(footer.xpath('.//td[5]//text()').get()),
+                    'total_own_goals': self.parse_int(footer.xpath('.//td[6]//text()').get()),
+                    'total_substitutions_in': self.parse_int(footer.xpath('.//td[7]//text()').get()),
+                    'total_substitutions_out': self.parse_int(footer.xpath('.//td[8]//text()').get()),
+                    'total_yellow_cards': self.parse_int(footer.xpath('.//td[9]//text()').get()),
+                    'total_yellow_red_cards': self.parse_int(footer.xpath('.//td[10]//text()').get()),
+                    'total_red_cards': self.parse_int(footer.xpath('.//td[11]//text()').get()),
+                    'total_penalty_goals': self.parse_int(footer.xpath('.//td[12]//text()').get()),
+                    'total_minutes_played': self.parse_minutes(footer.xpath('.//td[14]//text()').get())
+                }
+
+            return total_stats
+
+        except Exception as e:
+            self.logger.error(f"Ошибка парсинга статистики: {e}")
+            return self.get_default_stats()
+
+    def get_default_stats(self):
+        """Статистика по умолчанию"""
+        return {
+            'total_matches': 0, 'total_goals': 0, 'total_assists': 0,
+            'total_own_goals': 0, 'total_substitutions_in': 0, 'total_substitutions_out': 0,
+            'total_yellow_cards': 0, 'total_yellow_red_cards': 0, 'total_red_cards': 0,
+            'total_penalty_goals': 0, 'total_goals_conceded': 0, 'total_clean_sheets': 0,
+            'total_minutes_played': 0
+        }
 
     def parse_int(self, value):
         """Преобразование в целое число"""
         try:
-            return int(value.strip().replace('-', '0')) if value else 0
-        except (ValueError, AttributeError):
+            if value and value.strip() == '-':
+                return 0
+            return int(value.strip()) if value else 0
+        except:
             return 0
 
-
-# 2222222222222222222222222
-# import json
-# import scrapy
-# import random
-# import stem.process
-# from scrapy.exceptions import CloseSpider
-# from fake_useragent import UserAgent
-# from urllib.parse import urljoin
-# from scrapy import Request
-
-# class TransfermarktSpider(scrapy.Spider):
-#     """Парсер статистики игроков с Transfermarkt с переключением на Tor при 503 ошибках"""
-    
-#     name = "transfermarkt_spider"
-    
-#     custom_settings = {
-#         'FEEDS': {
-#             'output2.json': {
-#                 'format': 'json',
-#                 'encoding': 'utf-8',
-#                 'indent': 4,
-#                 'overwrite': True
-#             }
-#         },
-#         'ROBOTSTXT_OBEY': False,
-#         'CONCURRENT_REQUESTS': 1,
-#         'DOWNLOAD_DELAY': random.uniform(5, 15),
-#         'DEFAULT_REQUEST_HEADERS': {
-#             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-#             'Accept-Language': 'en-US,en;q=0.5',
-#             'Referer': 'https://www.transfermarkt.world/'
-#         },
-#         'USER_AGENT': UserAgent().random,
-#         'RETRY_TIMES': 1,  # Только одна попытка перед переключением на Tor
-#         'RETRY_HTTP_CODES': [503],
-#         'DOWNLOADER_MIDDLEWARES': {
-#             'scrapy.downloadermiddlewares.retry.RetryMiddleware': 90,
-#             'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware': 110,
-#         }
-#     }
-
-#     def __init__(self, *args, **kwargs):
-#         super(TransfermarktSpider, self).__init__(*args, **kwargs)
-#         self.ua = UserAgent()
-#         self.tor_process = None
-#         self.use_tor = False  # Флаг для отслеживания использования Tor
-#         self.start_tor()
-
-#     def start_tor(self):
-#         """Запуск Tor процесса"""
-#         try:
-#             self.tor_process = stem.process.launch_tor_with_config(
-#                 config={
-#                     'SocksPort': '9050',
-#                     'ControlPort': '9051',
-#                 },
-#                 take_ownership=True,
-#             )
-#             self.logger.info("Tor процесс успешно запущен")
-#         except Exception as e:
-#             self.logger.error(f"Ошибка запуска Tor: {str(e)}")
-#             self.tor_process = None
-
-#     def close_spider(self, spider):
-#         """Остановка Tor процесса при завершении работы паука"""
-#         if self.tor_process:
-#             self.tor_process.terminate()
-#             self.logger.info("Tor процесс остановлен")
-
-#     def start_requests(self):
-#         """Загрузка URL из JSON-файла"""
-#         try:
-#             with open('output.json', 'r', encoding='utf-8') as f:
-#                 urls = json.load(f)
-#                 for url in urls:
-#                     yield Request(
-#                         url=url,
-#                         callback=self.parse,
-#                         errback=self.errback_tor_fallback,
-#                         headers={'User-Agent': self.ua.random},
-#                         meta={
-#                             'dont_redirect': True,
-#                             'proxy': None,  # Первый запрос без прокси
-#                             'retry_count': 0,
-#                             'original_url': url
-#                         }
-#                     )
-#         except FileNotFoundError:
-#             self.logger.error("Файл output.json не найден")
-#             raise CloseSpider('Файл с URL не найден')
-#         except Exception as e:
-#             self.logger.error(f"Ошибка загрузки URL: {str(e)}")
-#             raise CloseSpider('Ошибка в стартовых URL')
-
-#     def errback_tor_fallback(self, failure):
-#         """Обработка ошибки 503 с переключением на Tor"""
-#         request = failure.request
-#         retry_count = request.meta.get('retry_count', 0)
-        
-#         if retry_count >= 1 and not self.use_tor and self.tor_process:
-#             # Переключаемся на Tor
-#             self.use_tor = True
-#             self.logger.info("Переключаемся на Tor после ошибки 503")
-            
-#             new_request = request.copy()
-#             new_request.meta['proxy'] = 'http://localhost:9050'  # Tor proxy
-#             new_request.meta['retry_count'] = retry_count + 1
-#             new_request.headers['User-Agent'] = self.ua.random
-#             new_request.dont_filter = True
-            
-#             return new_request
-#         else:
-#             self.logger.error(f"Не удалось получить данные для {request.url} даже через Tor")
-#             return
-
-#     def parse(self, response):
-#         """Обработка страницы игрока"""
-#         if response.status != 200:
-#             self.logger.error(f"Ошибка {response.status}: {response.url}")
-#             return
-
-#         try:
-#             player_data = {
-#                 'name': self.parse_player_name(response),
-#                 'position': self.parse_player_position(response),
-#                 'stats': self.parse_player_stats(response),
-#                 'url': response.url,
-#                 'via_tor': self.use_tor  # Добавляем информацию о способе доступа
-#             }
-#             yield player_data
-            
-#             # После успешного запроса через Tor, продолжаем использовать его
-#             if self.use_tor:
-#                 self.logger.info("Успешно получили данные через Tor, продолжаем использовать его")
-#             else:
-#                 self.use_tor = False  # Возвращаемся к обычному режиму
-
-#         except Exception as e:
-#             self.logger.error(f"Ошибка парсинга {response.url}: {str(e)}")
-
-#     # Все остальные методы парсера остаются без изменений
-#     def parse_player_name(self, response):
-#         """Извлечение имени игрока"""
-#         name_parts = response.xpath('//h1[@class="data-header__headline-wrapper"]//text()').getall()
-#         return ' '.join([name.strip() for name in name_parts if name.strip()])
-
-#     # ... остальные методы parse_player_position, parse_player_stats и т.д. ...
-
-#     # Все остальные методы парсера остаются без изменений
-#     def parse_player_name(self, response):
-#         """Извлечение имени игрока"""
-#         name_parts = response.xpath('//h1[@class="data-header__headline-wrapper"]//text()').getall()
-#         return ' '.join([name.strip() for name in name_parts if name.strip()])
-
-#     def parse_player_position(self, response):
-#         """Извлечение позиции игрока"""
-#         return response.xpath('//li[contains(., "Амплуа:")]/span[@class="data-header__content"]/text()').get(default='').strip()
-
-#     def parse_player_stats(self, response):
-#         """Сбор всей статистики игрока"""
-#         position = self.parse_player_position(response)
-#         table = response.xpath('//div[@class="box"][.//h2[contains(., "Статистика выступлений")]]//table')
-        
-#         if not table:
-#             self.logger.warning(f"Не найдена таблица статистики для {response.url}")
-#             return self.empty_stats(position)
-        
-#         headers = self.parse_table_headers(table)
-#         seasons = [self.parse_season_row(row, headers, position) 
-#                   for row in table.xpath('.//tbody/tr') if self.parse_season_row(row, headers, position)]
-        
-#         total_stats = self.parse_total_stats(table, position, headers)
-#         total_stats['seasons'] = seasons
-        
-#         return total_stats
-
-#     def empty_stats(self, position):
-#         """Возвращает пустую статистику"""
-#         return {
-#             'matches': 0,
-#             'minutes': 0,
-#             'position_specific': self.init_position_stats(position),
-#             'cards': {'yellow': 0, 'yellow_red': 0, 'red': 0},
-#             'substitutions': {'in': 0, 'out': 0},
-#             'own_goals': 0,
-#             'seasons': []
-#         }
-
-#     def parse_table_headers(self, table):
-#         """Парсинг заголовков таблицы"""
-#         headers = {}
-#         for i, header in enumerate(table.xpath('.//thead/tr/th')):
-#             title = header.xpath('.//@title').get() or header.xpath('.//text()').get()
-#             if title and title.strip():
-#                 headers[title.strip()] = i
-#         return headers
-
-#     def parse_season_row(self, row, headers, position):
-#         """Парсинг строки с данными сезона"""
-#         tournament_name = row.xpath('.//td[2]//a/text()').get(default='').strip()
-#         if not tournament_name:
-#             return None
-            
-#         stats = {
-#             'name': tournament_name,
-#             'matches': self.parse_int(row.xpath(f'.//td[{headers.get("Матчи", 3)+1}]/text()').get()),
-#             'minutes': self.parse_minutes(row.xpath(f'.//td[{headers.get("Сыграно минут", -1)+1}]/text()').get()),
-#             'position_specific': self.init_position_stats(position),
-#             'cards': {
-#                 'yellow': self.parse_int(row.xpath(f'.//td[{headers.get("Желтые карточки", -1)+1}]/text()').get()),
-#                 'yellow_red': self.parse_int(row.xpath(f'.//td[{headers.get("Желтые/красные карточки", -1)+1}]/text()').get()),
-#                 'red': self.parse_int(row.xpath(f'.//td[{headers.get("Красные карточки", -1)+1}]/text()').get())
-#             },
-#             'substitutions': {
-#                 'in': self.parse_int(row.xpath(f'.//td[{headers.get("Вышел на замену", -1)+1}]/text()').get()),
-#                 'out': self.parse_int(row.xpath(f'.//td[{headers.get("Заменен", -1)+1}]/text()').get())
-#             },
-#             'own_goals': self.parse_int(row.xpath(f'.//td[{headers.get("автоголы", -1)+1}]/text()').get())
-#         }
-        
-#         self.update_position_stats(stats['position_specific'], row, headers, position)
-#         return stats
-
-#     def parse_total_stats(self, table, position, headers):
-#         """Парсинг итоговой статистики"""
-#         footer = table.xpath('.//tfoot/tr')
-        
-#         stats = {
-#             'matches': self.parse_int(footer.xpath(f'.//td[{headers.get("Матчи", 3)+1}]/text()').get()),
-#             'minutes': self.parse_minutes(footer.xpath(f'.//td[{headers.get("Сыграно минут", -1)+1}]/text()').get()),
-#             'position_specific': self.init_position_stats(position),
-#             'cards': {
-#                 'yellow': self.parse_int(footer.xpath(f'.//td[{headers.get("Желтые карточки", -1)+1}]/text()').get()),
-#                 'yellow_red': self.parse_int(footer.xpath(f'.//td[{headers.get("Желтые/красные карточки", -1)+1}]/text()').get()),
-#                 'red': self.parse_int(footer.xpath(f'.//td[{headers.get("Красные карточки", -1)+1}]/text()').get())
-#             },
-#             'substitutions': {
-#                 'in': self.parse_int(footer.xpath(f'.//td[{headers.get("Вышел на замену", -1)+1}]/text()').get()),
-#                 'out': self.parse_int(footer.xpath(f'.//td[{headers.get("Заменен", -1)+1}]/text()').get())
-#             },
-#             'own_goals': self.parse_int(footer.xpath(f'.//td[{headers.get("автоголы", -1)+1}]/text()').get())
-#         }
-        
-#         self.update_position_stats(stats['position_specific'], footer, headers, position)
-#         return stats
-
-#     def init_position_stats(self, position):
-#         """Инициализация статистики по позиции"""
-#         if 'вратарь' in position.lower():
-#             return {'пропущенные_голы': 0, 'сухие_матчи': 0}
-#         return {'голы': 0, 'голевые_передачи': 0}
-
-#     def update_position_stats(self, stats, row, headers, position):
-#         """Обновление статистики по позиции"""
-#         if 'вратарь' in position.lower():
-#             stats['пропущенные_голы'] = self.parse_int(
-#                 row.xpath(f'.//td[{headers.get("Пропущенные голы", -1)+1}]/text()').get())
-#             stats['сухие_матчи'] = self.parse_int(
-#                 row.xpath(f'.//td[{headers.get("Матчи без пропущенных голов", -1)+1}]/text()').get())
-#         else:
-#             stats['голы'] = self.parse_int(
-#                 row.xpath(f'.//td[{headers.get("Голы", -1)+1}]/text()').get())
-#             stats['голевые_передачи'] = self.parse_int(
-#                 row.xpath(f'.//td[{headers.get("Голевые передачи", -1)+1}]/text()').get())
-
-#     def parse_minutes(self, value):
-#         """Парсинг минут (удаление апострофов)"""
-#         try:
-#             return int(value.replace("'", "").strip()) if value else 0
-#         except (ValueError, AttributeError):
-#             return 0
-
-#     def parse_int(self, value):
-#         """Преобразование в целое число"""
-#         try:
-#             return int(value.strip().replace('-', '0')) if value else 0
-#         except (ValueError, AttributeError):
-#             return 0
+    def parse_minutes(self, value):
+        """Парсинг минут"""
+        try:
+            if value and value.strip() == '-':
+                return 0
+            cleaned_value = value.replace("'", "").replace(" ", "").strip()
+            return int(cleaned_value) if cleaned_value else 0
+        except:
+            return 0

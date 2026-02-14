@@ -1,0 +1,122 @@
+[
+    {
+        "name": "#1 Bernd Leno",
+        "position": "Вратарь",
+        "readiness": 0.6105803571428571
+    },
+    {
+        "name": "#23 Benjamin Lecomte",
+        "position": "Вратарь",
+        "readiness": 0.622468
+    },
+    {
+        "name": "#3 Calvin Bassey",
+        "position": "Центр. защитник",
+        "readiness": 0.5784269005847953
+    },
+    {
+        "name": "#5 Joachim Andersen",
+        "position": "Центр. защитник",
+        "readiness": 0.5567589285714285
+    },
+    {
+        "name": "#31 Issa Diop",
+        "position": "Центр. защитник",
+        "readiness": 0.49127425925925927
+    },
+    {
+        "name": "#15 Jorge Cuenca",
+        "position": "Центр. защитник",
+        "readiness": 0.4389801587301587
+    },
+    {
+        "name": "#33 Antonee Robinson",
+        "position": "Левый защитник",
+        "readiness": 0.5865873015873015
+    },
+    {
+        "name": "#30 Ryan Sessegnon",
+        "position": "Левый защитник",
+        "readiness": 0.5417573412698412
+    },
+    {
+        "name": "#2 Kenny Tete",
+        "position": "Правый защитник",
+        "readiness": 0.5403576097105509
+    },
+    {
+        "name": "#21 Timothy Castagne",
+        "position": "Правый защитник",
+        "readiness": 0.5482767425810904
+    },
+    {
+        "name": "#16 Sander Berge",
+        "position": "Опорный полузащитник",
+        "readiness": 0.5249479188712521
+    },
+    {
+        "name": "#20 Saša Lukić",
+        "position": "Центр. полузащитник",
+        "readiness": 0.5032456866804693
+    },
+    {
+        "name": "#6 Harrison Reed",
+        "position": "Центр. полузащитник",
+        "readiness": 0.41533706349206345
+    },
+    {
+        "name": "#10 Tom Cairney",
+        "position": "Центр. полузащитник",
+        "readiness": 0.37180753968253966
+    },
+    {
+        "name": "#32 Emile Smith Rowe",
+        "position": "Атак. полузащитник",
+        "readiness": 0.5572140022675737
+    },
+    {
+        "name": "#24 Josh King",
+        "position": "Атак. полузащитник",
+        "readiness": 0.30058482539682546
+    },
+    {
+        "name": "#22 Kevin",
+        "position": "Левый Вингер",
+        "readiness": 0.4453724505747127
+    },
+    {
+        "name": "#17 Alex Iwobi",
+        "position": "Левый Вингер",
+        "readiness": 0.42166666666666663
+    },
+    {
+        "name": "#14 Oscar Bobb",
+        "position": "Правый Вингер",
+        "readiness": 0.19472693333333335
+    },
+    {
+        "name": "#8 Harry Wilson",
+        "position": "Правый Вингер",
+        "readiness": 0.4872197530864198
+    },
+    {
+        "name": "#19 Samuel Chukwueze",
+        "position": "Правый Вингер",
+        "readiness": 0.41957000000000005
+    },
+    {
+        "name": "#9 Rodrigo Muniz",
+        "position": "Центральный нап.",
+        "readiness": 0.3430185185185185
+    },
+    {
+        "name": "#7 Raúl Jiménez",
+        "position": "Центральный нап.",
+        "readiness": 0.46523333333333333
+    },
+    {
+        "name": "#18 Jonah Kusi-Asare",
+        "position": "Центральный нап.",
+        "readiness": 0.16755841818181816
+    }
+]

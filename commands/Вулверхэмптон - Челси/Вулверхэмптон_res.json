@@ -1,0 +1,127 @@
+[
+    {
+        "name": "#1 José Sá",
+        "position": "Вратарь",
+        "readiness": 0.5622802197802197
+    },
+    {
+        "name": "#31 Sam Johnstone",
+        "position": "Вратарь",
+        "readiness": 0.5866666666666667
+    },
+    {
+        "name": "#25 Daniel Bentley",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#24 Toti",
+        "position": "Центр. защитник",
+        "readiness": 0.4625793650793651
+    },
+    {
+        "name": "#37 Ladislav Krejci",
+        "position": "Центр. защитник",
+        "readiness": 0.5754506556245687
+    },
+    {
+        "name": "#12 Emmanuel Agbadou",
+        "position": "Центр. защитник",
+        "readiness": 0.5699444444444445
+    },
+    {
+        "name": "#4 Santiago Bueno",
+        "position": "Центр. защитник",
+        "readiness": 0.597734126984127
+    },
+    {
+        "name": "#15 Yerson Mosquera",
+        "position": "Центр. защитник",
+        "readiness": 0.3595102707749766
+    },
+    {
+        "name": "#3 Hugo Bueno",
+        "position": "Левый защитник",
+        "readiness": 0.5043468875086267
+    },
+    {
+        "name": "#6 David Møller Wolfe",
+        "position": "Левый защитник",
+        "readiness": 0.4772401867413632
+    },
+    {
+        "name": "#38 Jackson Tchatchoua",
+        "position": "Правый защитник",
+        "readiness": 0.5751587301587302
+    },
+    {
+        "name": "#17 Pedro Lima",
+        "position": "Правый защитник",
+        "readiness": 0.2886067210884354
+    },
+    {
+        "name": "#2 Matt Doherty",
+        "position": "Правый защитник",
+        "readiness": 0.29901724867724866
+    },
+    {
+        "name": "#7 André",
+        "position": "Опорный полузащитник",
+        "readiness": 0.36691345543345544
+    },
+    {
+        "name": "#8 João Gomes",
+        "position": "Центр. полузащитник",
+        "readiness": 0.3866451851851852
+    },
+    {
+        "name": "#27 Jean-Ricner Bellegarde",
+        "position": "Центр. полузащитник",
+        "readiness": 0.29956002645502644
+    },
+    {
+        "name": "#21 Rodrigo Gomes",
+        "position": "Левый полузащитник",
+        "readiness": 0.3064985396825397
+    },
+    {
+        "name": "Angel Gomes",
+        "position": "Атак. полузащитник",
+        "readiness": 0.3324815476190476
+    },
+    {
+        "name": "#36 Mateus Mané",
+        "position": "Атак. полузащитник",
+        "readiness": 0.4592862003284072
+    },
+    {
+        "name": "#30 Enso González",
+        "position": "Левый Вингер",
+        "readiness": 0.29016959999999997
+    },
+    {
+        "name": "#10 Jhon Arias",
+        "position": "Правый Вингер",
+        "readiness": 0.2897730769230769
+    },
+    {
+        "name": "#14 Tolu Arokodare",
+        "position": "Центральный нап.",
+        "readiness": 0.4722075
+    },
+    {
+        "name": "#11 Hee-chan Hwang",
+        "position": "Центральный нап.",
+        "readiness": 0.33285451594202903
+    },
+    {
+        "name": "Adam Armstrong",
+        "position": "Центральный нап.",
+        "readiness": 0.5159250000000001
+    },
+    {
+        "name": "#63 Nathan Fraser",
+        "position": "Центральный нап.",
+        "readiness": 0.51087
+    }
+]

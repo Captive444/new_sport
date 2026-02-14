@@ -1,0 +1,157 @@
+[
+    {
+        "name": "#1 Andreas Gianniotis",
+        "position": "Вратарь",
+        "readiness": 0.6363892857142858
+    },
+    {
+        "name": "#25 Ali Emre Yanar",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#61 Ege Albayrak",
+        "position": "Вратарь",
+        "readiness": 0.5392380952380953
+    },
+    {
+        "name": "#98 Şant Kazancı",
+        "position": "Вратарь",
+        "readiness": 0.5476
+    },
+    {
+        "name": "#50 Rodrigo Becão",
+        "position": "Центр. защитник",
+        "readiness": 0.44603439153439156
+    },
+    {
+        "name": "#20 Nicholas Opoku",
+        "position": "Центр. защитник",
+        "readiness": 0.5661111111111111
+    },
+    {
+        "name": "#4 Adem Arous",
+        "position": "Центр. защитник",
+        "readiness": 0.4944825641025642
+    },
+    {
+        "name": "#29 Taylan Aydın",
+        "position": "Центр. защитник",
+        "readiness": 0.34906666666666664
+    },
+    {
+        "name": "Ahmet Taha Dağbaşı",
+        "position": "Центр. защитник",
+        "readiness": 0.43350422619047624
+    },
+    {
+        "name": "#21 Godfried Frimpong",
+        "position": "Левый защитник",
+        "readiness": 0.5947579365079365
+    },
+    {
+        "name": "#33 Emre Taşdemir",
+        "position": "Левый защитник",
+        "readiness": 0.2650747619047619
+    },
+    {
+        "name": "#2 Cláudio Winck",
+        "position": "Правый защитник",
+        "readiness": 0.5886776937441643
+    },
+    {
+        "name": "#22 Kamil Ahmet Çörekçi",
+        "position": "Правый защитник",
+        "readiness": 0.2391558349206349
+    },
+    {
+        "name": "#47 Berkay Muratoğlu",
+        "position": "Правый защитник",
+        "readiness": 0.3434785714285714
+    },
+    {
+        "name": "#16 Andri Fannar Baldursson",
+        "position": "Опорный полузащитник",
+        "readiness": 0.4795132275132275
+    },
+    {
+        "name": "Burak Gültekin",
+        "position": "Опорный полузащитник",
+        "readiness": 0.3889868480725624
+    },
+    {
+        "name": "#26 Kerem Demirbay",
+        "position": "Центр. полузащитник",
+        "readiness": 0.45587140211640204
+    },
+    {
+        "name": "Eyüp Aydın",
+        "position": "Центр. полузащитник",
+        "readiness": 0.2624488888888889
+    },
+    {
+        "name": "#8 Cafú",
+        "position": "Центр. полузащитник",
+        "readiness": 0.2857967277167277
+    },
+    {
+        "name": "#71 İrfan Can Kahveci",
+        "position": "Атак. полузащитник",
+        "readiness": 0.352989417989418
+    },
+    {
+        "name": "#10 Haris Hajradinovic",
+        "position": "Атак. полузащитник",
+        "readiness": 0.428081741723356
+    },
+    {
+        "name": "Adrian Benedyczak",
+        "position": "Левый Вингер",
+        "readiness": 0.3561282352941177
+    },
+    {
+        "name": "#12 Mortadha Ben Ouanes",
+        "position": "Левый Вингер",
+        "readiness": 0.33896791666666665
+    },
+    {
+        "name": "#11 Ali Yavuz Kol",
+        "position": "Левый Вингер",
+        "readiness": 0.13799333333333333
+    },
+    {
+        "name": "Erdem Çetinkaya",
+        "position": "Левый Вингер",
+        "readiness": 0.424694623655914
+    },
+    {
+        "name": "#18 Jim Allevinah",
+        "position": "Правый Вингер",
+        "readiness": 0.2559289571428571
+    },
+    {
+        "name": "#34 Fousseni Diabaté",
+        "position": "Правый Вингер",
+        "readiness": 0.40133128205128205
+    },
+    {
+        "name": "#77 Pape Habib Guèye",
+        "position": "Центральный нап.",
+        "readiness": 0.5571481481481482
+    },
+    {
+        "name": "#9 Yusuf Barası",
+        "position": "Центральный нап.",
+        "readiness": 0.12518375
+    },
+    {
+        "name": "#17 Kubilay Kanatsızkuş",
+        "position": "Центральный нап.",
+        "readiness": 0.31654166666666667
+    },
+    {
+        "name": "#23 Cenk Tosun",
+        "position": "Центральный нап.",
+        "readiness": 0.1717787037037037
+    }
+]

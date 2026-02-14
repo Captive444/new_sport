@@ -1,0 +1,167 @@
+[
+    {
+        "name": "#1 Kamil Grabara",
+        "position": "Вратарь",
+        "readiness": 0.5636054421768708
+    },
+    {
+        "name": "#29 Marius Müller",
+        "position": "Вратарь",
+        "readiness": 0.5
+    },
+    {
+        "name": "#30 Jakub Zielinski",
+        "position": "Вратарь",
+        "readiness": 0.5642499999999999
+    },
+    {
+        "name": "#12 Pavao Pervan",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#4 Konstantinos Koulierakis",
+        "position": "Центр. защитник",
+        "readiness": 0.4736031495405179
+    },
+    {
+        "name": "#6 Jeanuël Belocian",
+        "position": "Центр. защитник",
+        "readiness": 0.35241600288600294
+    },
+    {
+        "name": "Jonas Adjetey",
+        "position": "Центр. защитник",
+        "readiness": 0.4678456383712905
+    },
+    {
+        "name": "#3 Denis Vavro",
+        "position": "Центр. защитник",
+        "readiness": 0.4353878968253968
+    },
+    {
+        "name": "#14 Jenson Seelt",
+        "position": "Центр. защитник",
+        "readiness": 0.43438545921855926
+    },
+    {
+        "name": "#15 Moritz Jenz",
+        "position": "Центр. защитник",
+        "readiness": 0.5327063492063492
+    },
+    {
+        "name": "#33 Cleiton",
+        "position": "Центр. защитник",
+        "readiness": 0.5102630037037037
+    },
+    {
+        "name": "#21 Joakim Maehle",
+        "position": "Левый защитник",
+        "readiness": 0.5148007054673721
+    },
+    {
+        "name": "#25 Aaron Zehnter",
+        "position": "Левый защитник",
+        "readiness": 0.4752239215686275
+    },
+    {
+        "name": "#13 Rogério",
+        "position": "Левый защитник",
+        "readiness": 0.5573259554630914
+    },
+    {
+        "name": "#26 Saël Kumbedi",
+        "position": "Правый защитник",
+        "readiness": 0.3842477698412699
+    },
+    {
+        "name": "#2 Kilian Fischer",
+        "position": "Правый защитник",
+        "readiness": 0.5384516594516594
+    },
+    {
+        "name": "#2 Jan Bürger",
+        "position": "Правый защитник",
+        "readiness": 0.4532527380952381
+    },
+    {
+        "name": "#5 Vini Souza",
+        "position": "Опорный полузащитник",
+        "readiness": 0.4062420634920635
+    },
+    {
+        "name": "#32 Mattias Svanberg",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4756331569664903
+    },
+    {
+        "name": "#27 Maximilian Arnold",
+        "position": "Центр. полузащитник",
+        "readiness": 0.5774194444444445
+    },
+    {
+        "name": "#31 Yannick Gerhardt",
+        "position": "Центр. полузащитник",
+        "readiness": 0.38884425925925925
+    },
+    {
+        "name": "#37 Pharell Hensel",
+        "position": "Центр. полузащитник",
+        "readiness": 0.5527703174603175
+    },
+    {
+        "name": "#40 Kevin Paredes",
+        "position": "Левый полузащитник",
+        "readiness": 0.20885896296296297
+    },
+    {
+        "name": "#10 Lovro Majer",
+        "position": "Атак. полузащитник",
+        "readiness": 0.470370066833751
+    },
+    {
+        "name": "#8 Bence Dárdai",
+        "position": "Атак. полузащитник",
+        "readiness": 0.3324492592592593
+    },
+    {
+        "name": "#24 Christian Eriksen",
+        "position": "Атак. полузащитник",
+        "readiness": 0.4780352777777778
+    },
+    {
+        "name": "#39 Patrick Wimmer",
+        "position": "Правый Вингер",
+        "readiness": 0.45752631578947367
+    },
+    {
+        "name": "#19 Jesper Lindstrøm",
+        "position": "Правый Вингер",
+        "readiness": 0.1085
+    },
+    {
+        "name": "#11 Adam Daghim",
+        "position": "Правый Вингер",
+        "readiness": 0.26363000000000003
+    },
+    {
+        "name": "#9 Mohamed Amoura",
+        "position": "Центральный нап.",
+        "readiness": 0.4886877777777778
+    },
+    {
+        "name": "#23 Jonas Wind",
+        "position": "Центральный нап.",
+        "readiness": 0.2005625
+    },
+    {
+        "name": "#17 Dzenan Pejcinovic",
+        "position": "Центральный нап.",
+        "readiness": 0.5361505263157895
+    },
+    {
+        "name": "#7 Kento Shiogai",
+        "position": "Центральный нап.",
+        "readiness": 0.5491693750000001
+    }
+]

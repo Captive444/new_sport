@@ -1,0 +1,157 @@
+[
+    {
+        "name": "#12 Sander Tangvik",
+        "position": "Вратарь",
+        "readiness": 0.6941428571428572
+    },
+    {
+        "name": "#1 Daniel Heuer Fernandes",
+        "position": "Вратарь",
+        "readiness": 0.6114464285714285
+    },
+    {
+        "name": "#40 Hannes Hermann",
+        "position": "Вратарь",
+        "readiness": 0.5388235294117648
+    },
+    {
+        "name": "#41 Fernando Dickes",
+        "position": "Вратарь",
+        "readiness": 0.5066666666666666
+    },
+    {
+        "name": "#44 Luka Vuskovic",
+        "position": "Центр. защитник",
+        "readiness": 0.4712158578947368
+    },
+    {
+        "name": "#25 Jordan Torunarigha",
+        "position": "Центр. защитник",
+        "readiness": 0.46275396825396825
+    },
+    {
+        "name": "#8 Daniel Elfadli",
+        "position": "Центр. защитник",
+        "readiness": 0.5213095238095238
+    },
+    {
+        "name": "#17 Warmed Omari",
+        "position": "Центр. защитник",
+        "readiness": 0.5572687074829932
+    },
+    {
+        "name": "#5 Shafiq Nandja",
+        "position": "Центр. защитник",
+        "readiness": 0.34135105508870217
+    },
+    {
+        "name": "#28 Miro Muheim",
+        "position": "Левый защитник",
+        "readiness": 0.6491435786435786
+    },
+    {
+        "name": "#3 Noah Katterbach",
+        "position": "Левый защитник",
+        "readiness": 0.5299325396825396
+    },
+    {
+        "name": "#16 Louis Lemke",
+        "position": "Левый защитник",
+        "readiness": 0.32664881051587297
+    },
+    {
+        "name": "#16 Giorgi Gocholeishvili",
+        "position": "Правый защитник",
+        "readiness": 0.4356390187590187
+    },
+    {
+        "name": "#2 William Mikelbrencis",
+        "position": "Правый защитник",
+        "readiness": 0.2868385230769231
+    },
+    {
+        "name": "#21 Nicolai Remberg",
+        "position": "Опорный полузащитник",
+        "readiness": 0.4759325396825397
+    },
+    {
+        "name": "#6 Albert Sambi Lokonga",
+        "position": "Центр. полузащитник",
+        "readiness": 0.5332142857142858
+    },
+    {
+        "name": "#24 Nicolás Capaldo",
+        "position": "Центр. полузащитник",
+        "readiness": 0.3618188888888889
+    },
+    {
+        "name": "#20 Fábio Vieira",
+        "position": "Атак. полузащитник",
+        "readiness": 0.3997340277777778
+    },
+    {
+        "name": "#23 Albert Grønbaek",
+        "position": "Атак. полузащитник",
+        "readiness": 0.30093121693121694
+    },
+    {
+        "name": "#22 Omar Megeed",
+        "position": "Атак. полузащитник",
+        "readiness": 0.42190003035714285
+    },
+    {
+        "name": "#27 Philip Otele",
+        "position": "Левый Вингер",
+        "readiness": 0.5881354166666667
+    },
+    {
+        "name": "#38 Alexander Røssing-Lelesiit",
+        "position": "Левый Вингер",
+        "readiness": 0.20750476190476191
+    },
+    {
+        "name": "#7 Jean-Luc Dompé",
+        "position": "Левый Вингер",
+        "readiness": 0.33457455555555554
+    },
+    {
+        "name": "#45 Fábio Baldé",
+        "position": "Левый Вингер",
+        "readiness": 0.20570611111111115
+    },
+    {
+        "name": "#14 Rayan Philippe",
+        "position": "Правый Вингер",
+        "readiness": 0.48530158730158723
+    },
+    {
+        "name": "#18 Bakery Jatta",
+        "position": "Правый Вингер",
+        "readiness": 0.4106666666666667
+    },
+    {
+        "name": "#19 Damion Downs",
+        "position": "Центральный нап.",
+        "readiness": 0.19758414117647063
+    },
+    {
+        "name": "#11 Ransford Königsdörffer",
+        "position": "Центральный нап.",
+        "readiness": 0.414030303030303
+    },
+    {
+        "name": "#49 Otto Stange",
+        "position": "Центральный нап.",
+        "readiness": 0.28008500000000003
+    },
+    {
+        "name": "#9 Robert Glatzel",
+        "position": "Центральный нап.",
+        "readiness": 0.29363435833333335
+    },
+    {
+        "name": "#15 Yussuf Poulsen",
+        "position": "Центральный нап.",
+        "readiness": 0.1720938074074074
+    }
+]

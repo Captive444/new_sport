@@ -1,0 +1,95 @@
+{
+  "match": "Боруссия М - Байер",
+  "match_url": "https://soccer365.ru/competitions/17/",
+  "date_time": "20:30",
+  "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+  "analysis_date": "2026-02-07T13:51:01.428350",
+  "home_team": {
+    "team_id": "264",
+    "team_name": "Боруссия М",
+    "team_url": "https://soccer365.ru/clubs/264/",
+    "position_in_league": 12,
+    "last_results": [
+      0.5,
+      0,
+      0.5,
+      0,
+      1
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 1,
+      "draws": 2,
+      "losses": 2,
+      "points": 5,
+      "form": "DLDLW"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 2.0,
+        "avg_conceded": 1.5,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 0.6666666666666666,
+        "avg_conceded": 2.0,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 1.2,
+        "avg_conceded": 1.8,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:50:56.140318"
+  },
+  "away_team": {
+    "team_id": "9",
+    "team_name": "Байер",
+    "team_url": "https://soccer365.ru/clubs/9/",
+    "position_in_league": 6,
+    "last_results": [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "points": 12,
+      "form": "WWWWL"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 2.3333333333333335,
+        "avg_conceded": 0.0,
+        "matches_count": 3
+      },
+      "away": {
+        "avg_scored": 1.5,
+        "avg_conceded": 1.5,
+        "matches_count": 2
+      },
+      "overall": {
+        "avg_scored": 2.0,
+        "avg_conceded": 0.6,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:50:57.124812"
+  },
+  "comparison": {
+    "position_difference": 6,
+    "home_team_form": "DLDLW",
+    "away_team_form": "WWWWL",
+    "scoring_insight": "В среднем Боруссия М забивает дома 2.00 мяча, а Байер в гостях пропускает 1.50 мяча."
+  }
+}

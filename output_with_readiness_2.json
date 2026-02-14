@@ -1,0 +1,57 @@
+[
+    {
+        "name": "#24 Ricardo Velho",
+        "position": "Вратарь",
+        "readiness": 0.6875
+    },
+    {
+        "name": "#2 Thalisson",
+        "position": "Центр. защитник",
+        "readiness": 0.551943722943723
+    },
+    {
+        "name": "#4 Zan Zuzek",
+        "position": "Центр. защитник",
+        "readiness": 0.52180291005291
+    },
+    {
+        "name": "#6 Dimitrios Goutas",
+        "position": "Центр. защитник",
+        "readiness": 0.5573593055555556
+    },
+    {
+        "name": "#23 Matej Hanousek",
+        "position": "Левый защитник",
+        "readiness": 0.450514329004329
+    },
+    {
+        "name": "#11 Göktan Gürpüz",
+        "position": "Правый Вингер",
+        "readiness": 0.30974333333333337
+    },
+    {
+        "name": "#15 Tom Dele-Bashiru",
+        "position": "Опорный полузащитник",
+        "readiness": 0.46343231040564375
+    },
+    {
+        "name": "#22 Sékou Koïta",
+        "position": "Оттянутый нап.",
+        "readiness": 0.18524444444444446
+    },
+    {
+        "name": "#35 Oğulcan Ülgün",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4105354850088183
+    },
+    {
+        "name": "#70 Franco Tongya",
+        "position": "Левый Вингер",
+        "readiness": 0.3642672
+    },
+    {
+        "name": "#29 M'Baye Niang",
+        "position": "Центральный нап.",
+        "readiness": 0.4633187037037037
+    }
+]

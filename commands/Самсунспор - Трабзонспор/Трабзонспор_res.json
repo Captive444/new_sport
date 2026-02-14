@@ -1,0 +1,132 @@
+[
+    {
+        "name": "#24 André Onana",
+        "position": "Вратарь",
+        "readiness": 0.6242063492063492
+    },
+    {
+        "name": "#25 Onuralp Çevikkan",
+        "position": "Вратарь",
+        "readiness": 0.6133333333333334
+    },
+    {
+        "name": "#88 Ahmet Yıldırım",
+        "position": "Вратарь",
+        "readiness": 0.78
+    },
+    {
+        "name": "#96 Erol Can Çolak",
+        "position": "Вратарь",
+        "readiness": 0.4933333333333334
+    },
+    {
+        "name": "#44 Arseniy Batagov",
+        "position": "Центр. защитник",
+        "readiness": 0.5487673015873016
+    },
+    {
+        "name": "#27 Chibuike Nwaiwu",
+        "position": "Центр. защитник",
+        "readiness": 0.44873027346938765
+    },
+    {
+        "name": "#15 Stefan Savic",
+        "position": "Центр. защитник",
+        "readiness": 0.46725617913832196
+    },
+    {
+        "name": "#21 Arda Öztürk",
+        "position": "Центр. защитник",
+        "readiness": 0.3664758385964912
+    },
+    {
+        "name": "#92 Taha Emre İnce",
+        "position": "Центр. защитник",
+        "readiness": 0.3704388690476191
+    },
+    {
+        "name": "#14 Mathias Løvik",
+        "position": "Левый защитник",
+        "readiness": 0.4308417989417989
+    },
+    {
+        "name": "#19 Mustafa Eskihellaç",
+        "position": "Левый защитник",
+        "readiness": 0.38391946532999166
+    },
+    {
+        "name": "#20 Wagner Pina",
+        "position": "Правый защитник",
+        "readiness": 0.4974007177363699
+    },
+    {
+        "name": "#5 Okay Yokuşlu",
+        "position": "Опорный полузащитник",
+        "readiness": 0.4112920287698413
+    },
+    {
+        "name": "#74 Salih Malkoçoğlu",
+        "position": "Опорный полузащитник",
+        "readiness": 0.3109166666666667
+    },
+    {
+        "name": "#42 Christ Inao Oulaï",
+        "position": "Центр. полузащитник",
+        "readiness": 0.29751811337868483
+    },
+    {
+        "name": "#8 Benjamin Bouchouari",
+        "position": "Центр. полузащитник",
+        "readiness": 0.2326650793650794
+    },
+    {
+        "name": "#26 Tim Jabol-Folcarelli",
+        "position": "Центр. полузащитник",
+        "readiness": 0.5896916099773243
+    },
+    {
+        "name": "#11 Ozan Tufan",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4136846311858077
+    },
+    {
+        "name": "#80 Boran Başkan",
+        "position": "Центр. полузащитник",
+        "readiness": 0.28342222222222224
+    },
+    {
+        "name": "#10 Ernest Muci",
+        "position": "Атак. полузащитник",
+        "readiness": 0.66794708994709
+    },
+    {
+        "name": "#9 Anthony Nwakaeme",
+        "position": "Левый Вингер",
+        "readiness": 0.2945007142857143
+    },
+    {
+        "name": "#22 Oleksandr Zubkov",
+        "position": "Правый Вингер",
+        "readiness": 0.5236376811594202
+    },
+    {
+        "name": "#7 Edin Visca",
+        "position": "Правый Вингер",
+        "readiness": 0.13150886666666667
+    },
+    {
+        "name": "#30 Paul Onuachu",
+        "position": "Центральный нап.",
+        "readiness": 0.645319894736842
+    },
+    {
+        "name": "#99 Felipe Augusto",
+        "position": "Центральный нап.",
+        "readiness": 0.6248991304347826
+    },
+    {
+        "name": "#18 Umut Nayir",
+        "position": "Центральный нап.",
+        "readiness": 0.6023104043478261
+    }
+]

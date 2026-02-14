@@ -1,0 +1,127 @@
+[
+    {
+        "name": "#23 Emiliano Martínez",
+        "position": "Вратарь",
+        "readiness": 0.6844851190476191
+    },
+    {
+        "name": "#40 Marco Bizot",
+        "position": "Вратарь",
+        "readiness": 0.6726493506493506
+    },
+    {
+        "name": "#4 Ezri Konsa",
+        "position": "Центр. защитник",
+        "readiness": 0.600353046594982
+    },
+    {
+        "name": "#14 Pau Torres",
+        "position": "Центр. защитник",
+        "readiness": 0.5704098124098124
+    },
+    {
+        "name": "#3 Victor Lindelöf",
+        "position": "Центр. защитник",
+        "readiness": 0.5640845105820106
+    },
+    {
+        "name": "#5 Tyrone Mings",
+        "position": "Центр. защитник",
+        "readiness": 0.5172158337662338
+    },
+    {
+        "name": "#22 Ian Maatsen",
+        "position": "Левый защитник",
+        "readiness": 0.39979507789987784
+    },
+    {
+        "name": "#12 Lucas Digne",
+        "position": "Левый защитник",
+        "readiness": 0.462051926984127
+    },
+    {
+        "name": "#2 Matty Cash",
+        "position": "Правый защитник",
+        "readiness": 0.5726072708653354
+    },
+    {
+        "name": "#16 Andrés García",
+        "position": "Правый защитник",
+        "readiness": 0.2679377777777778
+    },
+    {
+        "name": "#24 Amadou Onana",
+        "position": "Опорный полузащитник",
+        "readiness": 0.45308787981859405
+    },
+    {
+        "name": "#44 Boubacar Kamara",
+        "position": "Опорный полузащитник",
+        "readiness": 0.5469288766788767
+    },
+    {
+        "name": "#26 Lamare Bogarde",
+        "position": "Опорный полузащитник",
+        "readiness": 0.4224374603174603
+    },
+    {
+        "name": "#8 Youri Tielemans",
+        "position": "Центр. полузащитник",
+        "readiness": 0.5216442424242425
+    },
+    {
+        "name": "#21 Douglas Luiz",
+        "position": "Центр. полузащитник",
+        "readiness": 0.2728444444444445
+    },
+    {
+        "name": "#7 John McGinn",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4472293680350301
+    },
+    {
+        "name": "#6 Ross Barkley",
+        "position": "Центр. полузащитник",
+        "readiness": 0.3994729563492063
+    },
+    {
+        "name": "#27 Morgan Rogers",
+        "position": "Атак. полузащитник",
+        "readiness": 0.6136549766573296
+    },
+    {
+        "name": "#9 Harvey Elliott",
+        "position": "Атак. полузащитник",
+        "readiness": 0.26253039506172837
+    },
+    {
+        "name": "#10 Emiliano Buendía",
+        "position": "Атак. полузащитник",
+        "readiness": 0.44088656746031746
+    },
+    {
+        "name": "#19 Jadon Sancho",
+        "position": "Левый Вингер",
+        "readiness": 0.3897878787878788
+    },
+    {
+        "name": "#31 Leon Bailey",
+        "position": "Правый Вингер",
+        "readiness": 0.2641282051282051
+    },
+    {
+        "name": "#47 Alysson",
+        "position": "Правый Вингер",
+        "readiness": 0.37185
+    },
+    {
+        "name": "#11 Ollie Watkins",
+        "position": "Центральный нап.",
+        "readiness": 0.5520769696969697
+    },
+    {
+        "name": "#18 Tammy Abraham",
+        "position": "Центральный нап.",
+        "readiness": 0.7123674074074073
+    }
+]

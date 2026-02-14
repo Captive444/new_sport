@@ -1,0 +1,177 @@
+[
+    {
+        "name": "#1 Okan Kocuk",
+        "position": "Вратарь",
+        "readiness": 0.6287881773399014
+    },
+    {
+        "name": "#71 İrfan Can Eğribayat",
+        "position": "Вратарь",
+        "readiness": 0.7571428571428571
+    },
+    {
+        "name": "#33 Efe Yiğit Üstün",
+        "position": "Вратарь",
+        "readiness": 0.444
+    },
+    {
+        "name": "#48 Efe Berat Törüz",
+        "position": "Вратарь",
+        "readiness": 0.39417857142857143
+    },
+    {
+        "name": "#4 Rick van Drongelen",
+        "position": "Центр. защитник",
+        "readiness": 0.5901646825396825
+    },
+    {
+        "name": "#24 Toni Borevković",
+        "position": "Центр. защитник",
+        "readiness": 0.4780821848739496
+    },
+    {
+        "name": "#37 Lubomir Satka",
+        "position": "Центр. защитник",
+        "readiness": 0.6033620268620269
+    },
+    {
+        "name": "#96 Bedirhan Çetin",
+        "position": "Центр. защитник",
+        "readiness": 0.45
+    },
+    {
+        "name": "#15 Ali Badra Diabaté",
+        "position": "Центр. защитник",
+        "readiness": 0.37619259259259263
+    },
+    {
+        "name": "#17 Logi Tómasson",
+        "position": "Левый защитник",
+        "readiness": 0.5210912698412699
+    },
+    {
+        "name": "#28 Soner Gönül",
+        "position": "Левый защитник",
+        "readiness": 0.37525578947368426
+    },
+    {
+        "name": "#22 Enes Albak",
+        "position": "Левый защитник",
+        "readiness": 0.3344952925170068
+    },
+    {
+        "name": "#2 Joe Mendes",
+        "position": "Правый защитник",
+        "readiness": 0.3334012
+    },
+    {
+        "name": "#18 Zeki Yavru",
+        "position": "Правый защитник",
+        "readiness": 0.41003544126984126
+    },
+    {
+        "name": "#29 Antoine Makoumbou",
+        "position": "Опорный полузащитник",
+        "readiness": 0.553531746031746
+    },
+    {
+        "name": "#5 Celil Yüksel",
+        "position": "Опорный полузащитник",
+        "readiness": 0.3658898701298701
+    },
+    {
+        "name": "#55 Yunus Emre Çift",
+        "position": "Опорный полузащитник",
+        "readiness": 0.3199795670995671
+    },
+    {
+        "name": "#25 Franck Atoen",
+        "position": "Опорный полузащитник",
+        "readiness": 0.30141207017543864
+    },
+    {
+        "name": "#73 Eyüp Değirmenci",
+        "position": "Опорный полузащитник",
+        "readiness": 0.33546809523809523
+    },
+    {
+        "name": "#10 Olivier Ntcham",
+        "position": "Центр. полузащитник",
+        "readiness": 0.48634920634920636
+    },
+    {
+        "name": "#20 Yalçın Kayan",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4958707482993197
+    },
+    {
+        "name": "Muhammet Özbaskıcı",
+        "position": "Центр. полузащитник",
+        "readiness": 0.1960301111111111
+    },
+    {
+        "name": "Alper Efe Pazar",
+        "position": "Центр. полузащитник",
+        "readiness": 0.4267644444444445
+    },
+    {
+        "name": "#21 Carlo Holse",
+        "position": "Атак. полузащитник",
+        "readiness": 0.49145261904761905
+    },
+    {
+        "name": "#77 Afonso Sousa",
+        "position": "Атак. полузащитник",
+        "readiness": 0.3699428571428572
+    },
+    {
+        "name": "#47 Jaurès Assoumou",
+        "position": "Левый Вингер",
+        "readiness": 0.44581565217391306
+    },
+    {
+        "name": "#11 Emre Kılınç",
+        "position": "Левый Вингер",
+        "readiness": 0.3266265
+    },
+    {
+        "name": "#16 Tahsin Bülbül",
+        "position": "Левый Вингер",
+        "readiness": 0.5616666666666666
+    },
+    {
+        "name": "#30 Saikuba Jarju",
+        "position": "Левый Вингер",
+        "readiness": 0.31343
+    },
+    {
+        "name": "#7 Elayis Tavsan",
+        "position": "Правый Вингер",
+        "readiness": 0.46928985507246374
+    },
+    {
+        "name": "#70 Tanguy Coulibaly",
+        "position": "Правый Вингер",
+        "readiness": 0.2987575757575758
+    },
+    {
+        "name": "#22 Polat Yaldır",
+        "position": "Правый Вингер",
+        "readiness": 0.24012242424242422
+    },
+    {
+        "name": "#19 Cherif Ndiaye",
+        "position": "Центральный нап.",
+        "readiness": 0.6494958333333333
+    },
+    {
+        "name": "#9 Marius Mouandilmadji",
+        "position": "Центральный нап.",
+        "readiness": 0.6436041666666666
+    },
+    {
+        "name": "#99 Ebrima Ceesay",
+        "position": "Центральный нап.",
+        "readiness": 0.3473333333333333
+    }
+]

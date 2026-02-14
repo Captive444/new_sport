@@ -1,0 +1,95 @@
+{
+  "match": "Ливерпуль - Ман Сити",
+  "match_url": "https://soccer365.ru/competitions/12/",
+  "date_time": "08.02, 19:30",
+  "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+  "analysis_date": "2026-02-07T13:47:59.374396",
+  "home_team": {
+    "team_id": "79",
+    "team_name": "Ливерпуль",
+    "team_url": "https://soccer365.ru/clubs/79/",
+    "position_in_league": 6,
+    "last_results": [
+      1,
+      1,
+      0,
+      1,
+      0.5
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "points": 10,
+      "form": "WWLWD"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 3.6666666666666665,
+        "avg_conceded": 0.6666666666666666,
+        "matches_count": 3
+      },
+      "away": {
+        "avg_scored": 2.5,
+        "avg_conceded": 1.5,
+        "matches_count": 2
+      },
+      "overall": {
+        "avg_scored": 3.2,
+        "avg_conceded": 1.0,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+    "league_id": "12",
+    "scraped_at": "2026-02-07T13:47:58.445048"
+  },
+  "away_team": {
+    "team_id": "90",
+    "team_name": "Ман Сити",
+    "team_url": "https://soccer365.ru/clubs/90/",
+    "position_in_league": 2,
+    "last_results": [
+      1,
+      0.5,
+      1,
+      1,
+      0
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "points": 10,
+      "form": "WDWWL"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 2.3333333333333335,
+        "avg_conceded": 0.3333333333333333,
+        "matches_count": 3
+      },
+      "away": {
+        "avg_scored": 1.5,
+        "avg_conceded": 2.5,
+        "matches_count": 2
+      },
+      "overall": {
+        "avg_scored": 2.0,
+        "avg_conceded": 1.2,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+    "league_id": "12",
+    "scraped_at": "2026-02-07T13:47:59.350880"
+  },
+  "comparison": {
+    "position_difference": 4,
+    "home_team_form": "WWLWD",
+    "away_team_form": "WDWWL",
+    "scoring_insight": "В среднем Ливерпуль забивает дома 3.67 мяча, а Ман Сити в гостях пропускает 2.50 мяча."
+  }
+}

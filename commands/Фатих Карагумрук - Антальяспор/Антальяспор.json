@@ -1,0 +1,1346 @@
+[
+    {
+        "name": "#21 Abdullah Yiğiter",
+        "position": "Вратарь",
+        "age": 25,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 18,
+                "total_clean_sheets": 5,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/393371/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#1 Julián Cuesta",
+        "position": "Вратарь",
+        "age": 34,
+        "height": 196,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 10,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 17,
+                "total_clean_sheets": 1,
+                "total_minutes_played": 900
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/176936/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#96 Kağan Arıcan",
+        "position": "Вратарь",
+        "age": 19,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 2,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 6,
+                "total_clean_sheets": 1,
+                "total_minutes_played": 180
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1047622/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#14 Georgiy Dzhikiya",
+        "position": "Центр. защитник",
+        "age": 32,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/185024/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#30 Lautaro Giannetti",
+        "position": "Центр. защитник",
+        "age": 32,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/225963/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#4 Hüseyin Türkmen",
+        "position": "Центр. защитник",
+        "age": 28,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 895
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/395862/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#5 Bahadır Öztürk",
+        "position": "Центр. защитник",
+        "age": 30,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 6,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 267
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/353970/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#89 Veysel Sarı",
+        "position": "Центр. защитник",
+        "age": 37,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 12,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 974
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/88374/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#27 Ensar Buğra Tivsiz",
+        "position": "Центр. защитник",
+        "age": 18,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1076670/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#98 Ege İzmirli",
+        "position": "Центр. защитник",
+        "age": 18,
+        "height": null,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 8,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 601
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1189079/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#3 Kenneth Paal",
+        "position": "Левый защитник",
+        "age": 28,
+        "height": 174,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/247596/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#2 Samet Karakoç",
+        "position": "Левый защитник",
+        "age": 23,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 996
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/815017/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#7 Bünyamin Balcı",
+        "position": "Правый защитник",
+        "age": 25,
+        "height": 173,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/620072/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#17 Erdoğan Yeşilyurt",
+        "position": "Правый защитник",
+        "age": 32,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 440,
+                "total_goals": 56,
+                "total_assists": 67,
+                "total_own_goals": 1,
+                "total_substitutions_in": 111,
+                "total_substitutions_out": 128,
+                "total_yellow_cards": 84,
+                "total_yellow_red_cards": 2,
+                "total_red_cards": 3,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/158946/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#23 Jesper Ceesay",
+        "position": "Опорный полузащитник",
+        "age": 24,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/577832/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#6 Soner Dikmen",
+        "position": "Центр. полузащитник",
+        "age": 32,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/291750/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#88 Dario Saric",
+        "position": "Центр. полузащитник",
+        "age": 28,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 911
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/293228/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#20 Yakub İlçin",
+        "position": "Центр. полузащитник",
+        "age": 16,
+        "height": null,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 7,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 352
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1223303/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#10 Abdülkadir Ömür",
+        "position": "Атак. полузащитник",
+        "age": 26,
+        "height": 168,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 13,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/271495/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#8 Ramzi Safuri",
+        "position": "Атак. полузащитник",
+        "age": 30,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 1,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/204116/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#22 Sander van de Streek",
+        "position": "Атак. полузащитник",
+        "age": 32,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 3,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/190222/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#26 Nikola Storm",
+        "position": "Левый Вингер",
+        "age": 31,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 13,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/183120/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#70 Doğukan Sinik",
+        "position": "Левый Вингер",
+        "age": 27,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 313
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/370833/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#33 Berkay Topdemir",
+        "position": "Левый Вингер",
+        "age": 19,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 843
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1254152/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#11 Samuel Ballet",
+        "position": "Правый Вингер",
+        "age": 24,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 822
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/309977/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#77 Yohan Boli",
+        "position": "Центральный нап.",
+        "age": 32,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 3,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 975
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/280700/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#24 Bachir Gueye",
+        "position": "Центральный нап.",
+        "age": 22,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 5,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 257
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1458978/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#90 Kerem Kayaarası",
+        "position": "Центральный нап.",
+        "age": 19,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 3,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 101
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1175609/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#21 Abdullah Yiğiter",
+        "position": "Вратарь",
+        "age": 25,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 18,
+                "total_clean_sheets": 5,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/393371/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#1 Julián Cuesta",
+        "position": "Вратарь",
+        "age": 34,
+        "height": 196,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 10,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 17,
+                "total_clean_sheets": 1,
+                "total_minutes_played": 900
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/176936/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#96 Kağan Arıcan",
+        "position": "Вратарь",
+        "age": 19,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 2,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 6,
+                "total_clean_sheets": 1,
+                "total_minutes_played": 180
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1047622/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#14 Georgiy Dzhikiya",
+        "position": "Центр. защитник",
+        "age": 32,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/185024/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#30 Lautaro Giannetti",
+        "position": "Центр. защитник",
+        "age": 32,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/225963/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#4 Hüseyin Türkmen",
+        "position": "Центр. защитник",
+        "age": 28,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 895
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/395862/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#5 Bahadır Öztürk",
+        "position": "Центр. защитник",
+        "age": 30,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 6,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 267
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/353970/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#89 Veysel Sarı",
+        "position": "Центр. защитник",
+        "age": 37,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 12,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 974
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/88374/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#27 Ensar Buğra Tivsiz",
+        "position": "Центр. защитник",
+        "age": 18,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1076670/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#98 Ege İzmirli",
+        "position": "Центр. защитник",
+        "age": 18,
+        "height": null,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 8,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 601
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1189079/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#3 Kenneth Paal",
+        "position": "Левый защитник",
+        "age": 28,
+        "height": 174,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/247596/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#2 Samet Karakoç",
+        "position": "Левый защитник",
+        "age": 23,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 996
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/815017/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#7 Bünyamin Balcı",
+        "position": "Правый защитник",
+        "age": 25,
+        "height": 173,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/620072/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#17 Erdoğan Yeşilyurt",
+        "position": "Правый защитник",
+        "age": 32,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 440,
+                "total_goals": 56,
+                "total_assists": 67,
+                "total_own_goals": 1,
+                "total_substitutions_in": 111,
+                "total_substitutions_out": 128,
+                "total_yellow_cards": 84,
+                "total_yellow_red_cards": 2,
+                "total_red_cards": 3,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/158946/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#23 Jesper Ceesay",
+        "position": "Опорный полузащитник",
+        "age": 24,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/577832/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#6 Soner Dikmen",
+        "position": "Центр. полузащитник",
+        "age": 32,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/291750/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#88 Dario Saric",
+        "position": "Центр. полузащитник",
+        "age": 28,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 911
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/293228/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#20 Yakub İlçin",
+        "position": "Центр. полузащитник",
+        "age": 16,
+        "height": null,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 7,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 352
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1223303/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#10 Abdülkadir Ömür",
+        "position": "Атак. полузащитник",
+        "age": 26,
+        "height": 168,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 13,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/271495/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#8 Ramzi Safuri",
+        "position": "Атак. полузащитник",
+        "age": 30,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 1,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/204116/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#22 Sander van de Streek",
+        "position": "Атак. полузащитник",
+        "age": 32,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 3,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/190222/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#26 Nikola Storm",
+        "position": "Левый Вингер",
+        "age": 31,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 13,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/183120/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#70 Doğukan Sinik",
+        "position": "Левый Вингер",
+        "age": 27,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 313
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/370833/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#33 Berkay Topdemir",
+        "position": "Левый Вингер",
+        "age": 19,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 843
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1254152/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#11 Samuel Ballet",
+        "position": "Правый Вингер",
+        "age": 24,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 822
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/309977/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#77 Yohan Boli",
+        "position": "Центральный нап.",
+        "age": 32,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 3,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 975
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/280700/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#24 Bachir Gueye",
+        "position": "Центральный нап.",
+        "age": 22,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 5,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 257
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1458978/plus/1",
+        "team": "Антальяспор"
+    },
+    {
+        "name": "#90 Kerem Kayaarası",
+        "position": "Центральный нап.",
+        "age": 19,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 3,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 101
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1175609/plus/1",
+        "team": "Антальяспор"
+    }
+]

@@ -1,0 +1,650 @@
+[
+    {
+        "name": "#1 Dean Henderson",
+        "position": "Вратарь",
+        "age": 28,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 31,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 35,
+                "total_clean_sheets": 11,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/258919/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#44 Walter Benítez",
+        "position": "Вратарь",
+        "age": 33,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 6,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 6,
+                "total_clean_sheets": 2,
+                "total_minutes_played": 540
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/296802/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#31 Remi Matthews",
+        "position": "Вратарь",
+        "age": 31,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/196722/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#5 Maxence Lacroix",
+        "position": "Центр. защитник",
+        "age": 25,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 35,
+                "total_goals": 1,
+                "total_assists": 2,
+                "total_own_goals": 1,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/434224/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#26 Chris Richards",
+        "position": "Центр. защитник",
+        "age": 25,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 29,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/578539/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#23 Jaydee Canvot",
+        "position": "Центр. защитник",
+        "age": 19,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1006411/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#34 Chadi Riad",
+        "position": "Центр. защитник",
+        "age": 22,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 4,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 192
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/689637/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#3 Tyrick Mitchell",
+        "position": "Левый защитник",
+        "age": 26,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 32,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/730893/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#24 Borna Sosa",
+        "position": "Левый защитник",
+        "age": 28,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 706
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/293194/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#59 Rio Cardines",
+        "position": "Левый защитник",
+        "age": 19,
+        "height": null,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 5,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 198
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1047257/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#2 Daniel Muñoz",
+        "position": "Правый защитник",
+        "age": 29,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 4,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/493003/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#58 Caleb Kporha",
+        "position": "Правый защитник",
+        "age": 19,
+        "height": null,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 1,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 45
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1047261/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#17 Nathaniel Clyne",
+        "position": "Правый защитник",
+        "age": 34,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 10,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 495
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/85177/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#20 Adam Wharton",
+        "position": "Опорный полузащитник",
+        "age": 21,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 31,
+                "total_goals": 0,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 12,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/744149/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#28 Cheick Doucouré",
+        "position": "Опорный полузащитник",
+        "age": 26,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 197,
+                "total_goals": 8,
+                "total_assists": 10,
+                "total_own_goals": 0,
+                "total_substitutions_in": 23,
+                "total_substitutions_out": 60,
+                "total_yellow_cards": 36,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/543387/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#8 Jefferson Lerma",
+        "position": "Опорный полузащитник",
+        "age": 31,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 33,
+                "total_goals": 0,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 16,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/262980/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#19 Will Hughes",
+        "position": "Центр. полузащитник",
+        "age": 30,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 33,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 14,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/207014/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#18 Daichi Kamada",
+        "position": "Атак. полузащитник",
+        "age": 29,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 14,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/356141/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#55 Justin Devenny",
+        "position": "Атак. полузащитник",
+        "age": 22,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 29,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 20,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/747009/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#7 Ismaïla Sarr",
+        "position": "Правый Вингер",
+        "age": 27,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 9,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/410225/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#10 Yéremy Pino",
+        "position": "Правый Вингер",
+        "age": 23,
+        "height": 172,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 33,
+                "total_goals": 5,
+                "total_assists": 5,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 22,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/568157/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#11 Brennan Johnson",
+        "position": "Правый Вингер",
+        "age": 24,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 28,
+                "total_goals": 4,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 13,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/470607/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#29 Evann Guessand",
+        "position": "Правый Вингер",
+        "age": 24,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/500689/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#14 Jean-Philippe Mateta",
+        "position": "Центральный нап.",
+        "age": 28,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 34,
+                "total_goals": 10,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 14,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 4,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/420002/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#22 Jørgen Strand Larsen",
+        "position": "Центральный нап.",
+        "age": 25,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 26,
+                "total_goals": 6,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/429983/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#9 Eddie Nketiah",
+        "position": "Центральный нап.",
+        "age": 26,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 4,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 14,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 690
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/340324/plus/1",
+        "team": "Кристал Пэлас"
+    },
+    {
+        "name": "#12 Christantus Uche",
+        "position": "Центральный нап.",
+        "age": 22,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 24,
+                "total_goals": 3,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 17,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 777
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1124005/plus/1",
+        "team": "Кристал Пэлас"
+    }
+]

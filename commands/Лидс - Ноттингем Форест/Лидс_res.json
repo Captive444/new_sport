@@ -1,0 +1,132 @@
+[
+    {
+        "name": "#1 Lucas Perri",
+        "position": "Вратарь",
+        "readiness": 0.5888392857142857
+    },
+    {
+        "name": "#16 Illan Meslier",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#26 Karl Darlow",
+        "position": "Вратарь",
+        "readiness": 0.5708181818181819
+    },
+    {
+        "name": "#21 Alex Cairns",
+        "position": "Вратарь",
+        "readiness": 0.4268
+    },
+    {
+        "name": "#5 Pascal Struijk",
+        "position": "Центр. защитник",
+        "readiness": 0.590719806763285
+    },
+    {
+        "name": "#15 Jaka Bijol",
+        "position": "Центр. защитник",
+        "readiness": 0.6043475056689342
+    },
+    {
+        "name": "#6 Joe Rodon",
+        "position": "Центр. защитник",
+        "readiness": 0.6085121428571428
+    },
+    {
+        "name": "#23 Sebastiaan Bornauw",
+        "position": "Центр. защитник",
+        "readiness": 0.3870634920634921
+    },
+    {
+        "name": "#3 Gabriel Gudmundsson",
+        "position": "Левый защитник",
+        "readiness": 0.5268730158730158
+    },
+    {
+        "name": "#25 Sam Byram",
+        "position": "Левый защитник",
+        "readiness": 0.3374575132275132
+    },
+    {
+        "name": "#24 James Justin",
+        "position": "Правый защитник",
+        "readiness": 0.50334335839599
+    },
+    {
+        "name": "#2 Jayden Bogle",
+        "position": "Правый защитник",
+        "readiness": 0.4629223015873016
+    },
+    {
+        "name": "#4 Ethan Ampadu",
+        "position": "Опорный полузащитник",
+        "readiness": 0.509068668046929
+    },
+    {
+        "name": "#18 Anton Stach",
+        "position": "Опорный полузащитник",
+        "readiness": 0.5906988888888889
+    },
+    {
+        "name": "#44 Ilia Gruev",
+        "position": "Опорный полузащитник",
+        "readiness": 0.5210145502645502
+    },
+    {
+        "name": "#50 Charlie Crew",
+        "position": "Опорный полузащитник",
+        "readiness": 0.34143953823953826
+    },
+    {
+        "name": "#8 Sean Longstaff",
+        "position": "Центр. полузащитник",
+        "readiness": 0.6093352007469655
+    },
+    {
+        "name": "#22 Ao Tanaka",
+        "position": "Центр. полузащитник",
+        "readiness": 0.438822373393802
+    },
+    {
+        "name": "#40 Facundo Buonanotte",
+        "position": "Атак. полузащитник",
+        "readiness": 0.27129700000000007
+    },
+    {
+        "name": "#11 Brenden Aaronson",
+        "position": "Атак. полузащитник",
+        "readiness": 0.4673048717948718
+    },
+    {
+        "name": "#19 Noah Okafor",
+        "position": "Левый Вингер",
+        "readiness": 0.414
+    },
+    {
+        "name": "#29 Wilfried Gnonto",
+        "position": "Правый Вингер",
+        "readiness": 0.17814559583333334
+    },
+    {
+        "name": "#7 Daniel James",
+        "position": "Правый Вингер",
+        "readiness": 0.17714333333333335
+    },
+    {
+        "name": "#9 Dominic Calvert-Lewin",
+        "position": "Центральный нап.",
+        "readiness": 0.7210277777777778
+    },
+    {
+        "name": "#10 Joël Piroe",
+        "position": "Центральный нап.",
+        "readiness": 0.23092307692307693
+    },
+    {
+        "name": "#14 Lukas Nmecha",
+        "position": "Центральный нап.",
+        "readiness": 0.47669047619047616
+    }
+]

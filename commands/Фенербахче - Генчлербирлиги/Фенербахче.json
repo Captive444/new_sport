@@ -1,0 +1,674 @@
+[
+    {
+        "name": "#31 Ederson",
+        "position": "Вратарь",
+        "age": 32,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 24,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 19,
+                "total_clean_sheets": 11,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/238223/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#13 Tarık Çetin",
+        "position": "Вратарь",
+        "age": 29,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 3,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 3,
+                "total_clean_sheets": 1,
+                "total_minutes_played": 270
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/286170/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#34 Mert Günok",
+        "position": "Вратарь",
+        "age": 36,
+        "height": 196,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 22,
+                "total_clean_sheets": 2,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/51894/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#39 Engin Can Biterge",
+        "position": "Вратарь",
+        "age": 19,
+        "height": 194,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 9,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 21,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 810
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1193441/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#24 Jayden Oosterwolde",
+        "position": "Центр. защитник",
+        "age": 24,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 32,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 10,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/591361/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#37 Milan Škriniar",
+        "position": "Центр. защитник",
+        "age": 30,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 33,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 9,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/204069/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#4 Çağlar Söyüncü",
+        "position": "Центр. защитник",
+        "age": 29,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 772
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/320141/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#14 Yiğit Efe Demir",
+        "position": "Центр. защитник",
+        "age": 21,
+        "height": 194,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 586
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/889136/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#3 Archie Brown",
+        "position": "Левый защитник",
+        "age": 23,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 3,
+                "total_assists": 5,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/581329/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#22 Levent Mercan",
+        "position": "Левый защитник",
+        "age": 25,
+        "height": 176,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 0,
+                "total_assists": 5,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 904
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/388820/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#27 Nélson Semedo",
+        "position": "Правый защитник",
+        "age": 32,
+        "height": 177,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 26,
+                "total_goals": 1,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 8,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/231572/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#18 Mert Müldür",
+        "position": "Правый защитник",
+        "age": 26,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/353922/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#11 Edson Álvarez",
+        "position": "Опорный полузащитник",
+        "age": 28,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/401356/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#5 İsmail Yüksek",
+        "position": "Опорный полузащитник",
+        "age": 27,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 31,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 13,
+                "total_yellow_cards": 9,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/613725/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#17 N'Golo Kanté",
+        "position": "Опорный полузащитник",
+        "age": 34,
+        "height": 168,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 26,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/225083/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#6 Mattéo Guendouzi",
+        "position": "Центр. полузащитник",
+        "age": 26,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 3,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/465830/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#7 Fred",
+        "position": "Центр. полузащитник",
+        "age": 32,
+        "height": 169,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 31,
+                "total_goals": 1,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/191614/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#60 Abdou Aziz Fall",
+        "position": "Центр. полузащитник",
+        "age": 18,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 7,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 206
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1133732/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#21 Marco Asensio",
+        "position": "Атак. полузащитник",
+        "age": 30,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 27,
+                "total_goals": 11,
+                "total_assists": 7,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/296622/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#94 Talisca",
+        "position": "Атак. полузащитник",
+        "age": 32,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 33,
+                "total_goals": 19,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 15,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 4,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/258626/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#8 Mert Hakan Yandaş",
+        "position": "Атак. полузащитник",
+        "age": 31,
+        "height": 174,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/306462/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#9 Kerem Aktürkoğlu",
+        "position": "Левый Вингер",
+        "age": 27,
+        "height": 173,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 32,
+                "total_goals": 7,
+                "total_assists": 5,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 21,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/382528/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#70 Oğuz Aydın",
+        "position": "Левый Вингер",
+        "age": 25,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 29,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 19,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/563749/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#45 Dorgeles Nene",
+        "position": "Правый Вингер",
+        "age": 23,
+        "height": 174,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 33,
+                "total_goals": 7,
+                "total_assists": 10,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 16,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/671591/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#20 Anthony Musaba",
+        "position": "Правый Вингер",
+        "age": 25,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 29,
+                "total_goals": 7,
+                "total_assists": 8,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 21,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/511401/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "Emre Mor",
+        "position": "Правый Вингер",
+        "age": 28,
+        "height": 169,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 217,
+                "total_goals": 21,
+                "total_assists": 23,
+                "total_own_goals": 0,
+                "total_substitutions_in": 111,
+                "total_substitutions_out": 84,
+                "total_yellow_cards": 36,
+                "total_yellow_red_cards": 2,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/283223/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#10 Jhon Durán",
+        "position": "Центральный нап.",
+        "age": 22,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 5,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/649317/plus/1",
+        "team": "Фенербахче"
+    },
+    {
+        "name": "#26 Sidiki Chérif",
+        "position": "Центральный нап.",
+        "age": 19,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 4,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 12,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/986288/plus/1",
+        "team": "Фенербахче"
+    }
+]

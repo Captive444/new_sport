@@ -1,0 +1,147 @@
+[
+    {
+        "name": "#1 Robert Sánchez",
+        "position": "Вратарь",
+        "readiness": 0.7091517857142857
+    },
+    {
+        "name": "#12 Filip Jørgensen",
+        "position": "Вратарь",
+        "readiness": 0.49690595238095236
+    },
+    {
+        "name": "#44 Gabriel Slonina",
+        "position": "Вратарь",
+        "readiness": 0.5154285714285715
+    },
+    {
+        "name": "#6 Levi Colwill",
+        "position": "Центр. защитник",
+        "readiness": 0.5889684769038701
+    },
+    {
+        "name": "#23 Trevoh Chalobah",
+        "position": "Центр. защитник",
+        "readiness": 0.5904271284271284
+    },
+    {
+        "name": "#29 Wesley Fofana",
+        "position": "Центр. защитник",
+        "readiness": 0.5533643578643579
+    },
+    {
+        "name": "#19 Mamadou Sarr",
+        "position": "Центр. защитник",
+        "readiness": 0.42360349629629634
+    },
+    {
+        "name": "#4 Tosin Adarabioyo",
+        "position": "Центр. защитник",
+        "readiness": 0.5280769841269841
+    },
+    {
+        "name": "#5 Benoît Badiashile",
+        "position": "Центр. защитник",
+        "readiness": 0.3943462962962963
+    },
+    {
+        "name": "#3 Marc Cucurella",
+        "position": "Левый защитник",
+        "readiness": 0.4158241847041847
+    },
+    {
+        "name": "#21 Jorrel Hato",
+        "position": "Левый защитник",
+        "readiness": 0.365568253968254
+    },
+    {
+        "name": "Caleb Wiley",
+        "position": "Левый защитник",
+        "readiness": 0.29590000000000005
+    },
+    {
+        "name": "#24 Reece James",
+        "position": "Правый защитник",
+        "readiness": 0.6088888888888889
+    },
+    {
+        "name": "#27 Malo Gusto",
+        "position": "Правый защитник",
+        "readiness": 0.4250624727086533
+    },
+    {
+        "name": "#34 Josh Acheampong",
+        "position": "Правый защитник",
+        "readiness": 0.3654888888888889
+    },
+    {
+        "name": "#25 Moisés Caicedo",
+        "position": "Опорный полузащитник",
+        "readiness": 0.4732045417306708
+    },
+    {
+        "name": "#45 Roméo Lavia",
+        "position": "Опорный полузащитник",
+        "readiness": 0.2866286394557823
+    },
+    {
+        "name": "#14 Dário Essugo",
+        "position": "Опорный полузащитник",
+        "readiness": 0.45
+    },
+    {
+        "name": "#8 Enzo Fernández",
+        "position": "Центр. полузащитник",
+        "readiness": 0.5498556746031746
+    },
+    {
+        "name": "#17 Andrey Santos",
+        "position": "Центр. полузащитник",
+        "readiness": 0.45948833333333333
+    },
+    {
+        "name": "#10 Cole Palmer",
+        "position": "Атак. полузащитник",
+        "readiness": 0.5380436111111111
+    },
+    {
+        "name": "#49 Alejandro Garnacho",
+        "position": "Левый Вингер",
+        "readiness": 0.4721733333333334
+    },
+    {
+        "name": "#11 Jamie Gittens",
+        "position": "Левый Вингер",
+        "readiness": 0.34384000000000003
+    },
+    {
+        "name": "Mykhaylo Mudryk",
+        "position": "Левый Вингер",
+        "readiness": 0.42830666666666667
+    },
+    {
+        "name": "#41 Estêvão",
+        "position": "Правый Вингер",
+        "readiness": 0.31359899999999996
+    },
+    {
+        "name": "#7 Pedro Neto",
+        "position": "Правый Вингер",
+        "readiness": 0.4244476190476191
+    },
+    {
+        "name": "#20 João Pedro",
+        "position": "Центральный нап.",
+        "readiness": 0.6817777777777777
+    },
+    {
+        "name": "#9 Liam Delap",
+        "position": "Центральный нап.",
+        "readiness": 0.27122761904761905
+    },
+    {
+        "name": "#38 Marc Guiu",
+        "position": "Центральный нап.",
+        "readiness": 0.37132333333333334
+    }
+]

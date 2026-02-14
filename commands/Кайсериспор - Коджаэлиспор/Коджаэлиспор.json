@@ -1,0 +1,602 @@
+[
+    {
+        "name": "#1 Aleksandar Jovanovic",
+        "position": "Вратарь",
+        "age": 33,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 0,
+                "total_own_goals": 1,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 19,
+                "total_clean_sheets": 6,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/256567/plus/1",
+        "team": "Коджаэлиспор"
+    },
+    {
+        "name": "#83 Serhat Öztaşdelen",
+        "position": "Вратарь",
+        "age": 21,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/722650/plus/1",
+        "team": "Коджаэлиспор"
+    },
+    {
+        "name": "#35 Gökhan Değirmenci",
+        "position": "Вратарь",
+        "age": 36,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 6,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 6,
+                "total_clean_sheets": 1,
+                "total_minutes_played": 495
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/58534/plus/1",
+        "team": "Коджаэлиспор"
+    },
+    {
+        "name": "#5 Botond Balogh",
+        "position": "Центр. защитник",
+        "age": 23,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 7,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/543727/plus/1",
+        "team": "Коджаэлиспор"
+    },
+    {
+        "name": "#6 Hrvoje Smolcic",
+        "position": "Центр. защитник",
+        "age": 25,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/571299/plus/1",
+        "team": "Коджаэлиспор"
+    },
+    {
+        "name": "#4 Mateusz Wieteska",
+        "position": "Центр. защитник",
+        "age": 28,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 1,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 22
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/208172/plus/1",
+        "team": "Коджаэлиспор"
+    },
+    {
+        "name": "#21 Massadio Haïdara",
+        "position": "Левый защитник",
+        "age": 33,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/170929/plus/1",
+        "team": "Коджаэлиспор"
+    },
+    {
+        "name": "#3 Muharrem Cinan",
+        "position": "Левый защитник",
+        "age": 27,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 682
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/539822/plus/1",
+        "team": "Коджаэлиспор"
+    },
+    {
+        "name": "#2 Anfernee Dijksteel",
+        "position": "Правый защитник",
+        "age": 29,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/428302/plus/1",
+        "team": "Коджаэлиспор"
+    },
+    {
+        "name": "#22 Ahmet Oğuz",
+        "position": "Правый защитник",
+        "age": 33,
+        "height": 176,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/291758/plus/1",
+        "team": "Коджаэлиспор"
+    },
+    {
+        "name": "#14 Show",
+        "position": "Опорный полузащитник",
+        "age": 26,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 7,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/568216/plus/1",
+        "team": "Коджаэлиспор"
+    },
+    {
+        "name": "#20 Mahamadou Susoho",
+        "position": "Опорный полузащитник",
+        "age": 21,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 7,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/895074/plus/1",
+        "team": "Коджаэлиспор"
+    },
+    {
+        "name": "#8 Habib Keïta",
+        "position": "Центр. полузащитник",
+        "age": 24,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 1,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 14,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/669000/plus/1",
+        "team": "Коджаэлиспор"
+    },
+    {
+        "name": "#98 Joseph Nonge",
+        "position": "Центр. полузащитник",
+        "age": 20,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 837
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/748807/plus/1",
+        "team": "Коджаэлиспор"
+    },
+    {
+        "name": "#10 Karol Linetty",
+        "position": "Центр. полузащитник",
+        "age": 31,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/225873/plus/1",
+        "team": "Коджаэлиспор"
+    },
+    {
+        "name": "#23 Samet Yalçın",
+        "position": "Центр. полузащитник",
+        "age": 31,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 445
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/355757/plus/1",
+        "team": "Коджаэлиспор"
+    },
+    {
+        "name": "#17 Darko Churlinov",
+        "position": "Левый Вингер",
+        "age": 25,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 775
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/386786/plus/1",
+        "team": "Коджаэлиспор"
+    },
+    {
+        "name": "#99 Rigoberto Rivas",
+        "position": "Левый Вингер",
+        "age": 27,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 0,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 731
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/451353/plus/1",
+        "team": "Коджаэлиспор"
+    },
+    {
+        "name": "#75 Tayfur Bingöl",
+        "position": "Левый Вингер",
+        "age": 33,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 5,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/184440/plus/1",
+        "team": "Коджаэлиспор"
+    },
+    {
+        "name": "#18 Furkan Gedik",
+        "position": "Левый Вингер",
+        "age": 23,
+        "height": null,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 6,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 137
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/849404/plus/1",
+        "team": "Коджаэлиспор"
+    },
+    {
+        "name": "#70 Can Keleş",
+        "position": "Правый Вингер",
+        "age": 24,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 651
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/451642/plus/1",
+        "team": "Коджаэлиспор"
+    },
+    {
+        "name": "#7 Dan Agyei",
+        "position": "Правый Вингер",
+        "age": 28,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/367195/plus/1",
+        "team": "Коджаэлиспор"
+    },
+    {
+        "name": "#9 Bruno Petkovic",
+        "position": "Центральный нап.",
+        "age": 31,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 6,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 2,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/256358/plus/1",
+        "team": "Коджаэлиспор"
+    },
+    {
+        "name": "#11 Ahmet Sağat",
+        "position": "Центральный нап.",
+        "age": 29,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 2,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 103
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/299717/plus/1",
+        "team": "Коджаэлиспор"
+    },
+    {
+        "name": "#19 Serdar Dursun",
+        "position": "Центральный нап.",
+        "age": 34,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 3,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 797
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/80059/plus/1",
+        "team": "Коджаэлиспор"
+    }
+]

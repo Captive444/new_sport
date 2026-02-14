@@ -1,0 +1,95 @@
+{
+  "match": "Майнц - Аугсбург",
+  "match_url": "https://soccer365.ru/competitions/17/",
+  "date_time": "17:30",
+  "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+  "analysis_date": "2026-02-07T13:51:01.419837",
+  "home_team": {
+    "team_id": "250",
+    "team_name": "Майнц",
+    "team_url": "https://soccer365.ru/clubs/250/",
+    "position_in_league": 16,
+    "last_results": [
+      1,
+      1,
+      0,
+      1,
+      0.5
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "points": 10,
+      "form": "WWLWD"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 2.5,
+        "avg_conceded": 1.0,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 1.6666666666666667,
+        "avg_conceded": 1.6666666666666667,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 2.0,
+        "avg_conceded": 1.4,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:50:49.799156"
+  },
+  "away_team": {
+    "team_id": "5",
+    "team_name": "Аугсбург",
+    "team_url": "https://soccer365.ru/clubs/5/",
+    "position_in_league": 11,
+    "last_results": [
+      1,
+      1,
+      0.5,
+      0.5,
+      0
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 1,
+      "points": 8,
+      "form": "WWDDL"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.6666666666666667,
+        "avg_conceded": 1.3333333333333333,
+        "matches_count": 3
+      },
+      "away": {
+        "avg_scored": 1.0,
+        "avg_conceded": 2.5,
+        "matches_count": 2
+      },
+      "overall": {
+        "avg_scored": 1.4,
+        "avg_conceded": 1.8,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-02-07T13:50:50.859215"
+  },
+  "comparison": {
+    "position_difference": 5,
+    "home_team_form": "WWLWD",
+    "away_team_form": "WWDDL",
+    "scoring_insight": "В среднем Майнц забивает дома 2.50 мяча, а Аугсбург в гостях пропускает 2.50 мяча."
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "match": "Ман Юнайтед - Тоттенхэм",
+  "match_url": "https://soccer365.ru/competitions/12/",
+  "date_time": "15:30",
+  "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+  "analysis_date": "2026-02-07T13:47:59.355008",
+  "home_team": {
+    "team_id": "92",
+    "team_name": "Ман Юнайтед",
+    "team_url": "https://soccer365.ru/clubs/92/",
+    "position_in_league": 4,
+    "last_results": [
+      1,
+      1,
+      1,
+      0,
+      0.5
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "points": 10,
+      "form": "WWWLD"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 2.0,
+        "avg_conceded": 1.3333333333333333,
+        "matches_count": 3
+      },
+      "away": {
+        "avg_scored": 2.5,
+        "avg_conceded": 2.0,
+        "matches_count": 2
+      },
+      "overall": {
+        "avg_scored": 2.2,
+        "avg_conceded": 1.6,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+    "league_id": "12",
+    "scraped_at": "2026-02-07T13:47:41.555687"
+  },
+  "away_team": {
+    "team_id": "163",
+    "team_name": "Тоттенхэм",
+    "team_url": "https://soccer365.ru/clubs/163/",
+    "position_in_league": 14,
+    "last_results": [
+      0.5,
+      1,
+      0.5,
+      1,
+      0
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 1,
+      "points": 8,
+      "form": "DWDWL"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.6666666666666667,
+        "avg_conceded": 1.3333333333333333,
+        "matches_count": 3
+      },
+      "away": {
+        "avg_scored": 2.0,
+        "avg_conceded": 1.0,
+        "matches_count": 2
+      },
+      "overall": {
+        "avg_scored": 1.8,
+        "avg_conceded": 1.2,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+    "league_id": "12",
+    "scraped_at": "2026-02-07T13:47:42.540605"
+  },
+  "comparison": {
+    "position_difference": -10,
+    "home_team_form": "WWWLD",
+    "away_team_form": "DWDWL",
+    "scoring_insight": "В среднем Ман Юнайтед забивает дома 2.00 мяча, а Тоттенхэм в гостях пропускает 1.00 мяча."
+  }
+}

@@ -1,0 +1,652 @@
+[
+    {
+        "name": "#1 Mark Flekken",
+        "position": "Вратарь",
+        "age": 32,
+        "height": 195,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 26,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 39,
+                "total_clean_sheets": 8,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/125714/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#18 Jonas Omlin",
+        "position": "Вратарь",
+        "age": 32,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/247915/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#28 Janis Blaswich",
+        "position": "Вратарь",
+        "age": 34,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 6,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 3,
+                "total_clean_sheets": 4,
+                "total_minutes_played": 480
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/81173/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#36 Niklas Lomb",
+        "position": "Вратарь",
+        "age": 32,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/85543/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#4 Jarell Quansah",
+        "position": "Центр. защитник",
+        "age": 23,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 27,
+                "total_goals": 2,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/632349/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#12 Edmond Tapsoba",
+        "position": "Центр. защитник",
+        "age": 27,
+        "height": 194,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 3,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 7,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/564545/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#5 Loïc Badé",
+        "position": "Центр. защитник",
+        "age": 25,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 28,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 1,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/730581/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#16 Axel Tape",
+        "position": "Центр. защитник",
+        "age": 18,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 7,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 243
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1077670/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#15 Tim Oermann",
+        "position": "Центр. защитник",
+        "age": 22,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 24,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/696164/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#41 Issa Traoré",
+        "position": "Центр. защитник",
+        "age": 18,
+        "height": 194,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1133977/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#20 Alejandro Grimaldo",
+        "position": "Левый защитник",
+        "age": 30,
+        "height": 171,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 27,
+                "total_goals": 11,
+                "total_assists": 7,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 3,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/193082/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#13 Arthur",
+        "position": "Правый защитник",
+        "age": 22,
+        "height": 174,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 2,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/977464/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#21 Lucas Vázquez",
+        "position": "Правый защитник",
+        "age": 34,
+        "height": 173,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 1,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 572
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/221316/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#6 Equi Fernández",
+        "position": "Опорный полузащитник",
+        "age": 23,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 974
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/664708/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#8 Robert Andrich",
+        "position": "Опорный полузащитник",
+        "age": 31,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 27,
+                "total_goals": 1,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/159088/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#25 Exequiel Palacios",
+        "position": "Центр. полузащитник",
+        "age": 27,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 6,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 166
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/401578/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#24 Aleix García",
+        "position": "Центр. полузащитник",
+        "age": 28,
+        "height": 173,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 31,
+                "total_goals": 4,
+                "total_assists": 6,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/261504/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#10 Malik Tillman",
+        "position": "Атак. полузащитник",
+        "age": 23,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 24,
+                "total_goals": 6,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/467437/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#30 Ibrahim Maza",
+        "position": "Атак. полузащитник",
+        "age": 20,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 4,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/905011/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#7 Jonas Hofmann",
+        "position": "Атак. полузащитник",
+        "age": 33,
+        "height": 176,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 3,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 978
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/7161/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#17 Eliesse Ben Seghir",
+        "position": "Левый Вингер",
+        "age": 20,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 396
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/810895/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#11 Martin Terrier",
+        "position": "Левый Вингер",
+        "age": 28,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 4,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 592
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/442891/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#19 Ernest Poku",
+        "position": "Правый Вингер",
+        "age": 22,
+        "height": 176,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 32,
+                "total_goals": 5,
+                "total_assists": 7,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 18,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/718303/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#23 Nathan Tella",
+        "position": "Правый Вингер",
+        "age": 26,
+        "height": 173,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 0,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 544
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/340322/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#42 Montrell Culbreath",
+        "position": "Правый Вингер",
+        "age": 18,
+        "height": 172,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 4,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 964
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1058514/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#14 Patrik Schick",
+        "position": "Центральный нап.",
+        "age": 30,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 10,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 13,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 2,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/242086/plus/1",
+        "team": "Байер"
+    },
+    {
+        "name": "#35 Christian Kofane",
+        "position": "Центральный нап.",
+        "age": 19,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 28,
+                "total_goals": 5,
+                "total_assists": 6,
+                "total_own_goals": 0,
+                "total_substitutions_in": 16,
+                "total_substitutions_out": 12,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1364454/plus/1",
+        "team": "Байер"
+    }
+]

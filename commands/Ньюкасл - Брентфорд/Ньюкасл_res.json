@@ -1,0 +1,132 @@
+[
+    {
+        "name": "#32 Aaron Ramsdale",
+        "position": "Вратарь",
+        "readiness": 0.5989010989010989
+    },
+    {
+        "name": "#1 Nick Pope",
+        "position": "Вратарь",
+        "readiness": 0.6989862637362637
+    },
+    {
+        "name": "#29 Mark Gillespie",
+        "position": "Вратарь",
+        "readiness": 0.6347962109575013
+    },
+    {
+        "name": "#26 John Ruddy",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#12 Malick Thiaw",
+        "position": "Центр. защитник",
+        "readiness": 0.5928388888888888
+    },
+    {
+        "name": "#4 Sven Botman",
+        "position": "Центр. защитник",
+        "readiness": 0.576613850931677
+    },
+    {
+        "name": "#5 Fabian Schär",
+        "position": "Центр. защитник",
+        "readiness": 0.47876988662131514
+    },
+    {
+        "name": "#33 Dan Burn",
+        "position": "Центр. защитник",
+        "readiness": 0.48590822222222224
+    },
+    {
+        "name": "#3 Lewis Hall",
+        "position": "Левый защитник",
+        "readiness": 0.4210068761904763
+    },
+    {
+        "name": "#37 Alex Murphy",
+        "position": "Левый защитник",
+        "readiness": 0.3468716666666667
+    },
+    {
+        "name": "#21 Tino Livramento",
+        "position": "Правый защитник",
+        "readiness": 0.5001936173767753
+    },
+    {
+        "name": "#2 Kieran Trippier",
+        "position": "Правый защитник",
+        "readiness": 0.32942061544011536
+    },
+    {
+        "name": "#17 Emil Krafth",
+        "position": "Правый защитник",
+        "readiness": 0.35823537037037034
+    },
+    {
+        "name": "#8 Sandro Tonali",
+        "position": "Опорный полузащитник",
+        "readiness": 0.577693783068783
+    },
+    {
+        "name": "#39 Bruno Guimarães",
+        "position": "Центр. полузащитник",
+        "readiness": 0.645531746031746
+    },
+    {
+        "name": "#41 Jacob Ramsey",
+        "position": "Центр. полузащитник",
+        "readiness": 0.5150396825396826
+    },
+    {
+        "name": "#7 Joelinton",
+        "position": "Центр. полузащитник",
+        "readiness": 0.48326464148877935
+    },
+    {
+        "name": "#67 Lewis Miley",
+        "position": "Центр. полузащитник",
+        "readiness": 0.5434603174603175
+    },
+    {
+        "name": "#28 Joe Willock",
+        "position": "Центр. полузащитник",
+        "readiness": 0.3873831168831169
+    },
+    {
+        "name": "#10 Anthony Gordon",
+        "position": "Левый Вингер",
+        "readiness": 0.5863232323232324
+    },
+    {
+        "name": "#11 Harvey Barnes",
+        "position": "Левый Вингер",
+        "readiness": 0.6618558558558558
+    },
+    {
+        "name": "#20 Anthony Elanga",
+        "position": "Правый Вингер",
+        "readiness": 0.33720500000000003
+    },
+    {
+        "name": "#23 Jacob Murphy",
+        "position": "Правый Вингер",
+        "readiness": 0.42818913580246915
+    },
+    {
+        "name": "#27 Nick Woltemade",
+        "position": "Центральный нап.",
+        "readiness": 0.4919101192982456
+    },
+    {
+        "name": "#9 Yoane Wissa",
+        "position": "Центральный нап.",
+        "readiness": 0.3522374509803922
+    },
+    {
+        "name": "#18 William Osula",
+        "position": "Центральный нап.",
+        "readiness": 0.339034575
+    }
+]

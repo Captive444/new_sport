@@ -1,0 +1,142 @@
+[
+    {
+        "name": "#31 Ederson",
+        "position": "Вратарь",
+        "readiness": 0.7586309523809524
+    },
+    {
+        "name": "#13 Tarık Çetin",
+        "position": "Вратарь",
+        "readiness": 0.6619047619047619
+    },
+    {
+        "name": "#34 Mert Günok",
+        "position": "Вратарь",
+        "readiness": 0.522552380952381
+    },
+    {
+        "name": "#39 Engin Can Biterge",
+        "position": "Вратарь",
+        "readiness": 0.40299999999999997
+    },
+    {
+        "name": "#24 Jayden Oosterwolde",
+        "position": "Центр. защитник",
+        "readiness": 0.5293864087301587
+    },
+    {
+        "name": "#37 Milan Škriniar",
+        "position": "Центр. защитник",
+        "readiness": 0.5666176046176046
+    },
+    {
+        "name": "#4 Çağlar Söyüncü",
+        "position": "Центр. защитник",
+        "readiness": 0.540075036075036
+    },
+    {
+        "name": "#14 Yiğit Efe Demir",
+        "position": "Центр. защитник",
+        "readiness": 0.3175744444444445
+    },
+    {
+        "name": "#3 Archie Brown",
+        "position": "Левый защитник",
+        "readiness": 0.5445873015873016
+    },
+    {
+        "name": "#22 Levent Mercan",
+        "position": "Левый защитник",
+        "readiness": 0.46306137566137573
+    },
+    {
+        "name": "#27 Nélson Semedo",
+        "position": "Правый защитник",
+        "readiness": 0.3759973487179487
+    },
+    {
+        "name": "#18 Mert Müldür",
+        "position": "Правый защитник",
+        "readiness": 0.5390873015873016
+    },
+    {
+        "name": "#11 Edson Álvarez",
+        "position": "Опорный полузащитник",
+        "readiness": 0.4241111111111111
+    },
+    {
+        "name": "#5 İsmail Yüksek",
+        "position": "Опорный полузащитник",
+        "readiness": 0.4762171018945212
+    },
+    {
+        "name": "#17 N'Golo Kanté",
+        "position": "Опорный полузащитник",
+        "readiness": 0.36007277509157504
+    },
+    {
+        "name": "#6 Mattéo Guendouzi",
+        "position": "Центр. полузащитник",
+        "readiness": 0.5403833678398895
+    },
+    {
+        "name": "#7 Fred",
+        "position": "Центр. полузащитник",
+        "readiness": 0.3471708593958013
+    },
+    {
+        "name": "#60 Abdou Aziz Fall",
+        "position": "Центр. полузащитник",
+        "readiness": 0.2229110884353742
+    },
+    {
+        "name": "#21 Marco Asensio",
+        "position": "Атак. полузащитник",
+        "readiness": 0.7511701940035274
+    },
+    {
+        "name": "#94 Talisca",
+        "position": "Атак. полузащитник",
+        "readiness": 0.7011559018759018
+    },
+    {
+        "name": "#8 Mert Hakan Yandaş",
+        "position": "Атак. полузащитник",
+        "readiness": 0.45
+    },
+    {
+        "name": "#9 Kerem Aktürkoğlu",
+        "position": "Левый Вингер",
+        "readiness": 0.4303
+    },
+    {
+        "name": "#70 Oğuz Aydın",
+        "position": "Левый Вингер",
+        "readiness": 0.32757471264367816
+    },
+    {
+        "name": "#45 Dorgeles Nene",
+        "position": "Правый Вингер",
+        "readiness": 0.4072375111111112
+    },
+    {
+        "name": "#20 Anthony Musaba",
+        "position": "Правый Вингер",
+        "readiness": 0.5899310344827586
+    },
+    {
+        "name": "Emre Mor",
+        "position": "Правый Вингер",
+        "readiness": 0.31090783410138245
+    },
+    {
+        "name": "#10 Jhon Durán",
+        "position": "Центральный нап.",
+        "readiness": 0.3880101587301587
+    },
+    {
+        "name": "#26 Sidiki Chérif",
+        "position": "Центральный нап.",
+        "readiness": 0.37833333333333335
+    }
+]

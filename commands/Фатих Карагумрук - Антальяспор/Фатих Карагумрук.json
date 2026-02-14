@@ -1,0 +1,650 @@
+[
+    {
+        "name": "#13 Ivo Grbic",
+        "position": "Вратарь",
+        "age": 30,
+        "height": 195,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 41,
+                "total_clean_sheets": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/226073/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#99 Furkan Bekleviç",
+        "position": "Вратарь",
+        "age": 27,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/460218/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#96 Kerem Yandal",
+        "position": "Вратарь",
+        "age": 19,
+        "height": 197,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 3,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 6,
+                "total_clean_sheets": 1,
+                "total_minutes_played": 270
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1105394/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#98 Berke Can Evli",
+        "position": "Вратарь",
+        "age": 16,
+        "height": null,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 1,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 2,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 90
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1223507/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#4 Davide Biraschi",
+        "position": "Центр. защитник",
+        "age": 31,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 5,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 209
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/199927/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#22 Fatih Kurucuk",
+        "position": "Центр. защитник",
+        "age": 28,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 1,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 822
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/337516/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#94 Anıl Yiğit Çınar",
+        "position": "Центр. защитник",
+        "age": 22,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 2,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/982344/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#24 Burhan Ersoy",
+        "position": "Центр. защитник",
+        "age": 22,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 4,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 162
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/859924/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#32 Muhammed Kadıoğlu",
+        "position": "Центр. защитник",
+        "age": 19,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 12,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 1,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 889
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1372495/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#33 Çağtay Kurukalıp",
+        "position": "Левый защитник",
+        "age": 23,
+        "height": 172,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/616886/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#47 Ricardo Esgaio",
+        "position": "Правый защитник",
+        "age": 32,
+        "height": 172,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/139395/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#6 Bartuğ Elmaz",
+        "position": "Опорный полузащитник",
+        "age": 22,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 387
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/655895/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#14 Marius Tresor Doh",
+        "position": "Опорный полузащитник",
+        "age": 22,
+        "height": 177,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1294653/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#5 Matías Kranevitter",
+        "position": "Опорный полузащитник",
+        "age": 32,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/240900/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#8 Berkay Özcan",
+        "position": "Центр. полузащитник",
+        "age": 27,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 0,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/249952/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#11 Daniel Johnson",
+        "position": "Центр. полузащитник",
+        "age": 33,
+        "height": 174,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 1,
+                "total_assists": 5,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/169092/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#72 Barış Kalaycı",
+        "position": "Центр. полузащитник",
+        "age": 20,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 1,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 961
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/908982/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#16 Tuğbey Akgün",
+        "position": "Центр. полузащитник",
+        "age": 22,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 1,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 4
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/642869/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#23 Sam Larsson",
+        "position": "Атак. полузащитник",
+        "age": 32,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 12,
+                "total_goals": 1,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 798
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/159668/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#70 Serginho",
+        "position": "Левый Вингер",
+        "age": 30,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 4,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 15,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/456449/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#17 Ahmet Sivri",
+        "position": "Левый Вингер",
+        "age": 26,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 11,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 366
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/529251/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#80 Shavy Babicka",
+        "position": "Правый Вингер",
+        "age": 25,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 8,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 407
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/916920/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#37 João Camacho",
+        "position": "Правый Вингер",
+        "age": 31,
+        "height": 174,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 8,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 317
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/268732/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#20 Tarık Buğra Kalpaklı",
+        "position": "Правый Вингер",
+        "age": 16,
+        "height": null,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 15,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 596
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1261862/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#88 Ahmed Traore",
+        "position": "Правый Вингер",
+        "age": 18,
+        "height": 174,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 3,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 124
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1498276/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#21 Tiago Çukur",
+        "position": "Центральный нап.",
+        "age": 23,
+        "height": 196,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 986
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/594276/plus/1",
+        "team": "Фатих Карагумрук"
+    },
+    {
+        "name": "#15 Abdul Kader Moussa Kone",
+        "position": "Центральный нап.",
+        "age": 18,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 2,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 103
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1500143/plus/1",
+        "team": "Фатих Карагумрук"
+    }
+]

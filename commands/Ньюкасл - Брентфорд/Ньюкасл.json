@@ -1,0 +1,626 @@
+[
+    {
+        "name": "#32 Aaron Ramsdale",
+        "position": "Вратарь",
+        "age": 27,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 20,
+                "total_clean_sheets": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/427568/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#1 Nick Pope",
+        "position": "Вратарь",
+        "age": 33,
+        "height": 198,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 26,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 30,
+                "total_clean_sheets": 11,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/192080/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#29 Mark Gillespie",
+        "position": "Вратарь",
+        "age": 33,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 279,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 13,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 1,
+                "total_goals_conceded": 396,
+                "total_clean_sheets": 67,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/142389/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#26 John Ruddy",
+        "position": "Вратарь",
+        "age": 39,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/29712/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#12 Malick Thiaw",
+        "position": "Центр. защитник",
+        "age": 24,
+        "height": 194,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 35,
+                "total_goals": 3,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/521964/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#4 Sven Botman",
+        "position": "Центр. защитник",
+        "age": 26,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 1,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/361093/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#5 Fabian Schär",
+        "position": "Центр. защитник",
+        "age": 34,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 21,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/135343/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#33 Dan Burn",
+        "position": "Центр. защитник",
+        "age": 33,
+        "height": 200,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 1,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/134270/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#3 Lewis Hall",
+        "position": "Левый защитник",
+        "age": 21,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 28,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/670858/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#37 Alex Murphy",
+        "position": "Левый защитник",
+        "age": 21,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 8,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 421
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/900601/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#21 Tino Livramento",
+        "position": "Правый защитник",
+        "age": 23,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 19,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/503981/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#2 Kieran Trippier",
+        "position": "Правый защитник",
+        "age": 35,
+        "height": 173,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/95810/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#17 Emil Krafth",
+        "position": "Правый защитник",
+        "age": 31,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 3,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 178
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/184528/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#8 Sandro Tonali",
+        "position": "Опорный полузащитник",
+        "age": 25,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 36,
+                "total_goals": 0,
+                "total_assists": 5,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/397033/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#39 Bruno Guimarães",
+        "position": "Центр. полузащитник",
+        "age": 28,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 33,
+                "total_goals": 8,
+                "total_assists": 6,
+                "total_own_goals": 1,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 7,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/520624/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#41 Jacob Ramsey",
+        "position": "Центр. полузащитник",
+        "age": 24,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 13,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/503749/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#7 Joelinton",
+        "position": "Центр. полузащитник",
+        "age": 29,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 29,
+                "total_goals": 5,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 13,
+                "total_yellow_cards": 10,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/333241/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#67 Lewis Miley",
+        "position": "Центр. полузащитник",
+        "age": 19,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 30,
+                "total_goals": 3,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 14,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/922769/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#28 Joe Willock",
+        "position": "Центр. полузащитник",
+        "age": 26,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 13,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 744
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/340329/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#10 Anthony Gordon",
+        "position": "Левый Вингер",
+        "age": 24,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 33,
+                "total_goals": 10,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 21,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 6,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/503733/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#11 Harvey Barnes",
+        "position": "Левый Вингер",
+        "age": 28,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 37,
+                "total_goals": 12,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 17,
+                "total_substitutions_out": 13,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/398065/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#20 Anthony Elanga",
+        "position": "Правый Вингер",
+        "age": 23,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 32,
+                "total_goals": 1,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 19,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/583189/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#23 Jacob Murphy",
+        "position": "Правый Вингер",
+        "age": 30,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 27,
+                "total_goals": 2,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 15,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/199527/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#27 Nick Woltemade",
+        "position": "Центральный нап.",
+        "age": 23,
+        "height": 198,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 38,
+                "total_goals": 10,
+                "total_assists": 4,
+                "total_own_goals": 1,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 21,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/455661/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#9 Yoane Wissa",
+        "position": "Центральный нап.",
+        "age": 29,
+        "height": 176,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 3,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 684
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/388165/plus/1",
+        "team": "Ньюкасл"
+    },
+    {
+        "name": "#18 William Osula",
+        "position": "Центральный нап.",
+        "age": 22,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 16,
+                "total_goals": 3,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 14,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 364
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/609556/plus/1",
+        "team": "Ньюкасл"
+    }
+]

@@ -1,0 +1,95 @@
+{
+  "match": "Вулверхэмптон - Челси",
+  "match_url": "https://soccer365.ru/competitions/12/",
+  "date_time": "18:00",
+  "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+  "analysis_date": "2026-02-07T13:47:59.367785",
+  "home_team": {
+    "team_id": "41",
+    "team_name": "Вулверхэмптон",
+    "team_url": "https://soccer365.ru/clubs/41/",
+    "position_in_league": 20,
+    "last_results": [
+      0,
+      0,
+      0.5,
+      1,
+      0.5
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 1,
+      "draws": 2,
+      "losses": 2,
+      "points": 5,
+      "form": "LLDWD"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 2.0,
+        "avg_conceded": 1.0,
+        "matches_count": 3
+      },
+      "away": {
+        "avg_scored": 0.5,
+        "avg_conceded": 1.5,
+        "matches_count": 2
+      },
+      "overall": {
+        "avg_scored": 1.4,
+        "avg_conceded": 1.2,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+    "league_id": "12",
+    "scraped_at": "2026-02-07T13:47:52.067222"
+  },
+  "away_team": {
+    "team_id": "184",
+    "team_name": "Челси",
+    "team_url": "https://soccer365.ru/clubs/184/",
+    "position_in_league": 5,
+    "last_results": [
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "points": 12,
+      "form": "LWWWW"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 2.0,
+        "avg_conceded": 1.0,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 2.0,
+        "avg_conceded": 1.3333333333333333,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 2.0,
+        "avg_conceded": 1.2,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+    "league_id": "12",
+    "scraped_at": "2026-02-07T13:47:53.036956"
+  },
+  "comparison": {
+    "position_difference": 15,
+    "home_team_form": "LLDWD",
+    "away_team_form": "LWWWW",
+    "scoring_insight": "В среднем Вулверхэмптон забивает дома 2.00 мяча, а Челси в гостях пропускает 1.33 мяча."
+  }
+}

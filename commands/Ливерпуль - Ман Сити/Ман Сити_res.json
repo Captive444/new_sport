@@ -1,0 +1,137 @@
+[
+    {
+        "name": "#25 Gianluigi Donnarumma",
+        "position": "Вратарь",
+        "readiness": 0.7183673469387755
+    },
+    {
+        "name": "#1 James Trafford",
+        "position": "Вратарь",
+        "readiness": 0.6536
+    },
+    {
+        "name": "#13 Marcus Bettinelli",
+        "position": "Вратарь",
+        "readiness": 0.4
+    },
+    {
+        "name": "#24 Josko Gvardiol",
+        "position": "Центр. защитник",
+        "readiness": 0.6494672187715667
+    },
+    {
+        "name": "#3 Rúben Dias",
+        "position": "Центр. защитник",
+        "readiness": 0.6000396825396825
+    },
+    {
+        "name": "#15 Marc Guéhi",
+        "position": "Центр. защитник",
+        "readiness": 0.616077097505669
+    },
+    {
+        "name": "#45 Abdukodir Khusanov",
+        "position": "Центр. защитник",
+        "readiness": 0.4341680701754387
+    },
+    {
+        "name": "#5 John Stones",
+        "position": "Центр. защитник",
+        "readiness": 0.4789543772893773
+    },
+    {
+        "name": "#6 Nathan Aké",
+        "position": "Центр. защитник",
+        "readiness": 0.5649985569985569
+    },
+    {
+        "name": "#68 Max Alleyne",
+        "position": "Центр. защитник",
+        "readiness": 0.4580755417529331
+    },
+    {
+        "name": "#21 Rayan Aït-Nouri",
+        "position": "Левый защитник",
+        "readiness": 0.4395374149659864
+    },
+    {
+        "name": "#33 Nico O'Reilly",
+        "position": "Левый защитник",
+        "readiness": 0.47258817346938786
+    },
+    {
+        "name": "#27 Matheus Nunes",
+        "position": "Правый защитник",
+        "readiness": 0.5944047619047619
+    },
+    {
+        "name": "#82 Rico Lewis",
+        "position": "Правый защитник",
+        "readiness": 0.3064191666666667
+    },
+    {
+        "name": "#16 Rodri",
+        "position": "Опорный полузащитник",
+        "readiness": 0.4849695767195767
+    },
+    {
+        "name": "#14 Nico González",
+        "position": "Опорный полузащитник",
+        "readiness": 0.5090512032770097
+    },
+    {
+        "name": "#4 Tijjani Reijnders",
+        "position": "Центр. полузащитник",
+        "readiness": 0.6657394179894179
+    },
+    {
+        "name": "#8 Mateo Kovacic",
+        "position": "Центр. полузащитник",
+        "readiness": 0.32949606666666675
+    },
+    {
+        "name": "#41 Sverre Nypan",
+        "position": "Центр. полузащитник",
+        "readiness": 0.32290793650793653
+    },
+    {
+        "name": "#47 Phil Foden",
+        "position": "Атак. полузащитник",
+        "readiness": 0.4641401680672269
+    },
+    {
+        "name": "#10 Rayan Cherki",
+        "position": "Атак. полузащитник",
+        "readiness": 0.5133913333333334
+    },
+    {
+        "name": "#20 Bernardo Silva",
+        "position": "Атак. полузащитник",
+        "readiness": 0.38865598874458873
+    },
+    {
+        "name": "#11 Jérémy Doku",
+        "position": "Левый Вингер",
+        "readiness": 0.36588444444444446
+    },
+    {
+        "name": "#26 Savinho",
+        "position": "Левый Вингер",
+        "readiness": 0.2934723826086957
+    },
+    {
+        "name": "#42 Antoine Semenyo",
+        "position": "Правый Вингер",
+        "readiness": 0.7565555555555555
+    },
+    {
+        "name": "#9 Erling Haaland",
+        "position": "Центральный нап.",
+        "readiness": 0.8507023809523808
+    },
+    {
+        "name": "#7 Omar Marmoush",
+        "position": "Центральный нап.",
+        "readiness": 0.4322083333333333
+    }
+]

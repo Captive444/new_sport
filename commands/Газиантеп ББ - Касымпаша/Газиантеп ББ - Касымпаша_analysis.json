@@ -1,0 +1,95 @@
+{
+  "match": "Газиантеп ББ - Касымпаша",
+  "match_url": "https://soccer365.ru/competitions/723/",
+  "date_time": "09.02, 20:00",
+  "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+  "analysis_date": "2026-02-07T13:44:56.456500",
+  "home_team": {
+    "team_id": "7080",
+    "team_name": "Газиантеп ББ",
+    "team_url": "https://soccer365.ru/clubs/7080/",
+    "position_in_league": 2,
+    "last_results": [
+      1,
+      0,
+      0.5,
+      0.5,
+      1
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 1,
+      "points": 8,
+      "form": "WLDDW"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.0,
+        "avg_conceded": 0.5,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 2.3333333333333335,
+        "avg_conceded": 1.3333333333333333,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 1.8,
+        "avg_conceded": 1.0,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-02-07T13:44:55.580089"
+  },
+  "away_team": {
+    "team_id": "6913",
+    "team_name": "Касымпаша",
+    "team_url": "https://soccer365.ru/clubs/6913/",
+    "position_in_league": 16,
+    "last_results": [
+      0,
+      0,
+      0.5,
+      1,
+      1
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "points": 7,
+      "form": "LLDWW"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.0,
+        "avg_conceded": 0.25,
+        "matches_count": 4
+      },
+      "away": {
+        "avg_scored": 1.0,
+        "avg_conceded": 2.0,
+        "matches_count": 1
+      },
+      "overall": {
+        "avg_scored": 1.0,
+        "avg_conceded": 0.6,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Турции по футболу 2025/2026, Суперлига",
+    "league_id": "723",
+    "scraped_at": "2026-02-07T13:44:56.430984"
+  },
+  "comparison": {
+    "position_difference": -14,
+    "home_team_form": "WLDDW",
+    "away_team_form": "LLDWW",
+    "scoring_insight": "В среднем Газиантеп ББ забивает дома 1.00 мяча, а Касымпаша в гостях пропускает 2.00 мяча."
+  }
+}
