@@ -1,0 +1,95 @@
+{
+  "match": "Фрайбург - Унион Берлин",
+  "match_url": "https://soccer365.ru/competitions/17/",
+  "date_time": "15.03, 19:30",
+  "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+  "analysis_date": "2026-03-12T22:00:51.926376",
+  "home_team": {
+    "team_id": "174",
+    "team_name": "Фрайбург",
+    "team_url": "https://soccer365.ru/clubs/174/",
+    "position_in_league": 7,
+    "last_results": [
+      0.5,
+      0,
+      1,
+      0,
+      0.5
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 1,
+      "draws": 2,
+      "losses": 2,
+      "points": 5,
+      "form": "DLWLD"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 2.5,
+        "avg_conceded": 2.0,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 0.3333333333333333,
+        "avg_conceded": 2.0,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 1.2,
+        "avg_conceded": 2.0,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-03-12T22:00:48.835225"
+  },
+  "away_team": {
+    "team_id": "7142",
+    "team_name": "Унион Берлин",
+    "team_url": "https://soccer365.ru/clubs/7142/",
+    "position_in_league": 11,
+    "last_results": [
+      0,
+      0,
+      1,
+      0,
+      0.5
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 1,
+      "draws": 1,
+      "losses": 3,
+      "points": 4,
+      "form": "LLWLD"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.0,
+        "avg_conceded": 1.6666666666666667,
+        "matches_count": 3
+      },
+      "away": {
+        "avg_scored": 1.0,
+        "avg_conceded": 2.0,
+        "matches_count": 2
+      },
+      "overall": {
+        "avg_scored": 1.0,
+        "avg_conceded": 1.8,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-03-12T22:00:49.858889"
+  },
+  "comparison": {
+    "position_difference": -4,
+    "home_team_form": "DLWLD",
+    "away_team_form": "LLWLD",
+    "scoring_insight": "В среднем Фрайбург забивает дома 2.50 мяча, а Унион Берлин в гостях пропускает 2.00 мяча."
+  }
+}

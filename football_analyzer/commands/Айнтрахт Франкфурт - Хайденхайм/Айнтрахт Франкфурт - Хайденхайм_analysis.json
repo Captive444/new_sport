@@ -1,0 +1,95 @@
+{
+  "match": "Айнтрахт Франкфурт - Хайденхайм",
+  "match_url": "https://soccer365.ru/competitions/17/",
+  "date_time": "14.03, 17:30",
+  "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+  "analysis_date": "2026-03-12T22:00:51.913294",
+  "home_team": {
+    "team_id": "254",
+    "team_name": "Айнтрахт Франкфурт",
+    "team_url": "https://soccer365.ru/clubs/254/",
+    "position_in_league": 7,
+    "last_results": [
+      0.5,
+      1,
+      0,
+      1,
+      0.5
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 1,
+      "points": 8,
+      "form": "DWLWD"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 2.5,
+        "avg_conceded": 0.0,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 1.0,
+        "avg_conceded": 1.3333333333333333,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 1.6,
+        "avg_conceded": 0.8,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-03-12T22:00:40.596203"
+  },
+  "away_team": {
+    "team_id": "8025",
+    "team_name": "Хайденхайм",
+    "team_url": "https://soccer365.ru/clubs/8025/",
+    "position_in_league": 18,
+    "last_results": [
+      0,
+      0,
+      0.5,
+      0,
+      0
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 0,
+      "draws": 1,
+      "losses": 4,
+      "points": 1,
+      "form": "LLDLL"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.6666666666666667,
+        "avg_conceded": 3.0,
+        "matches_count": 3
+      },
+      "away": {
+        "avg_scored": 0.0,
+        "avg_conceded": 1.5,
+        "matches_count": 2
+      },
+      "overall": {
+        "avg_scored": 1.0,
+        "avg_conceded": 2.4,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-03-12T22:00:41.507831"
+  },
+  "comparison": {
+    "position_difference": -11,
+    "home_team_form": "DWLWD",
+    "away_team_form": "LLDLL",
+    "scoring_insight": "В среднем Айнтрахт Франкфурт забивает дома 2.50 мяча, а Хайденхайм в гостях пропускает 1.50 мяча."
+  }
+}

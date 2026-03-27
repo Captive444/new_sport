@@ -3,7 +3,7 @@
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',
-    'password': '',  # Укажите пароль
+    'password': '', 
     'database': 'football_stats'
 }
 

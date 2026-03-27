@@ -1,0 +1,674 @@
+[
+    {
+        "name": "#1 Guglielmo Vicario",
+        "position": "Вратарь",
+        "age": 29,
+        "height": 194,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 39,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 57,
+                "total_clean_sheets": 13,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/286047/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#31 Antonín Kinský",
+        "position": "Вратарь",
+        "age": 22,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 2,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 2,
+                "total_clean_sheets": 1,
+                "total_minutes_played": 180
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/725912/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#40 Brandon Austin",
+        "position": "Вратарь",
+        "age": 27,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/428016/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#37 Micky van de Ven",
+        "position": "Центр. защитник",
+        "age": 24,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 35,
+                "total_goals": 7,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 10,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/557459/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#17 Cristian Romero",
+        "position": "Центр. защитник",
+        "age": 27,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 28,
+                "total_goals": 6,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 8,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/355915/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#3 Radu Drăgușin",
+        "position": "Центр. защитник",
+        "age": 24,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 7,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 424
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/568559/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#4 Kevin Danso",
+        "position": "Центр. защитник",
+        "age": 27,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/263236/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#33 Ben Davies",
+        "position": "Центр. защитник",
+        "age": 32,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 5,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 250
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/192765/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#13 Destiny Udogie",
+        "position": "Левый защитник",
+        "age": 23,
+        "height": 188,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 0,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/556385/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#24 Djed Spence",
+        "position": "Левый защитник",
+        "age": 25,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 34,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/483348/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#38 Souza",
+        "position": "Левый защитник",
+        "age": 19,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 3,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 88
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1086258/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#23 Pedro Porro",
+        "position": "Правый защитник",
+        "age": 26,
+        "height": 173,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 36,
+                "total_goals": 0,
+                "total_assists": 5,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 9,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/553875/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#30 Rodrigo Bentancur",
+        "position": "Опорный полузащитник",
+        "age": 28,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 28,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/354362/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#6 João Palhinha",
+        "position": "Опорный полузащитник",
+        "age": 30,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 37,
+                "total_goals": 5,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 10,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/257455/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#8 Yves Bissouma",
+        "position": "Опорный полузащитник",
+        "age": 29,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 8,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 463
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/410425/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#15 Lucas Bergvall",
+        "position": "Центр. полузащитник",
+        "age": 20,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 26,
+                "total_goals": 1,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 15,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/866246/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#14 Archie Gray",
+        "position": "Центр. полузащитник",
+        "age": 19,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 28,
+                "total_goals": 2,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 7,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/922693/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#22 Conor Gallagher",
+        "position": "Центр. полузащитник",
+        "age": 26,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 35,
+                "total_goals": 3,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 19,
+                "total_substitutions_out": 13,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/488362/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#29 Pape Matar Sarr",
+        "position": "Центр. полузащитник",
+        "age": 23,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 29,
+                "total_goals": 2,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/568693/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#7 Xavi Simons",
+        "position": "Атак. полузащитник",
+        "age": 22,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 36,
+                "total_goals": 3,
+                "total_assists": 6,
+                "total_own_goals": 0,
+                "total_substitutions_in": 9,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 6,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 1,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/566931/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#21 Dejan Kulusevski",
+        "position": "Атак. полузащитник",
+        "age": 25,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 343,
+                "total_goals": 78,
+                "total_assists": 75,
+                "total_own_goals": 0,
+                "total_substitutions_in": 91,
+                "total_substitutions_out": 110,
+                "total_yellow_cards": 40,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 2,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/431755/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#10 James Maddison",
+        "position": "Атак. полузащитник",
+        "age": 29,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 393,
+                "total_goals": 97,
+                "total_assists": 89,
+                "total_own_goals": 0,
+                "total_substitutions_in": 85,
+                "total_substitutions_out": 155,
+                "total_yellow_cards": 58,
+                "total_yellow_red_cards": 2,
+                "total_red_cards": 0,
+                "total_penalty_goals": 7,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/294057/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#28 Wilson Odobert",
+        "position": "Левый Вингер",
+        "age": 21,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 33,
+                "total_goals": 2,
+                "total_assists": 5,
+                "total_own_goals": 0,
+                "total_substitutions_in": 15,
+                "total_substitutions_out": 15,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/743498/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#20 Mohammed Kudus",
+        "position": "Правый Вингер",
+        "age": 25,
+        "height": 177,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 26,
+                "total_goals": 3,
+                "total_assists": 6,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 14,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/543499/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#19 Dominic Solanke",
+        "position": "Центральный нап.",
+        "age": 28,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 5,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 7,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 714
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/258889/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#11 Mathys Tel",
+        "position": "Центральный нап.",
+        "age": 20,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 27,
+                "total_goals": 3,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 18,
+                "total_substitutions_out": 7,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 976
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/801734/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#9 Richarlison",
+        "position": "Центральный нап.",
+        "age": 28,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 34,
+                "total_goals": 9,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 13,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 8,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/378710/plus/1",
+        "team": "Тоттенхэм"
+    },
+    {
+        "name": "#39 Randal Kolo Muani",
+        "position": "Центральный нап.",
+        "age": 27,
+        "height": 187,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 30,
+                "total_goals": 4,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 12,
+                "total_substitutions_out": 16,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/487969/plus/1",
+        "team": "Тоттенхэм"
+    }
+]

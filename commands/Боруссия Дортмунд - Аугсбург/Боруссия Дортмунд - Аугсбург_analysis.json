@@ -1,0 +1,95 @@
+{
+  "match": "Боруссия Дортмунд - Аугсбург",
+  "match_url": "https://soccer365.ru/competitions/17/",
+  "date_time": "14.03, 17:30",
+  "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+  "analysis_date": "2026-03-12T22:00:51.910318",
+  "home_team": {
+    "team_id": "263",
+    "team_name": "Боруссия Дортмунд",
+    "team_url": "https://soccer365.ru/clubs/263/",
+    "position_in_league": 2,
+    "last_results": [
+      1,
+      0,
+      0,
+      0.5,
+      1
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "points": 7,
+      "form": "WLLDW"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 2.0,
+        "avg_conceded": 1.5,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 1.6666666666666667,
+        "avg_conceded": 2.3333333333333335,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 1.8,
+        "avg_conceded": 2.0,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-03-12T22:00:38.744952"
+  },
+  "away_team": {
+    "team_id": "5",
+    "team_name": "Аугсбург",
+    "team_url": "https://soccer365.ru/clubs/5/",
+    "position_in_league": 9,
+    "last_results": [
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "points": 9,
+      "form": "LWWWL"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.5,
+        "avg_conceded": 0.0,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 1.3333333333333333,
+        "avg_conceded": 2.0,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 1.4,
+        "avg_conceded": 1.2,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-03-12T22:00:39.735191"
+  },
+  "comparison": {
+    "position_difference": -7,
+    "home_team_form": "WLLDW",
+    "away_team_form": "LWWWL",
+    "scoring_insight": "В среднем Боруссия Дортмунд забивает дома 2.00 мяча, а Аугсбург в гостях пропускает 2.00 мяча."
+  }
+}

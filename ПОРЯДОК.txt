@@ -14,3 +14,7 @@ test7.py
 
 python pars_tim1bd.py
 FC Köln
+
+ПАРСИНГ
+parsingComands.py --- парсит предстоящие матчи и списка лиг
+team_parser.py ---- парситстатистику последних матчей

@@ -1,0 +1,95 @@
+{
+  "match": "Вест Хэм - Ман Сити",
+  "match_url": "https://soccer365.ru/competitions/12/",
+  "date_time": "14.03, 23:00",
+  "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+  "analysis_date": "2026-03-07T21:13:25.829392",
+  "home_team": {
+    "team_id": "33",
+    "team_name": "Вест Хэм",
+    "team_url": "https://soccer365.ru/clubs/33/",
+    "position_in_league": 18,
+    "last_results": [
+      1,
+      0,
+      0.5,
+      1,
+      0.5
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 1,
+      "points": 8,
+      "form": "WLDWD"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 0.5,
+        "avg_conceded": 0.5,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 1.3333333333333333,
+        "avg_conceded": 1.6666666666666667,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 1.0,
+        "avg_conceded": 1.2,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+    "league_id": "12",
+    "scraped_at": "2026-03-07T21:13:15.440788"
+  },
+  "away_team": {
+    "team_id": "90",
+    "team_name": "Ман Сити",
+    "team_url": "https://soccer365.ru/clubs/90/",
+    "position_in_league": 2,
+    "last_results": [
+      0.5,
+      1,
+      1,
+      1,
+      1
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 4,
+      "draws": 1,
+      "losses": 0,
+      "points": 13,
+      "form": "DWWWW"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 2.25,
+        "avg_conceded": 0.75,
+        "matches_count": 4
+      },
+      "away": {
+        "avg_scored": 1.0,
+        "avg_conceded": 0.0,
+        "matches_count": 1
+      },
+      "overall": {
+        "avg_scored": 2.0,
+        "avg_conceded": 0.6,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+    "league_id": "12",
+    "scraped_at": "2026-03-07T21:13:16.513339"
+  },
+  "comparison": {
+    "position_difference": 16,
+    "home_team_form": "WLDWD",
+    "away_team_form": "DWWWW",
+    "scoring_insight": "В среднем Вест Хэм забивает дома 0.50 мяча, а Ман Сити в гостях пропускает 0.00 мяча."
+  }
+}

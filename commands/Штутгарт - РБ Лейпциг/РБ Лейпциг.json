@@ -1,0 +1,746 @@
+[
+    {
+        "name": "#26 Maarten Vandevoordt",
+        "position": "Вратарь",
+        "age": 24,
+        "height": 192,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 8,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 12,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 691
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/486046/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#1 Péter Gulácsi",
+        "position": "Вратарь",
+        "age": 35,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 28,
+                "total_clean_sheets": 10,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/57071/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#25 Leopold Zingerle",
+        "position": "Вратарь",
+        "age": 31,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 0,
+                "total_goals": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_goals_conceded": 0,
+                "total_clean_sheets": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/160971/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#23 Castello Lukeba",
+        "position": "Центр. защитник",
+        "age": 23,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 1,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 3,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/618472/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#5 El Chadaille Bitshiabu",
+        "position": "Центр. защитник",
+        "age": 20,
+        "height": 196,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 10,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 431
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/787912/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#4 Willi Orbán",
+        "position": "Центр. защитник",
+        "age": 33,
+        "height": 186,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 29,
+                "total_goals": 2,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/93740/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#16 Lukas Klostermann",
+        "position": "Центр. защитник",
+        "age": 29,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 6,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 1,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 76
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/215599/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "Jonathan Norbye",
+        "position": "Центр. защитник",
+        "age": 18,
+        "height": 194,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 10,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 740
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1006916/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#22 David Raum",
+        "position": "Левый защитник",
+        "age": 27,
+        "height": 181,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 28,
+                "total_goals": 3,
+                "total_assists": 7,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 7,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 1,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/318204/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#35 Max Finkgräfe",
+        "position": "Левый защитник",
+        "age": 21,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 7,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 137
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/810649/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#17 Ridle Baku",
+        "position": "Правый защитник",
+        "age": 27,
+        "height": 176,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 26,
+                "total_goals": 1,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 10,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/327251/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#39 Benjamin Henrichs",
+        "position": "Правый защитник",
+        "age": 29,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 8,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 185
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/202591/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#19 Kosta Nedeljkovic",
+        "position": "Правый защитник",
+        "age": 20,
+        "height": 184,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 6,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 3,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 297
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/848682/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#13 Nicolas Seiwald",
+        "position": "Опорный полузащитник",
+        "age": 24,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 29,
+                "total_goals": 0,
+                "total_assists": 2,
+                "total_own_goals": 0,
+                "total_substitutions_in": 1,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/404950/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#37 Benno Kaltefleiter",
+        "position": "Опорный полузащитник",
+        "age": 18,
+        "height": 189,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 3,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1279157/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#20 Assan Ouédraogo",
+        "position": "Центр. полузащитник",
+        "age": 19,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 13,
+                "total_goals": 3,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 9,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 621
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/897424/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#6 Ezechiel Banzuzi",
+        "position": "Центр. полузащитник",
+        "age": 21,
+        "height": 191,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 25,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 22,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 631
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/865682/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#24 Xaver Schlager",
+        "position": "Центр. полузащитник",
+        "age": 28,
+        "height": 174,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 2,
+                "total_assists": 1,
+                "total_own_goals": 0,
+                "total_substitutions_in": 6,
+                "total_substitutions_out": 6,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/223979/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#10 Brajan Gruda",
+        "position": "Атак. полузащитник",
+        "age": 21,
+        "height": 178,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 26,
+                "total_goals": 4,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 11,
+                "total_substitutions_out": 13,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/700106/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#14 Christoph Baumgartner",
+        "position": "Атак. полузащитник",
+        "age": 26,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 28,
+                "total_goals": 14,
+                "total_assists": 7,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 16,
+                "total_yellow_cards": 7,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/324278/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#33 Andrija Maksimovic",
+        "position": "Атак. полузащитник",
+        "age": 18,
+        "height": 182,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 10,
+                "total_goals": 0,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 10,
+                "total_substitutions_out": 0,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 108
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/952779/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#24 Viggo Gebel",
+        "position": "Атак. полузащитник",
+        "age": 18,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 10,
+                "total_goals": 3,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 4,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 791
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1074526/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#49 Yan Diomande",
+        "position": "Левый Вингер",
+        "age": 19,
+        "height": 180,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 27,
+                "total_goals": 11,
+                "total_assists": 7,
+                "total_own_goals": 0,
+                "total_substitutions_in": 5,
+                "total_substitutions_out": 14,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1390649/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#7 Antonio Nusa",
+        "position": "Левый Вингер",
+        "age": 20,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 26,
+                "total_goals": 3,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 18,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/894914/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#27 Tidiam Gomis",
+        "position": "Левый Вингер",
+        "age": 19,
+        "height": 183,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 18,
+                "total_goals": 1,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 16,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 0,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 359
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/955448/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#18 Suleman Sani",
+        "position": "Левый Вингер",
+        "age": 19,
+        "height": 175,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 14,
+                "total_goals": 3,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 4,
+                "total_substitutions_out": 2,
+                "total_yellow_cards": 2,
+                "total_yellow_red_cards": 1,
+                "total_red_cards": 1,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1235583/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#21 Ayodele Thomas",
+        "position": "Левый Вингер",
+        "age": 18,
+        "height": 177,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 20,
+                "total_goals": 4,
+                "total_assists": 7,
+                "total_own_goals": 0,
+                "total_substitutions_in": 0,
+                "total_substitutions_out": 11,
+                "total_yellow_cards": 5,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/763948/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#9 Johan Bakayoko",
+        "position": "Правый Вингер",
+        "age": 22,
+        "height": 179,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 17,
+                "total_goals": 3,
+                "total_assists": 0,
+                "total_own_goals": 0,
+                "total_substitutions_in": 8,
+                "total_substitutions_out": 8,
+                "total_yellow_cards": 1,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 827
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/565424/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#40 Rômulo",
+        "position": "Центральный нап.",
+        "age": 24,
+        "height": 193,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 23,
+                "total_goals": 7,
+                "total_assists": 4,
+                "total_own_goals": 1,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 18,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/957874/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#11 Conrad Harder",
+        "position": "Центральный нап.",
+        "age": 20,
+        "height": 185,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 30,
+                "total_goals": 3,
+                "total_assists": 4,
+                "total_own_goals": 0,
+                "total_substitutions_in": 21,
+                "total_substitutions_out": 5,
+                "total_yellow_cards": 3,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 0,
+                "total_minutes_played": 998
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/807386/plus/1",
+        "team": "РБ Лейпциг"
+    },
+    {
+        "name": "#9 Samba Konaté",
+        "position": "Центральный нап.",
+        "age": 17,
+        "height": 190,
+        "stats": {
+            "seasons": [],
+            "total_stats": {
+                "total_matches": 22,
+                "total_goals": 16,
+                "total_assists": 3,
+                "total_own_goals": 0,
+                "total_substitutions_in": 2,
+                "total_substitutions_out": 13,
+                "total_yellow_cards": 4,
+                "total_yellow_red_cards": 0,
+                "total_red_cards": 0,
+                "total_penalty_goals": 2,
+                "total_minutes_played": 0
+            }
+        },
+        "url": "https://www.transfermarkt.world/-/leistungsdaten/spieler/1380977/plus/1",
+        "team": "РБ Лейпциг"
+    }
+]

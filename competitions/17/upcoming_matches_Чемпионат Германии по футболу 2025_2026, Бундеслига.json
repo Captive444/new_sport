@@ -2,107 +2,107 @@
   "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
   "league_url": "https://soccer365.ru/competitions/17/",
   "league_id": "17",
-  "scraped_at": "2026-02-07T13:37:15.622757",
+  "scraped_at": "2026-03-11T20:43:16.861852",
   "total_matches": 9,
   "matches": [
     {
-      "date_time": "06.02, 22:30",
-      "home_team": "Унион Берлин",
-      "away_team": "Айнтрахт Франкфурт",
-      "match": "Унион Берлин - Айнтрахт Франкфурт",
-      "home_team_id": "7142",
-      "away_team_id": "254",
-      "home_team_url": "https://soccer365.ru/clubs/7142/",
-      "away_team_url": "https://soccer365.ru/clubs/254/",
-      "match_url": "/games/2274641/"
-    },
-    {
-      "date_time": "17:30",
-      "home_team": "Фрайбург",
-      "away_team": "Вердер",
-      "match": "Фрайбург - Вердер",
-      "home_team_id": "174",
-      "away_team_id": "32",
-      "home_team_url": "https://soccer365.ru/clubs/174/",
-      "away_team_url": "https://soccer365.ru/clubs/32/",
-      "match_url": "/live/match-frayburg-verder-smotret-onlayn/"
-    },
-    {
-      "date_time": "17:30",
-      "home_team": "Хайденхайм",
-      "away_team": "Гамбург",
-      "match": "Хайденхайм - Гамбург",
-      "home_team_id": "8025",
-      "away_team_id": "43",
-      "home_team_url": "https://soccer365.ru/clubs/8025/",
-      "away_team_url": "https://soccer365.ru/clubs/43/",
-      "match_url": "/live/match-haydenhaym-gamburg-smotret-onlayn/"
-    },
-    {
-      "date_time": "17:30",
-      "home_team": "Майнц",
-      "away_team": "Аугсбург",
-      "match": "Майнц - Аугсбург",
-      "home_team_id": "250",
-      "away_team_id": "5",
-      "home_team_url": "https://soccer365.ru/clubs/250/",
-      "away_team_url": "https://soccer365.ru/clubs/5/",
-      "match_url": "/live/match-maynts-augsburg-smotret-onlayn/"
-    },
-    {
-      "date_time": "17:30",
-      "home_team": "Санкт-Паули",
-      "away_team": "Штутгарт",
-      "match": "Санкт-Паули - Штутгарт",
-      "home_team_id": "138",
-      "away_team_id": "190",
-      "home_team_url": "https://soccer365.ru/clubs/138/",
-      "away_team_url": "https://soccer365.ru/clubs/190/",
-      "match_url": "/live/match-shtutgart-sanktpauli-smotret-onlayn/"
-    },
-    {
-      "date_time": "17:30",
-      "home_team": "Вольфсбург",
-      "away_team": "Боруссия Дортмунд",
-      "match": "Вольфсбург - Боруссия Дортмунд",
-      "home_team_id": "39",
-      "away_team_id": "263",
-      "home_team_url": "https://soccer365.ru/clubs/39/",
-      "away_team_url": "https://soccer365.ru/clubs/263/",
-      "match_url": "/live/match-borussiya-d-volfsburg-smotret-onlayn/"
-    },
-    {
-      "date_time": "20:30",
+      "date_time": "13.03, 22:30",
       "home_team": "Боруссия М",
-      "away_team": "Байер",
-      "match": "Боруссия М - Байер",
+      "away_team": "Санкт-Паули",
+      "match": "Боруссия М - Санкт-Паули",
       "home_team_id": "264",
-      "away_team_id": "9",
+      "away_team_id": "138",
       "home_team_url": "https://soccer365.ru/clubs/264/",
-      "away_team_url": "https://soccer365.ru/clubs/9/",
-      "match_url": "/live/match-borussiya-m-bayer-smotret-onlayn/"
+      "away_team_url": "https://soccer365.ru/clubs/138/",
+      "match_url": "/live/match-borussiya-m-sanktpauli-smotret-onlayn/"
     },
     {
-      "date_time": "08.02, 17:30",
-      "home_team": "Кёльн",
+      "date_time": "14.03, 17:30",
+      "home_team": "Байер",
+      "away_team": "Бавария",
+      "match": "Байер - Бавария",
+      "home_team_id": "9",
+      "away_team_id": "8",
+      "home_team_url": "https://soccer365.ru/clubs/9/",
+      "away_team_url": "https://soccer365.ru/clubs/8/",
+      "match_url": "/live/match-bayer-bavariya-smotret-onlayn/"
+    },
+    {
+      "date_time": "14.03, 17:30",
+      "home_team": "Боруссия Дортмунд",
+      "away_team": "Аугсбург",
+      "match": "Боруссия Дортмунд - Аугсбург",
+      "home_team_id": "263",
+      "away_team_id": "5",
+      "home_team_url": "https://soccer365.ru/clubs/263/",
+      "away_team_url": "https://soccer365.ru/clubs/5/",
+      "match_url": "/live/match-borussiya-d-augsburg-smotret-onlayn/"
+    },
+    {
+      "date_time": "14.03, 17:30",
+      "home_team": "Айнтрахт Франкфурт",
+      "away_team": "Хайденхайм",
+      "match": "Айнтрахт Франкфурт - Хайденхайм",
+      "home_team_id": "254",
+      "away_team_id": "8025",
+      "home_team_url": "https://soccer365.ru/clubs/254/",
+      "away_team_url": "https://soccer365.ru/clubs/8025/",
+      "match_url": "/live/match-haydenhaym-ayntraht-smotret-onlayn/"
+    },
+    {
+      "date_time": "14.03, 17:30",
+      "home_team": "Хоффенхайм",
+      "away_team": "Вольфсбург",
+      "match": "Хоффенхайм - Вольфсбург",
+      "home_team_id": "260",
+      "away_team_id": "39",
+      "home_team_url": "https://soccer365.ru/clubs/260/",
+      "away_team_url": "https://soccer365.ru/clubs/39/",
+      "match_url": "/live/match-hoffenhaym-volfsburg-smotret-onlayn/"
+    },
+    {
+      "date_time": "14.03, 20:30",
+      "home_team": "Гамбург",
+      "away_team": "Кёльн",
+      "match": "Гамбург - Кёльн",
+      "home_team_id": "43",
+      "away_team_id": "61",
+      "home_team_url": "https://soccer365.ru/clubs/43/",
+      "away_team_url": "https://soccer365.ru/clubs/61/",
+      "match_url": "/live/match-keln-gamburg-smotret-onlayn/"
+    },
+    {
+      "date_time": "15.03, 17:30",
+      "home_team": "Вердер",
+      "away_team": "Майнц",
+      "match": "Вердер - Майнц",
+      "home_team_id": "32",
+      "away_team_id": "250",
+      "home_team_url": "https://soccer365.ru/clubs/32/",
+      "away_team_url": "https://soccer365.ru/clubs/250/",
+      "match_url": "/live/match-maynts-verder-smotret-onlayn/"
+    },
+    {
+      "date_time": "15.03, 19:30",
+      "home_team": "Фрайбург",
+      "away_team": "Унион Берлин",
+      "match": "Фрайбург - Унион Берлин",
+      "home_team_id": "174",
+      "away_team_id": "7142",
+      "home_team_url": "https://soccer365.ru/clubs/174/",
+      "away_team_url": "https://soccer365.ru/clubs/7142/",
+      "match_url": "/live/match-union-berlin-frayburg-smotret-onlayn/"
+    },
+    {
+      "date_time": "15.03, 21:30",
+      "home_team": "Штутгарт",
       "away_team": "РБ Лейпциг",
-      "match": "Кёльн - РБ Лейпциг",
-      "home_team_id": "61",
+      "match": "Штутгарт - РБ Лейпциг",
+      "home_team_id": "190",
       "away_team_id": "7832",
-      "home_team_url": "https://soccer365.ru/clubs/61/",
+      "home_team_url": "https://soccer365.ru/clubs/190/",
       "away_team_url": "https://soccer365.ru/clubs/7832/",
-      "match_url": "/live/match-rb-leyptsig-keln-smotret-onlayn/"
-    },
-    {
-      "date_time": "08.02, 19:30",
-      "home_team": "Бавария",
-      "away_team": "Хоффенхайм",
-      "match": "Бавария - Хоффенхайм",
-      "home_team_id": "8",
-      "away_team_id": "260",
-      "home_team_url": "https://soccer365.ru/clubs/8/",
-      "away_team_url": "https://soccer365.ru/clubs/260/",
-      "match_url": "/live/match-hoffenhaym-bavariya-smotret-onlayn/"
+      "match_url": "/live/match-rb-leyptsig-shtutgart-smotret-onlayn/"
     }
   ]
 }

@@ -1,0 +1,95 @@
+{
+  "match": "Ноттингем Форест - Фулхэм",
+  "match_url": "https://soccer365.ru/competitions/12/",
+  "date_time": "15.03, 17:00",
+  "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+  "analysis_date": "2026-03-07T21:13:25.836731",
+  "home_team": {
+    "team_id": "109",
+    "team_name": "Ноттингем Форест",
+    "team_url": "https://soccer365.ru/clubs/109/",
+    "position_in_league": 17,
+    "last_results": [
+      0.5,
+      0,
+      0,
+      0,
+      1
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 1,
+      "draws": 1,
+      "losses": 3,
+      "points": 4,
+      "form": "DLLLW"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 0.5,
+        "avg_conceded": 1.5,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 2.0,
+        "avg_conceded": 1.3333333333333333,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 1.4,
+        "avg_conceded": 1.4,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+    "league_id": "12",
+    "scraped_at": "2026-03-07T21:13:20.896238"
+  },
+  "away_team": {
+    "team_id": "176",
+    "team_name": "Фулхэм",
+    "team_url": "https://soccer365.ru/clubs/176/",
+    "position_in_league": 10,
+    "last_results": [
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "points": 9,
+      "form": "LWWWL"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.0,
+        "avg_conceded": 1.0,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 1.6666666666666667,
+        "avg_conceded": 1.6666666666666667,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 1.4,
+        "avg_conceded": 1.4,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+    "league_id": "12",
+    "scraped_at": "2026-03-07T21:13:21.885289"
+  },
+  "comparison": {
+    "position_difference": 7,
+    "home_team_form": "DLLLW",
+    "away_team_form": "LWWWL",
+    "scoring_insight": "В среднем Ноттингем Форест забивает дома 0.50 мяча, а Фулхэм в гостях пропускает 1.67 мяча."
+  }
+}

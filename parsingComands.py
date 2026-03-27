@@ -218,9 +218,10 @@ def main():
     # Массив URL лиг
     league_urls = [
         # "https://soccer365.ru/competitions/723/",  
-        # "https://soccer365.ru/competitions/13/",    # Пример другой лиги
+        # "https://soccer365.ru/competitions/13/",
+        # 'https://soccer365.ru/competitions/12/'    # Пример другой лиги
         'https://soccer365.ru/competitions/17/'
-        # 'https://soccer365.ru/competitions/12/'
+      
     ]
      
     print("=== ПАРСИНГ ПРЕДСТОЯЩИХ МАТЧЕЙ С ID КОМАНД ===")

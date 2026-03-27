@@ -1,0 +1,95 @@
+{
+  "match": "Кристал Пэлас - Лидс",
+  "match_url": "https://soccer365.ru/competitions/12/",
+  "date_time": "15.03, 17:00",
+  "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+  "analysis_date": "2026-03-07T21:13:25.831767",
+  "home_team": {
+    "team_id": "67",
+    "team_name": "Кристал Пэлас",
+    "team_url": "https://soccer365.ru/clubs/67/",
+    "position_in_league": 13,
+    "last_results": [
+      1,
+      0,
+      1,
+      1,
+      0.5
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "points": 10,
+      "form": "WLWWD"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.5,
+        "avg_conceded": 0.0,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 1.6666666666666667,
+        "avg_conceded": 1.3333333333333333,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 1.6,
+        "avg_conceded": 0.8,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+    "league_id": "12",
+    "scraped_at": "2026-03-07T21:13:17.289440"
+  },
+  "away_team": {
+    "team_id": "6930",
+    "team_name": "Лидс",
+    "team_url": "https://soccer365.ru/clubs/6930/",
+    "position_in_league": 15,
+    "last_results": [
+      0,
+      0,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 0,
+      "draws": 3,
+      "losses": 2,
+      "points": 3,
+      "form": "LLDDD"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 0.0,
+        "avg_conceded": 1.0,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 1.3333333333333333,
+        "avg_conceded": 1.3333333333333333,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 0.8,
+        "avg_conceded": 1.2,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+    "league_id": "12",
+    "scraped_at": "2026-03-07T21:13:18.214286"
+  },
+  "comparison": {
+    "position_difference": -2,
+    "home_team_form": "WLWWD",
+    "away_team_form": "LLDDD",
+    "scoring_insight": "В среднем Кристал Пэлас забивает дома 1.50 мяча, а Лидс в гостях пропускает 1.33 мяча."
+  }
+}

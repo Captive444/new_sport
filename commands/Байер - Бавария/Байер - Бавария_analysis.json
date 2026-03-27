@@ -1,0 +1,95 @@
+{
+  "match": "Байер - Бавария",
+  "match_url": "https://soccer365.ru/competitions/17/",
+  "date_time": "14.03, 17:30",
+  "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+  "analysis_date": "2026-03-12T22:00:51.907229",
+  "home_team": {
+    "team_id": "9",
+    "team_name": "Байер",
+    "team_url": "https://soccer365.ru/clubs/9/",
+    "position_in_league": 16,
+    "last_results": [
+      0.5,
+      0.5,
+      1,
+      0.5,
+      0.5
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 1,
+      "draws": 4,
+      "losses": 0,
+      "points": 7,
+      "form": "DDWDD"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 0.6666666666666666,
+        "avg_conceded": 0.6666666666666666,
+        "matches_count": 3
+      },
+      "away": {
+        "avg_scored": 2.0,
+        "avg_conceded": 1.5,
+        "matches_count": 2
+      },
+      "overall": {
+        "avg_scored": 1.2,
+        "avg_conceded": 1.0,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-03-12T22:00:36.782684"
+  },
+  "away_team": {
+    "team_id": "8",
+    "team_name": "Бавария",
+    "team_url": "https://soccer365.ru/clubs/8/",
+    "position_in_league": 1,
+    "last_results": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 5,
+      "draws": 0,
+      "losses": 0,
+      "points": 15,
+      "form": "WWWWW"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 3.5,
+        "avg_conceded": 1.5,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 4.0,
+        "avg_conceded": 1.0,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 3.8,
+        "avg_conceded": 1.2,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Германии по футболу 2025/2026, Бундеслига",
+    "league_id": "17",
+    "scraped_at": "2026-03-12T22:00:37.758667"
+  },
+  "comparison": {
+    "position_difference": 15,
+    "home_team_form": "DDWDD",
+    "away_team_form": "WWWWW",
+    "scoring_insight": "В среднем Байер забивает дома 0.67 мяча, а Бавария в гостях пропускает 1.00 мяча."
+  }
+}

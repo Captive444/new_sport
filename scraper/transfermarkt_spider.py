@@ -14,15 +14,26 @@ class TransfermarktSpider(scrapy.Spider):
     custom_settings = {
         'ROBOTSTXT_OBEY': False,
         'CONCURRENT_REQUESTS': 1,
-        'DOWNLOAD_DELAY': random.uniform(25, 40), 
+        'DOWNLOAD_DELAY': random.uniform(15, 30),  # Увеличили задержку
+        'DOWNLOAD_TIMEOUT': 30,
+        'RETRY_ENABLED': True,
+        'RETRY_TIMES': 3,
+        'RETRY_HTTP_CODES': [500, 502, 503, 504, 400, 403, 404, 408],
         'DEFAULT_REQUEST_HEADERS': {
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
             'Accept-Language': 'en-US,en;q=0.5',
-            'Referer': 'https://www.transfermarkt.world/'
+            'Accept-Encoding': 'gzip, deflate, br',
+            'Referer': 'https://www.transfermarkt.world/',
+            'Connection': 'keep-alive',
+            'Upgrade-Insecure-Requests': '1',
+            'Sec-Fetch-Dest': 'document',
+            'Sec-Fetch-Mode': 'navigate',
+            'Sec-Fetch-Site': 'same-origin',
         },
         'USER_AGENT': UserAgent().random,
+        'COOKIES_ENABLED': True,
+        'COOKIES_DEBUG': False,
     }
-
     def __init__(self, team_name=None, match_folder=None, *args, **kwargs):
         super(TransfermarktSpider, self).__init__(*args, **kwargs)
         self.team_name = team_name 

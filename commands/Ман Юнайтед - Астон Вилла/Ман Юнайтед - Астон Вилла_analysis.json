@@ -1,0 +1,95 @@
+{
+  "match": "Ман Юнайтед - Астон Вилла",
+  "match_url": "https://soccer365.ru/competitions/12/",
+  "date_time": "15.03, 17:00",
+  "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+  "analysis_date": "2026-03-07T21:13:25.834303",
+  "home_team": {
+    "team_id": "92",
+    "team_name": "Ман Юнайтед",
+    "team_url": "https://soccer365.ru/clubs/92/",
+    "position_in_league": 3,
+    "last_results": [
+      0,
+      1,
+      1,
+      0.5,
+      1
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "points": 10,
+      "form": "LWWDW"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 2.0,
+        "avg_conceded": 0.5,
+        "matches_count": 2
+      },
+      "away": {
+        "avg_scored": 1.0,
+        "avg_conceded": 1.0,
+        "matches_count": 3
+      },
+      "overall": {
+        "avg_scored": 1.4,
+        "avg_conceded": 0.8,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+    "league_id": "12",
+    "scraped_at": "2026-03-07T21:13:19.134557"
+  },
+  "away_team": {
+    "team_id": "214",
+    "team_name": "Астон Вилла",
+    "team_url": "https://soccer365.ru/clubs/214/",
+    "position_in_league": 4,
+    "last_results": [
+      0,
+      0,
+      0.5,
+      0,
+      1
+    ],
+    "form_stats": {
+      "total_matches": 5,
+      "wins": 1,
+      "draws": 1,
+      "losses": 3,
+      "points": 4,
+      "form": "LLDLW"
+    },
+    "scoring_stats": {
+      "home": {
+        "avg_scored": 1.0,
+        "avg_conceded": 2.0,
+        "matches_count": 4
+      },
+      "away": {
+        "avg_scored": 0.0,
+        "avg_conceded": 2.0,
+        "matches_count": 1
+      },
+      "overall": {
+        "avg_scored": 0.8,
+        "avg_conceded": 2.0,
+        "total_matches": 5
+      }
+    },
+    "league": "Чемпионат Англии по футболу 2025/2026, Премьер-Лига",
+    "league_id": "12",
+    "scraped_at": "2026-03-07T21:13:19.885272"
+  },
+  "comparison": {
+    "position_difference": -1,
+    "home_team_form": "LWWDW",
+    "away_team_form": "LLDLW",
+    "scoring_insight": "В среднем Ман Юнайтед забивает дома 2.00 мяча, а Астон Вилла в гостях пропускает 2.00 мяча."
+  }
+}

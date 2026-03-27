@@ -7,6 +7,28 @@ from pathlib import Path
 import time
 from datetime import datetime
 
+
+def find_all_upcoming_matches_files():
+    """
+    Находит все файлы upcoming_matches_*.json в папке competitions и её подпапках.
+    Возвращает список путей к найденным файлам.
+    """
+    competitions_dir = "competitions"
+    matches_files = []
+    
+    if not os.path.exists(competitions_dir):
+        print(f"Папка {competitions_dir} не найдена!")
+        return matches_files
+    
+    # Рекурсивно обходим все папки внутри competitions
+    for root, dirs, files in os.walk(competitions_dir):
+        for file in files:
+            if file.startswith('upcoming_matches_') and file.endswith('.json'):
+                full_path = os.path.join(root, file)
+                matches_files.append(full_path)
+                print(f"Найден файл: {full_path}")
+    
+    return matches_files
 def get_team_data_by_id(team_id, team_name):
     """
     Получает расширенные данные команды по её ID с soccer365.ru
@@ -393,314 +415,46 @@ def main():
     print("РАСШИРЕННЫЙ ПАРСЕР РЕЗУЛЬТАТОВ И СТАТИСТИКИ КОМАНД")
     print("="*60)
     
-    # УКАЖИТЕ ПРАВИЛЬНЫЙ ПУТЬ К ВАШЕМУ ФАЙЛУ
-    matches_file = "competitions/17/upcoming_matches_Чемпионат Германии по футболу 2025_2026, Бундеслига.json"
+    # Ищем все файлы с матчами
+    matches_files = find_all_upcoming_matches_files()
     
-    if not os.path.exists(matches_file):
-        print(f"Файл не найден: {matches_file}")
-        print("Проверьте путь к файлу и запустите скрипт снова.")
+    if not matches_files:
+        print("Не найдено файлов upcoming_matches_*.json в папке competitions")
         return
     
-    # Обрабатываем файл
-    teams_data = process_teams_from_file(matches_file)
+    print(f"\nНайдено файлов для обработки: {len(matches_files)}")
     
-    if teams_data:
+    # Обрабатываем каждый найденный файл
+    all_teams_data = []
+    
+    for file_path in matches_files:
+        print(f"\n{'='*60}")
+        print(f"ОБРАБОТКА ФАЙЛА: {file_path}")
+        print(f"{'='*60}")
+        
+        teams_data = process_teams_from_file(file_path)
+        if teams_data:
+            all_teams_data.extend(teams_data)
+    
+    if all_teams_data:
         # Сохраняем сводные результаты по всем командам
         output_file = "all_teams_detailed_stats.json"
         with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump(teams_data, f, ensure_ascii=False, indent=2)
+            json.dump(all_teams_data, f, ensure_ascii=False, indent=2)
         
         print(f"\n{'='*60}")
         print("ОБРАБОТКА ЗАВЕРШЕНА УСПЕШНО!")
         print('='*60)
         print(f"✓ Сводные данные по всем командам сохранены в: {output_file}")
-        print(f"✓ Обработано команд: {len(teams_data)}")
-        print(f"✓ Для каждого матча создана отдельная папка в директории 'commands/'")
+        print(f"✓ Обработано команд: {len(all_teams_data)}")
+        print(f"✓ Обработано файлов с матчами: {len(matches_files)}")
         
         # Итоговая статистика
-        teams_with_stats = sum(1 for t in teams_data if t.get('scoring_stats'))
+        teams_with_stats = sum(1 for t in all_teams_data if t.get('scoring_stats'))
         print(f"✓ Команд со статистикой голов: {teams_with_stats}")
-        
     else:
         print("\n✗ Не удалось получить данные ни по одной команде.")
 
 if __name__ == "__main__":
     main()
 
-# import requests
-# from bs4 import BeautifulSoup
-# import json
-# import re
-# import os
-# from pathlib import Path
-# import time
-# from datetime import datetime
-
-# def get_team_data_by_id(team_id, team_name):
-#     """
-#     Получает данные команды по её ID с soccer365.ru
-#     """
-#     try:
-#         url = f"https://soccer365.ru/clubs/{team_id}/"
-        
-#         headers = {
-#             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-#         }
-        
-#         print(f"Запрос данных для {team_name} (ID: {team_id})...")
-#         response = requests.get(url, headers=headers, timeout=10)
-        
-#         if response.status_code != 200:
-#             print(f"  Ошибка HTTP {response.status_code}")
-#             return None
-        
-#         soup = BeautifulSoup(response.content, 'html.parser')
-        
-#         # 1. Позиция в лиге
-#         position = None
-#         standings_table = soup.find('table', class_='stngs')
-#         if standings_table:
-#             # Ищем строку с нашей командой
-#             for row in standings_table.find_all('tr'):
-#                 team_link = row.find('a', href=f"/clubs/{team_id}/")
-#                 if team_link:
-#                     first_cell = row.find('td')
-#                     if first_cell:
-#                         match = re.search(r'(\d+)', first_cell.text.strip())
-#                         if match:
-#                             position = int(match.group(1))
-#                             break
-        
-#         if position:
-#             print(f"  Позиция в лиге: {position}")
-#         else:
-#             print(f"  Позиция не найдена")
-        
-#         # 2. Последние результаты
-#         last_results = get_team_last_results(soup, team_id, team_name)
-        
-#         # 3. Формируем статистику
-#         form_stats = {
-#             'total_matches': len(last_results),
-#             'wins': last_results.count(1),
-#             'draws': last_results.count(0.5),
-#             'losses': last_results.count(0),
-#             'points': last_results.count(1) * 3 + last_results.count(0.5),
-#             'form': ''.join(['W' if r == 1 else 'D' if r == 0.5 else 'L' for r in last_results])
-#         }
-        
-#         team_data = {
-#             'team_id': team_id,
-#             'team_name': team_name,
-#             'team_url': url,
-#             'position_in_league': position,
-#             'last_results': last_results,
-#             'form_stats': form_stats
-#         }
-        
-#         print(f"✓ Данные получены: {team_name}")
-#         print(f"  Результаты: {last_results}, Форма: {form_stats['form']}")
-        
-#         return team_data
-        
-#     except Exception as e:
-#         print(f"Ошибка для команды {team_name}: {str(e)[:100]}")
-#         return None
-
-# def get_team_last_results(soup, team_id, team_name):
-#     """
-#     Извлекает последние результаты команды из расписания
-#     """
-#     last_results = []
-    
-#     # Находим блок с расписанием
-#     schedule_div = soup.find('div', id='club_schedule')
-#     if not schedule_div:
-#         print(f"  Блок club_schedule не найден")
-#         return []
-    
-#     # Находим все матчи
-#     game_blocks = schedule_div.find_all('div', class_='game_block')
-#     print(f"  Всего матчей на странице: {len(game_blocks)}")
-    
-#     for i, block in enumerate(game_blocks):
-#         # Пропускаем будущие матчи (с тире в счете)
-#         score_divs = block.find_all('div', class_='gls')
-#         if len(score_divs) < 2:
-#             continue
-        
-#         home_score_text = score_divs[0].text.strip()
-#         away_score_text = score_divs[1].text.strip()
-        
-#         # Пропускаем будущие матчи
-#         if home_score_text == '-' or away_score_text == '-':
-#             continue
-        
-#         # Проверяем, что это цифры
-#         if not re.match(r'^\d+$', home_score_text) or not re.match(r'^\d+$', away_score_text):
-#             continue
-        
-#         try:
-#             home_score = int(home_score_text)
-#             away_score = int(away_score_text)
-#         except ValueError:
-#             continue
-        
-#         # Находим названия команд
-#         home_div = block.find('div', class_='ht')
-#         away_div = block.find('div', class_='at')
-        
-#         if not home_div or not away_div:
-#             continue
-        
-#         # Получаем названия команд
-#         home_span = home_div.find('span')
-#         away_span = away_div.find('span')
-        
-#         if not home_span or not away_span:
-#             continue
-        
-#         home_team = home_span.text.strip()
-#         away_team = away_span.text.strip()
-        
-#         # Определяем, где играла наша команда
-#         # Проверяем по ID в ссылках
-#         home_team_link = home_div.find('a', href=f"/clubs/{team_id}/")
-#         away_team_link = away_div.find('a', href=f"/clubs/{team_id}/")
-        
-#         # Или проверяем по названию (для надежности)
-#         is_home = (home_team_link is not None or 
-#                   team_name.lower() in home_team.lower() or 
-#                   home_team.lower() in team_name.lower())
-        
-#         is_away = (away_team_link is not None or 
-#                   team_name.lower() in away_team.lower() or 
-#                   away_team.lower() in team_name.lower())
-        
-#         if is_home:
-#             # Наша команда играла дома
-#             if home_score > away_score:
-#                 result = 1  # победа
-#             elif home_score == away_score:
-#                 result = 0.5  # ничья
-#             else:
-#                 result = 0  # поражение
-            
-#             last_results.append(result)
-#             print(f"    Матч {i+1}: {home_team} {home_score}:{away_score} {away_team} - результат: {result}")
-            
-#         elif is_away:
-#             # Наша команда играла в гостях
-#             if away_score > home_score:
-#                 result = 1  # победа
-#             elif away_score == home_score:
-#                 result = 0.5  # ничья
-#             else:
-#                 result = 0  # поражение
-            
-#             last_results.append(result)
-#             print(f"    Матч {i+1}: {home_team} {home_score}:{away_score} {away_team} - результат: {result}")
-    
-#     # Берем только последние 5 матчей
-#     return last_results[:5]
-
-# def process_teams_from_file(file_path):
-#     """
-#     Обрабатывает файл с матчами и парсит данные команд
-#     """
-#     try:
-#         print(f"\n{'='*60}")
-#         print(f"Обработка файла: {file_path}")
-        
-#         with open(file_path, 'r', encoding='utf-8') as f:
-#             data = json.load(f)
-        
-#         # Извлекаем команды из матчей
-#         teams = []
-#         seen_ids = set()
-        
-#         if "matches" in data:
-#             for match in data["matches"]:
-#                 # Домашняя команда
-#                 if "home_team_id" in match and match["home_team_id"] and match["home_team_id"] not in seen_ids:
-#                     teams.append({
-#                         'id': str(match["home_team_id"]),
-#                         'name': match["home_team"]
-#                     })
-#                     seen_ids.add(match["home_team_id"])
-                
-#                 # Гостевая команда
-#                 if "away_team_id" in match and match["away_team_id"] and match["away_team_id"] not in seen_ids:
-#                     teams.append({
-#                         'id': str(match["away_team_id"]),
-#                         'name': match["away_team"]
-#                     })
-#                     seen_ids.add(match["away_team_id"])
-        
-#         print(f"Найдено команд: {len(teams)}")
-        
-#         # Парсим данные для каждой команды
-#         teams_data = []
-        
-#         for team in teams:
-#             print(f"\n--- Команда: {team['name']} (ID: {team['id']}) ---")
-            
-#             # Задержка между запросами
-#             time.sleep(0.5)
-            
-#             team_data = get_team_data_by_id(team['id'], team['name'])
-            
-#             if team_data:
-#                 # Добавляем информацию о лиге
-#                 team_data['league'] = data.get('league', 'Неизвестная лига')
-#                 team_data['league_id'] = data.get('league_id', 'unknown')
-#                 team_data['scraped_at'] = datetime.now().isoformat()
-                
-#                 teams_data.append(team_data)
-#             else:
-#                 print(f"✗ Не удалось получить данные")
-        
-#         return teams_data
-        
-#     except Exception as e:
-#         print(f"Ошибка при обработке файла: {e}")
-#         return []
-
-# def main():
-#     print("="*60)
-#     print("ПАРСЕР РЕЗУЛЬТАТОВ КОМАНД")
-#     print("="*60)
-    
-#     # Путь к файлу с матчами
-#     # matches_file = "competitions/723/upcoming_matches_Чемпионат Турции по футболу 2025_2026, Суперлига.json"
-    
-#     if not os.path.exists(matches_file):
-#         print(f"Файл не найден: {matches_file}")
-#         return
-    
-#     # Обрабатываем файл
-#     teams_data = process_teams_from_file(matches_file)
-    
-#     if teams_data:
-#         # Сохраняем результаты
-#         output_file = "teams_results.json"
-#         with open(output_file, 'w', encoding='utf-8') as f:
-#             json.dump(teams_data, f, ensure_ascii=False, indent=2)
-        
-#         print(f"\n✓ Данные сохранены в {output_file}")
-#         print(f"✓ Обработано команд: {len(teams_data)}")
-        
-#         # Статистика
-#         with_results = sum(1 for t in teams_data if t['last_results'])
-#         print(f"✓ Команд с результатами: {with_results}")
-        
-#         # Пример вывода
-#         print(f"\nПримеры результатов:")
-#         for team in teams_data[:3]:
-#             if team['last_results']:
-#                 print(f"{team['team_name']}: {team['last_results']} (форма: {team['form_stats']['form']})")
-#     else:
-#         print("\n✗ Не удалось получить данные")
-
-# if __name__ == "__main__":
-#     main()
